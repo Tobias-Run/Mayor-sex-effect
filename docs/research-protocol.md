@@ -6,6 +6,14 @@ This document translates the original pitch into working research specifications
 
 Does electing a female mayor causally affect public procurement practices and outcomes in German municipalities? The project investigates competition, procurement procedure choice, and documented environmental, social, and innovation criteria. The proposed German contribution and the cited international findings require literature verification.
 
+## Relationship to prior research
+
+The project is a German adaptation of Florio and Spagnolo (2026), *Female Mayors and Public Procurement*, rather than an independently originated procurement design. It carries over the research question and close-election identification logic while adapting election eligibility, municipal responsibility, data linkage, and outcome measurement to Germany. Strategic procurement criteria are a proposed extension, conditional on measurement quality.
+
+Existing German research is explicitly part of the foundation: Schild, *Do Female Mayors Make a Difference? Evidence from Bavaria*, and Baskaran and Hessami, *Women in Political Bodies as Policymakers* (2023 working-paper record). Their substantive findings and institutional details will be checked against the papers before being used as evidence. See [literature.md](literature.md).
+
+A comparison with Italy alone cannot identify the causal role of institutional differences between countries.
+
 ## Identification and estimand
 
 Compare eligible decisive mayoral elections in which a woman narrowly defeats a man with elections in which she narrowly loses. Define the running variable as the female candidate's vote share minus the male candidate's vote share, measured in percentage points in the decisive round. Treatment is election of the female candidate; the threshold is zero. Ties and exceptional election outcomes require explicit rules.

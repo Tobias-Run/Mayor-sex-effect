@@ -4,7 +4,15 @@ Does electing a female mayor causally affect procurement practices and outcomes 
 
 This repository supports an empirical research project using close mixed-gender mayoral elections and procurement records. The proposed identification strategy is a regression discontinuity design (RDD). A feasibility study must establish lawful data linkage, measurement quality, and sufficient precision before the main study is specified.
 
-**Status:** project setup and feasibility planning. No empirical findings are available. Literature claims, data access, and the novelty claim in the original pitch remain to be independently verified.
+## Adapting the Italian study to Germany
+
+**This project adapts Florio and Spagnolo (2026), [*Female Mayors and Public Procurement*](https://doi.org/10.2139/ssrn.7046899), to the German institutional and data context.** Their Italian study provides the starting point for linking close mayoral elections to procurement outcomes. We plan to adapt the close-election RDD and extend the outcome scope to documented environmental, social, and innovation criteria, subject to data availability.
+
+The German application builds on existing research: Schild's *Do Female Mayors Make a Difference? Evidence from Bavaria* addresses female mayors and municipal fiscal decisions; Baskaran and Hessami's [*Women in Political Bodies as Policymakers*](https://doi.org/10.2139/ssrn.4377785) provides related work on women's representation and policy outcomes. These studies inform the institutional and methodological groundwork; they do not establish this project's procurement effects.
+
+See the [literature and adaptation note](docs/literature.md) for references, verification status, and the distinction between inherited design elements and proposed extensions. The German novelty claim remains provisional.
+
+**Status:** project setup and feasibility planning. No empirical findings are available. Substantive literature claims, data access, and the novelty claim in the original pitch remain to be independently verified.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 

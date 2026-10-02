@@ -4,6 +4,12 @@
 
 **Publication state:** deferred until completion of the empirical research and manuscript. This URL is a planned destination, not an existing site. No website build or Pages deployment workflow is included at this stage.
 
+## Prominent research attribution
+
+The future homepage and methods introduction will explicitly state: **“This study adapts Florio and Spagnolo (2026), Female Mayors and Public Procurement, to Germany.”** Link to the [Italian paper](https://doi.org/10.2139/ssrn.7046899) and explain which design elements are adapted and which outcomes are extensions.
+
+Also cite existing German research, including Schild's *Do Female Mayors Make a Difference? Evidence from Bavaria* and Baskaran and Hessami's [*Women in Political Bodies as Policymakers*](https://doi.org/10.2139/ssrn.4377785). Provide verified final bibliographic records and distinguish earlier fiscal and representation research from the procurement question. The [literature note](../docs/literature.md) tracks current verification status.
+
 ## Reader experience
 
 The eventual companion should let readers trace how the question, source coverage, sample construction, identification assumptions, and estimates connect:
