@@ -12,7 +12,9 @@ This is the explicit foundation for adapting the close-election procurement rese
 
 ## Existing research on Germany
 
-**Schild. *Do Female Mayors Make a Difference? Evidence from Bavaria*.** Citation supplied by the original pitch. Author's full name, publication year, outlet, and stable link remain to be verified. The pitch describes close mayoral elections and municipal fiscal outcomes; this description remains provisional until the primary paper is checked. Do not invent missing bibliographic fields.
+**Schild, Christopher-Johannes (2013). *Do female mayors make a difference? Evidence from Bavaria*. IWQW Discussion Papers No. 07/2013. Friedrich-Alexander-Universität Erlangen-Nürnberg, Institut für Wirtschaftspolitik und Quantitative Wirtschaftsforschung.** [EconStor record](https://hdl.handle.net/10419/81935).
+
+Bibliography verified against EconStor on 3 October 2026; primary PDF obtained and abstract and election-data section inspected. See the [follow-up source check](feasibility/pilot-source-check.md). This supersedes the earlier unresolved-citation status; full methods and precision review remains pending.
 
 **Baskaran, Thushyanthan, and Zohal Hessami (2023). *Women in Political Bodies as Policymakers*.** Working-paper record. DOI: [10.2139/ssrn.4377785](https://doi.org/10.2139/ssrn.4377785).
 
