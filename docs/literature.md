@@ -41,3 +41,7 @@ A cross-country comparison does not by itself identify the causal effect of inst
 ## Verification source
 
 Crossref REST API: `https://api.crossref.org/works`, queried by bibliographic title and authors on 3 October 2026. Metadata verification is distinct from reading and assessing a paper. No matching Schild record was established in the initial Crossref search; this does not imply that the study is unavailable or unpublished.
+
+## Practical lessons for our design
+
+See [Election registers and lessons from German research](feasibility/registers-and-german-precedents.md) for a targeted reading of Schild and the 2023 working-paper version of Baskaran and Hessami, with data-source, coverage, eligibility, and measurement implications.

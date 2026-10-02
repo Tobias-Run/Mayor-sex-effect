@@ -32,6 +32,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Registers and German precedents](docs/feasibility/registers-and-german-precedents.md) | National vs. state sources and practical lessons from German papers |
 | [Research protocol](docs/research-protocol.md) | Question, estimand, design, and interpretation |
 | [Feasibility workplan](docs/feasibility/workplan.md) | Evidence required before proceeding |
 | [Roadmap](docs/roadmap.md) | Milestones and completion criteria |
