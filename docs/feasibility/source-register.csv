@@ -1,0 +1,9 @@
+source_id,source_lead,purpose,verification_status,next_action
+LIT01,"Florio and Spagnolo (2026), Female Mayors and Public Procurement",International benchmark,Unverified,"Locate paper and verify bibliography, sample and results"
+LIT02,Bauhr and Charron (2021),Gender and procurement corruption risks,Unverified,Verify exact publication and identification strategy
+LIT03,"Schild, Do Female Mayors Make a Difference? Evidence from Bavaria",German close-election design,Unverified,Verify publication and institutional coverage
+LIT04,"Baskaran and Hessami, female councillors and childcare in Bavaria",German representation literature,Unverified,Identify exact paper and contribution
+DAT01,Destatis procurement statistics and VergStatVO,Potential main procurement source,Access and linkage unconfirmed,"Verify research access, identifiers, dates and permitted linkage"
+DAT02,Datenservice Öffentlicher Einkauf,Public procurement notices,Coverage unconfirmed,"Inspect documentation, terms and historical coverage"
+DAT03,TED,EU-level procurement notices,Suitability unconfirmed,"Inspect data access, coverage and schema changes"
+DAT04,Official state and municipal election sources,Election register,Sources not selected,Inventory candidate-level results and term information

@@ -1,35 +1,22 @@
-# Arbeitsplan: Machbarkeitsstudie
+# Feasibility study workplan
 
-## 1. Literatur und institutioneller Rahmen
+The main study proceeds only after documented evidence supports data linkage, measurement quality, and useful statistical precision. This is a workplan, not a completed assessment.
 
-- Literaturangaben aus dem Pitch verifizieren und aktuelle Fassungen recherchieren.
-- Forschungslücke systematisch prüfen und Suchstrategie dokumentieren.
-- Wahlregeln, Amtszeiten, Zuständigkeiten und Vergabeschwellen geeigneter Länder erfassen.
+| Stage | Tasks | Deliverable | Decision criterion |
+| --- | --- | --- | --- |
+| Literature and institutions | Verify references; document search queries and dates; map state election rules, terms, responsibilities, and reporting thresholds | Verified bibliography and institutional comparison | A defensible research contribution and comparable eligible elections |
+| Elections and access | Inventory official election sources; identify decisive woman–man contests; confirm procurement variables, dates, identifiers, and linkage permission | Election register specification and data-access matrix | A lawful and technically usable linkage route |
+| Pilot linkage | Match buyers to municipalities; audit dates, lots, duplicates, missing values, and coverage | Reproducible pilot and quality report | Measurable outcomes and transparent sample restrictions |
+| Precision and design decision | Count independent elections within candidate bandwidths; estimate outcome variation and dependence; calculate minimum detectable effects | Power assessment and go/adapt/stop decision | Precision adequate for explicitly justified, substantively meaningful effects |
 
-Ergebnis: Quellenverzeichnis und begründete Abgrenzung des Designs.
+## Evidence to collect
 
-## 2. Wahlstichprobe und Vergabedatenzugang
+Record source URLs, access dates, provider statements, licenses, variable definitions, and unresolved limitations. Distinguish public documentation from confirmed researcher access. Unknowns remain unknown until supported by evidence.
 
-- Amtliche Wahlquellen und verfügbare Kandidierendenmerkmale prüfen.
-- Geeignete entscheidende Frau-gegen-Mann-Wahlgänge und tatsächliche Amtszeiten erfassen.
-- Zugang zur Vergabestatistik, Variablen, Identifikatoren und zulässige Verknüpfung prüfen.
-- Öffentliche Bekanntmachungen und TED als ergänzende Datenquellen bewerten.
+The initial leads are listed in [source-register.csv](source-register.csv). They are not yet verified. Select pilot states and years only after reviewing source availability and institutional comparability.
 
-Ergebnis: Datenquellenmatrix und Pilotumfang. Unbestätigter Datenzugang bleibt als offen gekennzeichnet.
+## Before the main study
 
-## 3. Pilotverknüpfung und Messqualität
+Specify primary outcomes, test families, sample eligibility, weighting, timing, estimator, inference, missing-data rules, and robustness checks. Register the analysis plan before inspecting main-study treatment-effect estimates. Record any exploratory pilot estimates and later deviations transparently.
 
-- Auftraggeberzuordnung, Verknüpfungsquote und Datumszuordnung prüfen.
-- Fehlende Werte, Lose, Mehrfachmeldungen und Abdeckung dokumentieren.
-- Beobachtungsfenster und potenzielle Veränderungen der Meldepraxis untersuchen.
-
-Ergebnis: Reproduzierbarer Pilot und Datenqualitätsbericht.
-
-## 4. Power und Entscheidung
-
-- Unabhängige Kommunen beziehungsweise Wahlen in relevanten Bandbreiten zählen.
-- Minimal nachweisbare Effekte unter dokumentierten Annahmen bestimmen.
-- Fortführung, Anpassung oder Abbruch des RDD begründen.
-- Bei Fortführung primäre Outcomes, Gewichtung, Zeitfenster und Schätzverfahren vorregistrieren.
-
-Ergebnis: Entscheidungsvorlage für die Hauptstudie. Andere Designs benötigen eine eigene Identifikationsbegründung.
+If linkage or precision fails, narrow the claim, adjust scope, or stop the proposed RDD. Any alternative design needs its own assumptions and justification.
