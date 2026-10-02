@@ -1,9 +1,9 @@
 source_id,source_lead,purpose,verification_status,next_action
-LIT01,"Florio and Spagnolo (2026), Female Mayors and Public Procurement",International benchmark,"Title, authors, year and DOI verified via Crossref 2026-10-03; paper review pending","Read primary paper; verify CEIS series details, sample and results"
-LIT02,Bauhr and Charron (2021),Gender and procurement corruption risks,Unverified,Verify exact publication and identification strategy
-LIT03,"Schild, Do Female Mayors Make a Difference? Evidence from Bavaria",German close-election design,Unverified,Verify publication and institutional coverage
-LIT04,"Baskaran and Hessami (2023), Women in Political Bodies as Policymakers, doi:10.2139/ssrn.4377785",German representation literature,Working-paper metadata verified via Crossref 2026-10-03; correspondence to pitch pending,Read paper; verify Bavaria childcare scope and latest version
-DAT01,Destatis procurement statistics and VergStatVO,Potential main procurement source,Access and linkage unconfirmed,"Verify research access, identifiers, dates and permitted linkage"
-DAT02,Datenservice Öffentlicher Einkauf,Public procurement notices,Coverage unconfirmed,"Inspect documentation, terms and historical coverage"
-DAT03,TED,EU-level procurement notices,Suitability unconfirmed,"Inspect data access, coverage and schema changes"
-DAT04,Official state and municipal election sources,Election register,Sources not selected,Inventory candidate-level results and term information
+LIT01,"Florio and Spagnolo (2026), Female Mayors and Public Procurement",International benchmark,CEIS 623 and primary PDF located; selected sections inspected,Complete methods and robustness audit
+LIT02,Bauhr and Charron (2021),Gender and procurement corruption risks,Exact published reference and abstract verified,Obtain and review full text
+LIT03,"Schild, Do Female Mayors Make a Difference? Evidence from Bavaria",German close-election design,Exact-title Crossref search unresolved; RePEc search yielded no usable listing,Search author and university repositories
+LIT04,"Baskaran and Hessami (2023), Women in Political Bodies as Policymakers, doi:10.2139/ssrn.4377785",German representation literature,Published version 10.1162/rest_a_01352 and abstract verified,Review full-text methods
+DAT01,Destatis procurement statistics and VergStatVO,Potential main procurement source,Section 5 research route and Annexes 1/8 verified; linkage unconfirmed,"Clarify anonymization, dates and municipality linkage"
+DAT02,Datenservice Öffentlicher Einkauf,Public procurement notices,JavaScript frontend reachable; reuse route unverified,Inspect official API and reuse documentation
+DAT03,TED,EU-level procurement notices,Anonymous published-notice access documented; live retrieval pending,Test municipal award retrieval and historical coverage
+DAT04,Official state and municipal election sources,Election register,NRW 2020 summary export downloaded and audited; Bavaria institution page inspected,"Recover exact votes, candidate gender and actual term dates"

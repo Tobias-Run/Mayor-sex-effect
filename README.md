@@ -12,7 +12,7 @@ The German application builds on existing research: Schild's *Do Female Mayors M
 
 See the [literature and adaptation note](docs/literature.md) for references, verification status, and the distinction between inherited design elements and proposed extensions. The German novelty claim remains provisional.
 
-**Status:** project setup and feasibility planning. No empirical findings are available. Substantive literature claims, data access, and the novelty claim in the original pitch remain to be independently verified.
+**Status:** initial literature and data review underway. See the [first source audit](docs/feasibility/initial-review.md). No empirical findings are available. Substantive literature claims, data access, and the novelty claim in the original pitch remain to be independently verified.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 

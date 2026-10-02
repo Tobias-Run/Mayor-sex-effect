@@ -1,10 +1,12 @@
 # Literature and adaptation
 
+Latest evidence: [Initial literature and data review, 3 October 2026](feasibility/initial-review.md). This review supersedes the initial verification-status notes below where specified. The Italian primary paper has now been obtained and selected sections inspected; the published German and exact French references have been identified.
+
 ## Starting point: Italy
 
 Florio, Erminia, and Giancarlo Spagnolo (2026). *Female Mayors and Public Procurement*. Working paper. DOI: [10.2139/ssrn.7046899](https://doi.org/10.2139/ssrn.7046899).
 
-Title, authors, year, and DOI were verified against Crossref metadata on 3 October 2026. The original pitch also identifies CEIS Research Paper No. 623; that series detail and the substantive findings still require primary-document verification. The paper PDF has not yet been reviewed in this project.
+Title, authors, year, and DOI were verified against Crossref metadata on 3 October 2026. RePEc confirms CEIS Research Paper No. 623, revised 3 July 2026. The publisher PDF has now been obtained and its abstract, data and strategy sections inspected; see the initial review for findings and limits of that reading.
 
 This is the explicit foundation for adapting the close-election procurement research design to Germany. It is not evidence that the same effects occur in German municipalities.
 
@@ -14,13 +16,13 @@ This is the explicit foundation for adapting the close-election procurement rese
 
 **Baskaran, Thushyanthan, and Zohal Hessami (2023). *Women in Political Bodies as Policymakers*.** Working-paper record. DOI: [10.2139/ssrn.4377785](https://doi.org/10.2139/ssrn.4377785).
 
-Title, authors, working-paper year, and DOI were verified against Crossref metadata on 3 October 2026. This is the candidate reference for the pitch's discussion of female councillors and childcare in Bavaria; that correspondence, substantive claims, and any later published version remain to be verified against the paper.
+The published version is **Baskaran and Hessami (2025), Review of Economics and Statistics 107(6): 1501–1517**, DOI [10.1162/rest_a_01352](https://doi.org/10.1162/rest_a_01352). Crossref metadata and the abstract confirm the Bavarian council-election and childcare context. Full-text methods review remains pending.
 
 These German studies provide related institutional and methodological groundwork. Mayors and councillors are different treatments, and fiscal and childcare outcomes differ from procurement outcomes.
 
 ## Other international groundwork
 
-Bauhr and Charron (2021), described in the pitch as research on mayoral gender and procurement corruption risks in France. Exact title, bibliographic record, and findings remain unverified. Include it in the systematic literature review.
+Bauhr, Monika, and Nicholas Charron (2021). *Will Women Executives Reduce Corruption? Marginalization and Network Inclusion*. **Comparative Political Studies 54(7): 1292–1322**. DOI [10.1177/0010414020970218](https://doi.org/10.1177/0010414020970218). Metadata and abstract verified on 3 October 2026; full-text review remains pending. Online publication was in December 2020; the print issue is dated 2021.
 
 ## Adaptation and proposed extensions
 
