@@ -2,6 +2,8 @@
 
 Date: 3 October 2026. This screen uses all 102 successfully validated district-municipality runoff files. It includes every gender combination; it is **not** a mixed-gender RDD sample or a power analysis.
 
+**Subsequent expansion:** the [statewide NRW audit](nrw-statewide-election-register.md) now covers all 380 scheduled-2020 elections in the official archive, including city-category mayors and first-round decisions. It supplies 214 two-person decisions, 72 prediction-based mixed-label leads and an explicit Aachen identifier exception. The counts below remain the earlier 102-district-runoff subset; predicted labels are not verified gender measurement.
+
 ## Counts from exact votes
 
 | Inclusive absolute margin | Runoff elections |

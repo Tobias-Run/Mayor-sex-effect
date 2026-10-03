@@ -12,7 +12,9 @@ The German application builds on existing research: Schild's *Do Female Mayors M
 
 See the [literature and adaptation note](docs/literature.md) for references, verification status, and the distinction between inherited design elements and proposed extensions. The German novelty claim remains provisional.
 
-**Status, 3 October 2026:** Bavaria is the active feasibility workstream. All 997 conservatively screened two-person decisions for 2020–2024 match the historical vote source. Five official reports supply 450 exactly reconciled named rounds; 95 screened 2020 decisions have both identities recovered. The candidate register now includes eight official gendered-title observations and three pairs with both presentations documented. Municipal sources support three initial appointments and two bounded intervals. The 18-notice TED pilot contains nine Gauting awarded single-lot tender counts and five explicit contract dates; full Mühldorf legacy PDFs add five dated award units within its two existing notices. Historical treatment coding, continuous authority and study-wide coverage remain incomplete. See the [candidate, tenure and legacy-award register](docs/feasibility/bavaria-candidate-and-tenure-register.md). No procurement effects have been estimated.
+**Status, 3 October 2026:** NRW is now the active acquisition workstream. Its official scheduled-2020 universe contains 380 mayoral elections and 16 explicit no-election entries; all 380 detail files and 1,349 named candidate records have been audited. The register supplies 214 two-person decisions. GERDA's complete vote vectors match throughout, while six full-election name discrepancies remain flagged. Its gender labels are predicted; 72 mixed-label pairs form a follow-up queue, including nine within five percentage points. Actual office dates and NRW procurement coverage remain open. See the [statewide NRW register](docs/feasibility/nrw-statewide-election-register.md). No procurement effects have been estimated.
+
+The [Bavaria candidate, tenure and legacy-award register](docs/feasibility/bavaria-candidate-and-tenure-register.md) remains available: 997 source-validated structural pairs, 95 named 2020 decisions, eight official title observations, three mixed-title pairs, two source-bounded tenure intervals and a historical 18-notice procurement pilot. Full Mühldorf legacy PDFs recover five dated award units within two of those notices. Bavaria's unresolved measurement and coverage gates remain explicit.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
@@ -32,6 +34,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Statewide NRW election register](docs/feasibility/nrw-statewide-election-register.md) | 380 audited elections, 1,349 candidates, 214 decisive pairs and documented GERDA identity exceptions |
 | [Bavaria candidate and tenure register](docs/feasibility/bavaria-candidate-and-tenure-register.md) | 190 candidate records, three mixed-title pairs, tenure boundaries and five dated legacy award units |
 | [Bavaria operational pilot](docs/feasibility/bavaria-operational-pilot.md) | Official candidate identities recovered and historical municipal TED data linked |
 | [GERDA usability and Bavaria follow-up](docs/feasibility/gerda-usability-and-bavaria-followup.md) | Person-panel audit, 53 dated gender leads and historical municipal title evidence |

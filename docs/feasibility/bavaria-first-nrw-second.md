@@ -2,6 +2,8 @@
 
 Date: 3 October 2026. Work order follows the requested Bavaria-first sequence. No RDD sample or treatment-effect estimates have been produced.
 
+**Later priority update:** the user has requested continuing with NRW. The [statewide NRW register](nrw-statewide-election-register.md) expands the original 102-runoff audit below to 380 scheduled-2020 mayoral elections. The [Bavaria follow-up](bavaria-candidate-and-tenure-register.md) preserves completed work and unresolved measurement/coverage gates; the priority change does not certify Bavaria's feasibility as complete.
+
 ## 1. Bavaria: official workbook obtained and audited
 
 [Official mayoral-results page](https://www.statistik.bayern.de/wahlen/kommunalwahlen/bgm/index.html) links an [Excel workbook](https://www.statistik.bayern.de/mam/wahlen/kommunalwahlen/bgm/wahlergebnisse_mandatsr%C3%A4ger.xlsx), described as updated on **14 July 2026**. Download succeeded.
