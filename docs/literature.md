@@ -12,6 +12,8 @@ This is the explicit foundation for adapting the close-election procurement rese
 
 ## Existing research on Germany
 
+For the election compilation, cite **Heddesheimer, Vincent, Hanno Hilbig, Florian Sichart and Andreas Wiedemann (2025), GERDA: German Election Database, Scientific Data 12: 618**, [doi:10.1038/s41597-025-04811-5](https://doi.org/10.1038/s41597-025-04811-5), together with the pinned repository commit for the later mayoral extension. The [GERDA usability audit](feasibility/gerda-usability-and-bavaria-followup.md) distinguishes acquired fields, state-specific sources, gender provenance and reuse conditions. This is a data contribution, not a German female-mayor procurement-effect study.
+
 The latest [Bavaria assessment](feasibility/bavaria-feasibility.md#lessons-and-acquisition-routes-from-german-research) adds source-access findings from Arnold and Frank, Stadelmann and Torgler, alongside Schild. Their different coverage and gender measurement are explicitly preserved.
 
 The [operational pilot](feasibility/bavaria-operational-pilot.md) now implements one lesson from these sources: official statistical reports can supply historical candidate identities. Five reports reconcile 450 complete rounds with the historical workbook. Their larger-municipality coverage and preliminary results require explicit screening. This resolves part of identity acquisition without establishing access to the richer gender/profession data used by earlier German papers.

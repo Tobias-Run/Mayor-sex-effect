@@ -4,6 +4,8 @@ Assessment: 3 October 2026. Bavaria remains the active state for the German adap
 
 **Historical votes have been acquired and audited. Named candidate recovery and a historical municipal procurement pilot are now operational; the mixed-gender sample and study-wide linkage are not complete.** See the [expanded pilot](bavaria-operational-pilot.md). Missing gender labels do not imply no woman–man contests. A power analysis and main-study approval remain premature.
 
+The [GERDA follow-up audit](gerda-usability-and-bavaria-followup.md) adds the person panel, 53 exact links to dated 2026 source gender labels and four historical official-title observations. Gräfelfing now has title evidence for both candidates. These supplementary evidence types remain separate from approved historical treatment labels and complete actual terms.
+
 ## Completed work
 
 - Retrieved, hashed and independently parsed a pinned historical source workbook, preserving source rows and exceptions.

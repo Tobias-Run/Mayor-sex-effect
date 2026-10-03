@@ -33,6 +33,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 | Resource | Purpose |
 | --- | --- |
 | [Bavaria operational pilot](docs/feasibility/bavaria-operational-pilot.md) | Official candidate identities recovered and historical municipal TED data linked |
+| [GERDA usability and Bavaria follow-up](docs/feasibility/gerda-usability-and-bavaria-followup.md) | Person-panel audit, 53 dated gender leads and historical municipal title evidence |
 | [Bavaria feasibility assessment](docs/feasibility/bavaria-feasibility.md) | Historical register, 997 source-validated decisions, German data precedents and procurement gaps |
 | [Prepared Bavaria inquiry](docs/feasibility/bavaria-data-inquiry.md) | Concrete gender/term-data request and verified provider route; not sent |
 | [GERDA structural screen](docs/feasibility/gerda-structural-screen.md) | Conservative contest counts and gender provenance, with executable audit |

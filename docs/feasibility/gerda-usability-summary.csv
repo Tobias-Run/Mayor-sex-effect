@@ -1,0 +1,22 @@
+metric,value,scope
+candidate_rows_all_states,113345,GERDA pinned snapshot
+candidate_state_count,13,GERDA pinned snapshot
+bavaria_candidate_rows,68929,GERDA pinned snapshot
+bavaria_candidate_names_present,1915,GERDA pinned snapshot
+bavaria_2020_2024_candidate_rows,4574,GERDA pinned snapshot
+bavaria_2020_2024_names_present,0,GERDA pinned snapshot
+bavaria_2020_2024_gender_present,0,GERDA pinned snapshot
+person_panel_rows_all_states,45368,GERDA pinned snapshot
+bavaria_person_elections,32233,GERDA pinned snapshot
+bavaria_panel_gender_present,0,GERDA pinned snapshot
+panel_has_exact_term_end_field,False,GERDA pinned snapshot
+candidate_observations,53,2026 gender follow-up
+elections,53,2026 gender follow-up
+within_5pp,7,2026 gender follow-up
+historic_treatment_labels_promoted,0,2026 gender follow-up
+candidate_title_observations,4,Historical municipal title evidence
+municipalities,3,Historical municipal title evidence
+registry_gender_fields_recovered,0,Historical municipal title evidence
+main_treatment_labels_promoted,0,Historical municipal title evidence
+complete_actual_terms_verified,0,Historical municipal title evidence
+pairs_with_both_official_titles,1,Historical municipal title evidence

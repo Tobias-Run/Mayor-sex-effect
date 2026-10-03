@@ -11,6 +11,16 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src" / "pilot"))
 from bavaria_named_reports import match_round, parse_report
 from bavaria_ted_linkage import contract_date, tender_count
+from gerda_usability_audit import name_key
+
+
+class DatedIdentityLeadTests(unittest.TestCase):
+    def test_titles_and_unicode_do_not_prevent_exact_identity_lookup(self):
+        self.assertEqual(name_key("Kössinger", "Dr. Brigitte"), name_key("Ko\u0308ssinger", " Brigitte "))
+
+    def test_name_variants_and_missing_accents_are_not_silently_merged(self):
+        self.assertNotEqual(name_key("Knape", "Hans Wilhelm"), name_key("Knape", "Johannes Wilhelm"))
+        self.assertNotEqual(name_key("Wüst", "Uta"), name_key("Wust", "Uta"))
 
 
 class ElectionIdentityTests(unittest.TestCase):
