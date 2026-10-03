@@ -1,5 +1,7 @@
 # NRW: alternative award layouts and completed primary-presentation follow-up
 
+Subsequent audit, 4 October 2026: the [complete 92-notice cohort](nrw-complete-pilot.md) now supplies 106 observed award units with both fields, includes an explicit lot-definition flag for 194586-2023, and preserves unresolved results. The [historical legal note](nrw-term-law.md) replaces the generic appointment-evidence requirement with election acceptance and predecessor exit. The counts below describe the earlier 46-notice stage.
+
 Checked on 3 October 2026. This continues the [expanded NRW pilot](nrw-expanded-pilot.md), within the same 92-notice municipal cohort and three 2020 election events. The project adapts **Florio and Spagnolo's [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899)** to Germany; the [literature note](../literature.md) retains the German precedents. **No procurement effect has been estimated.**
 
 Both previously unsupported legacy layouts now supply dated award outcomes. The full-notice pipeline yields **57 award-result units, including 52 with both contract date and total received-tender count**. Exact official presentation evidence has also been recovered for Iserlohn's other finalist. All three pilot pairs now have both mixed public primary presentations documented, with source timing and source category preserved. These results do not certify historical registry gender, complete mayoral terms or procurement responsibility.

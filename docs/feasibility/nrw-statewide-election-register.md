@@ -102,7 +102,7 @@ GERDA's acquired NRW person panel has **1,522 person-election rows**. Person lin
 
 The pinned [upstream construction code](https://github.com/awiedem/german_election_data/blob/030c1fb865ec4e6ef94d5dee2039edde081a0f5d/code/mayoral_elections/03_mayor_panel.R#L794) assigns `min(election_date)` where a source appointment is absent. Düsseldorf's new 2020 winner, for example, has `term_start_date = 2020-09-13`, despite the decisive runoff occurring on 27 September. Neither value establishes actual office entry. Left-censored incumbents may already have held office before the first observed year.
 
-Do not assign September contracts to a new winner using that field or the annual forward fill. Actual appointment, successor entry, resignation, interruptions and procurement decision authority require primary-source evidence. This NRW audit establishes **zero complete actual terms** and **zero approved main treatment assignments**.
+Do not assign September contracts to a new winner using that field or the annual forward fill. Actual entry, successor entry, resignation, interruptions and procurement decision authority require primary-source evidence. The subsequent [historical legal audit](nrw-term-law.md) specifies election acceptance and predecessor exit as the NRW entry components; no separate appointment is required. This NRW audit establishes **zero complete actual terms** and **zero approved main treatment assignments**.
 
 ## Reproduce and inspect
 

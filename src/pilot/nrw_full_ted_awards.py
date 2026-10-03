@@ -45,25 +45,31 @@ def parse_eform_results(text, number, buyers):
         if lot not in definitions:
             raise ValueError("Result lot has no matching definition")
         definition = definitions[lot]
-        status = unique_optional(r"Status der Preisträgerauswahl: (.*?)(?=6\.1\.[124]\.)", section)
+        status = unique_optional(r"Status der Preisträgerauswahl: (.*?)(?=6\.1\.\d+\.)", section)
         if status is None:
             raise ValueError("Missing explicit eForm result status")
         status = status.strip()
+        if status == "Ein Wettbewerbsgewinner wurde noch nicht ermittelt, der Wettbewerb ist noch nicht abgeschlossen.":
+            audits.append({"lot_number": lot, "status": "pending_no_award_yet", "source_quote": status})
+            continue
         if status.startswith(("Es wurde kein Gewinner ermittelt", "Es wurde kein Wettbewerbsgewinner ermittelt, und der Wettbewerb ist abgeschlossen.")):
             audits.append({"lot_number": lot, "status": "not_awarded", "source_quote": status})
             continue
         if status != "Es wurde mindestens ein Gewinner ermittelt.":
             raise ValueError("Unrecognized eForm result status: " + status)
-        if section.count("Informationen zum Auftrag:") > 1:
+        winner = unique_optional(r"6\.1\.2\. Informationen über die Gewinner (.*?)(?=6\.1\.\d+\.|$)", section)
+        if winner is None:
+            raise ValueError("Awarded status lacks a winner section; unsuccessful bids cannot supply award outcomes")
+        if winner.count("Informationen zum Auftrag:") > 1:
             raise ValueError("Multiple contracts within one lot need separate contract linkage")
-        date_raw = unique_optional(r"Datum des Vertragsabschlusses: (\d{2}/\d{2}/\d{4})", section)
+        date_raw = unique_optional(r"Datum des Vertragsabschlusses: (\d{2}/\d{2}/\d{4})", winner)
         contract_date = datetime.strptime(date_raw, "%d/%m/%Y").date().isoformat() if date_raw else None
-        selection_raw = unique_optional(r"Datum der Auswahl des Gewinners: (\d{2}/\d{2}/\d{4})", section)
+        selection_raw = unique_optional(r"Datum der Auswahl des Gewinners: (\d{2}/\d{2}/\d{4})", winner)
         count_raw = unique_optional(r"Art der eingegangenen Einreichungen: Angebote Anzahl der eingegangenen Angebote oder Teilnahmeanträge: (\d+)\b", section)
         count = int(count_raw) if count_raw is not None else None
         if count == 0:
             raise ValueError("Awarded result with zero total tenders requires review")
-        value_raw = unique_optional(r"Wert des Angebots: ([\d ,.]+) EUR", section)
+        value_raw = unique_optional(r"Wert des Angebots: ([\d ,.]+) EUR", winner)
         value = str(euro(value_raw)) if value_raw else None
         strategy = unique_optional(r"Ziel der strategischen Auftragsvergabe: (.*?)(?=5\.1\.[\d]+\.)", definition)
         criterion = unique_optional(r"5\.1\.10\. Zuschlagskriterien (.*?)(?=5\.1\.[\d]+\.)", definition)
@@ -86,7 +92,98 @@ def parse_eform_results(text, number, buyers):
 def monetary_status(value):
     if value is None:
         return "not_reported"
-    return "nominal_one_euro_needs_review" if Decimal(value) == 1 else "reported_not_independently_validated"
+    amount = Decimal(value)
+    if amount == 1:
+        return "nominal_one_euro_needs_review"
+    if amount == Decimal("0.01"):
+        return "nominal_one_cent_needs_review"
+    if amount == 0:
+        return "zero_value_needs_review"
+    return "reported_not_independently_validated"
+
+
+def legacy_lot_definition_audit(text, number, rows):
+    """Flag explicit award labels absent from Section II; retain observed results."""
+    text = normalized(re.sub(re.escape(number) + r"\s+Page \d+/\d+", " ", text))
+    before = text.split("Abschnitt V: Auftragsvergabe")[0]
+    partition = unique_optional(r"Aufteilung des Auftrags in Lose: (ja|nein)", before)
+    labels = re.findall(r"Los-Nr\.: (?:Los-Nr\. )?(\d+)\b", before)
+    defined = [str(int(label)) for label in labels]
+    if partition not in ("ja", "nein") or len(defined) != len(set(defined)):
+        raise ValueError("Ambiguous legacy lot-definition coverage")
+    observed = []
+    for row in rows:
+        members = row.get("lot_numbers", [row["lot_number"]] if row["lot_number"] else [])
+        observed.extend(members)
+        row["award_lot_defined_in_source"] = all(key in defined for key in members) if partition == "ja" else None
+    missing = sorted(set(observed).difference(defined)) if partition == "ja" else []
+    unawarded = sorted(set(defined).difference(observed)) if partition == "ja" else []
+    return {"declared_lots_source": labels, "award_lots_without_definition": missing,
+            "defined_lots_without_supported_award": unawarded,
+            "lot_definition_coverage_review_required": bool(missing or unawarded)}
+
+
+def parse_legacy_value_mismatch(text, number, buyer):
+    """Recover separate dates/counts while flagging conflicting scalar values.
+
+    Explicit numeric award lots must cover every declared lot once. Leading
+    zeros are retained as source labels and normalized only for that comparison.
+    A missing lot label in a partitioned notice remains unresolved.
+    """
+    text = normalized(re.sub(re.escape(number) + r"\s+Page \d+/\d+", " ", text))
+    if set(fulltext_buyers(text, number)) != {buyer} or result_status(text, number, buyer) != "awarded":
+        raise ValueError("Scalar legacy review lacks the expected awarded authority")
+    before, *sections = text.split("Abschnitt V: Auftragsvergabe")
+    partition = unique_optional(r"Aufteilung des Auftrags in Lose: (ja|nein)", before)
+    defined_raw = re.findall(r"Los-Nr\.: (\d+)\b", before)
+    defined = [str(int(label)) for label in defined_raw]
+    if partition not in ("ja", "nein") or len(defined) != len(set(defined)) or "0" in defined:
+        raise ValueError("Missing or ambiguous declared legacy lots")
+    if partition == "ja" and not defined or partition == "nein" and defined:
+        raise ValueError("Declared lots conflict with the notice partition flag")
+    total_raw = unique_optional(r"II\.1\.7\. Gesamtwert der Beschaffung Wert ohne MwSt\.: ([\d ,.]+) EUR", before)
+    if total_raw is None or not sections:
+        raise ValueError("Missing legacy total or award sections")
+    rows, used = [], set()
+    for index, section in enumerate(sections, 1):
+        section = section.split("Abschnitt VI: Weitere Angaben")[0]
+        header = section.split("Ein Auftrag/Los wurde vergeben:")[0]
+        label = unique_optional(r"Los-Nr\.: (.*?) Bezeichnung des Auftrags:", header)
+        if partition == "nein":
+            if len(sections) != 1 or label not in (None, "1"):
+                raise ValueError("Unexpected undivided legacy award label")
+            lot, unit = None, "undivided_contract"
+        else:
+            if label is None or not re.fullmatch(r"[0-9]+", label):
+                raise ValueError("Partitioned legacy award lacks an explicit numeric lot identity")
+            lot, unit = str(int(label)), "lot"
+            if lot not in defined or lot in used:
+                raise ValueError("Undefined or repeated scalar legacy award lot")
+            used.add(lot)
+        date_raw = unique_optional(r"V\.2\.1\. Tag des Vertragsabschlusses (\d{2}/\d{2}/\d{4})", section)
+        count_raw = unique_optional(r"V\.2\.2\. Angaben zu den Angeboten Anzahl der eingegangenen Angebote: (\d+)\b", section)
+        value_raw = unique_optional(r"(?<!veranschlagter )Gesamtwert des Auftrags/Loses: ([\d ,.]+) EUR", section)
+        if date_raw is None or count_raw is None or int(count_raw) < 1 or value_raw is None:
+            raise ValueError("Scalar legacy award lacks a unique date, total tender count or value")
+        if "Niedrigstes Angebot:" in section:
+            raise ValueError("Range layout requires its separate parser")
+        rows.append({"publication_number": number, "award_section": index,
+                     "lot_number": lot, "lot_label_source": label, "unit": unit,
+                     "contract_conclusion_date": datetime.strptime(date_raw, "%d/%m/%Y").date().isoformat(),
+                     "received_tenders": int(count_raw), "award_value_eur": str(euro(value_raw)),
+                     "contract_date_source_quote": "V.2.1. Tag des Vertragsabschlusses " + date_raw,
+                     "received_tenders_source_quote": "Anzahl der eingegangenen Angebote: " + count_raw,
+                     "responsibility_assignment": "unverified"})
+    if partition == "ja" and used != set(defined):
+        raise ValueError("Incomplete scalar legacy lot coverage")
+    total = str(euro(total_raw))
+    reconciled = sum(Decimal(row["award_value_eur"]) for row in rows) == Decimal(total)
+    if reconciled:
+        raise ValueError("Value-mismatch fallback does not establish a mismatch")
+    return rows, {"publication_number": number, "buyer": buyer, "notice_value_eur": total,
+                  "award_sections": len(rows), "declared_lots_source": defined_raw,
+                  "award_values_reconcile": False, "monetary_outcome_review_required": True,
+                  "monetary_review_reason": "declared_notice_total_differs_from_award_sum"}
 
 
 def parse_legacy_range_or_group(text, number, buyer):
@@ -163,15 +260,24 @@ def parse_legacy_range_or_group(text, number, buyer):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--download", action="store_true")
+    parser.add_argument("--manifest", type=Path, default=MANIFEST)
+    parser.add_argument("--raw-root", type=Path, default=ROOT)
+    parser.add_argument("--out", type=Path, default=OUT)
+    parser.add_argument("--require-complete-cohort", action="store_true")
     args = parser.parse_args()
     indexed = {r["publication_number"]: r for r in json.loads(Path("outputs/nrw-buyer-scope/records.json").read_text())}
-    sources = list(csv.DictReader(MANIFEST.open()))
+    sources = list(csv.DictReader(args.manifest.open()))
+    if len({s["publication_number"] for s in sources}) != len(sources):
+        raise ValueError("Duplicate source notice in full-text manifest")
+    missing_sources = set(indexed).difference(s["publication_number"] for s in sources)
+    if args.require_complete_cohort and missing_sources:
+        raise ValueError("Full-text manifest does not cover the complete retained cohort")
     awards, audits = [], []
     for source in sources:
         number = source["publication_number"]
         if number not in indexed:
             continue
-        path = verified_source(source, args.download, ROOT)
+        path = verified_source(source, args.download, args.raw_root)
         text = subprocess.run(["pdftotext", "-layout", str(path), "-"], check=True, capture_output=True, text=True).stdout
         record = indexed[number]
         if set(fulltext_buyers(text, number)) != {record["buyer_name"]}:
@@ -187,11 +293,15 @@ def main():
                     try:
                         rows, audit = parse_legacy_awards(text, number, record["buyer_name"])
                     except ValueError:
-                        rows, audit = parse_legacy_range_or_group(text, number, record["buyer_name"])
+                        try:
+                            rows, audit = parse_legacy_range_or_group(text, number, record["buyer_name"])
+                        except ValueError:
+                            rows, audit = parse_legacy_value_mismatch(text, number, record["buyer_name"])
                     value = record["source_fields"].get("total-value")
                     if value is None or Decimal(str(value)) != Decimal(audit["notice_value_eur"]):
                         raise ValueError("Legacy indexed total does not reconcile with full award values")
                     audit["status"] = "awarded"
+                    audit.update(legacy_lot_definition_audit(text, number, rows))
                     lot_audits = []
             else:
                 rows, lot_audits = parse_eform_results(text, number, [record["buyer_name"]])
@@ -214,7 +324,7 @@ def main():
             row.update({"ags": record["ags"], "buyer_scope": record["buyer_scope"], "source": source,
                         "layout": audit["layout"], "monetary_value_status": monetary_status(row["award_value_eur"]),
                         "notice_award_values_reconcile": audit.get("award_values_reconcile", audit.get("notice_values_reconcile")),
-                        "monetary_outcome_review_required": audit.get("monetary_outcome_review_required", False) or row["award_value_eur"] is None or monetary_status(row["award_value_eur"]) == "nominal_one_euro_needs_review",
+                        "monetary_outcome_review_required": audit.get("monetary_outcome_review_required", False) or row["award_value_eur"] is None or monetary_status(row["award_value_eur"]) != "reported_not_independently_validated",
                         "actual_term_assignment": "unverified", "gender_measurement": "unverified"})
         awards.extend(rows)
     keys = [(r["publication_number"], r["lot_number"]) for r in awards]
@@ -224,21 +334,25 @@ def main():
     for row in awards:
         d = row["contract_conclusion_date"]
         row["within_source_bounded_geilen_role"] = interval["start_inclusive"] <= d < interval["end_exclusive"] if row["ags"] == interval["ags"] and d else None
-    summary = {"retained_full_notices_reviewed": len(audits), "notice_status_counts": dict(Counter(a["status"] for a in audits)),
+    summary = {"retained_cohort_notices": len(indexed), "retained_cohort_notices_without_pinned_fulltext": len(missing_sources),
+               "retained_full_notices_reviewed": len(audits), "notice_status_counts": dict(Counter(a["status"] for a in audits)),
                "awarded_units": len(awards), "award_unit_layout_counts": dict(Counter(a["layout"] for a in awards)),
                "award_units_with_contract_date": sum(a["contract_conclusion_date"] is not None for a in awards),
                "award_units_with_total_tender_count": sum(a["received_tenders"] is not None for a in awards),
                "award_units_with_both_date_and_total_tender_count": sum(a["received_tenders"] is not None and a["contract_conclusion_date"] is not None for a in awards),
                "nominal_one_euro_award_values": sum(a["monetary_value_status"] == "nominal_one_euro_needs_review" for a in awards),
+               "nominal_one_cent_award_values": sum(a["monetary_value_status"] == "nominal_one_cent_needs_review" for a in awards),
                "grouped_lot_award_units": sum(a["unit"] == "grouped_lot_award" for a in awards),
                "bid_range_without_winning_price_units": sum(a.get("winning_price_not_inferred_from_range", False) for a in awards),
                "notices_with_unreconciled_award_values": sum(a.get("award_values_reconcile") is False for a in audits),
+               "notices_with_lot_definition_coverage_review": sum(a.get("lot_definition_coverage_review_required", False) for a in audits),
+               "award_units_with_undefined_source_lot": sum(a.get("award_lot_defined_in_source") is False for a in awards),
                "dated_geilen_award_units_within_head_role": sum(a["within_source_bounded_geilen_role"] is True for a in awards),
                "represented_municipal_election_events": len({a["ags"] for a in awards}),
                "procurement_responsibility_or_main_treatment_assignments": 0}
-    OUT.mkdir(parents=True, exist_ok=True)
+    args.out.mkdir(parents=True, exist_ok=True)
     for name, value in [("awards", awards), ("notice-audits", audits), ("summary", summary)]:
-        (OUT / (name + ".json")).write_text(json.dumps(value, indent=2, ensure_ascii=False))
+        (args.out / (name + ".json")).write_text(json.dumps(value, indent=2, ensure_ascii=False))
     print(json.dumps(summary, indent=2))
 
 

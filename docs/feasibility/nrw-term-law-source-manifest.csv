@@ -1,0 +1,8 @@
+id,url,sha256,bytes,retrieved_at_utc,extension,version_date,source_kind
+go-2020-nov,https://recht.nrw.de/lrgv/gesetz/01112020-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der,2bf4b226025e9228f350d177237584ca85807e068cda20106e27c4fbd4efee53,33196,2026-10-03T22:26:56.928977+00:00,.html,2020-11-01,historical_version_page
+go-2020-body,https://recht.nrw.de/system/files/BH/6784-24430.htm,8ea0c55839c702be93839e4845868fb61c0a8c1130027f22c292ca0b8f1a7190,335519,2026-10-03T22:28:46.648256+00:00,.html,2020-11-01,linked_historical_statute
+kwahlg-2020,https://recht.nrw.de/lrgv/gesetz/07052020-bekanntmachung-der-neufassung-des-kommunalwahlgesetzes-kommunalwahlgesetz,86d6ed7b162a153a8ed72f6019bc1517a53a315cf61cd1b10a38ac655c47dc76,26400,2026-10-03T22:28:03.606876+00:00,.html,2020-05-07,historical_version_page
+kwahlg-2020-body,https://recht.nrw.de/system/files/BH/4752-24160.htm,31e4aa92fea8c5632c8221b5f9ba6da60fed4fa992b916d938017340709c0e49,121953,2026-10-03T22:28:46.395924+00:00,.html,2020-05-07,linked_historical_statute
+lbg-2018,https://recht.nrw.de/lrgv/gesetz/25052018-gesetz-ueber-die-beamtinnen-und-beamten-des-landes-nordrhein-westfalen,8c685cd270ced25bb3115c15c37b8280fd05ee83ffdd7476b2ffc6143240478a,24458,2026-10-03T22:36:30.561194+00:00,.html,2018-05-25,historical_version_page
+lbg-2018-body,https://recht.nrw.de/system/files/BH/34806-23372.htm,2164ac2cf881ad584a58c1f538df761825574ff05ecea62a80d511649f3e010e,267511,2026-10-03T22:37:28.200663+00:00,.html,2018-05-25,linked_historical_statute
+lbg-current,https://recht.nrw.de/lrgv/gesetz/04082026-landesbeamtengesetz-lbg-nrw,3a1006763ec80c96276eba3e8e72e26e9fbdb6f78f52370e22837e0feb550522,633877,2026-10-03T22:35:10.269839+00:00,.html,2026-08-04,version_navigation_only
