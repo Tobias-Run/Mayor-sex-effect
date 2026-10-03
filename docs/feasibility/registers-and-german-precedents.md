@@ -2,6 +2,8 @@
 
 Checked: 3 October 2026. This is a targeted source review, not an exhaustive audit of all 16 states or proof that no research dataset exists.
 
+**Update:** The [large-register search](large-register-search.md) subsequently located GERDA's current cross-state mayoral candidate compilation and person panels. The initial assessment below describes what had been established at that earlier review stage; it must not be interpreted as absence of reusable cross-state research data.
+
 ## Finding: national geographic backbone, decentralized election records
 
 No nationwide official historical register containing all mayoral candidates, exact votes, candidate gender, decisive rounds, and actual terms was identified in the inspected sources. The defensible working assumption is to construct a harmonized register from state and municipal sources, while continuing to search for reusable research datasets.

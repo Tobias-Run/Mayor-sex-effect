@@ -32,6 +32,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Large-register discovery](docs/feasibility/large-register-search.md) | GERDA mayoral candidates located; 102 NRW vote pairs independently matched |
 | [NRW exact-margin screen](docs/feasibility/nrw-margin-screen.md) | Counts within descriptive margins; gender verification remains pending |
 | [District-municipality pilot](docs/feasibility/smaller-municipality-pilot.md) | Off-cycle Hallbergmoos election, gender and timing evidence |
 | [Bavaria archive expansion](docs/feasibility/bavaria-archive-expansion.md) | Additional Augsburg and Nuremberg sources and validation |
