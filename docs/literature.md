@@ -12,6 +12,8 @@ This is the explicit foundation for adapting the close-election procurement rese
 
 ## Existing research on Germany
 
+The latest [Bavaria assessment](feasibility/bavaria-feasibility.md#lessons-and-acquisition-routes-from-german-research) adds source-access findings from Arnold and Frank, Stadelmann and Torgler, alongside Schild. Their different coverage and gender measurement are explicitly preserved.
+
 **Schild, Christopher-Johannes (2013). *Do female mayors make a difference? Evidence from Bavaria*. IWQW Discussion Papers No. 07/2013. Friedrich-Alexander-Universität Erlangen-Nürnberg, Institut für Wirtschaftspolitik und Quantitative Wirtschaftsforschung.** [EconStor record](https://hdl.handle.net/10419/81935).
 
 Bibliography verified against EconStor on 3 October 2026; primary PDF obtained and abstract and election-data section inspected. See the [follow-up source check](feasibility/pilot-source-check.md). This supersedes the earlier unresolved-citation status; full methods and precision review remains pending.
@@ -21,6 +23,10 @@ Bibliography verified against EconStor on 3 October 2026; primary PDF obtained a
 The published version is **Baskaran and Hessami (2025), Review of Economics and Statistics 107(6): 1501–1517**, DOI [10.1162/rest_a_01352](https://doi.org/10.1162/rest_a_01352). Crossref metadata and the abstract confirm the Bavarian council-election and childcare context. Full-text methods review remains pending.
 
 These German studies provide related institutional and methodological groundwork. Mayors and councillors are different treatments, and fiscal and childcare outcomes differ from procurement outcomes.
+
+**Arnold, Felix (2018). *Turnout and Closeness: Evidence from 60 Years of Bavarian Mayoral Elections*. Scandinavian Journal of Economics 120(2): 624–653.** DOI [10.1111/sjoe.12241](https://doi.org/10.1111/sjoe.12241). Bibliographic metadata verified; the [2015 DIW working-paper version 1462](https://www.diw.de/documents/publikationen/73/diw_01.c.499182.de/dp1462.pdf) was obtained and its institutional/data section inspected. It describes historical Landesamt candidate gender and excludes independent cities. Published-article/supplement access returned 403; their contents remain unverified.
+
+**Frank, Marco, David Stadelmann and Benno Torgler (2023). *Higher turnout increases incumbency advantages: Evidence from mayoral elections*. Economics & Politics 35: 529–555.** DOI [10.1111/ecpo.12226](https://doi.org/10.1111/ecpo.12226). The published PDF was obtained from the University of Bayreuth repository; its data section and data availability statement were inspected. It covers 682 elections in 233 municipalities above 10,000 residents, uses inferred gender, and offers data on request. Its 2020 postal-runoff setting informs cohort comparability; it is not a procurement or female-mayor treatment-effect study.
 
 ## Other international groundwork
 

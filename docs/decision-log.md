@@ -6,5 +6,8 @@
 | 2026-10-02 | Use the public repository Tobias-Run/Mayor-sex-effect | Public upload of the project structure and original pitch was explicitly authorized. Data releases require separate rights checks. |
 | 2026-10-02 | Start with feasibility assessment | Main-study linkage, sample size, and outcome quality remain unconfirmed. |
 | 2026-10-02 | Defer GitHub Pages publication until research completion | The interactive companion will explain completed research using reviewed artifacts. |
+| 2026-10-03 | Complete the Bavaria feasibility workstream before returning to NRW | User priority; open gender, term and procurement gates remain explicit. |
+| 2026-10-03 | Pin and independently parse the GERDA-distributed historical Bavaria workbook | Preserve raw source rows, residual votes and anomalies; validate the compilation against its input without claiming universal historical correctness. |
+| 2026-10-03 | Treat the 997 source-validated 2020–2024 contests as an acquisition queue | Both finalists' gender and actual terms are unresolved; descriptive margins are not chosen RDD bandwidths or approved sample sizes. |
 
 Add decisions about eligibility, pilot selection, weighting, outcomes, observation windows, estimators, and deviations with their supporting evidence. Do not backdate decisions.

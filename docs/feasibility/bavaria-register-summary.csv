@@ -1,0 +1,35 @@
+window,metric,value
+full_source,round_rows,34824
+2014-01-01_2024-12-31,round_rows,4937
+2014-01-01_2024-12-31,office_scope.municipality,4754
+2014-01-01_2024-12-31,office_scope.county,181
+2014-01-01_2024-12-31,office_scope.unresolved,2
+2014-01-01_2024-12-31,municipal_unique_ags,2056
+2014-01-01_2024-12-31,municipal_round_labels.erster Wahlgang,3539
+2014-01-01_2024-12-31,municipal_round_labels.,607
+2014-01-01_2024-12-31,municipal_round_labels.Stichwahl,608
+2014-01-01_2024-12-31,municipal_listed_votes_reconciled,3158
+2014-01-01_2024-12-31,municipal_rounds_with_numeric_parse_issues,1
+2014-01-01_2024-12-31,municipal_listed_plus_residual_status.None,3161
+2014-01-01_2024-12-31,municipal_listed_plus_residual_status.True,1576
+2014-01-01_2024-12-31,municipal_listed_plus_residual_status.False,17
+2014-01-01_2024-12-31,municipal_voters_ballots_disagree,0
+2014-01-01_2024-12-31,duplicate_municipal_round_keys,1
+2020-01-01_2024-12-31,round_rows,2530
+2020-01-01_2024-12-31,office_scope.municipality,2434
+2020-01-01_2024-12-31,office_scope.county,95
+2020-01-01_2024-12-31,office_scope.unresolved,1
+2020-01-01_2024-12-31,municipal_unique_ags,2016
+2020-01-01_2024-12-31,municipal_round_labels.,336
+2020-01-01_2024-12-31,municipal_round_labels.Stichwahl,337
+2020-01-01_2024-12-31,municipal_round_labels.erster Wahlgang,1761
+2020-01-01_2024-12-31,municipal_listed_votes_reconciled,1652
+2020-01-01_2024-12-31,municipal_rounds_with_numeric_parse_issues,1
+2020-01-01_2024-12-31,municipal_listed_plus_residual_status.None,1653
+2020-01-01_2024-12-31,municipal_listed_plus_residual_status.True,781
+2020-01-01_2024-12-31,municipal_voters_ballots_disagree,0
+2020-01-01_2024-12-31,duplicate_municipal_round_keys,1
+GERDA_2020_2024,screened_events,997
+GERDA_2020_2024,votes_and_structure_passed,997
+GERDA_2020_2024,including_nomination_text_passed,995
+GERDA_2020_2024,failure_reasons.nomination_votes_differ,2

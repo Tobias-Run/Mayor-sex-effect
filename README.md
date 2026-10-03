@@ -12,7 +12,7 @@ The German application builds on existing research: Schild's *Do Female Mayors M
 
 See the [literature and adaptation note](docs/literature.md) for references, verification status, and the distinction between inherited design elements and proposed extensions. The German novelty claim remains provisional.
 
-**Status:** initial literature and data review underway. See the [first source audit](docs/feasibility/initial-review.md) and [follow-up pilot source check](docs/feasibility/pilot-source-check.md). No empirical findings are available. Substantive literature claims, data access, and the novelty claim in the original pitch remain to be independently verified.
+**Status, 3 October 2026:** Bavaria is the active feasibility workstream. The historical vote source is acquired, and all 997 conservatively screened two-person decisions for 2020–2024 match its decisive votes and round structure. Both finalists' gender, actual term dates and historical procurement linkage remain open. See the [Bavaria assessment and reproducible register audit](docs/feasibility/bavaria-feasibility.md). No procurement effects have been estimated; the main study and novelty claim remain conditional on further evidence.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
@@ -32,6 +32,8 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Bavaria feasibility assessment](docs/feasibility/bavaria-feasibility.md) | Historical register, 997 source-validated decisions, German data precedents and procurement gaps |
+| [Prepared Bavaria inquiry](docs/feasibility/bavaria-data-inquiry.md) | Concrete gender/term-data request and verified provider route; not sent |
 | [GERDA structural screen](docs/feasibility/gerda-structural-screen.md) | Conservative contest counts and gender provenance, with executable audit |
 | [Large-register discovery](docs/feasibility/large-register-search.md) | GERDA mayoral candidates located; 102 NRW vote pairs independently matched |
 | [NRW exact-margin screen](docs/feasibility/nrw-margin-screen.md) | Counts within descriptive margins; gender verification remains pending |
@@ -62,4 +64,4 @@ manuscript/        Research paper and supporting text
 website/           Plan for the post-research interactive companion
 ```
 
-No analysis software stack has been selected yet. Dependencies and execution commands will be documented when the pilot pipeline is implemented. Confidential records and credentials must never be committed. A public repository does not imply permission to redistribute source data.
+The current election acquisition and audit scripts use Python's standard library; [reproduction commands](docs/feasibility/bavaria-feasibility.md#reproduction) are available. The main econometric software stack is not yet selected. Confidential records and credentials must never be committed. A public repository does not imply permission to redistribute source data.
