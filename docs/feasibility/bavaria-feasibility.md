@@ -2,7 +2,7 @@
 
 Assessment: 3 October 2026. Bavaria remains the active state for the German adaptation of **Florio and Spagnolo (2026), [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899)**. No procurement effects have been estimated.
 
-**Historical votes have been acquired and audited. The mixed-gender sample and procurement linkage are not complete.** Missing gender labels do not imply no woman–man contests. A power analysis and main-study approval remain premature.
+**Historical votes have been acquired and audited. Named candidate recovery and a historical municipal procurement pilot are now operational; the mixed-gender sample and study-wide linkage are not complete.** See the [expanded pilot](bavaria-operational-pilot.md). Missing gender labels do not imply no woman–man contests. A power analysis and main-study approval remain premature.
 
 ## Completed work
 
@@ -56,7 +56,7 @@ The 997 screened contests include **52 within 2 pp and 140 within 5 pp**, across
 
 **Frank, Marco, David Stadelmann and Benno Torgler (2023), [Higher turnout increases incumbency advantages: Evidence from mayoral elections](https://doi.org/10.1111/ecpo.12226), Economics & Politics 35: 529–555.** The [published PDF](https://epub.uni-bayreuth.de/id/eprint/7129/1/Economics%20Politics%20-%202022%20-%20Frank%20-%20Higher%20turnout%20increases%20incumbency%20advantages%20Evidence%20from%20mayoral%20elections.pdf) was inspected. Section 4.1 describes 682 elections in 233 municipalities over 2003–2020, using official reports plus municipal/press supplements, limited to municipalities **above 10,000 residents at election time**. Gender is inferred from first names, not an official field. The data availability statement says **“Data available on request from the authors.”** This is a concrete secondary route to identities, subject to reuse conditions, not a state-wide replacement. The paper also documents the postal-only 2020 runoff change and turnout/incumbency implications, which matter for cohort comparability.
 
-Legacy reports are therefore useful leads. Several inferred older PDF URLs returned 404; their current archive location remains unverified. This does not establish that the reports are unavailable. No provider or author has been contacted.
+The historical reports have now been located in the joint Statistische Bibliothek. Five first-round/runoff reports for 2008, 2014 and 2020 were obtained and parsed: 450 complete named rounds reconcile exactly against the historical workbook. Of the conservative 2020 screen, 95 events now have both candidate identities recovered. The earlier inferred Landesamt URLs returned 404; the verified library route resolves that archive-location gap. Gender fields are still absent from the reports. No provider or author has been contacted.
 
 ## Procurement: municipal awards located, analytical fields incomplete
 
@@ -74,7 +74,7 @@ The [Stadt Freising filter](https://meinauftrag.rib.de/public/InformationsFrame/
 | Environmental/social/innovation criteria | Not established |
 | Historical 2020–2024 archive and complete municipal coverage | Not established by the inspected pages or search/pagination probes |
 
-The portal supports notice discovery, but cannot yet supply the Italian outcome set or a municipality-term panel. Do not infer dates from procurement references, equate publication with award, code missing notices as zero, or pool state/county awards with municipal treatment. Destatis research access and TED remain parallel routes; see the [register review](registers-and-german-precedents.md).
+The Bayern ex-post portal supports notice discovery, but the inspected form-341 PDFs cannot supply the Italian outcome set. A separate public TED API pilot now supplies historical notices and selected outcome fields for Gauting and Mühldorf; see the [operational pilot](bavaria-operational-pilot.md). Indexed JSON fields can be acquired even while individual XML downloads return empty HTTP 202 responses. Do not infer dates from procurement references, equate publication with award, code missing notices as zero, or pool state/county awards with municipal treatment.
 
 ## Bavaria completion gates
 
@@ -83,7 +83,7 @@ The portal supports notice discovery, but cannot yet supply the Italian outcome 
 | Historical votes and source-round register | Acquired and audited for the stated windows | Resolve exceptional rows and broader contest eligibility |
 | Both finalists' gender | Open | Source-recorded labels or documented permissible recovery; a gender-only supplement is sufficient |
 | Actual municipal terms | Open | Starts, ends, reelections and early exits; first-ever entry is insufficient |
-| Historical procurement linkage | Open | Buyer coverage, exact dates, lawful linkage and stable measures |
+| Historical procurement linkage | Two-municipality pilot operational; study coverage open | Actual terms, broader buyer coverage, legacy dates and stable measures |
 | Precision/main-study approval | Not ready | Verified mixed-gender contests, follow-up and outcome variation |
 
 The [provider inquiry](bavaria-data-inquiry.md) is prepared with the identified workbook, studies and source exceptions. Applicant details are needed before submission. No email has been sent. A larger-municipality subset or manual reconstruction would need an explicit coverage assessment if source access fails. NRW does not replace these Bayern gates.

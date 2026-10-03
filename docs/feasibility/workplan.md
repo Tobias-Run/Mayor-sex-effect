@@ -13,7 +13,7 @@ The main study proceeds only after documented evidence supports data linkage, me
 
 Record source URLs, access dates, provider statements, licenses, variable definitions, and unresolved limitations. Distinguish public documentation from confirmed researcher access. Unknowns remain unknown until supported by evidence.
 
-The leads and their individual verification status are in [source-register.csv](source-register.csv). The user has prioritized Bavaria before NRW. The current [Bavaria assessment](bavaria-feasibility.md) records the acquired historical register, independent vote audit, unresolved gender/term access and procurement pilot. The 2014–2024 source register and 2020–2024 structural screen are feasibility windows, not a final analytical sample.
+The leads and their individual verification status are in [source-register.csv](source-register.csv). The user has prioritized Bavaria before NRW. The current [Bavaria assessment](bavaria-feasibility.md) records the acquired historical register and independent vote audit. The [operational pilot](bavaria-operational-pilot.md) adds named report recovery and historical TED buyer linkage; candidate gender, actual terms and broader outcome coverage remain open. The 2014–2024 source register and 2020–2024 structural screen are feasibility windows, not a final analytical sample.
 
 ## Before the main study
 

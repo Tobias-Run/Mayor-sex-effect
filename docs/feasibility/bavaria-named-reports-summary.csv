@@ -1,0 +1,6 @@
+id,date,round,municipal_report_units,named_current_candidate_rows,exact_full_round_matches,url,sha256
+bay2020-first,2020-03-15,first,213,925,145,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BYHeft_derivate_00006228/B7331C%20202051.pdf,e420aa1ecc2eeb43a13df8d58445569e970ab4b8fa550e42ae9417a03ff57f24
+bay2020-runoff,2020-03-29,runoff,103,206,79,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BYHeft_derivate_00006229/B7332C%20202051.pdf,d010e1c5c862f0c0f9d7cc5ec145c3579854486113e38b5a86a73f1f4b83f962
+bay2014-first,2014-03-16,first,173,623,123,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BYHeft_derivate_00005465/B7331C%20201451.pdf,f2ad501b3e0d1dbcbb235443fdaab382d8e132069f75acbee1d5cb0593e89073
+bay2014-runoff,2014-03-30,runoff,65,130,53,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BYHeft_derivate_00003930/B7332C%20201451.pdf,6dd15c90ddfa54b08f13cf3009195a0f75b6a681aa05b3b76de193185d9ead6d
+bay2008-runoff,2008-03-16,runoff,57,114,50,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BYHeft_derivate_00000669/B7332C%20200851.pdf,1a0fdac44662179c065b2fa64091c288190627939c727b54800b78a92dddf377

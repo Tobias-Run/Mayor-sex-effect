@@ -9,5 +9,7 @@
 | 2026-10-03 | Complete the Bavaria feasibility workstream before returning to NRW | User priority; open gender, term and procurement gates remain explicit. |
 | 2026-10-03 | Pin and independently parse the GERDA-distributed historical Bavaria workbook | Preserve raw source rows, residual votes and anomalies; validate the compilation against its input without claiming universal historical correctness. |
 | 2026-10-03 | Treat the 997 source-validated 2020–2024 contests as an acquisition queue | Both finalists' gender and actual terms are unresolved; descriptive margins are not chosen RDD bandwidths or approved sample sizes. |
+| 2026-10-03 | Recover identities from public official report archives before relying on restricted access | Full exact vote vectors identify candidate slots; provisional/final differences and tied votes remain in a review queue. Coverage above 10,000 residents is not treated as state-wide completeness. |
+| 2026-10-03 | Start historical procurement linkage through TED's public indexed JSON fields | Exact municipal buyer aliases exclude county, hospital and joint-buyer notices. Ongoing competitions, award dates and publication dates remain distinct; no treatment estimates are produced. |
 
 Add decisions about eligibility, pilot selection, weighting, outcomes, observation windows, estimators, and deviations with their supporting evidence. Do not backdate decisions.

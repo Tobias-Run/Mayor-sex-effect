@@ -12,7 +12,7 @@ The German application builds on existing research: Schild's *Do Female Mayors M
 
 See the [literature and adaptation note](docs/literature.md) for references, verification status, and the distinction between inherited design elements and proposed extensions. The German novelty claim remains provisional.
 
-**Status, 3 October 2026:** Bavaria is the active feasibility workstream. The historical vote source is acquired, and all 997 conservatively screened two-person decisions for 2020–2024 match its decisive votes and round structure. Both finalists' gender, actual term dates and historical procurement linkage remain open. See the [Bavaria assessment and reproducible register audit](docs/feasibility/bavaria-feasibility.md). No procurement effects have been estimated; the main study and novelty claim remain conditional on further evidence.
+**Status, 3 October 2026:** Bavaria is the active feasibility workstream. All 997 conservatively screened two-person decisions for 2020–2024 match the historical vote source. Five official reports now supply 450 exactly reconciled named rounds; 95 of the screened 2020 decisions have both identities recovered. A historical TED pilot links 18 strictly selected municipal notices to Gauting and Mühldorf elections, including nine single-lot awarded tender counts and five explicit contract dates. Both finalists' gender, actual term verification and study-wide procurement coverage remain open. See the [operational election–procurement pilot](docs/feasibility/bavaria-operational-pilot.md). No procurement effects have been estimated.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
@@ -32,6 +32,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Bavaria operational pilot](docs/feasibility/bavaria-operational-pilot.md) | Official candidate identities recovered and historical municipal TED data linked |
 | [Bavaria feasibility assessment](docs/feasibility/bavaria-feasibility.md) | Historical register, 997 source-validated decisions, German data precedents and procurement gaps |
 | [Prepared Bavaria inquiry](docs/feasibility/bavaria-data-inquiry.md) | Concrete gender/term-data request and verified provider route; not sent |
 | [GERDA structural screen](docs/feasibility/gerda-structural-screen.md) | Conservative contest counts and gender provenance, with executable audit |

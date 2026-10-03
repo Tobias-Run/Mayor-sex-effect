@@ -14,6 +14,8 @@ This is the explicit foundation for adapting the close-election procurement rese
 
 The latest [Bavaria assessment](feasibility/bavaria-feasibility.md#lessons-and-acquisition-routes-from-german-research) adds source-access findings from Arnold and Frank, Stadelmann and Torgler, alongside Schild. Their different coverage and gender measurement are explicitly preserved.
 
+The [operational pilot](feasibility/bavaria-operational-pilot.md) now implements one lesson from these sources: official statistical reports can supply historical candidate identities. Five reports reconcile 450 complete rounds with the historical workbook. Their larger-municipality coverage and preliminary results require explicit screening. This resolves part of identity acquisition without establishing access to the richer gender/profession data used by earlier German papers.
+
 **Schild, Christopher-Johannes (2013). *Do female mayors make a difference? Evidence from Bavaria*. IWQW Discussion Papers No. 07/2013. Friedrich-Alexander-Universität Erlangen-Nürnberg, Institut für Wirtschaftspolitik und Quantitative Wirtschaftsforschung.** [EconStor record](https://hdl.handle.net/10419/81935).
 
 Bibliography verified against EconStor on 3 October 2026; primary PDF obtained and abstract and election-data section inspected. See the [follow-up source check](feasibility/pilot-source-check.md). This supersedes the earlier unresolved-citation status; full methods and precision review remains pending.

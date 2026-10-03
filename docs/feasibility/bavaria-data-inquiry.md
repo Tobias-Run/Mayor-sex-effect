@@ -20,7 +20,7 @@ We are preparing a feasibility study adapting Florio and Spagnolo's *Female Mayo
 
 The applicant is [full name], [institutional affiliation or independent-research status], with response address [email]. Public project documentation is at https://github.com/Tobias-Run/Mayor-sex-effect. Restricted records would not automatically be released in the public repository.
 
-We examined GERDA's public copy of `20251114_Wahlen_seit_1945.xlsx`, sheet `20251114_bewerberRBZ1-7`. It contains election identifiers, dates, office types, nominations and votes but no candidate names or gender. We independently reconciled 997 conservatively selected two-person decisive contests for 2020–2024 against this copy; they are not yet identified as mixed-gender contests. Your current officeholder workbook supplies the current elected person's gender, but not every historical opponent's gender or each subsequent term start.
+We examined GERDA's public copy of `20251114_Wahlen_seit_1945.xlsx`, sheet `20251114_bewerberRBZ1-7`. It contains election identifiers, dates, office types, nominations and votes but no candidate names or gender. We independently reconciled 997 conservatively selected two-person decisive contests for 2020–2024 against this copy. Five official reports in the Statistische Bibliothek now allow recovery of 95 of these 2020 candidate pairs by exact votes; they do not establish both candidates' gender. Your current officeholder workbook supplies the current elected person's gender, but not every historical opponent's gender or each subsequent term start.
 
 Schild (2013), *Do female mayors make a difference? Evidence from Bavaria* (IWQW 07/2013), and Arnold's DIW Discussion Paper 1462 (2015; published 2018) describe richer Landesamt data including candidate gender. Could you clarify present availability and access conditions?
 
@@ -30,7 +30,7 @@ Schild (2013), *Do female mayors make a difference? Evidence from Bavaria* (IWQW
 4. Are a data dictionary and completeness notes available for blank round/office labels, residual `restliche Bewerber` votes, annulled rounds, write-ins and historical key changes?
 5. Can two source exceptions be clarified: Seukendorf (`09573126`) has both a three-candidate row and a runoff dated 10 July 2022; Markt Schwaben (`09175127`), 9 June 2024, has a nomination string in the candidate-2 vote column? Is a corrected extract or official source notice available?
 6. What application, affiliation, fee, storage, retention, scientific-use and disclosure conditions apply? Is procurement linkage allowed, and may code and aggregate findings be published?
-7. Is there a public archive for the historical large-municipality reports used by Frank, Stadelmann and Torgler (2023), *Higher turnout increases incumbency advantages*? Could you provide the 2008, 2014 and 2020 report routes or machine-readable equivalents?
+7. We located historical B7331C/B7332C reports in the Statistische Bibliothek. Are machine-readable named equivalents or corrected final candidate files available, including municipalities below 10,000 residents and off-cycle elections? How should differences between the preliminary reports and historical final extract be resolved?
 
 An initial availability assessment or schema-only example is sufficient at this stage. Please provide conditions and any quotation before a paid data order is considered.
 
