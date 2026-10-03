@@ -117,8 +117,8 @@ Local outputs under `outputs/nrw-election-register/` include the complete munici
 
 The combined suite passes **25 offline tests**, including eight new NRW tests covering county exclusion, explicit no-election entries, Aachen's source code, single-candidate residuals, former-incumbent blocks, missing majorities, name particles and independent finalist matching. The real-source audit independently validates all 380 held-election details and all 380 complete vote vectors against GERDA.
 
-## Next NRW work
+## Subsequent NRW acquisition
 
-Prioritize dated candidate-presentation and actual office-entry evidence for the close-election queue, while preserving the full 214-pair universe and auditing missingness across predicted categories. Then acquire municipal procurement records for both prospective female- and male-winner cases, using exact buyer aliases and full award sections. Publication dates remain distinct from contract dates; missing buyer matches cannot be coded as zero procurement.
+The [NRW operational follow-up](nrw-operational-pilot.md) now documents 55 strict municipal TED result notices, four named official title observations, the first mixed-title pair, a source-bounded Geilenkirchen council-head interval, two legacy awarded contracts with dates/counts and one explicit non-award. It preserves the distinction between temporal overlap and procurement responsibility. The statewide register's own measurement flags remain unchanged; the new evidence is a separately sourced supplement.
 
-The existing historical procurement pilot covers Gauting and Mühldorf in Bavaria. It provides no NRW award-coverage evidence. Expand NRW buyers, verify office intervals and outcome completeness, and count distinct eligible elections before assessing precision or preregistering the main analysis. GitHub Pages remains deferred until completion of the research.
+Expand buyer-alias/beneficiary review, primary candidate evidence, actual office boundaries and full-document outcome recovery across the close-election queue. Missing buyer matches cannot be coded as zero procurement. Count distinct eligible elections only after coverage and measurement checks; then assess precision before preregistering the main analysis. GitHub Pages remains deferred until completion of the research.

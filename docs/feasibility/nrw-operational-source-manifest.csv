@@ -1,0 +1,11 @@
+id,url,sha256,bytes,retrieved_at_utc
+geilen-members-2020,https://rat.geilenkirchen.de/bi/kp0041.asp?__cwpnr=6&__cselect=0&,b6dc0482c78fd95093391c3ace3b839b89afb797b53afb61e2b93b3bd1c0253c,77864,2026-10-03T20:57:31.157620+00:00
+geilen-members-2014,https://rat.geilenkirchen.de/bi/kp0041.asp?__cwpnr=5&__cselect=0&,8be496b46b7bced9b82f92715219525c66779d7673f8b38cd02f4a13230edd3e,51437,2026-10-03T20:57:30.752294+00:00
+geilen-ritzerfeld-roles,https://rat.geilenkirchen.de/bi/kp0050.asp?__cwpall=1&__kpenr=1600,11a5b46a907096553ef18d3ec0ba02c077fb65d5b4abf19afea1a8ec60218f4f,13991,2026-10-03T20:58:47.762146+00:00
+geilen-ritzerfeld-roles-2020,https://rat.geilenkirchen.de/bi/kp0050.asp?__cwpnr=6&__cselect=0&__kpenr=1600,e129f05f2b7257e63100eb5d3afb6c42173e0390e1121c8c2f4f4d5abd81a6c6,14279,2026-10-03T21:03:06.026912+00:00
+velbert-gazette-37,https://www.velbert.de/fileadmin/user_upload/Aktuelles/Amtsblatt/amtsblatt-2020/amtsb37-2020.pdf,8256277b1495381f82cad82177a240ea1942fd568d69d9f487518a4460c16347,247072,2026-10-03T20:52:14.635518+00:00
+iserlohn-mayor,https://www.iserlohn.de/rathaus-politik/politik/buergermeister,334c94bb2d8da9af9d5a7dfd4fcf7b2314a702799d39c35f4cf69295acc5a090,90512,2026-10-03T20:47:20.697787+00:00
+ted-iserlohn-21732-2021,https://ted.europa.eu/de/notice/21732-2021/pdf,dd3871e6a2484171e98d10e48c38ae42e3ed9fe5c42728a0a7a110fb7db6ad51,123169,2026-10-03T20:47:23.631915+00:00
+ted-geilen-510704-2021,https://ted.europa.eu/de/notice/510704-2021/pdf,da1ee68494c1c6d58f677f2f94a030ebf00d804297cde5b42c917add896a5298,122582,2026-10-03T20:47:23.262521+00:00
+ted-velbert-565529-2023,https://ted.europa.eu/de/notice/565529-2023/pdf,5d748140931f88acc38f016b9bfc5d23914c8b4389979bec443de9d4cc28a3a1,114366,2026-10-03T20:47:23.411490+00:00
+ted-nrw-query-page-1,https://api.ted.europa.eu/v3/notices/search,c3ca88cea6ac3072298a0c53684c50ccc6e5f0847e2275f77fdbf1f344b5134e,595689,2026-10-03T20:44:27.990581+00:00

@@ -16,14 +16,14 @@ def normalized(text):
     return re.sub(r"\s+", " ", unicodedata.normalize("NFC", text)).strip()
 
 
-def verified_source(source, download=False):
-    path = ROOT / (source["id"] + source.get("extension", ".pdf"))
+def verified_source(source, download=False, root=ROOT):
+    path = root / (source["id"] + source.get("extension", ".pdf"))
     if not path.exists() and download:
         with urlopen(source["url"], timeout=45) as response:
             raw = response.read()
         if hashlib.sha256(raw).hexdigest() != source["sha256"]:
             raise ValueError("Downloaded municipal source changed; review before updating its pin")
-        ROOT.mkdir(parents=True, exist_ok=True)
+        root.mkdir(parents=True, exist_ok=True)
         path.write_bytes(raw)
         path.with_suffix(path.suffix + ".retrieved.txt").write_text(datetime.now(timezone.utc).isoformat())
     if hashlib.sha256(path.read_bytes()).hexdigest() != source["sha256"]:
@@ -31,8 +31,8 @@ def verified_source(source, download=False):
     return path
 
 
-def pdf_page(source, page, download=False):
-    path = verified_source(source, download)
+def pdf_page(source, page, download=False, root=ROOT):
+    path = verified_source(source, download, root)
     result = subprocess.run(["pdftotext", "-layout", str(path), "-"], check=True,
                             capture_output=True, text=True)
     return normalized(result.stdout.split("\f")[page - 1])
