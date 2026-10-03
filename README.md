@@ -32,6 +32,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Bavaria archive expansion](docs/feasibility/bavaria-archive-expansion.md) | Additional Augsburg and Nuremberg sources and validation |
 | [Bavaria historical pilot](docs/feasibility/bavaria-historical-pilot.md) | Named candidates and exact votes from Munich 2020 |
 | [Bavaria and NRW extraction audit](docs/feasibility/bavaria-first-nrw-second.md) | Official Bavaria workbook and 102 validated NRW runoff files |
 | [Registers and German precedents](docs/feasibility/registers-and-german-precedents.md) | National vs. state sources and practical lessons from German papers |
