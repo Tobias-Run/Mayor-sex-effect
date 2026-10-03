@@ -12,7 +12,7 @@ The German application builds on existing research: Schild's *Do Female Mayors M
 
 See the [literature and adaptation note](docs/literature.md) for references, verification status, and the distinction between inherited design elements and proposed extensions. The German novelty claim remains provisional.
 
-**Status, 3 October 2026:** Bavaria is the active feasibility workstream. All 997 conservatively screened two-person decisions for 2020–2024 match the historical vote source. Five official reports now supply 450 exactly reconciled named rounds; 95 of the screened 2020 decisions have both identities recovered. A historical TED pilot links 18 strictly selected municipal notices to Gauting and Mühldorf elections, including nine single-lot awarded tender counts and five explicit contract dates. Both finalists' gender, actual term verification and study-wide procurement coverage remain open. See the [operational election–procurement pilot](docs/feasibility/bavaria-operational-pilot.md). No procurement effects have been estimated.
+**Status, 3 October 2026:** Bavaria is the active feasibility workstream. All 997 conservatively screened two-person decisions for 2020–2024 match the historical vote source. Five official reports supply 450 exactly reconciled named rounds; 95 screened 2020 decisions have both identities recovered. The candidate register now includes eight official gendered-title observations and three pairs with both presentations documented. Municipal sources support three initial appointments and two bounded intervals. The 18-notice TED pilot contains nine Gauting awarded single-lot tender counts and five explicit contract dates; full Mühldorf legacy PDFs add five dated award units within its two existing notices. Historical treatment coding, continuous authority and study-wide coverage remain incomplete. See the [candidate, tenure and legacy-award register](docs/feasibility/bavaria-candidate-and-tenure-register.md). No procurement effects have been estimated.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
@@ -32,6 +32,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Bavaria candidate and tenure register](docs/feasibility/bavaria-candidate-and-tenure-register.md) | 190 candidate records, three mixed-title pairs, tenure boundaries and five dated legacy award units |
 | [Bavaria operational pilot](docs/feasibility/bavaria-operational-pilot.md) | Official candidate identities recovered and historical municipal TED data linked |
 | [GERDA usability and Bavaria follow-up](docs/feasibility/gerda-usability-and-bavaria-followup.md) | Person-panel audit, 53 dated gender leads and historical municipal title evidence |
 | [Bavaria feasibility assessment](docs/feasibility/bavaria-feasibility.md) | Historical register, 997 source-validated decisions, German data precedents and procurement gaps |

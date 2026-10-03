@@ -6,6 +6,8 @@ Assessment: 3 October 2026. Bavaria remains the active state for the German adap
 
 The [GERDA follow-up audit](gerda-usability-and-bavaria-followup.md) adds the person panel, 53 exact links to dated 2026 source gender labels and four historical official-title observations. Gräfelfing now has title evidence for both candidates. These supplementary evidence types remain separate from approved historical treatment labels and complete actual terms.
 
+The subsequent [candidate and tenure register](bavaria-candidate-and-tenure-register.md) expands official title evidence to eight candidates and three mixed-title pairs. Three initial appointments and two source-bounded intervals are documented. Full legacy TED PDFs recover five dated award units within Mühldorf's two existing notices; historical treatment coding, uninterrupted authority and statewide coverage remain open.
+
 ## Completed work
 
 - Retrieved, hashed and independently parsed a pinned historical source workbook, preserving source rows and exceptions.

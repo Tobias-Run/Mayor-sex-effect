@@ -2,6 +2,8 @@
 
 Audit: 3 October 2026. GERDA is our operational election backbone for the German adaptation of Florio and Spagnolo. It substantially reduces acquisition work, but the public Bavarian files do not supply complete historical candidate gender and actual tenure measures.
 
+**Subsequent archive expansion:** the [candidate and tenure register](bavaria-candidate-and-tenure-register.md) increases the four initial official-title observations documented below to eight, with three mixed-title pairs. It adds actual appointment/role-end evidence and full legacy TED fields. GERDA's 2026 labels remain dated leads; they are not automatically transferred to 2020.
+
 ## What GERDA supplies
 
 [GERDA](https://www.german-elections.com/) is a research compilation of state-specific election sources. Its inspected mayoral extension covers 13 states, with election-round, candidate-cycle, person-election and annual files, including versions harmonized to 2021 boundaries. It is not a federal register of all mayoral candidates.

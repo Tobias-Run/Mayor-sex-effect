@@ -2,6 +2,8 @@
 
 Evidence checked on 3 October 2026. This pilot develops the German adaptation of [Florio and Spagnolo's Italian procurement study](../literature.md). It verifies source linkage and outcome availability; it does not estimate a mayor-gender effect. Bavaria remains the priority before NRW.
 
+**Later follow-up:** the [candidate and tenure register](bavaria-candidate-and-tenure-register.md) adds eight official title observations, three mixed-title pairs, appointment boundaries and five explicitly dated Mühldorf legacy award units. The indexed counts below describe the original JSON acquisition; full-document fields are retained in a separate supplement rather than silently changing that snapshot.
+
 ## What now works
 
 Five official statistical reports recover names for **450 municipal election rounds**, with **1,432 matched candidate-round observations**, from 2008, 2014 and 2020. These are observations across rounds, not distinct people. Within the conservative 2020 two-candidate election screen, **95 decisive rounds** have named candidate pairs: six within two percentage points and 16 within five. Candidate gender and actual individual terms remain unverified.
