@@ -89,6 +89,77 @@ def monetary_status(value):
     return "nominal_one_euro_needs_review" if Decimal(value) == 1 else "reported_not_independently_validated"
 
 
+def parse_legacy_range_or_group(text, number, buyer):
+    """Recover dated awards with explicit ranges/groups; never split a grouped count.
+
+    This fallback accepts only the two reviewed alternative value/lot layouts.
+    Scalar legacy awards continue through the existing reconciled parser.
+    """
+    text = normalized(re.sub(re.escape(number) + r"\s+Page \d+/\d+", " ", text))
+    if set(fulltext_buyers(text, number)) != {buyer} or result_status(text, number, buyer) != "awarded":
+        raise ValueError("Alternative legacy layout does not identify the expected awarded authority")
+    before, *sections = text.split("Abschnitt V: Auftragsvergabe")
+    partition = unique_optional(r"Aufteilung des Auftrags in Lose: (ja|nein)", before)
+    defined = re.findall(r"Los-Nr\.: (\d+)\b", before)
+    if partition not in ("ja", "nein") or len(defined) != len(set(defined)):
+        raise ValueError("Unclear legacy lot definitions")
+    declared_total = unique_optional(r"II\.1\.7\. Gesamtwert der Beschaffung Wert ohne MwSt\.: ([\d ,.]+) EUR", before)
+    if declared_total is None:
+        raise ValueError("Missing declared notice value")
+    rows, used, alternative = [], set(), False
+    for index, section in enumerate(sections, 1):
+        section = section.split("Abschnitt VI: Weitere Angaben")[0]
+        header = section.split("Ein Auftrag/Los wurde vergeben:")[0]
+        label = unique_optional(r"Los-Nr\.: (.*?) Bezeichnung des Auftrags:", header)
+        if label is None:
+            raise ValueError("Missing explicit award/lot label")
+        if partition == "nein":
+            if len(sections) != 1 or label != "1" or defined:
+                raise ValueError("Unexpected undivided contract label")
+            lot_numbers, unit = [], "undivided_contract"
+        else:
+            if not re.fullmatch(r"Los \d+(?: \+ \d+)*", label):
+                raise ValueError("Unsupported declared lot grouping")
+            lot_numbers = re.findall(r"\d+", label)
+            if len(set(lot_numbers)) != len(lot_numbers) or used.intersection(lot_numbers) or not set(lot_numbers).issubset(defined):
+                raise ValueError("Repeated, overlapping or undefined award lots")
+            used.update(lot_numbers)
+            unit = "grouped_lot_award" if len(lot_numbers) > 1 else "lot"
+            alternative |= len(lot_numbers) > 1
+        date_raw = unique_optional(r"V\.2\.1\. Tag des Vertragsabschlusses (\d{2}/\d{2}/\d{4})", section)
+        count_raw = unique_optional(r"V\.2\.2\. Angaben zu den Angeboten Anzahl der eingegangenen Angebote: (\d+)\b", section)
+        if date_raw is None or count_raw is None or int(count_raw) < 1:
+            raise ValueError("Alternative legacy award lacks a valid date/total tender count")
+        value_raw = unique_optional(r"(?<!veranschlagter )Gesamtwert des Auftrags/Loses: ([\d ,.]+) EUR", section)
+        ranges = re.findall(r"Niedrigstes Angebot: ([\d ,.]+) EUR / höchstes Angebot: ([\d ,.]+) EUR das berücksichtigt wurde", section)
+        if value_raw is not None and ranges or len(ranges) > 1 or value_raw is None and not ranges:
+            raise ValueError("Ambiguous scalar/range value in legacy award")
+        low, high = (str(euro(v)) for v in ranges[0]) if ranges else (None, None)
+        if ranges and Decimal(low) > Decimal(high):
+            raise ValueError("Inverted reported bid range")
+        alternative |= bool(ranges)
+        rows.append({"publication_number": number, "award_section": index,
+                     "lot_number": "+".join(lot_numbers) if lot_numbers else None,
+                     "lot_numbers": lot_numbers, "lot_label_source": label, "unit": unit,
+                     "contract_conclusion_date": datetime.strptime(date_raw, "%d/%m/%Y").date().isoformat(),
+                     "received_tenders": int(count_raw), "award_value_eur": str(euro(value_raw)) if value_raw else None,
+                     "bid_range_lower_eur": low, "bid_range_upper_eur": high,
+                     "winning_price_not_inferred_from_range": bool(ranges),
+                     "contract_date_source_quote": "V.2.1. Tag des Vertragsabschlusses " + date_raw,
+                     "received_tenders_source_quote": "Anzahl der eingegangenen Angebote: " + count_raw,
+                     "responsibility_assignment": "unverified"})
+    if not alternative or partition == "ja" and used != set(defined):
+        raise ValueError("Unsupported alternative layout or incomplete declared-lot coverage")
+    total = str(euro(declared_total))
+    complete_values = all(r["award_value_eur"] is not None for r in rows)
+    reconciled = sum(Decimal(r["award_value_eur"]) for r in rows) == Decimal(total) if complete_values else None
+    return rows, {"publication_number": number, "buyer": buyer, "status": "awarded",
+                  "notice_value_eur": total, "award_values_reconcile": reconciled,
+                  "monetary_outcome_review_required": reconciled is not True,
+                  "monetary_review_reason": "declared_notice_total_differs_from_award_sum" if reconciled is False else "winning_price_not_reported" if reconciled is None else None,
+                  "declared_lots": defined, "award_sections": len(rows), "alternative_legacy_layout": True}
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--download", action="store_true")
@@ -113,7 +184,10 @@ def main():
                     rows, lot_audits = [], []
                     audit = {"status": status, "source_quote": "Ein Auftrag/Los wurde vergeben: nein"}
                 else:
-                    rows, audit = parse_legacy_awards(text, number, record["buyer_name"])
+                    try:
+                        rows, audit = parse_legacy_awards(text, number, record["buyer_name"])
+                    except ValueError:
+                        rows, audit = parse_legacy_range_or_group(text, number, record["buyer_name"])
                     value = record["source_fields"].get("total-value")
                     if value is None or Decimal(str(value)) != Decimal(audit["notice_value_eur"]):
                         raise ValueError("Legacy indexed total does not reconcile with full award values")
@@ -139,6 +213,8 @@ def main():
         for row in rows:
             row.update({"ags": record["ags"], "buyer_scope": record["buyer_scope"], "source": source,
                         "layout": audit["layout"], "monetary_value_status": monetary_status(row["award_value_eur"]),
+                        "notice_award_values_reconcile": audit.get("award_values_reconcile", audit.get("notice_values_reconcile")),
+                        "monetary_outcome_review_required": audit.get("monetary_outcome_review_required", False) or row["award_value_eur"] is None or monetary_status(row["award_value_eur"]) == "nominal_one_euro_needs_review",
                         "actual_term_assignment": "unverified", "gender_measurement": "unverified"})
         awards.extend(rows)
     keys = [(r["publication_number"], r["lot_number"]) for r in awards]
@@ -154,6 +230,9 @@ def main():
                "award_units_with_total_tender_count": sum(a["received_tenders"] is not None for a in awards),
                "award_units_with_both_date_and_total_tender_count": sum(a["received_tenders"] is not None and a["contract_conclusion_date"] is not None for a in awards),
                "nominal_one_euro_award_values": sum(a["monetary_value_status"] == "nominal_one_euro_needs_review" for a in awards),
+               "grouped_lot_award_units": sum(a["unit"] == "grouped_lot_award" for a in awards),
+               "bid_range_without_winning_price_units": sum(a.get("winning_price_not_inferred_from_range", False) for a in awards),
+               "notices_with_unreconciled_award_values": sum(a.get("award_values_reconcile") is False for a in audits),
                "dated_geilen_award_units_within_head_role": sum(a["within_source_bounded_geilen_role"] is True for a in awards),
                "represented_municipal_election_events": len({a["ags"] for a in awards}),
                "procurement_responsibility_or_main_treatment_assignments": 0}

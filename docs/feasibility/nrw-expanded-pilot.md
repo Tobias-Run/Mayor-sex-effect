@@ -2,6 +2,8 @@
 
 Checked on 3 October 2026. The [original operational pilot](nrw-operational-pilot.md) remains a reproducible 55-notice baseline. This supplement completes its buyer-scope queue and expands full-document measurement. The project adapts **Florio and Spagnolo's [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899)** to Germany, drawing on the [German literature and data precedents](../literature.md). **No treatment effect or analytical sample has been estimated.**
 
+**Subsequent update:** the [latest follow-up](nrw-pilot-completion.md) resolves the two legacy layouts below and supplies 57 supported units, including 52 with both date and total count. It also adds exact archived Iserlohn presentation and separate entry/activity evidence. The 54/49 counts below describe the earlier scope-expansion stage; running the current updated outcome parser yields the subsequent totals.
+
 **The fixed 115-notice TED query now supplies 92 individually accepted municipal notices. Fifty full PDFs have been acquired and pinned; 46 belong to the expanded municipal cohort. Their supported award sections yield 54 award/lot-result units, including 49 with both an explicit contract date and a total tender count.** The relevant independent electoral units remain the same three 2020 municipal elections.
 
 ## All original scope cases reviewed
@@ -98,3 +100,5 @@ Generated person, contract, lot and source-audit records remain local under `out
 ## Remaining gates
 
 The next priorities are actual office boundaries in Iserlohn and Velbert, primary evidence for Iserlohn's other finalist, the two unsupported award layouts, and expansion of full-document recovery beyond these 46 retained notices. Repeated procedures, amendments, represented purchasing and related lots need a documented eligibility/deduplication rule. Coverage still excludes other notice types and procurement below TED reporting thresholds. The main design also needs consistent gender measurement, outcome definitions and enough independent eligible elections for useful precision. GitHub Pages remains deferred until completion of the research.
+
+The two unsupported layout cases and Iserlohn finalist presentation identified at this stage are now resolved in the [latest follow-up](nrw-pilot-completion.md). Formal office boundaries, monetary meaning/reconciliation and broader outcome/cluster coverage remain open.

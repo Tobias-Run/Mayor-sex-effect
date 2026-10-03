@@ -1,0 +1,5 @@
+id,url,sha256,bytes,retrieved_at_utc
+iserlohn-kirchhoff-person,https://www.iserlohn.sitzung-online.de/public/kp020?KPLFDNR=1000472,269bc5f2e1b5123d9b2ad27db08d4009884ea13ee81bb79d3dd3f23ce4f6aaf6,18754,2026-10-03T22:04:53.878029+00:00
+velbert-deputies,https://www.velbert.de/rathaus-politik/stellv-buergermeister/in,10ef86561e8959d5ed525a8ed3cfad17e6a875c2b6ad2d256464e7c4765c9935,83743,2026-10-03T21:51:08.758817+00:00
+joithe-about-0,https://michael-joithe.de/ihr-buergermeister/,2b852977de879c346da75b07394e1ed7e4220f45caca152f043aa912479bb84a,115067,2026-10-03T22:11:04.420789+00:00
+iserlohn-nov9-2020,https://www.iserlohn.de/rathaus-politik/politik/buergermeister/reden-und-video-botschaften-des-buergermeisters/ansprache-9-november-2020,aa48f363d58fa61a7feb685366dfc661a211f4a79ba4fd2d38ce67fd40989348,83895,2026-10-03T22:09:50.867166+00:00
