@@ -2,6 +2,8 @@
 
 Checked on 3 October 2026. This pilot continues the [380-election NRW audit](nrw-statewide-election-register.md). It adapts **Florio and Spagnolo's [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899)** to Germany; the [literature review](../literature.md) records the German precedents. **No causal effects have been estimated.**
 
+The [subsequent expanded supplement](nrw-expanded-pilot.md) completes this pilot's buyer-scope queue and raises the retained municipal count to 92. The 55-notice acquisition and three-PDF results below remain the original reproducible baseline.
+
 The new evidence comprises **55 strictly matched municipal result notices**, **four named official title observations**, **one source-bounded council-head interval**, and **two legacy awarded contracts with explicit dates and tender counts**. A third full notice explicitly reports no award. These are acquisition and measurement results, not an eligible RDD sample.
 
 ## Three deliberately selected follow-up municipalities
@@ -90,6 +92,8 @@ Generated records, exclusions, source quotes and date checks remain under `outpu
 
 All three real-source pipelines complete successfully. **31 offline tests pass**, including six new tests of buyer scope, non-awards, mixed award sections, named-person historical boundaries, committee dates and successor-day exclusion.
 
-## Next acquisition gates
+## Subsequent acquisition and remaining gates
 
-Review the 40 municipal scope/alias cases, expand full notices and verify beneficiary municipalities before interpreting coverage. Obtain primary presentation evidence for both remaining finalists and actual office boundaries in Iserlohn and Velbert; extend the same protocol to the remaining close-election queue. Document procedure/lot deduplication, reporting selection and environmental/social outcome availability. Only then count independently eligible elections and assess precision. GitHub Pages remains deferred until the research is complete.
+The [expanded supplement](nrw-expanded-pilot.md) has now reviewed all 40 municipal-prefix cases plus the additional multiple-label case, and supplies 49 full-notice awarded units with dates and total tender counts. It also adds a dated party-authored Velbert finalist statement. The initial figures above describe this original baseline and should not be added again to the supplement's totals.
+
+Continue with actual office boundaries in Iserlohn and Velbert, primary evidence for Iserlohn's other finalist, two unsupported legacy layouts and broader full-document outcome coverage. Document reporting selection, procedure/lot deduplication and environmental/social definitions before counting independently eligible elections and assessing precision. GitHub Pages remains deferred until the research is complete.
