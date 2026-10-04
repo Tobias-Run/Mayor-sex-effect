@@ -2,6 +2,8 @@
 
 Reviewed on **4 October 2026**. This acquisition step extends the original Iserlohn, Velbert and Geilenkirchen pilot. It supports the German adaptation of Florio and Spagnolo's Italian procurement study; the [literature note](../literature.md) records the German precedents. No causal effects have been estimated.
 
+The subsequent [procedure and presentation audit](nrw-procedure-and-presentation-audit.md) adds a complete 225-notice identifier supplement, four narrowly index-supported total counts without dates and further historical primary evidence. Counts below describe this initial extension stage; its fixed strict parser and full-text outcomes remain unchanged.
+
 ## Acquisition and scope
 
 The next six municipalities in the statewide, official-vote-verified mixed-prediction follow-up queue are Unna, Viersen, Werdohl, Frechen, Sendenhorst and Weilerswist. Together with the original three, these are the first nine acquisition leads. This ordering is a data-collection choice, not an RDD bandwidth, an eligible sample or a validated historical gender measure.
