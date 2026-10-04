@@ -1,0 +1,4 @@
+source_id,ags,role_category,source_rows,vacancy_rows,day_precision_starts,year_precision_starts,blank_ends,registry_gender_field
+dusseldorf-heads-csv,05111000,municipal_head_history,15,0,15,0,1,False
+dusseldorf-deputies-csv,05111000,honorary_deputy_history,29,0,29,0,3,False
+muenster-heads-csv,05515000,historical_list_from_muensterwiki,25,1,0,25,1,False
