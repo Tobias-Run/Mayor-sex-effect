@@ -2,7 +2,7 @@
 
 Reviewed on **4 October 2026**. This supplement follows the [six-municipality extension](nrw-extension.md). It improves measurement and duplication checks for the German adaptation of Florio and Spagnolo's Italian study; [German precedents and the adaptation](../literature.md) remain part of the research design. No causal effects or main-study treatment assignments have been produced.
 
-**Later source supplement:** the [national OpenData audit](national-procurement-open-data.md) now matches all 57 known UUID/version pairs in original German eForms, corroborates the four indexed totals, adds dated XML observations and recovers competition-phase context. Its combined paired inventory is 118 observed result units across four elections. The counts below describe this earlier index/PDF stage.
+**Later source supplements:** the [national OpenData audit](national-procurement-open-data.md) matches all 57 known UUID/version pairs in original German eForms and corroborates the four indexed totals. The subsequent [buyer and phase audit](nrw-buyer-and-phase-audit.md) expands the inventory to 237 retained results and 123 dated/count observations across six elections. It verifies both explicit previous-competition references in original result XML and all 63 legacy previous-competition references in original PDFs; 115 observations have supported competition-to-contract chronology. The counts below describe this earlier index/PDF stage.
 
 ## A complete enriched index snapshot
 

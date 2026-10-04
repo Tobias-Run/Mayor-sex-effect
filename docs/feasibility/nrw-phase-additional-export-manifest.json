@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2023-10-31&format=eforms.zip",
+    "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2023-10-31&format=eforms.zip",
+    "http_status": 200,
+    "content_type": null,
+    "period": "2023-10-31",
+    "format": "eforms",
+    "file": "2023-10-31-eforms.zip",
+    "bytes": 1534137,
+    "sha256": "87c0c58030f7cdc1e2291b3dc3957b0386f518dc9fb37f34d0226149a7f03c68",
+    "archive_member_count": 507,
+    "retrieved_at_utc": "2026-10-04T20:11:50.976702+00:00"
+  }
+]

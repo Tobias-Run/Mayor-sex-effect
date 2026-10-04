@@ -29,6 +29,12 @@ The [federal OpenData audit](national-procurement-open-data.md) now verifies a w
 
 Fifty linked competition notices for 38 GUIDs improve phase measurement. Review their versions and municipal beneficiary scope before selecting original tender publication dates. The [preliminary protocol](../research-protocol.md) clarifies that the proposed election-level municipal ITT needs buyer/beneficiary scope and supported office windows; personal contract handling by the mayor is a mechanism question, not a universal eligibility certificate. Original pilot flags are not automatically relabelled. Next work should expand independent eligible elections, resolve the 51 scope cases and complete temporal/unit rules before precision assessment. The Italian design and cited German research remain explicit foundations.
 
+## Latest buyer and phase audit
+
+The [buyer and procurement-phase audit](nrw-buyer-and-phase-audit.md) resolves 16 original-XML buyer cases: 12 retained city notices, two excluded joint/county cases and two unresolved operating-unit beneficiaries. Thirty-five older cases still lack an acquired original full notice, leaving **37 pending cases**. The acquisition inventory grows to **237 results**, with **123 dated/count observations in 82 notices across six elections**. These stage counts supersede the earlier acquisition totals above without changing their archived outputs.
+
+Expanded source checks cover 69 retained result XML notices, 59 original competition XML notices, two explicit result-XML previous references and 63 original legacy-PDF previous references. Fifty-five competition notices align to retained city scope; 39 of 42 city/GUID groups have supported documented roots, while three unlinked multiple-notice groups remain under review. **115 observed competition-to-contract pairs** have supported chronology. Three Iserlohn calls precede the November 2020 council boundary; two conclude afterwards. Actual person/event terms and earliest-ever publication remain unverified. Resolve the eight paired-observation timing gaps, broaden independent eligible-election coverage and specify notice/contract units before precision assessment. The new pipelines and all **110 offline tests** pass.
+
 ## Before the main study
 
 Specify primary outcomes, test families, sample eligibility, weighting, timing, estimator, inference, missing-data rules, and robustness checks. Register the analysis plan before inspecting main-study treatment-effect estimates. Record any exploratory pilot estimates and later deviations transparently.
