@@ -6,6 +6,8 @@ Reviewed on **4 October 2026**. This advances the German adaptation of **Florio 
 
 Earlier [PDF](nrw-complete-pilot.md), [indexed-procedure](nrw-procedure-and-presentation-audit.md) and [federal XML](national-procurement-open-data.md) outputs remain unchanged as separate stages. A dated award observation is not necessarily one legal contract or one independent election.
 
+**Later procedure supplement:** the [procedure-specific timing and term audit](nrw-procedure-scope-and-term-followup.md) verifies original types for every paired observation. Three of the eight timing cases explicitly have no prior call and require a separate timing rule; five remain competitive-procedure identity/date cases. Two same-title Geilenkirchen competition candidates have conflicting GUIDs and do not add supported dates. New municipal year-history/oath evidence and a Werdohl official 2020 nomination retain their limits. The counts below describe this preceding phase-audit stage.
+
 ## Resolving individual buyer cases
 
 The 51-case queue was queried through the independently public TED Search API. All 17 shared indexed fields agree with the preceding snapshot. Sixteen cases have exact UUID/version matches in the already pinned federal original-XML archives; each receives an individual [source-pinned decision](nrw-buyer-followup-decisions.csv).

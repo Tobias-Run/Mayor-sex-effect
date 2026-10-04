@@ -1,0 +1,16 @@
+metric,value
+retained_result_notices,237
+original_result_xml_notices,69
+original_legacy_result_pdf_notices,63
+original_procedure_type_notices,132
+original_xml_procedure_code_counts,"{""open"": 43, ""us-free-no-tw"": 2, ""neg-wo-call"": 13, ""neg-w-call"": 9, ""restricted"": 2}"
+original_xml_index_type_relations,"{""same_literal_code"": 55, ""indexed_type_absent"": 12, ""different_source_codes_review"": 2}"
+observed_dated_total_units,123
+observed_unit_procedure_code_counts,"{""neg-w-call"": 17, ""open"": 98, ""restricted"": 5, ""neg-wo-call"": 3}"
+observed_unit_timing_dispositions,"{""documented_competition_chronology_supported"": 115, ""competition_identity_or_date_review_pending"": 5, ""no_prior_call_procedure_requires_separate_timing_rule"": 3}"
+same_title_different_guid_candidates,2
+new_supported_competition_dates,0
+official_term_or_oath_claims,3
+new_certified_2020_entry_dates,0
+official_2020_werdohl_finalist_presentations,2
+main_treatment_assignments,0
