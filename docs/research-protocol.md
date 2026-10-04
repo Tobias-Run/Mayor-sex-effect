@@ -10,7 +10,7 @@ Does electing a female mayor causally affect public procurement practices and ou
 
 The project is a German adaptation of Florio and Spagnolo (2026), *Female Mayors and Public Procurement*, rather than an independently originated procurement design. It carries over the research question and close-election identification logic while adapting election eligibility, municipal responsibility, data linkage, and outcome measurement to Germany. Strategic procurement criteria are a proposed extension, conditional on measurement quality.
 
-Existing German research is explicitly part of the foundation: Schild, *Do Female Mayors Make a Difference? Evidence from Bavaria*, and Baskaran and Hessami, *Women in Political Bodies as Policymakers* (2023 working-paper record). Their substantive findings and institutional details will be checked against the papers before being used as evidence. See [literature.md](literature.md).
+Existing German research is explicitly part of the foundation: Schild (2013), *Do Female Mayors Make a Difference? Evidence from Bavaria*, and Baskaran and Hessami (2025), *Women in Political Bodies as Policymakers* (also available as a 2023 working paper). Selected primary methods and data sections have been reviewed; the mayoral and council treatments remain distinct. Arnold (2018), Frank, Stadelmann and Torgler (2023), and GERDA inform acquisition and election comparability. See [literature.md](literature.md) for verified references and reading limits.
 
 A comparison with Italy alone cannot identify the causal role of institutional differences between countries.
 
@@ -21,6 +21,8 @@ Compare eligible decisive mayoral elections in which a woman narrowly defeats a 
 The local effect concerns electing the female candidate rather than her actual male opponent. It does not identify gender independently of party, experience, incumbency, or other candidate characteristics. Eligibility rules must account for state-specific electoral institutions, multi-candidate races, and runoffs.
 
 Causal interpretation requires continuity of potential outcomes at the cutoff and a defensible account of selection and election processes. Covariate adjustment cannot repair an invalid design.
+
+The proposed target is the election-level intention-to-treat effect on procurement attributable to the municipality. It does **not** require the elected mayor to personally sign, award or manage each contract. Florio and Spagnolo describe a separate procurement officer responsible for the procedure (Section 2). Administrative delegation may transmit a political effect; restricting the sample to personally handled contracts could introduce selection. Verify municipal buyer/beneficiary scope and define how independent enterprises, joint purchasing and external agents enter the study. Personal involvement and delegation are potential mechanisms, not universal contract-eligibility certificates. Existing pilot fields marked `responsibility_assignment=unverified` are provenance flags and do not, by themselves, rule out municipal ITT eligibility.
 
 ## Outcomes under consideration
 
@@ -33,15 +35,21 @@ Cost overruns, delays, and renegotiations are excluded unless systematic, compar
 
 ## Timing, units, and estimation
 
-Link awards to actual terms in office using a documented date rule. Investigate preparation under predecessors, delayed effects, equal observation windows, and short follow-up after late elections.
+**Proposed timing alignment with Italy:** Florio and Spagnolo's baseline aggregates procedures published under the elected mayor (Section 4). Their robustness checks also consider publication and conclusion under the same mayor, and delayed publication after the election (Sections 5.2–5.3 and appendix). Prefer the original competition/tender publication date for a German baseline where it is observable; retain contract conclusion as a separate event and possible alternative specification. Publication of a later award-result notice is not the original tender publication. An award-date-only study would change the exposure definition and must be explicitly justified before preregistration.
+
+Link procurement phases to source-supported actual head-role intervals and retain the source, date precision and any unresolved boundary or interruption. A dated official person-role history can supply observational term boundaries; formal acceptance and predecessor-exit records help resolve ambiguous entries under NRW law. The legal council calendar, oath and first workday remain distinct. No personal-signature certificate is required. The evidence rule and handling of uncertain intervals must be chosen before the main analysis; this clarification does not automatically relabel pilot records. Investigate preparation under predecessors, delayed effects, equal observation windows, early exit and short follow-up after late elections.
 
 The proposed estimator is local linear RDD with data-driven bandwidths and robust bias-corrected confidence intervals. Account for within-municipality dependence; repeated elections require municipal clustering. Many contracts do not substitute for sufficient independent elections.
 
 Contract-level and election-level weighting imply different estimands. Weighting, handling of repeated elections, treatment compliance, and the final sample must be decided before the main analysis.
 
+Preserve original notice UUID/version and explicit lot–result–tender–contract relationships. Select result histories using a specified rule; do not equate notices, procedures, lots and contracts. The [federal export audit](feasibility/national-procurement-open-data.md) supplies original eForms and demonstrates that converted CSV buyer roles and statistic types can differ from the original. Source timestamps, dispatch/requested publication, actual publication and contract dates must remain distinct.
+
 ## Diagnostics and limitations
 
 Assess covariate balance, vote-margin distributions, alternative bandwidths, placebo cutoffs where appropriate, and pre-election outcomes when available. Recognize discrete vote counts and small-sample limits of density tests. Separate baseline characteristics from post-treatment variables.
+
+Procedure choice, contract volume, contractor selection and procurement-officer assignment may themselves respond to treatment. Do not automatically copy the Italian paper's procedure controls into the German primary model; define any conditional or mechanism estimand separately.
 
 Investigate reporting thresholds, missing values, procurement volumes, buyer responsibilities, and treatment-related selection into observed records. Public notices and TED cover selected procurement, not all municipal purchases. Describe the population represented by the final data.
 

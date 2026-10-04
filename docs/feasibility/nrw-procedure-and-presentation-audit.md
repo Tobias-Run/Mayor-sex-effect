@@ -2,6 +2,8 @@
 
 Reviewed on **4 October 2026**. This supplement follows the [six-municipality extension](nrw-extension.md). It improves measurement and duplication checks for the German adaptation of Florio and Spagnolo's Italian study; [German precedents and the adaptation](../literature.md) remain part of the research design. No causal effects or main-study treatment assignments have been produced.
 
+**Later source supplement:** the [national OpenData audit](national-procurement-open-data.md) now matches all 57 known UUID/version pairs in original German eForms, corroborates the four indexed totals, adds dated XML observations and recovers competition-phase context. Its combined paired inventory is 118 observed result units across four elections. The counts below describe this earlier index/PDF stage.
+
 ## A complete enriched index snapshot
 
 The public TED Search API was queried for all **225 retained publication numbers**, returning exactly that fixed set with 29 requested fields. The independently accessible API index supplies structured search fields; protected web full notices were not fetched. Its official [OpenAPI specification](https://api.ted.europa.eu/api-v3.yaml) documents 1,830 indexed field aliases. Discovery used that specification; the published pipelines run with Python's standard library and Poppler.

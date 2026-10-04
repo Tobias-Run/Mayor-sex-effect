@@ -1,0 +1,31 @@
+metric,value
+retained_index_notices,225
+index_notices_with_uuid_version,57
+retained_index_notices_without_uuid_version,168
+csv_monthly_exports,14
+xml_monthly_exports,14
+csv_exact_notice_version_matches,57
+xml_exact_notice_version_matches,57
+xml_result_units,88
+xml_result_statuses,"{""clos-nw"": 22, ""open-nw"": 5, ""selec-w"": 61}"
+xml_results_with_explicit_total,64
+xml_linkage_supported_award_results,51
+xml_dated_total_supported_units,30
+xml_dated_total_units_in_original_cohort,19
+xml_dated_total_units_matching_original_pdf,18
+original_cohort_additional_xml_result_units,1
+extension_new_dated_total_units,11
+extension_new_dated_total_distinct_notices,4
+extension_new_dated_total_election_events,1
+pdf_comparison_conflicts,0
+csv_conversion_review_notices,25
+csv_blank_statistic_type_rows,94
+csv_xml_buyer_role_conflict_notices,16
+all_main_treatment_assignments,0
+original_pdf_dated_total_units,106
+full_cohort_union_dated_total_units,118
+deduplication_complete,False
+competition_context_notices_csv_xml_and_ted,50
+competition_context_distinct_procedure_guids,38
+competition_context_retained_result_notices_linked,39
+source_population,Published result notices with exact UUID/version in the fixed acquisition inventory; not all German municipal purchases

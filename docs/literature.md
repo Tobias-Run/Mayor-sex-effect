@@ -55,3 +55,15 @@ Crossref REST API: `https://api.crossref.org/works`, queried by bibliographic ti
 ## Practical lessons for our design
 
 See [Election registers and lessons from German research](feasibility/registers-and-german-precedents.md) for a targeted reading of Schild and the 2023 working-paper version of Baskaran and Hessami, with data-source, coverage, eligibility, and measurement implications.
+
+The 4 October follow-up checks Florio and Spagnolo's [CEIS Research Paper 623, revised 3 July 2026](https://ceistorvergata.it/RePEc/rpaper/RP623.pdf), against the German [preliminary protocol](research-protocol.md):
+
+| Italian primary-paper passage | German adaptation implication |
+| --- | --- |
+| Section 2, printed pp. 5–6: the mayor leads the executive; a designated procurement officer (RUP) manages procurement | Target the municipality's election-level ITT; personal contract handling by the mayor is not a universal eligibility condition |
+| Section 3.1, pp. 7–8: ANAC phase completeness varies by procedure, size and category | Audit outcome-specific reporting and selection; a public notice register is not a census of all purchases |
+| Section 4, pp. 10–11: contract-level regressions aggregate procedures **published under** close-election winners | Recover original tender publication; later award-notice publication and contract conclusion are separate events |
+| Sections 5.2–5.3, pp. 16–18, and appendix: same-mayor publication/conclusion and delayed-publication checks | Prespecify phase alignment and lag checks; do not describe an award-date-only design as an exact timing replication |
+| Section 4 and regression-table notes: procedure, municipal and mayor controls | Distinguish pretreatment controls from potential mediators; German primary adjustment is not automatically inherited |
+
+These are verified design features of the primary paper, not recomputed Italian results or estimates for Germany. The preferred timing specification remains preliminary until German coverage and precision are established. The new [nationwide procurement export audit](feasibility/national-procurement-open-data.md) provides a practical acquisition route for the required phase and lot identifiers, while leaving earlier-period coverage open.
