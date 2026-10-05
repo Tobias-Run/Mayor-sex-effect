@@ -1,6 +1,6 @@
 # Detailed research plan
 
-Prepared on **5 October 2026** against the evidence published through 4 October. This is an operational plan, **not a preregistration or a positive feasibility finding**. The task estimates below are planning allowances; the work has not yet been carried out.
+Prepared on **5 October 2026** against the evidence published through 4 October. This is an operational plan, **not a preregistration or a positive feasibility finding**. The task estimates below preserve the original planning allowances. Execution status is now tracked in the task register: the [baseline snapshot](baseline-snapshot.md), [measurement codebook](candidate-exposure-codebook.md) and [initial 55-pair review](nrw-close-election-evidence-review.md) have been produced.
 
 **This project adapts Florio and Spagnolo (2026), [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899), to Germany.** Its German foundations include Schild (2013), Baskaran and Hessami (2025), Arnold (2018), Frank, Stadelmann and Torgler (2023), and Heddesheimer et al. (2025, GERDA). Keep this attribution prominent in the protocol, manuscript and eventual website. The [literature note](../literature.md) records what has actually been read.
 
@@ -23,7 +23,7 @@ Source snapshots: [statewide elections](nrw-statewide-election-register.md), [bu
 
 ## Work packages and dependencies
 
-Use [research-task-register.csv](research-task-register.csv) to track status, dependencies, outputs, acceptance conditions and time budgets. Paths listed there are **planned deliverables**, not existing findings. One working day means approximately six focused research hours; automated run time and external waiting are separate. Package ranges yield a rounded allowance of approximately **17–33 working days to the full feasibility decision**, with an earlier checkpoint after about **3–6 days**. They are effort estimates, not a promised calendar completion date. Independent reading and acquisition tasks can be interleaved.
+Use [research-task-register.csv](research-task-register.csv) to track status, dependencies, outputs, acceptance conditions and time budgets. Paths listed there are planned deliverables; consult task status and linked evidence to distinguish existing outputs from future work. One working day means approximately six focused research hours; automated run time and external waiting are separate. Package ranges yield a rounded allowance of approximately **17–33 working days to the full feasibility decision**, with an earlier checkpoint after about **3–6 days**. They are effort estimates, not a promised calendar completion date. Independent reading and acquisition tasks can be interleaved.
 
 | ID | Work package | Depends on | Working days | Completion evidence |
 | --- | --- | --- | ---: | --- |
@@ -53,7 +53,7 @@ Use [research-task-register.csv](research-task-register.csv) to track status, de
 
 Following a go decision, FP18–FP22 add approximately **10–18 working days**. Pages adds **2–4 days afterward**. A wider data expansion, unsuccessful access attempt or provider response can change these estimates. Stop or adaptation can end or reshape the causal work before the later packages.
 
-In the task register, `depends_on` gives unconditional prerequisites; `conditional_depends_on` records the additional FP17 reassessment needed only if expansion was chosen. `condition_or_timebox` specifies the relevant go/adapt/publication gate or search budget. Status remains planned, conditional or deferred until work actually begins.
+In the task register, `depends_on` gives unconditional prerequisites; `conditional_depends_on` records the additional FP17 reassessment needed only if expansion was chosen. `condition_or_timebox` specifies the relevant go/adapt/publication gate or search budget. Status is `completed` for FP01/FP03 and `initial_review_complete` for FP05, while later tasks remain planned, conditional or deferred. FP05 supplies all 110 candidate dispositions, not 55 verified classifications: six mixed and six same-presentation pairs are supported, with 43 unresolved. Carry unresolved cases into FP06 and exposure work; prioritize the eight missing candidate presentations in the 15 closest pairs.
 
 ## First execution block
 

@@ -1,0 +1,107 @@
+{
+  "checked_on": "2026-10-05",
+  "measurement": "historically_event_linked_public_presentation",
+  "codebook_sha256": "5458dd58e700142e475aee4d2628f42fc63710d9f18a365d6e92dfa7a84e965d",
+  "local_review_sha256": "72155e9497cd5f6bf8d61a452a42f91c86ed13f8a8e2615cc4f6ccc66e4ec694",
+  "all_55": {
+    "pairs": 55,
+    "candidate_dispositions": 110,
+    "supported_public_presentations": 35,
+    "unresolved_candidates": 75,
+    "pair_statuses": {
+      "mixed_public_presentation": 6,
+      "unresolved": 43,
+      "same_public_presentation": 6
+    },
+    "female_presented_wins": 2,
+    "female_presented_losses": 4
+  },
+  "first_15": {
+    "pairs": 15,
+    "candidate_dispositions": 30,
+    "supported_public_presentations": 22,
+    "unresolved_candidates": 8,
+    "pair_statuses": {
+      "mixed_public_presentation": 4,
+      "unresolved": 6,
+      "same_public_presentation": 5
+    },
+    "female_presented_wins": 1,
+    "female_presented_losses": 3
+  },
+  "remaining_40": {
+    "pairs": 40,
+    "candidate_dispositions": 80,
+    "supported_public_presentations": 13,
+    "unresolved_candidates": 67,
+    "pair_statuses": {
+      "unresolved": 37,
+      "same_public_presentation": 1,
+      "mixed_public_presentation": 2
+    },
+    "female_presented_wins": 1,
+    "female_presented_losses": 1
+  },
+  "inclusive_margin_counts": {
+    "1": {
+      "pairs": 4,
+      "candidate_dispositions": 8,
+      "supported_public_presentations": 7,
+      "unresolved_candidates": 1,
+      "pair_statuses": {
+        "mixed_public_presentation": 2,
+        "unresolved": 1,
+        "same_public_presentation": 1
+      },
+      "female_presented_wins": 0,
+      "female_presented_losses": 2
+    },
+    "2": {
+      "pairs": 15,
+      "candidate_dispositions": 30,
+      "supported_public_presentations": 22,
+      "unresolved_candidates": 8,
+      "pair_statuses": {
+        "mixed_public_presentation": 4,
+        "unresolved": 6,
+        "same_public_presentation": 5
+      },
+      "female_presented_wins": 1,
+      "female_presented_losses": 3
+    },
+    "5": {
+      "pairs": 34,
+      "candidate_dispositions": 68,
+      "supported_public_presentations": 30,
+      "unresolved_candidates": 38,
+      "pair_statuses": {
+        "mixed_public_presentation": 5,
+        "unresolved": 23,
+        "same_public_presentation": 6
+      },
+      "female_presented_wins": 2,
+      "female_presented_losses": 3
+    },
+    "10": {
+      "pairs": 55,
+      "candidate_dispositions": 110,
+      "supported_public_presentations": 35,
+      "unresolved_candidates": 75,
+      "pair_statuses": {
+        "mixed_public_presentation": 6,
+        "unresolved": 43,
+        "same_public_presentation": 6
+      },
+      "female_presented_wins": 2,
+      "female_presented_losses": 4
+    }
+  },
+  "source_pin_status_counts": {
+    "unavailable": 8,
+    "acquired": 115
+  },
+  "administrative_sex_gender_assignments": 0,
+  "main_treatment_assignments": 0,
+  "actual_exposure_histories_certified": 0,
+  "causal_effects_estimated": false
+}

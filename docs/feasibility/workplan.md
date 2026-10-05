@@ -4,6 +4,8 @@ The main study proceeds only after documented evidence supports data linkage, me
 
 **Next execution plan, 5 October 2026:** use the [detailed research plan](detailed-research-plan.md) and [task register](research-task-register.csv) for priorities, dependencies, finite search budgets and go/adapt/stop gates. The sections below preserve the acquisition history of their dated cohorts; the detailed plan reconciles the current baseline and prioritizes independent election coverage and precision.
 
+**Execution checkpoint, 5 October 2026:** the [baseline](baseline-snapshot.md) and [measurement codebook](candidate-exposure-codebook.md) are recorded. The [55-pair initial review](nrw-close-election-evidence-review.md) supports six mixed and six same-presentation pairs, leaving 43 unresolved. Within 2 pp, four mixed and five same pairs are supported; six pairs require eight more candidate presentations. Historical public presentation is separate from administrative sex/gender and final eligibility.
+
 | Stage | Tasks | Deliverable | Decision criterion |
 | --- | --- | --- | --- |
 | Literature and institutions | Verify references; document search queries and dates; map state election rules, terms, responsibilities, and reporting thresholds | Verified bibliography and institutional comparison | A defensible research contribution and comparable eligible elections |
