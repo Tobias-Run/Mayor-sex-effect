@@ -1,0 +1,60 @@
+{
+  "checked_at_utc": "2026-10-05T20:50:16.578227+00:00",
+  "candidate_window_start": "2023-11-01",
+  "candidate_window_end": "2024-12-31",
+  "baseline_artifacts_unchanged": 15,
+  "all_55_pair_counts": {
+    "mixed_public_presentation": 6,
+    "same_public_presentation": 10,
+    "unresolved": 39
+  },
+  "confirmed_mixed_pairs": 6,
+  "confirmed_mixed_pairs_with_any_pilot_dated_count": 4,
+  "candidate_window_linked_mixed_pairs": 3,
+  "candidate_window_female_wins": 1,
+  "candidate_window_female_losses": 2,
+  "candidate_window_observed_units": 13,
+  "certified_main_study_elections": 0,
+  "independent_second_coding_completed": false,
+  "candidate_support_pair_patterns": {
+    "winner_supported_loser_supported": 16,
+    "winner_unresolved_loser_unresolved": 31,
+    "winner_supported_loser_unresolved": 6,
+    "winner_unresolved_loser_supported": 2
+  },
+  "independent_review_packet": {
+    "prepared_pairs": 28,
+    "prepared_candidates": 56,
+    "classified_pairs": 16,
+    "unresolved_audit_pairs": 12,
+    "unresolved_one_supported": 4,
+    "unresolved_neither_supported": 8,
+    "second_coding_completed": false,
+    "independent_reviewer_assigned": false,
+    "local_packet_directory": "data/interim/nrw-independent-review",
+    "local_key_directory": "data/interim/nrw-independent-review-key",
+    "form_fields": [
+      "case_id",
+      "candidate_slot",
+      "reviewer_id",
+      "reviewed_at_utc",
+      "independent_presentation",
+      "identity_status",
+      "primary_authorship",
+      "historical_2020_link",
+      "source_id",
+      "evidence_locator",
+      "page_or_section",
+      "disagreement_reason",
+      "additional_search_minutes"
+    ]
+  },
+  "variance_source": "assumed_grid_not_treatment_outcome_estimates",
+  "numerical_environment": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "benchmark": "independent_equal_variance_Gaussian_two_group_test_not_RDD",
+  "causal_effects_estimated": false,
+  "decision": "continue_bounded_feasibility_adaptation_audit_no_main_study_go"
+}

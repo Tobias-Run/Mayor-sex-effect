@@ -1,0 +1,17 @@
+{
+  "checked_at_utc": "2026-10-05T20:52:14.498794+00:00",
+  "offline_tests_passed": 138,
+  "monte_carlo_validation_repetitions": 50000,
+  "local_document_links_verified": 172,
+  "input_hashes_verified": 9,
+  "frozen_baseline_hashes_verified": 15,
+  "linkage_rows": 55,
+  "provisionally_linked_mixed_elections": 3,
+  "provisionally_linked_units": 13,
+  "independent_pair_packets_prepared": 28,
+  "independent_coding_completed": false,
+  "first_coder_key_separate": true,
+  "main_study_elections_certified": 0,
+  "causal_effects_estimated": false,
+  "github_pages": "deferred"
+}

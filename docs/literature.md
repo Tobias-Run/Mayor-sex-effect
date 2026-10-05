@@ -2,6 +2,8 @@
 
 Latest evidence: the **[literature/design crosswalk, 5 October 2026](feasibility/literature-design-crosswalk.md)** completes FP02's targeted comparison, with primary-source pins, exact searches and explicit edition/access limits. It adds the direct German female-mayor precedent **Baskaran and Hessami (2018)** and its public replication record. The [initial review, 3 October](feasibility/initial-review.md) remains a dated historical snapshot. The [outcome/population draft](feasibility/outcome-population-codebook.md) translates the comparison into proposed measurement rules; FP04 remains in progress.
 
+Following supervisory feedback, the [early feasibility memo](feasibility/early-feasibility-decision.md) distinguishes literature precedent from achievable German precision and actual linkage. The Italian results are not a German expected effect or a shortcut to an adequate election sample. The current primary scope is at most two nominated measures; strategic criteria remain a conditional exploratory extension.
+
 ## Starting point: Italy
 
 Florio, Erminia, and Giancarlo Spagnolo (2026). *Female Mayors and Public Procurement*. Working paper. DOI: [10.2139/ssrn.7046899](https://doi.org/10.2139/ssrn.7046899).

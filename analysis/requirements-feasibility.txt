@@ -1,0 +1,3 @@
+# Optional early-feasibility benchmark dependencies; not the main RDD stack.
+numpy==2.3.5
+scipy==1.17.0

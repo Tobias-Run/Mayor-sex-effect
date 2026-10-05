@@ -2,6 +2,8 @@
 
 This document translates the original pitch into working research specifications. It is not a preregistration. Unresolved choices must be settled using feasibility evidence and documented before the main analysis.
 
+**Supervisory revision, 5 October 2026:** the [early decision memorandum](feasibility/early-feasibility-decision.md) prioritizes independent-election precision, provisional common-window linkage and selection/independent-coding checks before extensive acquisition. Only three confirmed mixed elections currently intersect the candidate late-term window in existing pilot records; zero main-study elections are certified. The decision is continued bounded feasibility/adaptation, with no main-study go finding.
+
 ## Question and contribution
 
 Does electing a female mayor causally affect public procurement practices and outcomes in German municipalities? The project investigates competition, procurement procedure choice, and documented environmental, social, and innovation criteria. The proposed German contribution and the cited international findings require literature verification.
@@ -28,10 +30,10 @@ The proposed target is the election-level intention-to-treat effect on procureme
 
 ## Outcomes under consideration
 
-- Competition: number of bids and the share of awards with a single bid.
-- Procedure: procurement procedure categories, subject to consistent definitions and coverage.
-- Strategic procurement: documented environmental, social, and innovation criteria.
-- Secondary candidates: SME winners, contract values, local winners, and repeated winners when measurable.
+- Nominated primary procedure measure: negotiated-procedure share, with prior-call and no-call categories preserved and denominators validated.
+- Nominated primary competition measure: single-tender share among source-supported called-procedure result statistics; offers and distinct firms are different measures.
+- Secondary/exploratory candidates: mean total tenders, SME/local/repeated winners and values when measurable.
+- Conditional exploratory extension: documented environmental, social and innovation criteria.
 
 Cost overruns, delays, and renegotiations are excluded unless systematic, comparable measurement is demonstrated. Strategic criteria measure documentation, not realized environmental or social effects. Choose a small set of primary outcomes and testing families before the main study.
 
@@ -45,7 +47,9 @@ Link procurement phases to source-supported actual head-role intervals and retai
 
 The proposed estimator is local linear RDD with data-driven bandwidths and robust bias-corrected confidence intervals. Account for within-municipality dependence; repeated elections require municipal clustering. Many contracts do not substitute for sufficient independent elections.
 
-Contract-level and election-level weighting imply different estimands. The [outcome/population codebook, version 0.1](feasibility/outcome-population-codebook.md), proposes one outcome row and equal base weight per election, a fixed calendar assignment through turnover, procedure-level composition and separate lot/grouped-result tender statistics. Conditional denominators, an undefined mean for a municipality with no qualifying result, and post-election procedure/reporting selection remain explicit. FP04 is in progress: the primary family, denominator interpretation and no-call event rule remain to be settled. Actual common dates and censoring are FP08 decisions; the final sample and inference require later gates.
+Contract-level and election-level weighting imply different estimands. The [outcome/population codebook, version 0.2](feasibility/outcome-population-codebook.md), proposes one outcome row and equal base weight per election, a fixed calendar assignment through turnover, procedure-level composition and separate lot/grouped-result tender statistics. Conditional denominators, undefined outcomes when no qualifying result exists, and post-election procedure/reporting selection remain explicit. FP04 is in progress: two primary candidates are nominated, while confirmation, denominator interpretation and no-call timing remain open. Actual common dates and censoring are FP08 decisions; the final sample and inference require later gates.
+
+The new early precision screen uses hypothetical municipal variance grids and a Gaussian two-group benchmark, without outcome regressions or significance-based tuning. It is not RDD power and does not certify a sample. [Independent coding](feasibility/independent-coding-protocol.md) must be completed by a separate reviewer before main-study eligibility is frozen; all classified pairs, including same-presentation exclusions, and a stratified unresolved audit are included. Incumbency, municipal size and reporting selection need their own validated baseline/coverage checks.
 
 Preserve original notice UUID/version and explicit lot–result–tender–contract relationships. Select result histories using a specified rule; do not equate notices, procedures, lots and contracts. The [federal export audit](feasibility/national-procurement-open-data.md) supplies original eForms and demonstrates that converted CSV buyer roles and statistic types can differ from the original. Source timestamps, dispatch/requested publication, actual publication and contract dates must remain distinct.
 

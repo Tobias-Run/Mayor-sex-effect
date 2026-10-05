@@ -1,0 +1,10 @@
+dimension,group,candidate_records,supported_candidates,unresolved_candidates,support_rate
+candidate_election_result,winner,55,22,33,0.4
+candidate_election_result,loser,55,18,37,0.32727272727272727
+decisive_round,first,30,13,17,0.43333333333333335
+decisive_round,runoff,80,27,53,0.3375
+absolute_margin_band,within_2_pp,30,27,3,0.9
+absolute_margin_band,over_2_to_10_pp,80,13,67,0.1625
+acquired_non_election_official_documents,none_acquired,76,14,62,0.18421052631578946
+acquired_non_election_official_documents,one_or_two,28,21,7,0.75
+acquired_non_election_official_documents,three_or_more,6,5,1,0.8333333333333334

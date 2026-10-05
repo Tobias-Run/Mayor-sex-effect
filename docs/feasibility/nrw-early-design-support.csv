@@ -1,0 +1,6 @@
+scenario,treated,control,linear_rank,linear_columns,quadratic_rank,quadratic_columns,linear_residual_df,quadratic_residual_df
+confirmed_within_1pp,0,2,2,4,2,6,0,0
+confirmed_within_2pp,1,3,3,4,4,6,1,0
+confirmed_within_5pp,2,3,4,4,5,6,1,0
+confirmed_within_10pp,2,4,4,4,5,6,2,1
+provisionally_linked_candidate_window,1,2,3,4,3,6,0,0

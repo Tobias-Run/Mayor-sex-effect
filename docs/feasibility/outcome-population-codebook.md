@@ -1,6 +1,6 @@
 # Outcome and population codebook — feasibility draft
 
-**Version 0.1, 5 October 2026; FP04 in progress.** This draft fixes the distinctions and proposed construction rules needed for the next coverage audit. It is not a preregistration, a completed sample definition or permission to estimate effects. FP04 remains open until the primary outcome family, treatment-dependent denominator handling and a defensible no-call timing rule are settled using feasibility evidence. Common dates are an FP08 decision; final confirmation is an FP18 gate.
+**Version 0.2, 5 October 2026; FP04 in progress.** Following supervisory feedback, this draft nominates at most two primary outcome candidates and moves precision/linked-sample assessment ahead of extensive acquisition. It is not a preregistration, a completed sample definition or permission to estimate effects. Denominator interpretation, coverage and a defensible no-call timing rule remain open. Common dates are an FP08 decision; final outcome confirmation is an FP18 gate. The [early decision memo](early-feasibility-decision.md) establishes the new bounded execution order.
 
 **The project adapts Florio and Spagnolo (2026) to Germany**, informed by the [Italian/German literature crosswalk](literature-design-crosswalk.md). Candidate measurement and signed margins follow the unchanged [candidate/exposure codebook](candidate-exposure-codebook.md). Historically linked public presentation is the currently available measure; administrative sex/gender remains unavailable. Every construction record must retain the original source and rule version.
 
@@ -54,7 +54,7 @@ The pipeline implementation and full graph audit are FP12 work. Existing observe
 
 ## Outcome populations and denominators
 
-The candidate core comprises **procedure composition** and **tender competition**. These families require different universes. No confirmatory testing family or effect direction is selected in this draft.
+Nominate a maximum two-measure primary family: **negotiated-procedure share** among unique in-scope procedures and **single-tender share** among supported called-procedure result statistics. They require different universes. The early precision screen reports alpha .05 and a conservative per-test .025 allowance for a two-outcome family. Coverage/denominators, substantive effect thresholds and the final family still require confirmation; no effect direction is assumed. Mean total tenders, values/winners and strategic criteria are secondary or exploratory/conditional extensions in this phase. Failure of a nominated measure must be recorded; it is not silently replaced to obtain a favorable result.
 
 | Candidate measure | Numerator/value | Required denominator/population | Interpretation and missing states |
 | --- | --- | --- | --- |
@@ -122,7 +122,7 @@ Each future analysis row must be traceable to election ID, original assignment e
 
 | Next decision | Responsible work package | Evidence required |
 | --- | --- | --- |
-| Select a small primary family and settle conditional versus unconditional observed-event targets | FP04, informed by FP07–FP08 | Coverage/denominator audits that support the intended claim; no effect-based selection |
+| Confirm the two nominated primary candidates and settle conditional versus unconditional observed-event targets | FP04, informed by early FP15 and bounded coverage work | Coverage/denominator audits and useful precision for the intended claim; no effect-based selection |
 | Establish or reject a common no-call event timestamp | FP04–FP08 | Original administrative fields and comparable semantic interpretation across source regimes |
 | Select actual dates, maturity and follow-up cutoff | FP08 | Pinned archive availability and reporting-lag/phase audit |
 | Apply individual scope/timing dispositions and unit rules | FP10–FP12 | Case ledger and graph reconciliation, including all finite pilot exceptions |
@@ -131,3 +131,5 @@ Each future analysis row must be traceable to election ID, original assignment e
 | Demonstrate useful precision and freeze confirmatory specifications | FP15–FP18 | Independent assignments, MDE/design checks, explicit go decision and dated preregistration |
 
 FP04 is **in progress**, with this reviewable draft as its current output. Later source-dependent gates remain open. The pilot counts, candidate labels and frozen baseline have not been changed by drafting these rules. GitHub Pages remains deferred until research completion.
+
+The [early linked-sample/precision audit](early-feasibility-decision.md) now precedes extensive FP06–FP13 execution. It finds three provisional candidate-window links, not a main-study sample. Independent coding is a separate gate under the [review protocol](independent-coding-protocol.md); packet preparation does not satisfy it. A bounded adaptation/stop decision can precede full collection.
