@@ -47,7 +47,11 @@ def source_text(source, cache):
             cache[key] = subprocess.check_output(
                 ["pdftotext", "-layout", source["local_file"], "-"], text=True)
         else:
-            cache[key] = html_text(raw.decode("utf-8", errors="replace"))
+            # The pin records the provider's declared charset where available.
+            # Several historical party pages use Latin-1; decoding them as UTF-8
+            # loses accented names and prevents an exact identity/locator check.
+            encoding = source.get("text_encoding") or "utf-8"
+            cache[key] = html_text(raw.decode(encoding, errors="replace"))
     return cache[key]
 
 
@@ -196,7 +200,8 @@ def reviewed_pair(event, review, sources, cache):
         "official_vote_source_id": event["detail_source_id"],
         "search_batch_ids": ";".join(review["search_batch_ids"]),
         "remaining_gap": review["public_remaining_gap"],
-        "review_status": "initial_review_complete", "main_study_eligibility": "pending"}
+        "review_status": review.get("review_status", "initial_review_complete"),
+        "main_study_eligibility": "pending"}
 
 
 def audit_reviews(events, reviews, sources, cache=None):

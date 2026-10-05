@@ -105,6 +105,18 @@ class ClosePairAuditTests(unittest.TestCase):
             source['status']='unavailable'
             with self.assertRaises(ValueError):verified_bytes(source)
 
+    def test_declared_legacy_encoding_preserves_the_named_identity_locator(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path=Path(directory,'source.html')
+            raw='<p>Herr Synthétique, nomination for the 2020 election.</p>'.encode('iso-8859-1')
+            path.write_bytes(raw)
+            source=dict(source_id='synthetic',status='acquired',local_file=str(path),
+                        bytes=len(raw),sha256=hashlib.sha256(raw).hexdigest(),text_encoding='iso-8859-1')
+            evidence=self.evidence('male');evidence['locator']='Herr Synthétique'
+            self.assertEqual(validate_evidence(evidence,{'synthetic':source},{}),'male')
+            source['text_encoding']='utf-8'
+            with self.assertRaises(ValueError):validate_evidence(evidence,{'synthetic':source},{})
+
     def test_missing_duplicate_and_swapped_finalist_dispositions_fail(self):
         event=self.event();review=self.review()
         for rows in ([],[review,copy.deepcopy(review)]):
