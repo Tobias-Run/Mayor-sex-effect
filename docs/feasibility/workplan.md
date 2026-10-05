@@ -2,6 +2,8 @@
 
 The main study proceeds only after documented evidence supports data linkage, measurement quality, and useful statistical precision. This is a workplan, not a completed assessment.
 
+**Next execution plan, 5 October 2026:** use the [detailed research plan](detailed-research-plan.md) and [task register](research-task-register.csv) for priorities, dependencies, finite search budgets and go/adapt/stop gates. The sections below preserve the acquisition history of their dated cohorts; the detailed plan reconciles the current baseline and prioritizes independent election coverage and precision.
+
 | Stage | Tasks | Deliverable | Decision criterion |
 | --- | --- | --- | --- |
 | Literature and institutions | Verify references; document search queries and dates; map state election rules, terms, responsibilities, and reporting thresholds | Verified bibliography and institutional comparison | A defensible research contribution and comparable eligible elections |

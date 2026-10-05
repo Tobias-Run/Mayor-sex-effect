@@ -18,6 +18,8 @@ Competition context now includes **59 original XML notices for 45 GUIDs** and **
 
 The [Bavaria candidate, tenure and legacy-award register](docs/feasibility/bavaria-candidate-and-tenure-register.md) remains available: 997 source-validated structural pairs, 95 named 2020 decisions, eight official title observations, three mixed-title pairs, two source-bounded tenure intervals and a historical 18-notice procurement pilot. Full Mühldorf legacy PDFs recover five dated award units within two of those notices. Bavaria's unresolved measurement and coverage gates remain explicit.
 
+**Next steps, 5 October 2026:** the [detailed research plan](docs/feasibility/detailed-research-plan.md) prioritizes historical candidate evidence, independent election coverage, common procurement windows and precision before further causal work. It includes 23 work packages, bounded exception searches and explicit go/adapt/stop gates; the [task register](docs/feasibility/research-task-register.csv) tracks planned dependencies and acceptance criteria. GitHub Pages remains deferred until research completion.
+
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
 ## Research workflow
@@ -36,6 +38,7 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Detailed research plan and task register](docs/feasibility/detailed-research-plan.md) | Priorities, 23 work packages, effort estimates, evidence gates and the path to analysis and Pages |
 | [NRW procedure-specific timing and term follow-up](docs/feasibility/nrw-procedure-scope-and-term-followup.md) | Original types for all 123 observations, three no-call cases, five timing cases, two conflicting GUID candidates and additional official person evidence |
 | [NRW buyer and procurement-phase audit](docs/feasibility/nrw-buyer-and-phase-audit.md) | 237 retained results, 123 paired observations across six elections, 115 supported phase links and 37 remaining buyer cases |
 | [Nationwide procurement OpenData and NRW XML audit](docs/feasibility/national-procurement-open-data.md) | Verified federal exports, 118 paired result observations across four elections, CSV conversion checks and 50 competition notices |

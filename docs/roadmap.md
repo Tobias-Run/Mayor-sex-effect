@@ -1,17 +1,19 @@
 # Project roadmap
 
-All research milestones below are pending unless explicitly marked complete.
+Updated on **5 October 2026**. The [detailed research plan](feasibility/detailed-research-plan.md) and [task register](feasibility/research-task-register.csv) define the next work packages, dependencies, effort estimates and decision gates. These are planned tasks, not completed research.
 
 | Milestone | Completion evidence | Status |
 | --- | --- | --- |
 | Repository setup | English documentation, workflow, original pitch, and publication plan | Complete |
-| Literature and institutional review | Verified bibliography, search log, state comparison | In progress: initial source audit available |
-| Data-access assessment | Confirmed variables, identifiers, lawful linkage, and coverage | In progress: legal route and form fields inspected |
-| Pilot dataset | Audited election register, buyer mapping, and quality report | In progress: GERDA structure screened; gender, terms and buyer linkage incomplete |
+| Literature and institutional review | Primary methods/outcome comparison, search log and defensible contribution | In progress: Italian primary paper and selected German sections reviewed; targeted completion in FP02 |
+| Data-access assessment | Confirmed variables, identifiers, linkage scope and coverage | In progress: national CSV/XML exports verified; common-window and outcome-denominator audits planned |
+| Pilot dataset | Audited elections, buyer mapping, analytical units and quality report | In progress: 214 NRW pairs; 123 observed dated/count units across six elections before full deduplication; treatment measurement unresolved |
 | Feasibility decision | Counts, minimum detectable effects, and documented decision | Pending |
 | Main-study specification | Preregistered analysis plan and frozen construction rules | Pending |
 | Empirical research | Reproducible estimates, diagnostics, robustness, and limitations | Pending |
 | Research completion | Final manuscript and checked reproducibility package | Pending |
 | Interactive GitHub Pages release | Reviewed public-safe artifacts and completed publication checklist | Deferred until research completion |
 
-There is no promised completion date. Data access and pilot feasibility determine the schedule. Update this roadmap when evidence changes the project scope.
+The critical path is **candidate evidence → systematic coverage and unit construction → independent-election precision → go/adapt/stop → preregistration → main research → manuscript/reproduction → Pages**. A checkpoint after the 55 close-pair evidence screen should expose sample limitations before further extensive notice parsing. The full 214-pair eligibility ledger precedes a final NRW go decision; prediction labels do not define eligibility.
+
+Planning allowances are approximately **17–33 focused working days to the full feasibility decision**, including an early checkpoint after about **3–6 days**. A successful go decision is followed by approximately **10–18 days for the main specification, analysis and manuscript**, then **2–4 days for Pages**. A conditional expansion starts with a separate **3–5 day audit**, not a promise to finish another state dataset within that period. These are effort estimates; provider delays, missing evidence and scope changes can alter the calendar. No completion date is promised.
