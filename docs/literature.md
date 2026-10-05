@@ -1,6 +1,6 @@
 # Literature and adaptation
 
-Latest evidence: [Initial literature and data review, 3 October 2026](feasibility/initial-review.md). This review supersedes the initial verification-status notes below where specified. The Italian primary paper has now been obtained and selected sections inspected; the published German and exact French references have been identified.
+Latest evidence: the **[literature/design crosswalk, 5 October 2026](feasibility/literature-design-crosswalk.md)** completes FP02's targeted comparison, with primary-source pins, exact searches and explicit edition/access limits. It adds the direct German female-mayor precedent **Baskaran and Hessami (2018)** and its public replication record. The [initial review, 3 October](feasibility/initial-review.md) remains a dated historical snapshot. The [outcome/population draft](feasibility/outcome-population-codebook.md) translates the comparison into proposed measurement rules; FP04 remains in progress.
 
 ## Starting point: Italy
 
@@ -12,7 +12,7 @@ This is the explicit foundation for adapting the close-election procurement rese
 
 ## Existing research on Germany
 
-For the election compilation, cite **Heddesheimer, Vincent, Hanno Hilbig, Florian Sichart and Andreas Wiedemann (2025), GERDA: German Election Database, Scientific Data 12: 618**, [doi:10.1038/s41597-025-04811-5](https://doi.org/10.1038/s41597-025-04811-5), together with the pinned repository commit for the later mayoral extension. The [GERDA usability audit](feasibility/gerda-usability-and-bavaria-followup.md) distinguishes acquired fields, state-specific sources, gender provenance and reuse conditions. This is a data contribution, not a German female-mayor procurement-effect study.
+For the election compilation, cite **Heddesheimer, Vincent, Hanno Hilbig, Florian Sichart and Andreas Wiedemann (2025), GERDA: The German Election Database, Scientific Data 12: 618**, [doi:10.1038/s41597-025-04811-5](https://doi.org/10.1038/s41597-025-04811-5), together with the pinned repository commit for the later mayoral extension. The [GERDA usability audit](feasibility/gerda-usability-and-bavaria-followup.md) distinguishes acquired fields, state-specific sources, gender provenance and reuse conditions. This is a data contribution, not a German female-mayor procurement-effect study.
 
 The latest [Bavaria assessment](feasibility/bavaria-feasibility.md#lessons-and-acquisition-routes-from-german-research) adds source-access findings from Arnold and Frank, Stadelmann and Torgler, alongside Schild. Their different coverage and gender measurement are explicitly preserved.
 
@@ -20,11 +20,15 @@ The [operational pilot](feasibility/bavaria-operational-pilot.md) now implements
 
 **Schild, Christopher-Johannes (2013). *Do female mayors make a difference? Evidence from Bavaria*. IWQW Discussion Papers No. 07/2013. Friedrich-Alexander-Universität Erlangen-Nürnberg, Institut für Wirtschaftspolitik und Quantitative Wirtschaftsforschung.** [EconStor record](https://hdl.handle.net/10419/81935).
 
-Bibliography verified against EconStor on 3 October 2026; primary PDF obtained and abstract and election-data section inspected. See the [follow-up source check](feasibility/pilot-source-check.md). This supersedes the earlier unresolved-citation status; full methods and precision review remains pending.
+Bibliography verified against EconStor on 3 October 2026. The new crosswalk examines Sections 3–6, decisive-round/write-in rules, Table 1 and fiscal-window/cluster definitions. The 5 October download has different bytes from the earlier copy but identical extracted layout text; both hashes are preserved. The authors' fiscal findings have not been reproduced and do not establish German procurement null effects. See the earlier [source check](feasibility/pilot-source-check.md) for the initial acquisition.
+
+**Baskaran, Thushyanthan, and Zohal Hessami (2018). *Does the Election of a Female Leader Clear the Way for More Women in Politics?* American Economic Journal: Economic Policy 10(3): 95–121.** DOI [10.1257/pol.20170045](https://doi.org/10.1257/pol.20170045).
+
+This is a direct German **female-mayor close-election** precedent, using Hesse mayoral assignments and subsequent council-candidate outcomes. Its [University of Konstanz Working Paper 2017-09](https://www.uni-konstanz.de/FuF/wiwi/workingpaperseries/WP_09_Baskaran_Hessami_2017.pdf) was obtained and methods/data sections inspected on 5 October. The journal PDF returned 403, so final-version differences remain unverified. A public [openICPSR V1 replication record](https://doi.org/10.3886/E114710V1), dated 13 October 2019, was acquired; the package, license text and data were not downloaded or audited. This is an additional source route to examine, not verified NRW data access.
 
 **Baskaran, Thushyanthan, and Zohal Hessami (2023). *Women in Political Bodies as Policymakers*.** Working-paper record. DOI: [10.2139/ssrn.4377785](https://doi.org/10.2139/ssrn.4377785).
 
-The published version is **Baskaran and Hessami (2025), Review of Economics and Statistics 107(6): 1501–1517**, DOI [10.1162/rest_a_01352](https://doi.org/10.1162/rest_a_01352). Crossref metadata and the abstract confirm the Bavarian council-election and childcare context. Full-text methods review remains pending.
+The published version is **Baskaran and Hessami (2025), Review of Economics and Statistics 107(6): 1501–1517**, DOI [10.1162/rest_a_01352](https://doi.org/10.1162/rest_a_01352). The March-2023 IZA working paper was obtained and its sample, outcome, weighting and inference sections inspected. Final journal access returned 403; its methods and changes from the earlier edition remain unverified. The crosswalk retains the working paper's 1,634-introduction/1,632-data-section discrepancy and explicitly describes its different councillor treatment.
 
 These German studies provide related institutional and methodological groundwork. Mayors and councillors are different treatments, and fiscal and childcare outcomes differ from procurement outcomes.
 
@@ -34,7 +38,9 @@ These German studies provide related institutional and methodological groundwork
 
 ## Other international groundwork
 
-Bauhr, Monika, and Nicholas Charron (2021). *Will Women Executives Reduce Corruption? Marginalization and Network Inclusion*. **Comparative Political Studies 54(7): 1292–1322**. DOI [10.1177/0010414020970218](https://doi.org/10.1177/0010414020970218). Metadata and abstract verified on 3 October 2026; full-text review remains pending. Online publication was in December 2020; the print issue is dated 2021.
+Bauhr, Monika, and Nicholas Charron (2021). *Will Women Executives Reduce Corruption? Marginalization and Network Inclusion*. **Comparative Political Studies 54(7): 1292–1322**. DOI [10.1177/0010414020970218](https://doi.org/10.1177/0010414020970218). Metadata and abstract verified on 3 October 2026. On 5 October, the indexed primary article's design and dependent-variable sections were inspected; direct PMC download returned a browser challenge, so no original article/supplement was accepted. The crosswalk describes only that bounded reading. Online publication was in December 2020; the print issue is dated 2021.
+
+**Hessami, Zohal, and Mariana Lopes da Fonseca (2020). *Female political representation and substantive effects on policies: A literature review*. European Journal of Political Economy 63: 101896.** The [CESifo Working Paper 8155, March 2020](https://www.ifo.de/DocDL/cesifo1_wp8155.pdf), was obtained and Sections 3–5 inspected as contextual synthesis and bibliography. The final article was not compared. The review helps distinguish spending, specific-policy and representation outcomes; it is not a German procurement-effect study.
 
 ## Adaptation and proposed extensions
 

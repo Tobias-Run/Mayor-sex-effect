@@ -1,5 +1,7 @@
 # Feasibility study workplan
 
+**Latest execution, 5 October 2026:** FP02's [targeted literature/design crosswalk](literature-design-crosswalk.md) is complete, with pinned primary editions, exact searches, access limits and the additional Hesse female-mayor precedent from Baskaran and Hessami (2018). FP04's [outcome/population codebook, version 0.1](outcome-population-codebook.md) is in progress: units, proposed weights and denominator/turnover distinctions are documented; the primary family and no-call timestamp remain open. A [bounded source continuation](nrw-priority-continuation.md) adds two school originals without changing any close-pair labels. The closest 15 remain 27/30 supported candidates, four mixed, nine same and two unresolved pairs. The [task register](research-task-register.csv) records completion evidence and remaining dependencies; the older acquisition sections below retain their own cohort snapshots.
+
 The main study proceeds only after documented evidence supports data linkage, measurement quality, and useful statistical precision. This is a workplan, not a completed assessment.
 
 **Next execution plan, 5 October 2026:** use the [detailed research plan](detailed-research-plan.md) and [task register](research-task-register.csv) for priorities, dependencies, finite search budgets and go/adapt/stop gates. The sections below preserve the acquisition history of their dated cohorts; the detailed plan reconciles the current baseline and prioritizes independent election coverage and precision.

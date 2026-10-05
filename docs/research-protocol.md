@@ -10,13 +10,15 @@ Does electing a female mayor causally affect public procurement practices and ou
 
 The project is a German adaptation of Florio and Spagnolo (2026), *Female Mayors and Public Procurement*, rather than an independently originated procurement design. It carries over the research question and close-election identification logic while adapting election eligibility, municipal responsibility, data linkage, and outcome measurement to Germany. Strategic procurement criteria are a proposed extension, conditional on measurement quality.
 
-Existing German research is explicitly part of the foundation: Schild (2013), *Do Female Mayors Make a Difference? Evidence from Bavaria*, and Baskaran and Hessami (2025), *Women in Political Bodies as Policymakers* (also available as a 2023 working paper). Selected primary methods and data sections have been reviewed; the mayoral and council treatments remain distinct. Arnold (2018), Frank, Stadelmann and Torgler (2023), and GERDA inform acquisition and election comparability. See [literature.md](literature.md) for verified references and reading limits.
+Existing German research is explicitly part of the foundation: Schild (2013), *Do Female Mayors Make a Difference? Evidence from Bavaria*; **Baskaran and Hessami (2018), *Does the Election of a Female Leader Clear the Way for More Women in Politics?***, using female-mayor close elections in Hesse; and Baskaran and Hessami (2025), *Women in Political Bodies as Policymakers* (also available as a 2023 working paper), on Bavarian councillors. Arnold (2018), Frank, Stadelmann and Torgler (2023), and GERDA inform acquisition and comparability; Hessami and Lopes da Fonseca (2020) provide broader synthesis. The [5 October crosswalk](feasibility/literature-design-crosswalk.md) records inspected editions, units, windows, weights, inference and access limits. Older working-paper methods are not silently attributed to unread final articles.
 
 A comparison with Italy alone cannot identify the causal role of institutional differences between countries.
 
 ## Identification and estimand
 
 Compare eligible decisive mayoral elections in which a woman narrowly defeats a man with elections in which she narrowly loses. Define the running variable as the female candidate's vote share minus the male candidate's vote share, measured in percentage points in the decisive round. Treatment is election of the female candidate; the threshold is zero. Ties and exceptional election outcomes require explicit rules.
+
+The currently available operational measure is historically linked **public gender presentation**, rather than administrative sex/gender. The [candidate codebook](feasibility/candidate-exposure-codebook.md) defines supporting evidence and unknowns. Any final paper must reflect the adopted measure; names and GERDA predictions cannot silently substitute for administrative fields.
 
 The local effect concerns electing the female candidate rather than her actual male opponent. It does not identify gender independently of party, experience, incumbency, or other candidate characteristics. Eligibility rules must account for state-specific electoral institutions, multi-candidate races, and runoffs.
 
@@ -43,7 +45,7 @@ Link procurement phases to source-supported actual head-role intervals and retai
 
 The proposed estimator is local linear RDD with data-driven bandwidths and robust bias-corrected confidence intervals. Account for within-municipality dependence; repeated elections require municipal clustering. Many contracts do not substitute for sufficient independent elections.
 
-Contract-level and election-level weighting imply different estimands. Weighting, handling of repeated elections, treatment compliance, and the final sample must be decided before the main analysis.
+Contract-level and election-level weighting imply different estimands. The [outcome/population codebook, version 0.1](feasibility/outcome-population-codebook.md), proposes one outcome row and equal base weight per election, a fixed calendar assignment through turnover, procedure-level composition and separate lot/grouped-result tender statistics. Conditional denominators, an undefined mean for a municipality with no qualifying result, and post-election procedure/reporting selection remain explicit. FP04 is in progress: the primary family, denominator interpretation and no-call event rule remain to be settled. Actual common dates and censoring are FP08 decisions; the final sample and inference require later gates.
 
 Preserve original notice UUID/version and explicit lot–result–tender–contract relationships. Select result histories using a specified rule; do not equate notices, procedures, lots and contracts. The [federal export audit](feasibility/national-procurement-open-data.md) supplies original eForms and demonstrates that converted CSV buyer roles and statistic types can differ from the original. Source timestamps, dispatch/requested publication, actual publication and contract dates must remain distinct.
 

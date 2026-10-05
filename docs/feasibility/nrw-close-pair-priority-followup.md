@@ -11,6 +11,8 @@ Completed on **5 October 2026** using the unchanged [measurement codebook, versi
 
 The full 55-pair checkpoint is **40/110 supported candidate presentations; six mixed, ten same and 39 unresolved pairs**. No additional mixed pair, female-presented win or female-presented loss has been added. The six mixed pairs still contain two wins and four losses. These descriptive acquisition counts do not choose an RDD bandwidth or establish adequate precision.
 
+A subsequent [bounded source continuation](nrw-priority-continuation.md), also on 5 October, examines two further 2020 school originals and retains all these counts. Its source/search inventories are separate; this follow-up's original manifest and candidate worksheet remain unchanged.
+
 ## Closed gaps and stronger evidence
 
 | Municipality | New evidence | Date and section | Result |
