@@ -1,0 +1,17 @@
+cutoff_pp,bavaria_scope,bavaria_conditional_max,nrw_conditional_max,pooled_conditional_max,feasible_min_female_wins,feasible_max_female_wins,best_balance_female_wins,best_balance_female_losses,alpha,gaussian_pooled_t_mde_sd,target_power,status
+1,all_named,1,2,3,0,1,1,2,0.05,20.004993592716254,0.8,upper_bound_not_sample_or_rdd_power
+1,all_named,1,2,3,0,1,1,2,0.025,39.97914093524837,0.8,upper_bound_not_sample_or_rdd_power
+1,provisional_result_presence,1,2,3,0,1,1,2,0.05,20.004993592716254,0.8,upper_bound_not_sample_or_rdd_power
+1,provisional_result_presence,1,2,3,0,1,1,2,0.025,39.97914093524837,0.8,upper_bound_not_sample_or_rdd_power
+2,all_named,6,6,12,2,8,6,6,0.05,1.7955409206192934,0.8,upper_bound_not_sample_or_rdd_power
+2,all_named,6,6,12,2,8,6,6,0.025,2.0441844546299834,0.8,upper_bound_not_sample_or_rdd_power
+2,provisional_result_presence,6,6,12,2,8,6,6,0.05,1.7955409206192934,0.8,upper_bound_not_sample_or_rdd_power
+2,provisional_result_presence,6,6,12,2,8,6,6,0.025,2.0441844546299834,0.8,upper_bound_not_sample_or_rdd_power
+5,all_named,16,24,40,3,33,20,20,0.05,0.9091290326834107,0.8,upper_bound_not_sample_or_rdd_power
+5,all_named,16,24,40,3,33,20,20,0.025,1.0085706748198038,0.8,upper_bound_not_sample_or_rdd_power
+5,provisional_result_presence,15,24,39,3,32,19,20,0.05,0.9216716742950247,0.8,upper_bound_not_sample_or_rdd_power
+5,provisional_result_presence,15,24,39,3,32,19,20,0.025,1.0227169597810148,0.8,upper_bound_not_sample_or_rdd_power
+10,all_named,31,45,76,3,68,38,38,0.05,0.6512195303785001,0.8,upper_bound_not_sample_or_rdd_power
+10,all_named,31,45,76,3,68,38,38,0.025,0.7195643323729332,0.8,upper_bound_not_sample_or_rdd_power
+10,provisional_result_presence,24,45,69,3,61,34,35,0.05,0.6844762824048788,0.8,upper_bound_not_sample_or_rdd_power
+10,provisional_result_presence,24,45,69,3,61,34,35,0.025,0.7566400436530765,0.8,upper_bound_not_sample_or_rdd_power

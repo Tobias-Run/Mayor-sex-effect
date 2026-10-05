@@ -1,5 +1,7 @@
 # Bavaria: candidate evidence, tenure boundaries and legacy awards
 
+**Later bounded decision, 5 October 2026:** the [register-route audit](bavaria-bounded-route.md) adds a capped 31-election TED availability check and a fresh GERDA/current-officeholder source audit. Historical gender gaps remain; no main sample is certified. The [stop/no-go memorandum](go-adapt-stop.md) makes a feasibility/data report active. Earlier acquisition priorities below are retained history and are on hold.
+
 Evidence checked on 3 October 2026. This work continues the German adaptation of **Florio and Spagnolo (2026), [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899)**. The [German literature and adaptation note](../literature.md) explains the lessons from Schild, Arnold and Frank–Stadelmann–Torgler. Bavaria remains the priority before NRW; the interactive GitHub Pages companion follows completed research.
 
 **Three named 2020 pairs now have documented female and male official titles. Mühldorf's full TED PDFs additionally recover five award units with explicit contract dates and tender counts.** These advances establish measurement feasibility in particular cases. They do not establish a sufficiently large, representative sample or a procurement effect.

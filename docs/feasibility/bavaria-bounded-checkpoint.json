@@ -1,0 +1,248 @@
+{
+  "generated_at_utc": "2026-10-05T21:18:10.135427+00:00",
+  "election_inputs": [
+    "outputs/bavaria-named-reports/recovered-screen-events.json",
+    "outputs/bavaria-register/screen-source-comparison.json",
+    "outputs/bavaria-candidate-register/candidates.json",
+    "outputs/bavaria-register/rounds.json"
+  ],
+  "named_pairs": 95,
+  "queried_pairs": 31,
+  "general_2020_structural_pairs": 902,
+  "calendar_2020_structural_pairs": 906,
+  "query_notice_count": 963,
+  "provisional_municipal_notices": 350,
+  "municipalities_with_provisional_results": 24,
+  "indexed_single_lot_total_tender_counts": 35,
+  "municipalities_with_indexed_total_tender_counts": 6,
+  "exclusions": {
+    "unmatched_or_ambiguous_municipal_name": 606,
+    "legal_type_not_single_local_authority": 1,
+    "missing_or_multiple_german_buyer_names": 6
+  },
+  "bands": [
+    {
+      "cutoff_pp": 1,
+      "statewide_general_2020_structural_pairs": 20,
+      "named_general_2020_pairs": 1,
+      "pairs_with_provisional_result_notices": 1,
+      "confirmed_mixed_title_pairs": 0,
+      "confirmed_female_wins": 0,
+      "confirmed_female_losses": 0,
+      "certified_main_study_elections": 0
+    },
+    {
+      "cutoff_pp": 2,
+      "statewide_general_2020_structural_pairs": 45,
+      "named_general_2020_pairs": 6,
+      "pairs_with_provisional_result_notices": 6,
+      "confirmed_mixed_title_pairs": 1,
+      "confirmed_female_wins": 0,
+      "confirmed_female_losses": 1,
+      "certified_main_study_elections": 0
+    },
+    {
+      "cutoff_pp": 5,
+      "statewide_general_2020_structural_pairs": 125,
+      "named_general_2020_pairs": 16,
+      "pairs_with_provisional_result_notices": 15,
+      "confirmed_mixed_title_pairs": 3,
+      "confirmed_female_wins": 0,
+      "confirmed_female_losses": 3,
+      "certified_main_study_elections": 0
+    },
+    {
+      "cutoff_pp": 10,
+      "statewide_general_2020_structural_pairs": 244,
+      "named_general_2020_pairs": 31,
+      "pairs_with_provisional_result_notices": 24,
+      "confirmed_mixed_title_pairs": 3,
+      "confirmed_female_wins": 0,
+      "confirmed_female_losses": 3,
+      "certified_main_study_elections": 0
+    }
+  ],
+  "query_metadata": {
+    "url": "https://api.ted.europa.eu/v3/notices/search",
+    "query": "buyer-country = DEU AND (buyer-city = \"Altdorf\" OR buyer-city = \"Bad Aibling\" OR buyer-city = \"Bad Reichenhall\" OR buyer-city = \"Bad Wörishofen\" OR buyer-city = \"Bogen\" OR buyer-city = \"Burglengenfeld\" OR buyer-city = \"Diedorf\" OR buyer-city = \"Erlangen\" OR buyer-city = \"Feucht\" OR buyer-city = \"Gauting\" OR buyer-city = \"Gersthofen\" OR buyer-city = \"Grafing b. München\" OR buyer-city = \"Grafing b.München\" OR buyer-city = \"Grafing bei München\" OR buyer-city = \"Gräfelfing\" OR buyer-city = \"Gröbenzell\" OR buyer-city = \"Haar\" OR buyer-city = \"Hauzenberg\" OR buyer-city = \"Hof\" OR buyer-city = \"Lauf a.d. Pegnitz\" OR buyer-city = \"Lauf a.d.Pegnitz\" OR buyer-city = \"Lauf an der Pegnitz\" OR buyer-city = \"Mainburg\" OR buyer-city = \"Mering\" OR buyer-city = \"Moosburg a.d. Isar\" OR buyer-city = \"Moosburg a.d.Isar\" OR buyer-city = \"Moosburg an der Isar\" OR buyer-city = \"Mühldorf a. Inn\" OR buyer-city = \"Mühldorf a.Inn\" OR buyer-city = \"Mühldorf am Inn\" OR buyer-city = \"Oberschleißheim\" OR buyer-city = \"Prien a. Chiemsee\" OR buyer-city = \"Prien a.Chiemsee\" OR buyer-city = \"Prien am Chiemsee\" OR buyer-city = \"Regensburg\" OR buyer-city = \"Schongau\" OR buyer-city = \"Stein\" OR buyer-city = \"Vaterstetten\" OR buyer-city = \"Weißenburg i. Bay.\" OR buyer-city = \"Weißenburg i.Bay.\" OR buyer-city = \"Weißenburg in Bayern\" OR buyer-city = \"Wolnzach\" OR buyer-city = \"Zirndorf\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20231101 AND publication-date <= 20260930",
+    "fields": [
+      "publication-number",
+      "publication-date",
+      "buyer-name",
+      "buyer-city",
+      "buyer-legal-type",
+      "buyer-identifier",
+      "procedure-type",
+      "procedure-identifier",
+      "notice-type",
+      "previous-notice-id-proc",
+      "contract-conclusion-date",
+      "result-lot-identifier",
+      "identifier-lot",
+      "received-submissions-type-code",
+      "received-submissions-type-val",
+      "BT-759-LotResult",
+      "BT-142-LotResult"
+    ],
+    "total_notice_count": 963,
+    "retrieved_at_utc": "2026-10-05T21:04:45.998672+00:00",
+    "pages": [
+      {
+        "file": "page-1.json",
+        "sha256": "f348aa3d9d56a87c3f0a3ad558af6a7a4b271374779417254fcb3b86d50c8f56",
+        "bytes": 1239651,
+        "request": {
+          "query": "buyer-country = DEU AND (buyer-city = \"Altdorf\" OR buyer-city = \"Bad Aibling\" OR buyer-city = \"Bad Reichenhall\" OR buyer-city = \"Bad Wörishofen\" OR buyer-city = \"Bogen\" OR buyer-city = \"Burglengenfeld\" OR buyer-city = \"Diedorf\" OR buyer-city = \"Erlangen\" OR buyer-city = \"Feucht\" OR buyer-city = \"Gauting\" OR buyer-city = \"Gersthofen\" OR buyer-city = \"Grafing b. München\" OR buyer-city = \"Grafing b.München\" OR buyer-city = \"Grafing bei München\" OR buyer-city = \"Gräfelfing\" OR buyer-city = \"Gröbenzell\" OR buyer-city = \"Haar\" OR buyer-city = \"Hauzenberg\" OR buyer-city = \"Hof\" OR buyer-city = \"Lauf a.d. Pegnitz\" OR buyer-city = \"Lauf a.d.Pegnitz\" OR buyer-city = \"Lauf an der Pegnitz\" OR buyer-city = \"Mainburg\" OR buyer-city = \"Mering\" OR buyer-city = \"Moosburg a.d. Isar\" OR buyer-city = \"Moosburg a.d.Isar\" OR buyer-city = \"Moosburg an der Isar\" OR buyer-city = \"Mühldorf a. Inn\" OR buyer-city = \"Mühldorf a.Inn\" OR buyer-city = \"Mühldorf am Inn\" OR buyer-city = \"Oberschleißheim\" OR buyer-city = \"Prien a. Chiemsee\" OR buyer-city = \"Prien a.Chiemsee\" OR buyer-city = \"Prien am Chiemsee\" OR buyer-city = \"Regensburg\" OR buyer-city = \"Schongau\" OR buyer-city = \"Stein\" OR buyer-city = \"Vaterstetten\" OR buyer-city = \"Weißenburg i. Bay.\" OR buyer-city = \"Weißenburg i.Bay.\" OR buyer-city = \"Weißenburg in Bayern\" OR buyer-city = \"Wolnzach\" OR buyer-city = \"Zirndorf\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20231101 AND publication-date <= 20260930",
+          "fields": [
+            "publication-number",
+            "publication-date",
+            "buyer-name",
+            "buyer-city",
+            "buyer-legal-type",
+            "buyer-identifier",
+            "procedure-type",
+            "procedure-identifier",
+            "notice-type",
+            "previous-notice-id-proc",
+            "contract-conclusion-date",
+            "result-lot-identifier",
+            "identifier-lot",
+            "received-submissions-type-code",
+            "received-submissions-type-val",
+            "BT-759-LotResult",
+            "BT-142-LotResult"
+          ],
+          "page": 1,
+          "limit": 250,
+          "scope": "ALL"
+        }
+      },
+      {
+        "file": "page-2.json",
+        "sha256": "bd07cd77d2301e1e8b565ed72445a2a98d3ba22db741ea98b403b63503829fb9",
+        "bytes": 1242977,
+        "request": {
+          "query": "buyer-country = DEU AND (buyer-city = \"Altdorf\" OR buyer-city = \"Bad Aibling\" OR buyer-city = \"Bad Reichenhall\" OR buyer-city = \"Bad Wörishofen\" OR buyer-city = \"Bogen\" OR buyer-city = \"Burglengenfeld\" OR buyer-city = \"Diedorf\" OR buyer-city = \"Erlangen\" OR buyer-city = \"Feucht\" OR buyer-city = \"Gauting\" OR buyer-city = \"Gersthofen\" OR buyer-city = \"Grafing b. München\" OR buyer-city = \"Grafing b.München\" OR buyer-city = \"Grafing bei München\" OR buyer-city = \"Gräfelfing\" OR buyer-city = \"Gröbenzell\" OR buyer-city = \"Haar\" OR buyer-city = \"Hauzenberg\" OR buyer-city = \"Hof\" OR buyer-city = \"Lauf a.d. Pegnitz\" OR buyer-city = \"Lauf a.d.Pegnitz\" OR buyer-city = \"Lauf an der Pegnitz\" OR buyer-city = \"Mainburg\" OR buyer-city = \"Mering\" OR buyer-city = \"Moosburg a.d. Isar\" OR buyer-city = \"Moosburg a.d.Isar\" OR buyer-city = \"Moosburg an der Isar\" OR buyer-city = \"Mühldorf a. Inn\" OR buyer-city = \"Mühldorf a.Inn\" OR buyer-city = \"Mühldorf am Inn\" OR buyer-city = \"Oberschleißheim\" OR buyer-city = \"Prien a. Chiemsee\" OR buyer-city = \"Prien a.Chiemsee\" OR buyer-city = \"Prien am Chiemsee\" OR buyer-city = \"Regensburg\" OR buyer-city = \"Schongau\" OR buyer-city = \"Stein\" OR buyer-city = \"Vaterstetten\" OR buyer-city = \"Weißenburg i. Bay.\" OR buyer-city = \"Weißenburg i.Bay.\" OR buyer-city = \"Weißenburg in Bayern\" OR buyer-city = \"Wolnzach\" OR buyer-city = \"Zirndorf\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20231101 AND publication-date <= 20260930",
+          "fields": [
+            "publication-number",
+            "publication-date",
+            "buyer-name",
+            "buyer-city",
+            "buyer-legal-type",
+            "buyer-identifier",
+            "procedure-type",
+            "procedure-identifier",
+            "notice-type",
+            "previous-notice-id-proc",
+            "contract-conclusion-date",
+            "result-lot-identifier",
+            "identifier-lot",
+            "received-submissions-type-code",
+            "received-submissions-type-val",
+            "BT-759-LotResult",
+            "BT-142-LotResult"
+          ],
+          "page": 2,
+          "limit": 250,
+          "scope": "ALL"
+        }
+      },
+      {
+        "file": "page-3.json",
+        "sha256": "2480d48ad8981039f01471796e9de0809eefeaafddb99ccf95e348a12b8b514c",
+        "bytes": 1245742,
+        "request": {
+          "query": "buyer-country = DEU AND (buyer-city = \"Altdorf\" OR buyer-city = \"Bad Aibling\" OR buyer-city = \"Bad Reichenhall\" OR buyer-city = \"Bad Wörishofen\" OR buyer-city = \"Bogen\" OR buyer-city = \"Burglengenfeld\" OR buyer-city = \"Diedorf\" OR buyer-city = \"Erlangen\" OR buyer-city = \"Feucht\" OR buyer-city = \"Gauting\" OR buyer-city = \"Gersthofen\" OR buyer-city = \"Grafing b. München\" OR buyer-city = \"Grafing b.München\" OR buyer-city = \"Grafing bei München\" OR buyer-city = \"Gräfelfing\" OR buyer-city = \"Gröbenzell\" OR buyer-city = \"Haar\" OR buyer-city = \"Hauzenberg\" OR buyer-city = \"Hof\" OR buyer-city = \"Lauf a.d. Pegnitz\" OR buyer-city = \"Lauf a.d.Pegnitz\" OR buyer-city = \"Lauf an der Pegnitz\" OR buyer-city = \"Mainburg\" OR buyer-city = \"Mering\" OR buyer-city = \"Moosburg a.d. Isar\" OR buyer-city = \"Moosburg a.d.Isar\" OR buyer-city = \"Moosburg an der Isar\" OR buyer-city = \"Mühldorf a. Inn\" OR buyer-city = \"Mühldorf a.Inn\" OR buyer-city = \"Mühldorf am Inn\" OR buyer-city = \"Oberschleißheim\" OR buyer-city = \"Prien a. Chiemsee\" OR buyer-city = \"Prien a.Chiemsee\" OR buyer-city = \"Prien am Chiemsee\" OR buyer-city = \"Regensburg\" OR buyer-city = \"Schongau\" OR buyer-city = \"Stein\" OR buyer-city = \"Vaterstetten\" OR buyer-city = \"Weißenburg i. Bay.\" OR buyer-city = \"Weißenburg i.Bay.\" OR buyer-city = \"Weißenburg in Bayern\" OR buyer-city = \"Wolnzach\" OR buyer-city = \"Zirndorf\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20231101 AND publication-date <= 20260930",
+          "fields": [
+            "publication-number",
+            "publication-date",
+            "buyer-name",
+            "buyer-city",
+            "buyer-legal-type",
+            "buyer-identifier",
+            "procedure-type",
+            "procedure-identifier",
+            "notice-type",
+            "previous-notice-id-proc",
+            "contract-conclusion-date",
+            "result-lot-identifier",
+            "identifier-lot",
+            "received-submissions-type-code",
+            "received-submissions-type-val",
+            "BT-759-LotResult",
+            "BT-142-LotResult"
+          ],
+          "page": 3,
+          "limit": 250,
+          "scope": "ALL"
+        }
+      },
+      {
+        "file": "page-4.json",
+        "sha256": "a4ac872e971385dae7af52090e9cd2db8c9a7440ae4dbe7ee9d0dfd7f20b23f9",
+        "bytes": 1066450,
+        "request": {
+          "query": "buyer-country = DEU AND (buyer-city = \"Altdorf\" OR buyer-city = \"Bad Aibling\" OR buyer-city = \"Bad Reichenhall\" OR buyer-city = \"Bad Wörishofen\" OR buyer-city = \"Bogen\" OR buyer-city = \"Burglengenfeld\" OR buyer-city = \"Diedorf\" OR buyer-city = \"Erlangen\" OR buyer-city = \"Feucht\" OR buyer-city = \"Gauting\" OR buyer-city = \"Gersthofen\" OR buyer-city = \"Grafing b. München\" OR buyer-city = \"Grafing b.München\" OR buyer-city = \"Grafing bei München\" OR buyer-city = \"Gräfelfing\" OR buyer-city = \"Gröbenzell\" OR buyer-city = \"Haar\" OR buyer-city = \"Hauzenberg\" OR buyer-city = \"Hof\" OR buyer-city = \"Lauf a.d. Pegnitz\" OR buyer-city = \"Lauf a.d.Pegnitz\" OR buyer-city = \"Lauf an der Pegnitz\" OR buyer-city = \"Mainburg\" OR buyer-city = \"Mering\" OR buyer-city = \"Moosburg a.d. Isar\" OR buyer-city = \"Moosburg a.d.Isar\" OR buyer-city = \"Moosburg an der Isar\" OR buyer-city = \"Mühldorf a. Inn\" OR buyer-city = \"Mühldorf a.Inn\" OR buyer-city = \"Mühldorf am Inn\" OR buyer-city = \"Oberschleißheim\" OR buyer-city = \"Prien a. Chiemsee\" OR buyer-city = \"Prien a.Chiemsee\" OR buyer-city = \"Prien am Chiemsee\" OR buyer-city = \"Regensburg\" OR buyer-city = \"Schongau\" OR buyer-city = \"Stein\" OR buyer-city = \"Vaterstetten\" OR buyer-city = \"Weißenburg i. Bay.\" OR buyer-city = \"Weißenburg i.Bay.\" OR buyer-city = \"Weißenburg in Bayern\" OR buyer-city = \"Wolnzach\" OR buyer-city = \"Zirndorf\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20231101 AND publication-date <= 20260930",
+          "fields": [
+            "publication-number",
+            "publication-date",
+            "buyer-name",
+            "buyer-city",
+            "buyer-legal-type",
+            "buyer-identifier",
+            "procedure-type",
+            "procedure-identifier",
+            "notice-type",
+            "previous-notice-id-proc",
+            "contract-conclusion-date",
+            "result-lot-identifier",
+            "identifier-lot",
+            "received-submissions-type-code",
+            "received-submissions-type-val",
+            "BT-759-LotResult",
+            "BT-142-LotResult"
+          ],
+          "page": 4,
+          "limit": 250,
+          "scope": "ALL"
+        }
+      }
+    ],
+    "publication_window": [
+      "20231101",
+      "20260930"
+    ],
+    "acquisition_cap": 1500
+  },
+  "main_study_elections_certified": 0,
+  "new_candidate_labels": 0,
+  "independent_coding_completed": false,
+  "original_competition_dates_verified": false,
+  "causal_effects_estimated": false,
+  "frozen_baseline_hashes_verified": 15,
+  "register_source_check": {
+    "gerda_baseline_commit": "030c1fb865ec4e6ef94d5dee2039edde081a0f5d",
+    "gerda_checked_commit": "176259ea551b12a56dcd0c15b168e0e6e608f59a",
+    "current_bavaria_rows": 68929,
+    "bavaria_rows_semantically_unchanged": true,
+    "bavaria_semantic_sha256": "b03f8ad05c1319f44278c39c44a626c654cd561df3cb1225383f5b9ff7bfe2fc",
+    "historical_2020_2024_rows": 4574,
+    "historical_rows_with_names": 0,
+    "historical_rows_with_gender": 0,
+    "gender_label_year_counts": {
+      "2026": 1915
+    },
+    "current_officeholder_source_date": "Erste Bürgermeisterinnen und Bürgermeister/Oberbürgermeisterinnen und Oberbürgermeister/Landrätinnen und Landräte (Stand: 14.07.2026)",
+    "current_municipal_officeholders": 2056,
+    "officeholder_election_years": {
+      "2025": 23,
+      "2026": 1919,
+      "2023": 53,
+      "2024": 41,
+      "2022": 19,
+      "unknown": 1
+    },
+    "historical_gender_transfers": 0,
+    "losing_candidate_rows_in_current_officeholder_file": 0
+  }
+}

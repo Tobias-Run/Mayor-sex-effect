@@ -1,5 +1,7 @@
 # Early feasibility decision following supervisory feedback
 
+**Subsequent checkpoint:** the single [Bavaria route test](bavaria-bounded-route.md) is now complete. The [bounded go/adapt/stop memorandum](go-adapt-stop.md) ends the current causal launch and selects a feasibility/data report. This earlier memo retains the original assumptions and finite decision-block schedule; it no longer schedules additional collection.
+
 **5 October 2026. Decision: continue a bounded feasibility/adaptation audit; do not prepare the main causal study on the present evidence.** This is an early checkpoint, not FP16's final NRW decision or a preregistration. The supervisor's memo moves precision and the actually linkable sample ahead of extensive acquisition. It requires an explicit next decision: prepare the main study, pursue a viable targeted expansion, or end the causal claim.
 
 **The project adapts Florio and Spagnolo (2026), [*Female Mayors and Public Procurement*](https://doi.org/10.2139/ssrn.7046899), to Germany**, building on Schild (2013), Baskaran and Hessami (2018, Hesse mayors; 2025, Bavarian councillors), and the other German foundations in the [literature crosswalk](literature-design-crosswalk.md). The contrast concerns electing a specific female-presented candidate rather than her actual opponent near the cutoff. Party, experience and other candidate attributes can differ. Our current historical presentation measure is distinct from an administrative sex/gender field.

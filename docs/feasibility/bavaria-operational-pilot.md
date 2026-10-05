@@ -1,5 +1,7 @@
 # Bavaria: operational election–procurement pilot
 
+**Later bounded decision, 5 October 2026:** the [register-route audit](bavaria-bounded-route.md) adds a capped 31-election TED availability check and a fresh GERDA/current-officeholder source audit. Historical gender gaps remain; no main sample is certified. The [stop/no-go memorandum](go-adapt-stop.md) makes a feasibility/data report active. Earlier acquisition priorities below are retained history and are on hold.
+
 Evidence checked on 3 October 2026. This pilot develops the German adaptation of [Florio and Spagnolo's Italian procurement study](../literature.md). It verifies source linkage and outcome availability; it does not estimate a mayor-gender effect. Bavaria remains the priority before NRW.
 
 **Later follow-up:** the [candidate and tenure register](bavaria-candidate-and-tenure-register.md) adds eight official title observations, three mixed-title pairs, appointment boundaries and five explicitly dated Mühldorf legacy award units. The indexed counts below describe the original JSON acquisition; full-document fields are retained in a separate supplement rather than silently changing that snapshot.

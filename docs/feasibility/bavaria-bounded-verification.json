@@ -1,0 +1,21 @@
+{
+  "checked_at_utc": "2026-10-05T21:18:28.367848+00:00",
+  "offline_tests_passed": 145,
+  "local_document_links_verified": 206,
+  "input_hashes_verified": 10,
+  "frozen_baseline_hashes_verified": 15,
+  "query_notices": 963,
+  "provisional_municipal_notices": 350,
+  "provisional_municipalities": 24,
+  "indexed_total_tender_counts": 35,
+  "municipalities_with_indexed_counts": 6,
+  "queried_named_elections": 31,
+  "confirmed_mixed_title_pairs": 3,
+  "confirmed_female_wins": 0,
+  "current_gerda_historical_bavaria_rows_unchanged": true,
+  "independent_coding_completed": false,
+  "main_study_elections_certified": 0,
+  "causal_effects_estimated": false,
+  "github_pages": "deferred",
+  "bounded_decision": "stop current causal launch; complete feasibility/data report"
+}

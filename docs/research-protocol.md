@@ -1,5 +1,7 @@
 # Research protocol — preliminary
 
+**Current scope decision, 5 October 2026:** the [bounded go/adapt/stop memorandum](feasibility/go-adapt-stop.md) ends the present causal launch and makes a [feasibility/data report](feasibility/report-completion-outline.md) active. This preliminary causal protocol retains proposed definitions for future reference; it is not a preregistration, an operational main-study specification or evidence that the gates have passed. No effect is estimated. Reopening requires material new sample/linkage evidence and renewed design/precision/review gates.
+
 This document translates the original pitch into working research specifications. It is not a preregistration. Unresolved choices must be settled using feasibility evidence and documented before the main analysis.
 
 **Supervisory revision, 5 October 2026:** the [early decision memorandum](feasibility/early-feasibility-decision.md) prioritizes independent-election precision, provisional common-window linkage and selection/independent-coding checks before extensive acquisition. Only three confirmed mixed elections currently intersect the candidate late-term window in existing pilot records; zero main-study elections are certified. The decision is continued bounded feasibility/adaptation, with no main-study go finding.
