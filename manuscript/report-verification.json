@@ -1,0 +1,120 @@
+{
+  "report_version": "0.1",
+  "verified_at_utc": "2026-10-09T21:00:03.913229+00:00",
+  "report_date": "2026-10-09",
+  "evidence_cutoff": "2026-10-05",
+  "pinned_public_inputs_verified": 22,
+  "public_only_rebuild": {
+    "private_inputs_copied": false,
+    "network_requests": false,
+    "outputs": [
+      {
+        "artifact": "manuscript/report-facts.json",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/feasibility-report.md",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/sample-flow.svg",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/sample-flow.pdf",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/sample-flow.png",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/precision-benchmark.svg",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/precision-benchmark.pdf",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/precision-benchmark.png",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/figures/precision-data.csv",
+        "byte_identical": true
+      },
+      {
+        "artifact": "manuscript/feasibility-report.pdf",
+        "byte_identical": true
+      }
+    ],
+    "checkpoint_equal_except_timestamp": true
+  },
+  "offline_tests": {
+    "run": 157,
+    "skipped": 0,
+    "passed": true,
+    "all_optional_numerical_checks_run": true
+  },
+  "pdf": {
+    "pages": 11,
+    "table_caption_pages": {
+      "1": 4,
+      "2": 5,
+      "3": 5,
+      "4": 6,
+      "5": 8
+    },
+    "text_within_page_boundaries": true,
+    "precision_table_on_one_page": true,
+    "visual_reviewed_pages": [
+      1,
+      4,
+      5,
+      6,
+      8
+    ],
+    "visual_review_scope": "title, tables, figures and clipping"
+  },
+  "relative_report_links_verified": 26,
+  "report_sources": [
+    {
+      "artifact": "src/report/build_feasibility_report.py",
+      "sha256": "af5f480b9b9e44fcd5664b3fc77fdb7cc6813b01b0099eea8dbc1556d0e10961"
+    },
+    {
+      "artifact": "src/report/pdf-tables.lua",
+      "sha256": "c9951b57313cea60c07cb92367decf537408d486586fa55544d75d6e318a2b09"
+    },
+    {
+      "artifact": "src/report/pdf-layout.tex",
+      "sha256": "25fdd3e00e6e56fc38eb3967457d532a53aed84d11ac5b6c9afb8fb8ba180ed3"
+    },
+    {
+      "artifact": "analysis/requirements-report.txt",
+      "sha256": "c6fc525d1ccfa33718e50fc6da2821931180acb66af6618faaebd8d97b3f5e16"
+    },
+    {
+      "artifact": "manuscript/report-inputs.json",
+      "sha256": "33065bef9fa374ac0d82d271b56883f5e93643ce010c4ba9b40d2b90fa107a34"
+    },
+    {
+      "artifact": "manuscript/feasibility-report.template.md",
+      "sha256": "1a8f610787d41abbbadf679394f24c31dad0d48ce2ec53c30bf02bcd6920a1b2"
+    },
+    {
+      "artifact": "src/report/verify_feasibility_report.py",
+      "sha256": "aad83245b7288b9b92b82dac57da5b942b6e2646d57a19aed32cb99297d8d3a6"
+    },
+    {
+      "artifact": "tests/test_feasibility_report.py",
+      "sha256": "86a648552b651a33ec1d74e0082d3f05eb54b3393bfd714b4fc03c991d80d38b"
+    }
+  ],
+  "independent_second_coding_completed": false,
+  "causal_effects_estimated": false,
+  "report_status": "draft_for_review",
+  "github_pages": "deferred",
+  "limitation": "Mechanical public-input reproduction is not independent candidate coding or upstream source validation."
+}

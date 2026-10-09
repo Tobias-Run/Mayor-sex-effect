@@ -1,5 +1,7 @@
 # Detailed research plan
 
+**Report checkpoint, 9 October 2026:** the [English feasibility manuscript](../../manuscript/feasibility-report.md), [PDF](../../manuscript/feasibility-report.pdf) and two reproducible figures are drafted from 22 public inputs frozen on 5 October. FP22 is draft-complete with review pending. The active work is substantive interpretation/version review, outstanding independent coding and an explicit completed-report decision. The causal no-go and deferred Pages gate remain in force; no new data acquisition or effect estimation is activated.
+
 Prepared on **5 October 2026** against the evidence published through 4 October. This is an operational plan, **not a preregistration or a positive feasibility finding**. The task estimates below preserve the original planning allowances. Execution status is now tracked in the task register: the [baseline snapshot](baseline-snapshot.md), [measurement codebook](candidate-exposure-codebook.md) and [initial 55-pair review](nrw-close-election-evidence-review.md) have been produced.
 
 **Bounded decision now complete:** the [go/adapt/stop memorandum](go-adapt-stop.md) ends the current causal launch and selects a [feasibility/data report](report-completion-outline.md). The single [Bavaria expansion-route test](bavaria-bounded-route.md) is complete. Broad acquisition and main-study work are on hold. Historical positive-go work packages below retain unmet dependencies; a bounded stop does not claim completed final RDD precision or independent coding.
@@ -8,7 +10,7 @@ Prepared on **5 October 2026** against the evidence published through 4 October.
 
 **This project adapts Florio and Spagnolo (2026), [Female Mayors and Public Procurement](https://doi.org/10.2139/ssrn.7046899), to Germany.** Its German foundations include Schild (2013), **Baskaran and Hessami (2018, female mayors in Hesse)**, Baskaran and Hessami (2025, Bavarian councillors), Arnold (2018), Frank, Stadelmann and Torgler (2023), and Heddesheimer et al. (2025, GERDA). Keep this attribution prominent in the protocol, manuscript and eventual website. The [literature note](../literature.md) and [completed targeted crosswalk](literature-design-crosswalk.md) record what has actually been read and the inspected editions.
 
-The next objective is **a completed feasibility/data manuscript and checked reproduction**, using the report outline and bounded decision. NRW and Bavaria are source-specific audits; they are not a pooled causal sample. A final positive NRW go or future reopening still requires the full eligibility/coverage/precision gates. GitHub Pages stays deferred until research completion under the feasible report scope.
+The next objective is **review and completion of the drafted feasibility/data manuscript**, using the [reproduction guide](../../manuscript/README.md), report outline and bounded decision. NRW and Bavaria are source-specific audits; they are not a pooled causal sample. A final positive NRW go or future reopening still requires the full eligibility/coverage/precision gates. GitHub Pages stays deferred until research completion under the feasible report scope.
 
 ## Starting position
 

@@ -1,0 +1,118 @@
+{
+  "report_version": "0.1",
+  "evidence_cutoff": "2026-10-05",
+  "evidence_commit": "5d986c617b3295ab987e538715d27b5d952e8bfb",
+  "inputs": [
+    {
+      "artifact": "docs/feasibility/nrw-election-register-summary.csv",
+      "sha256": "6567013097b9b7dad8962bb0aaad8884d6d52a318cfd75cd4c675026c3e64719",
+      "bytes": 1738
+    },
+    {
+      "artifact": "docs/feasibility/nrw-buyer-and-phase-summary.csv",
+      "sha256": "ee303fa536f5affbb0b809fc15973afa72193ddce7efd43baeeff3d3c0180814",
+      "bytes": 2594
+    },
+    {
+      "artifact": "docs/feasibility/nrw-procedure-scope-summary.csv",
+      "sha256": "5de8e9d720558289988a1fd3a32fea85ebe08824441e8895da12c43c5332ba2d",
+      "bytes": 987
+    },
+    {
+      "artifact": "docs/feasibility/nrw-close-election-checkpoint.json",
+      "sha256": "0c051def2f6cca12d0022ed6dd2fde224d22e827cda3c3e230582f49de6857f2",
+      "bytes": 2988
+    },
+    {
+      "artifact": "docs/feasibility/nrw-early-feasibility-checkpoint.json",
+      "sha256": "9d665c2fb8a4014ea49531d250eba5f279ed8b169d8253e0ce41d621601ffd59",
+      "bytes": 2016
+    },
+    {
+      "artifact": "docs/feasibility/nrw-early-linkage-matrix.csv",
+      "sha256": "143e3647448af896fa018b6db438814679c256ae21daed48d44b205e9a57fc73",
+      "bytes": 12627
+    },
+    {
+      "artifact": "docs/feasibility/nrw-early-precision-benchmarks.csv",
+      "sha256": "fffb0ae47b3dce667a2f92014fd298f8fc26378d7dbc2707931693458fc59541",
+      "bytes": 3175
+    },
+    {
+      "artifact": "docs/feasibility/nrw-early-design-support.csv",
+      "sha256": "04f1980b638d2301d783c8c48f5b99d84152e864430cda0a9bffc5e56ce15d94",
+      "bytes": 335
+    },
+    {
+      "artifact": "docs/feasibility/nrw-early-selection-audit.csv",
+      "sha256": "793399e7ee69ff8d1d697c3df3c20906a8f5b13c8b7310e4a127645b42492d83",
+      "bytes": 622
+    },
+    {
+      "artifact": "docs/feasibility/nrw-early-precision-required-elections.csv",
+      "sha256": "c41f92797b07732eeafaa28b534432a45a45e5b811f5d6d70dc8fe615779d805",
+      "bytes": 682
+    },
+    {
+      "artifact": "docs/feasibility/bavaria-bounded-checkpoint.json",
+      "sha256": "941dd4924bb66cfd884f19110c23f1db55ecf970452bb304e8b9eae884869581",
+      "bytes": 15762
+    },
+    {
+      "artifact": "docs/feasibility/bavaria-bounded-linkage-matrix.csv",
+      "sha256": "3adf33db0d6ed5383ee6f25be79395ff8d3da4041deaa9b6d616488fd9fc9915",
+      "bytes": 6706
+    },
+    {
+      "artifact": "docs/feasibility/bavaria-bounded-band-summary.csv",
+      "sha256": "0c529af6d552e3d56bf11841ab3706b80855c42865f6f1f1783b312c7b00f291",
+      "bytes": 298
+    },
+    {
+      "artifact": "docs/feasibility/bavaria-nrw-conditional-precision.csv",
+      "sha256": "4fe2b5928b8bd3de55947b16c5aa7908531f4bb9af11dbfc8154ff4e1762f788",
+      "bytes": 1907
+    },
+    {
+      "artifact": "docs/feasibility/baseline-source-hashes.csv",
+      "sha256": "3bd2d3d1e9d592c8aacba1ca53aa8e71a9e0f777dd07df31d00e925fe6662673",
+      "bytes": 2162
+    },
+    {
+      "artifact": "docs/feasibility/literature-source-manifest.csv",
+      "sha256": "9fdd4af9afb88805853eeddfbc7a92b9006bf01b02c11c43708e1ecb8a286263",
+      "bytes": 8888
+    },
+    {
+      "artifact": "docs/feasibility/literature-design-crosswalk.md",
+      "sha256": "104dd1c72f176f262add8d91092edb3b88b7de93ab44d4e23b43fa2bc224b18d",
+      "bytes": 17296
+    },
+    {
+      "artifact": "docs/feasibility/national-procurement-open-data.md",
+      "sha256": "58bdab568050115ab0f5bc7f26bf9a4d52d120d20aa350090c32cad3e258f455",
+      "bytes": 13645
+    },
+    {
+      "artifact": "docs/feasibility/federal-procurement-export-manifest.json",
+      "sha256": "10e70fced51ae55d61cabbdb84d5ded13c7ba3ace7f63889c29d47106cfc72bb",
+      "bytes": 17362
+    },
+    {
+      "artifact": "docs/feasibility/go-adapt-stop.md",
+      "sha256": "c4390b84fd9bf0a1c85dfe5f9ac0ccae29c5a6feda3790891f91f3c484537133",
+      "bytes": 8965
+    },
+    {
+      "artifact": "docs/feasibility/bavaria-register-summary.csv",
+      "sha256": "9d85701f4727c56a198e2685529ba891bd8b199485d8848670489cfcba304d37",
+      "bytes": 1923
+    },
+    {
+      "artifact": "docs/feasibility/baseline-snapshot.md",
+      "sha256": "381a54861e289d67bf25f65b87770d454b70b60ade7a94fba59bfbdfe106d090",
+      "bytes": 3147
+    }
+  ],
+  "report_date": "2026-10-09"
+}

@@ -4,11 +4,11 @@ Does electing a female mayor causally affect procurement practices and outcomes 
 
 This repository supports an empirical research project using close mixed-gender mayoral elections and procurement records. The proposed identification strategy is a regression discontinuity design (RDD). A feasibility study must establish lawful data linkage, measurement quality, and sufficient precision before the main study is specified.
 
-**Current decision after supervisory feedback:** continue a bounded feasibility/adaptation audit before extensive collection. The [early decision memo](docs/feasibility/early-feasibility-decision.md) shows four confirmed mixed pairs within 2 pp (one female-presented win, three losses), at most six under favorable resolution, and only **three provisional mixed-pair links** in the candidate common procurement window. Zero main-study elections are certified. Early precision and cutoff-side support are unfavorable. The estimand concerns electing the specific candidate rather than her actual opponent; candidate attributes can differ. Independent second coding is prepared and remains uncompleted.
+**English report draft available, 9 October 2026:** read [*Can German Municipal Data Support a Female-Mayor Procurement Study?*](manuscript/feasibility-report.md) or download the [PDF](manuscript/feasibility-report.pdf). It consolidates the evidence frozen on **5 October**, with sample-flow and assumption-based precision figures, a fact ledger and reproduction from 22 pinned public inputs. The current causal launch is **no-go**: four supported mixed pairs within 2 pp, only three provisional common-window links, and zero certified main-study elections. This is a feasibility finding, not a finding of no effect. Independent second coding is uncompleted; the report remains a review draft. GitHub Pages follows completed research.
 
 ## Adapting the Italian study to Germany
 
-**This project adapts Florio and Spagnolo (2026), [*Female Mayors and Public Procurement*](https://doi.org/10.2139/ssrn.7046899), to the German institutional and data context.** Their Italian study provides the starting point for linking close mayoral elections to procurement outcomes. We plan to adapt the close-election RDD and extend the outcome scope to documented environmental, social, and innovation criteria, subject to data availability.
+**This project adapts Florio and Spagnolo (2026), [*Female Mayors and Public Procurement*](https://doi.org/10.2139/ssrn.7046899), to the German institutional and data context.** Their Italian study provides the starting point for linking close mayoral elections to procurement outcomes. The report assesses that adaptation's feasibility. The proposed close-election RDD and broader environmental, social and innovation outcomes remain conditional on a justified future reopening.
 
 The German application builds on existing research: Schild's [*Do Female Mayors Make a Difference? Evidence from Bavaria*](https://hdl.handle.net/10419/81935) addresses female mayors and fiscal decisions; **Baskaran and Hessami (2018), [*Does the Election of a Female Leader Clear the Way for More Women in Politics?*](https://doi.org/10.1257/pol.20170045), is a direct German female-mayor close-election precedent in Hesse**; their [*Women in Political Bodies as Policymakers*](https://doi.org/10.1162/rest_a_01352) examines Bavarian councillors and childcare. These studies inform the institutional and methodological groundwork; they do not establish this project's procurement effects.
 
@@ -24,11 +24,13 @@ The [Bavaria candidate, tenure and legacy-award register](docs/feasibility/bavar
 
 **Earlier execution, 5 October 2026:** the [literature/design comparison](docs/feasibility/literature-design-crosswalk.md) completes FP02's targeted review and identifies the 2018 Hesse study's public replication record, whose package/license/data still require inspection. The [outcome/population draft](docs/feasibility/outcome-population-codebook.md) starts FP04 with explicit units, weights, procedure/tender denominators, missingness and turnover rules. A bounded [candidate-source continuation](docs/feasibility/nrw-priority-continuation.md) examines two original school documents; the three Heiden/Viersen gaps and all checkpoint counts remain unchanged.
 
-**Next steps:** complete the [feasibility/data report](docs/feasibility/report-completion-outline.md) from the frozen NRW and bounded Bavaria artifacts: source coverage, sample flow, measurement/selection limits, independent-review status and assumption-based precision. Twenty-eight NRW pair packets are prepared, but no independent second coding has occurred. The two nominated outcome measures remain measurement questions, not estimated effects. The [research plan](docs/feasibility/detailed-research-plan.md) and [task register](docs/feasibility/research-task-register.csv) preserve unmet positive-go gates. Broad collection is on hold. GitHub Pages remains deferred until research completion under the reviewed report scope.
+**Next steps:** review the [English manuscript and reproduction package](manuscript/README.md), complete the outstanding independent review and record a completed-report decision. Twenty-eight NRW pair packets are prepared, but no independent second coding has occurred. The two nominated outcome measures remain measurement questions, not estimated effects. The [research plan](docs/feasibility/detailed-research-plan.md) and [task register](docs/feasibility/research-task-register.csv) preserve unmet positive-go gates. Broad collection is on hold. GitHub Pages remains deferred until research completion under the reviewed report scope.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
 ## Research workflow
+
+The active path is feasibility report → substantive/independent review → completed-report decision → GitHub Pages companion. The full causal workflow below remains conditional on material new evidence satisfying the reopening gates.
 
 1. Verify the literature and map electoral and procurement institutions.
 2. Establish data access and build an eligible election register.
@@ -44,6 +46,8 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [English feasibility report](manuscript/feasibility-report.md) · [PDF](manuscript/feasibility-report.pdf) | Review draft with Italian/German attribution, source-specific sample flow, selection limits and assumption-based precision |
+| [Report reproduction guide](manuscript/README.md) | Template, 22 input pins, fact ledger, figures, software versions and verification record |
 | [Early feasibility decision and precision](docs/feasibility/early-feasibility-decision.md) | Actual provisional linkage, independent-election MDE benchmarks, side support, narrowed scope and bounded go/adapt/stop checkpoint |
 | [Independent coding protocol](docs/feasibility/independent-coding-protocol.md) | All classified pairs plus unresolved audit, separated first-coder key, selection checks and uncompleted reviewer gate |
 | [Literature/design crosswalk](docs/feasibility/literature-design-crosswalk.md) | Italian adaptation, German mayoral/council precedents, inspected editions, replication routes and dated search evidence |

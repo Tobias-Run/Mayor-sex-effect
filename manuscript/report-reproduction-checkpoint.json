@@ -1,0 +1,148 @@
+{
+  "report_version": "0.1",
+  "report_date": "2026-10-09",
+  "evidence_cutoff": "2026-10-05",
+  "evidence_commit": "5d986c617b3295ab987e538715d27b5d952e8bfb",
+  "checked_at_utc": "2026-10-09T20:59:37.862839+00:00",
+  "pinned_public_inputs_verified": 22,
+  "raw_source_reacquisition": false,
+  "software": {
+    "python": "3.12.14",
+    "matplotlib": "3.10.8",
+    "numpy": "2.3.5",
+    "pandoc": "pandoc 3.1.11.1",
+    "xelatex": "XeTeX 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian)"
+  },
+  "template_fields_resolved": [
+    "bavaria_2pp_named",
+    "bavaria_2pp_structural",
+    "bavaria_band_table",
+    "bavaria_calendar_2020",
+    "bavaria_extended",
+    "bavaria_general",
+    "bavaria_indexed_counts",
+    "bavaria_indexed_municipalities",
+    "bavaria_mixed",
+    "bavaria_mixed_notices",
+    "bavaria_named",
+    "bavaria_notices",
+    "bavaria_queried",
+    "bavaria_query_exclusions",
+    "bavaria_query_notices",
+    "bavaria_result_municipalities",
+    "current_2026_officeholder_rows",
+    "current_officeholder_rows",
+    "federal_monthly_archives",
+    "frozen_artifact_count",
+    "gerda_2026_labels",
+    "gerda_bavaria_rows",
+    "gerda_historical_rows",
+    "linked_table",
+    "loser_support_count",
+    "loser_support_rate_pct",
+    "mde_confirmed4_05",
+    "mde_optimistic12_025",
+    "mde_optimistic12_05",
+    "mde_optimistic6_05",
+    "nrw_any_linked",
+    "nrw_band_table",
+    "nrw_called_chronology",
+    "nrw_candidates",
+    "nrw_county_exclusions",
+    "nrw_elections",
+    "nrw_linked",
+    "nrw_linked_losses",
+    "nrw_linked_units",
+    "nrw_linked_wins",
+    "nrw_mixed",
+    "nrw_neg_called",
+    "nrw_neg_no_call",
+    "nrw_no_call",
+    "nrw_no_election",
+    "nrw_open",
+    "nrw_pilot_elections",
+    "nrw_pilot_units",
+    "nrw_priority_losses",
+    "nrw_priority_mixed",
+    "nrw_priority_pairs",
+    "nrw_priority_same",
+    "nrw_priority_unknown",
+    "nrw_priority_wins",
+    "nrw_restricted",
+    "nrw_retained_notices",
+    "nrw_reviewed",
+    "nrw_same",
+    "nrw_scope_pending",
+    "nrw_structural",
+    "nrw_timing_pending",
+    "nrw_universe",
+    "nrw_unknown",
+    "pooled_close_ceiling",
+    "pooled_wide_ceiling",
+    "precision_table",
+    "review_classified",
+    "review_unknown",
+    "reviewer_candidates",
+    "reviewer_packets",
+    "selection_table",
+    "winner_support_count",
+    "winner_support_rate_pct"
+  ],
+  "independent_second_coding_completed": false,
+  "report_status": "draft_for_review",
+  "main_study_elections_certified": 0,
+  "causal_effects_estimated": false,
+  "github_pages": "deferred",
+  "outputs": [
+    {
+      "artifact": "manuscript/report-facts.json",
+      "sha256": "62720251c4bc6c2a0a7b95ddddea8e7e278bac1a9c3f2de5e770c694d0c46d9d",
+      "bytes": 11990
+    },
+    {
+      "artifact": "manuscript/feasibility-report.md",
+      "sha256": "22a9cb3082be599a9e505672059c6ea6296b154399450a11ae483d995a2471a0",
+      "bytes": 33720
+    },
+    {
+      "artifact": "manuscript/figures/sample-flow.svg",
+      "sha256": "ec3e41d7eea6b8443c4b6f4d182652f4d0964ac8a7a75152f31c77363d2e5837",
+      "bytes": 146635
+    },
+    {
+      "artifact": "manuscript/figures/sample-flow.pdf",
+      "sha256": "fd44f99b112aaad76227c48b4925ede8663800d0b0361dadcb68f8c8369d63f0",
+      "bytes": 28641
+    },
+    {
+      "artifact": "manuscript/figures/sample-flow.png",
+      "sha256": "c64466e1b4786c48659090d5f9bda910fdfc96fbc63fb16e82bd40bc9dd74471",
+      "bytes": 275725
+    },
+    {
+      "artifact": "manuscript/figures/precision-benchmark.svg",
+      "sha256": "a229121a58dc1ded9f0d874f7dea50487690373a5a7b76368c67ff10133eb3d0",
+      "bytes": 105268
+    },
+    {
+      "artifact": "manuscript/figures/precision-benchmark.pdf",
+      "sha256": "41bad26076765feeca5dbd9953e730d8073d68b1e18bf10365ab496ffa2c3107",
+      "bytes": 25970
+    },
+    {
+      "artifact": "manuscript/figures/precision-benchmark.png",
+      "sha256": "fbcafdf889125fe6249785d1235f36f2f0c16fbdbe4072f4c9abf398086e0f10",
+      "bytes": 219808
+    },
+    {
+      "artifact": "manuscript/figures/precision-data.csv",
+      "sha256": "c0ace1cc8b16806357b85a03e63f12078d95355e5341568161f611b03655cbb1",
+      "bytes": 2717
+    },
+    {
+      "artifact": "manuscript/feasibility-report.pdf",
+      "sha256": "7b1ff644997ca91c01b9f6129972721892c8724928856d028ea42de60e4cb54d",
+      "bytes": 153891
+    }
+  ]
+}
