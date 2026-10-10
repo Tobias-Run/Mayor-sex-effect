@@ -2,6 +2,8 @@
 
 **Version 0.1, 9 October 2026 — draft for review. Evidence frozen on 5 October 2026.** Read the [English report](feasibility-report.md) or [PDF](feasibility-report.pdf): *Can German Municipal Data Support a Female-Mayor Procurement Study? A Bounded Feasibility Audit in NRW and Bavaria.* It prominently attributes the Italian adaptation to Florio and Spagnolo (2026), cites the German precedents and preserves their edition/access limits.
 
+**10 October checkpoint:** the [internal claim/interpretation review](report-quality-review-2026-10-10.md) finds no blocking inconsistency in the inspected frozen artifacts. A portable local reviewer handoff contains 28 cases, 56 blank forms and 96 hash-verified originals, without the first-coder key. The report's ten output hashes remain unchanged. This is preparation and first-coder quality control, not independent review; the current combined suite has 160 passing tests without skips.
+
 The [bounded no-go decision](../docs/feasibility/go-adapt-stop.md) governs the present causal launch. This report contains source and design-feasibility findings, with no procurement-effect estimate or null-effect conclusion. Independent second coding is uncompleted; no reviewer is assigned. Substantive review and an explicit completed-report decision remain open. GitHub Pages stays deferred until research completion.
 
 | Artifact | Purpose |

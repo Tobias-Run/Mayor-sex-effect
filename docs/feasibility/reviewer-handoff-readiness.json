@@ -1,0 +1,17 @@
+{
+  "checked_at_utc": "2026-10-10T08:45:56.022961+00:00",
+  "evidence_cutoff": "2026-10-05",
+  "prepared_pairs": 28,
+  "blank_candidate_forms": 56,
+  "unique_original_files": 96,
+  "original_file_hashes_verified": true,
+  "portable_source_paths": true,
+  "packet_schema_excludes_prior_labels": true,
+  "first_coder_key_included": false,
+  "independent_reviewer_assigned": false,
+  "independent_second_coding_completed": false,
+  "handoff_sent": false,
+  "original_sources_uploaded": false,
+  "source_selection_and_blinding_limits_remain": true,
+  "local_manifest_sha256": "213010bb07c3e4f5aa35c2e6351f38985107452c08f154fbf275f3cb9fb1f04d"
+}

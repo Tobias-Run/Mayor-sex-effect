@@ -2,6 +2,8 @@
 
 **Protocol version 1, 5 October 2026. Status: prepared; no independent reviewer assigned or second coding completed.** This implements the supervisory feedback and [early feasibility decision](early-feasibility-decision.md). It is a quality gate before main-study eligibility is frozen. An additional pass by the first coder, a source-hash check or a program validating existing evidence locators is not independent coding.
 
+**Preparation checkpoint, 10 October 2026:** [aggregate readiness](reviewer-handoff-readiness.json) now covers a portable local folder with 28 case files, 56 blank forms and 96 source-hash-verified originals. `src/report/prepare_reviewer_handoff.py` remaps paths without adding old labels/votes or the key; output is ignored at `outputs/independent-review-handoff-2026-10-10/`. Sources and case forms have not been sent or publicly uploaded. Measurement rules, evidence cutoff and unfinished reviewer status are unchanged. The [internal report review](../../manuscript/report-quality-review-2026-10-10.md) sets out the remaining completion sequence.
+
 The measurement is the unchanged [candidate/exposure codebook](candidate-exposure-codebook.md): historically linked public presentation, with administrative fields, identity, temporal linkage and uncertainty kept separate. Study scope and interpretation continue to adapt Florio and Spagnolo (2026) using the cited German precedents.
 
 ## Review population and packet
