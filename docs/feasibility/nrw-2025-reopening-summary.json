@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-10-10",
+  "cohort": "NRW September 2025",
+  "municipal_entries": 396,
+  "elections_held": 387,
+  "no_election_entries": 9,
+  "excluded_counties": 31,
+  "details_validated": 387,
+  "failures": [],
+  "candidate_records": 1355,
+  "runoffs": 133,
+  "decisive_pairs": 233,
+  "full_gerda_matches": 385,
+  "decisive_pair_gerda_matches": 231,
+  "bands": [
+    {
+      "width_pp": 1,
+      "all_pairs": 9,
+      "predicted_mixed_leads": 2,
+      "predicted_female_wins": 0
+    },
+    {
+      "width_pp": 2,
+      "all_pairs": 14,
+      "predicted_mixed_leads": 3,
+      "predicted_female_wins": 0
+    },
+    {
+      "width_pp": 5,
+      "all_pairs": 30,
+      "predicted_mixed_leads": 10,
+      "predicted_female_wins": 5
+    },
+    {
+      "width_pp": 10,
+      "all_pairs": 65,
+      "predicted_mixed_leads": 20,
+      "predicted_female_wins": 11
+    }
+  ],
+  "verified_gender_pairs": 0,
+  "certified_linked_elections": 0,
+  "gender_warning": "Name predictions are search leads; same-label predictions cannot exclude an actual mixed pair."
+}

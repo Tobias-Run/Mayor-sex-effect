@@ -58,3 +58,8 @@ The pinned Italian PDF confirms procedure-choice outcomes including direct award
 Specify primary outcomes, test families, sample eligibility, weighting, timing, estimator, inference, missing-data rules, and robustness checks. Register the analysis plan before inspecting main-study treatment-effect estimates. Record any exploratory pilot estimates and later deviations transparently.
 
 If linkage or precision fails, narrow the claim, adjust scope, or stop the proposed RDD. Any alternative design needs its own assumptions and justification.
+
+
+## Active bounded route — 10 October 2026
+
+The user has requested empirical progress toward the original main question. The [complete NRW 2025 cohort and availability audit](nrw-2025-research-reopening.md) now supplies a new verification queue. Prior historical report closure and no-go conclusions remain dated to their original scope. Next: contemporaneous evidence for six provisionally matched prediction leads, original competition and buyer-scope checks on their 46 notices, prediction-independent auditing of the remaining close pairs, then an updated precision decision. No causal launch, treatment assignment from name prediction, or Pages deployment is authorized by this checkpoint.

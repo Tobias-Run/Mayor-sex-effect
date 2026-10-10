@@ -1,0 +1,42 @@
+{
+  "selected_elections": 30,
+  "selection": "All official decisive two-candidate pairs within 5 pp; no gender prediction filter",
+  "publication_window": [
+    "2025-11-01",
+    "2026-09-30"
+  ],
+  "indexed_notices": 388,
+  "provisional_exact_buyer_matches": 100,
+  "municipalities_with_provisional_matches": 18,
+  "match_dispositions": {
+    "unmatched_or_ambiguous_municipal_name": 284,
+    "provisional_exact_municipal_name_and_local_authority": 100,
+    "missing_or_multiple_german_buyer_names": 4
+  },
+  "certified_linked_elections": 0,
+  "warning": "Publication-date availability only. Zero exact matches is not evidence of no procurement. Competition dates, buyer jurisdiction, term boundaries and outcome completeness remain unverified.",
+  "conditional_prediction_mixed_with_provisional_buyer_matches": {
+    "pairs": 6,
+    "female_label_wins": 3,
+    "female_label_losses": 3,
+    "not_verified_treatment_assignments": true
+  },
+  "conditional_gaussian_planning_benchmarks": [
+    {
+      "hypothetical_treated": 3,
+      "hypothetical_control": 3,
+      "mde_sd": 3.070892266437878,
+      "alpha": 0.05,
+      "power": 0.8,
+      "assumptions": "Independent elections, equal-variance Gaussian pooled t test; not RDD power or empirical outcome variance."
+    },
+    {
+      "hypothetical_treated": 5,
+      "hypothetical_control": 5,
+      "mde_sd": 2.024439339391564,
+      "alpha": 0.05,
+      "power": 0.8,
+      "assumptions": "Independent elections, equal-variance Gaussian pooled t test; not RDD power or empirical outcome variance."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://api.ted.europa.eu/v3/notices/search",
+  "query": "buyer-country = DEU AND (buyer-city = \"Alsdorf\" OR buyer-city = \"Altenbeken\" OR buyer-city = \"Bergisch Gladbach\" OR buyer-city = \"Bielefeld\" OR buyer-city = \"Brüggen\" OR buyer-city = \"Datteln\" OR buyer-city = \"Emmerich am Rhein\" OR buyer-city = \"Engelskirchen\" OR buyer-city = \"Goch\" OR buyer-city = \"Hamminkeln\" OR buyer-city = \"Hattingen\" OR buyer-city = \"Heek\" OR buyer-city = \"Heimbach\" OR buyer-city = \"Herdecke\" OR buyer-city = \"Isselburg\" OR buyer-city = \"Kerpen\" OR buyer-city = \"Kleve\" OR buyer-city = \"Königswinter\" OR buyer-city = \"Lohmar\" OR buyer-city = \"Lüdenscheid\" OR buyer-city = \"Lünen\" OR buyer-city = \"Möhnesee\" OR buyer-city = \"Mülheim an der Ruhr\" OR buyer-city = \"Neunkirchen-Seelscheid\" OR buyer-city = \"Oberhausen\" OR buyer-city = \"Overath\" OR buyer-city = \"Selm\" OR buyer-city = \"Siegen\" OR buyer-city = \"Unna\" OR buyer-city = \"Willebadessen\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20251101 AND publication-date <= 20260930",
+  "fields": [
+    "publication-number",
+    "publication-date",
+    "buyer-name",
+    "buyer-city",
+    "buyer-legal-type",
+    "buyer-identifier",
+    "procedure-type",
+    "procedure-identifier",
+    "notice-type",
+    "previous-notice-id-proc",
+    "contract-conclusion-date",
+    "result-lot-identifier",
+    "identifier-lot",
+    "received-submissions-type-code",
+    "received-submissions-type-val",
+    "BT-759-LotResult",
+    "BT-142-LotResult"
+  ],
+  "total_notice_count": 388,
+  "retrieved_at_utc": "2026-10-10T20:42:04.017991+00:00",
+  "pages": [
+    {
+      "file": "page-1.json",
+      "sha256": "e8972f79a6f8c5a965ff343c32e0a050c9017c1d86cff0ddfa7e6381dd80c2ee",
+      "bytes": 1266787,
+      "request": {
+        "query": "buyer-country = DEU AND (buyer-city = \"Alsdorf\" OR buyer-city = \"Altenbeken\" OR buyer-city = \"Bergisch Gladbach\" OR buyer-city = \"Bielefeld\" OR buyer-city = \"Brüggen\" OR buyer-city = \"Datteln\" OR buyer-city = \"Emmerich am Rhein\" OR buyer-city = \"Engelskirchen\" OR buyer-city = \"Goch\" OR buyer-city = \"Hamminkeln\" OR buyer-city = \"Hattingen\" OR buyer-city = \"Heek\" OR buyer-city = \"Heimbach\" OR buyer-city = \"Herdecke\" OR buyer-city = \"Isselburg\" OR buyer-city = \"Kerpen\" OR buyer-city = \"Kleve\" OR buyer-city = \"Königswinter\" OR buyer-city = \"Lohmar\" OR buyer-city = \"Lüdenscheid\" OR buyer-city = \"Lünen\" OR buyer-city = \"Möhnesee\" OR buyer-city = \"Mülheim an der Ruhr\" OR buyer-city = \"Neunkirchen-Seelscheid\" OR buyer-city = \"Oberhausen\" OR buyer-city = \"Overath\" OR buyer-city = \"Selm\" OR buyer-city = \"Siegen\" OR buyer-city = \"Unna\" OR buyer-city = \"Willebadessen\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20251101 AND publication-date <= 20260930",
+        "fields": [
+          "publication-number",
+          "publication-date",
+          "buyer-name",
+          "buyer-city",
+          "buyer-legal-type",
+          "buyer-identifier",
+          "procedure-type",
+          "procedure-identifier",
+          "notice-type",
+          "previous-notice-id-proc",
+          "contract-conclusion-date",
+          "result-lot-identifier",
+          "identifier-lot",
+          "received-submissions-type-code",
+          "received-submissions-type-val",
+          "BT-759-LotResult",
+          "BT-142-LotResult"
+        ],
+        "page": 1,
+        "limit": 250,
+        "scope": "ALL"
+      }
+    },
+    {
+      "file": "page-2.json",
+      "sha256": "19dbb93a988d7aaeded5c9fd0584aa1e0a4d87c9078fcba26e72170621109c7c",
+      "bytes": 717458,
+      "request": {
+        "query": "buyer-country = DEU AND (buyer-city = \"Alsdorf\" OR buyer-city = \"Altenbeken\" OR buyer-city = \"Bergisch Gladbach\" OR buyer-city = \"Bielefeld\" OR buyer-city = \"Brüggen\" OR buyer-city = \"Datteln\" OR buyer-city = \"Emmerich am Rhein\" OR buyer-city = \"Engelskirchen\" OR buyer-city = \"Goch\" OR buyer-city = \"Hamminkeln\" OR buyer-city = \"Hattingen\" OR buyer-city = \"Heek\" OR buyer-city = \"Heimbach\" OR buyer-city = \"Herdecke\" OR buyer-city = \"Isselburg\" OR buyer-city = \"Kerpen\" OR buyer-city = \"Kleve\" OR buyer-city = \"Königswinter\" OR buyer-city = \"Lohmar\" OR buyer-city = \"Lüdenscheid\" OR buyer-city = \"Lünen\" OR buyer-city = \"Möhnesee\" OR buyer-city = \"Mülheim an der Ruhr\" OR buyer-city = \"Neunkirchen-Seelscheid\" OR buyer-city = \"Oberhausen\" OR buyer-city = \"Overath\" OR buyer-city = \"Selm\" OR buyer-city = \"Siegen\" OR buyer-city = \"Unna\" OR buyer-city = \"Willebadessen\") AND buyer-legal-type = la AND notice-type = can-standard AND publication-date >= 20251101 AND publication-date <= 20260930",
+        "fields": [
+          "publication-number",
+          "publication-date",
+          "buyer-name",
+          "buyer-city",
+          "buyer-legal-type",
+          "buyer-identifier",
+          "procedure-type",
+          "procedure-identifier",
+          "notice-type",
+          "previous-notice-id-proc",
+          "contract-conclusion-date",
+          "result-lot-identifier",
+          "identifier-lot",
+          "received-submissions-type-code",
+          "received-submissions-type-val",
+          "BT-759-LotResult",
+          "BT-142-LotResult"
+        ],
+        "page": 2,
+        "limit": 250,
+        "scope": "ALL"
+      }
+    }
+  ],
+  "publication_window": [
+    "20251101",
+    "20260930"
+  ],
+  "acquisition_cap": 1500
+}

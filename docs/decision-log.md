@@ -83,3 +83,8 @@
 | 2026-10-05 | Publish complete priority search metadata and verify legacy text encoding | All 60 follow-up queries map to 15 pinned complete request/response artifacts; 57 new source routes preserve 53 acquired originals and four failures. Exact HTML checks honor declared charsets. All 382 statewide pins and 168 available review pins match, all 55 exact vote margins/winners remain unchanged, and 132 offline tests pass. Person annotations and originals stay local; no effect estimation or Pages release follows from this checkpoint. |
 
 Add decisions about eligibility, pilot selection, weighting, outcomes, observation windows, estimators, and deviations with their supporting evidence. Do not backdate decisions.
+
+
+## 10 October 2026 — Reopen bounded empirical work with NRW 2025
+
+Following the instruction to advance the original main research task, acquired and audited the complete official NRW 2025 municipal cohort and a capped, gender-neutral TED availability screen of all pairs within 5 pp. See the [research reopening record](feasibility/nrw-2025-research-reopening.md). This authorizes a distinct verification route, not a causal launch or a change to the frozen 2020 feasibility report. Predicted labels remain leads, original call timing is unresolved, and Pages stays deferred.
