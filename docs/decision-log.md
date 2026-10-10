@@ -88,3 +88,8 @@ Add decisions about eligibility, pilot selection, weighting, outcomes, observati
 ## 10 October 2026 — Reopen bounded empirical work with NRW 2025
 
 Following the instruction to advance the original main research task, acquired and audited the complete official NRW 2025 municipal cohort and a capped, gender-neutral TED availability screen of all pairs within 5 pp. See the [research reopening record](feasibility/nrw-2025-research-reopening.md). This authorizes a distinct verification route, not a causal launch or a change to the frozen 2020 feasibility report. Predicted labels remain leads, original call timing is unresolved, and Pages stays deferred.
+
+
+## 10 October 2026 — Verify new presentation pairs and construct a call-first roster
+
+The bounded NRW 2025 follow-up supports six mixed public-presentation pairs through twelve primary observations, with independent second coding still uncompleted. All 95 competition/result originals in the first six-case queue are matched by exact UUID/version and procedure GUID; 13 call roots predate November 2025. A separate Q1 competitive-call roster selects all 30 official close pairs without predictions or result filtering: 41 provisional procedures, 14 without an indexed result by the cutoff. Missing results stay censored/unresolved. The [2025 addendum](feasibility/nrw-2025-measurement-addendum.md) transfers existing measurement rules without modifying the historical frozen codebook. See the [full audit and next bounded queue](feasibility/nrw-2025-validation-progress.md). No primary outcome rate, causal effect, certified study eligibility or Pages deployment is asserted.

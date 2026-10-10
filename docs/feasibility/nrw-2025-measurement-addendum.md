@@ -1,0 +1,13 @@
+# Measurement addendum for NRW 2025
+
+Adopted for the new cohort on 10 October 2026. Apply the unchanged substantive standards in the [5 October candidate/exposure codebook](candidate-exposure-codebook.md), substituting the explicitly named **2025 election context** for 2020. The historical codebook and its frozen report inputs are unchanged.
+
+The new acquisition universe is all **65 official decisive pairs within 10 pp**, with **14 within 2 pp** as the closest-cutoff priority. The initial procurement screen selected all 30 within 5 pp regardless of predicted labels. The first presentation verification batch is six prediction leads with provisional procurement matches. It is a selected verification batch, not a complete mixed-pair census or a balanced analysis sample. Auditing the remaining pairs independently of predictions and procurement availability is still required.
+
+Continue to distinguish administrative sex/gender, documented public presentation, name predictions, independent second coding and certified study eligibility. An explicit candidate-specific feminine description, Frau/Herr or unambiguous person-specific pronoun supports a presentation observation; a generic masculine office title does not. Inspect and pin originals, retain contrary evidence, distinguish source dates from event dates, and flag later sources explicitly describing 2025 as retrospective. Current role alone does not qualify.
+
+Abbreviated given names require documented corroboration, not a global fuzzy-name merge. In Herdecke, the official municipal runoff confirmation identifies the same two finalists with shortened given names, their parties and the 28 September 2025 result; this corroborates the full-name state vote record and the two party nomination statements. Source-date ambiguities are retained: the Green nomination page displays both 16 May and 7 June 2025; the CDU nomination displays 24 January and a 3 February update.
+
+Official election dates remain separate from office entry, formal acceptance, predecessor exit, oath, first workday and continuous officeholding. Signed presentation margins are descriptive first-coder measurements. Neither presentation agreement nor a dated oath certifies a continuous treatment interval or authorizes causal estimation.
+
+For the procurement availability audit, Q1 means 1 January–31 March 2026, with result follow-up through 30 September 2026. Require original dispatch/issue and supported original-call publication to fit the candidate window. Corrections retain their parent call; a newly published correction does not become a new procedure. This remains a candidate window with unresolved maturity and population coverage. These checks precede any primary outcome rate or effect estimate.

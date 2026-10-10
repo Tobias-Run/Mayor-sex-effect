@@ -1,0 +1,57 @@
+{
+  "checked_on": "2026-10-10",
+  "selection": "All 30 official NRW 2025 decisive pairs within 5 pp, irrespective of predictions or earlier results",
+  "call_publication_window": [
+    "2026-01-01",
+    "2026-03-31"
+  ],
+  "result_followup_cutoff": "2026-09-30",
+  "indexed_call_notices": 165,
+  "provisional_exact_municipal_calls": 46,
+  "provisional_roster_procedures": 41,
+  "municipalities_with_call_matches": 15,
+  "followup_notices": 78,
+  "followup_types": {
+    "cn-standard": 51,
+    "can-standard": 27
+  },
+  "roster_procedures_without_indexed_standard_result": 14,
+  "exact_original_xml_matches_in_retained_exports": 50,
+  "original_publications_still_missing": [
+    "718733-2025",
+    "41366-2026",
+    "58752-2026",
+    "109608-2026",
+    "110402-2026",
+    "110494-2026",
+    "118785-2026",
+    "151884-2026",
+    "171759-2026",
+    "173129-2026",
+    "179566-2026",
+    "201663-2026",
+    "202641-2026",
+    "214548-2026",
+    "217859-2026",
+    "218131-2026",
+    "218528-2026",
+    "226762-2026",
+    "301452-2026",
+    "305108-2026",
+    "305502-2026",
+    "306043-2026",
+    "340031-2026",
+    "342131-2026",
+    "344442-2026",
+    "346344-2026",
+    "353078-2026",
+    "376290-2026"
+  ],
+  "original_graph_status_counts": {
+    "original_graph_pending": 16,
+    "documented_root_supported": 25
+  },
+  "verified_original_issue_and_publication_q1_procedures": 23,
+  "certified_outcome_denominators": 0,
+  "warning": "Quarter publication can be a correction of an earlier call. Missing indexed results are unresolved/censored, not cancelled or zero-tender awards. This competitive-call roster excludes no-call procurement and is not a complete procedure-choice population."
+}

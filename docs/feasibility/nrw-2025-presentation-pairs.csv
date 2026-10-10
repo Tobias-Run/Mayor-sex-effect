@@ -1,0 +1,7 @@
+ags,municipality,absolute_margin_pp,pair_status,female_presented_winner,signed_presentation_margin_pp,source_ids,first_coder_review_only,independent_second_coding,administrative_gender_verified,main_study_eligibility_certified
+05382024,Königswinter,4.164084070547135,mixed_public_presentation,True,4.164084070547135,kw-juengling-entry;kw-wagner,True,False,False,False
+05382040,Neunkirchen-Seelscheid,1.2560823808984949,mixed_public_presentation,False,-1.2560823808984949,nks-berka;nks-vierkoetter,True,False,False,False
+05954020,Herdecke,4.393905939500994,mixed_public_presentation,True,4.393905939500994,her-haas;her-stalzer,True,False,False,False
+05962032,Lüdenscheid,0.85580014840465,mixed_public_presentation,False,-0.85580014840465,lud-official-final;lud-official-final,True,False,False,False
+05978024,Lünen,4.54855195911414,mixed_public_presentation,True,4.54855195911414,lun-female;lun-klicki-postelection,True,False,False,False
+05117000,Mülheim an der Ruhr,0.40539722877715256,mixed_public_presentation,False,-0.40539722877715256,mul-final;mul-khalaf,True,False,False,False

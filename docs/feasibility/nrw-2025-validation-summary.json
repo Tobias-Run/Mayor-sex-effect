@@ -1,0 +1,72 @@
+{
+  "checked_on": "2026-10-10",
+  "review_scope": "Six prediction leads with provisional procurement matches; not all close pairs",
+  "reviewed_pairs": 6,
+  "first_coder_supported_mixed_pairs": 6,
+  "female_presented_wins": 3,
+  "female_presented_losses": 3,
+  "presentation_bands": [
+    {
+      "width_pp": 1,
+      "mixed_pairs": 2,
+      "female_wins": 0
+    },
+    {
+      "width_pp": 2,
+      "mixed_pairs": 3,
+      "female_wins": 0
+    },
+    {
+      "width_pp": 5,
+      "mixed_pairs": 6,
+      "female_wins": 3
+    }
+  ],
+  "independent_second_coded_pairs": 0,
+  "administrative_gender_verified_pairs": 0,
+  "result_notices": 46,
+  "procedure_guids": 46,
+  "context_notices": 97,
+  "context_types": {
+    "cn-standard": 49,
+    "can-standard": 46,
+    "can-modif": 2
+  },
+  "retained_export_days": 174,
+  "retained_export_bytes": 597696494,
+  "original_target_xml_matches": 95,
+  "missing_original_publication_numbers": [],
+  "graph_status_counts": {
+    "documented_root_supported": 44,
+    "no_indexed_competition_found": 2
+  },
+  "original_result_xml_matches": 46,
+  "sole_original_buyer_name_matches": 46,
+  "calls_published_before_november_2025": 13,
+  "candidate_q1_issue_and_publication_procedures": 9,
+  "candidate_q1_municipalities": [
+    "05382040",
+    "05954020",
+    "05962032",
+    "05978024"
+  ],
+  "candidate_q1_chronological_dated_total_units": 8,
+  "certified_main_study_elections": 0,
+  "estimated_causal_effects": 0,
+  "annotation_sha256": "b6e9a9fbf014d23b4294630e17705ebab81070cd6a76379438c1d560cf33e7c5",
+  "warning": "Original XML and explicit presentation evidence do not establish completed independent coding, buyer jurisdiction, continuous officeholding or a complete procurement outcome population. Candidate-window results are availability counts, not outcome rates.",
+  "candidate_q1_result_first_election_inventory": {
+    "pairs": 4,
+    "female_wins": 2,
+    "female_losses": 2,
+    "certified": false
+  },
+  "conditional_q1_precision_benchmark": {
+    "treated": 2,
+    "control": 2,
+    "mde_sd": 5.653489266206795,
+    "alpha": 0.05,
+    "power": 0.8,
+    "assumptions": "Independent equal-variance Gaussian pooled t test; hypothetical standardized outcomes, not observed variance or RDD power. The new call-first roster may add unresolved observations."
+  }
+}

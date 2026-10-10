@@ -63,3 +63,8 @@ If linkage or precision fails, narrow the claim, adjust scope, or stop the propo
 ## Active bounded route — 10 October 2026
 
 The user has requested empirical progress toward the original main question. The [complete NRW 2025 cohort and availability audit](nrw-2025-research-reopening.md) now supplies a new verification queue. Prior historical report closure and no-go conclusions remain dated to their original scope. Next: contemporaneous evidence for six provisionally matched prediction leads, original competition and buyer-scope checks on their 46 notices, prediction-independent auditing of the remaining close pairs, then an updated precision decision. No causal launch, treatment assignment from name prediction, or Pages deployment is authorized by this checkpoint.
+
+
+## Updated empirical queue — 10 October 2026
+
+The [primary-source and call-first audit](nrw-2025-validation-progress.md) completes the first six-case presentation review and 95 original XML matches. Next recover the 28 missing originals for the independently selected Q1 roster and resolve its 16 pending graphs; preserve all 14 missing-result cases. Review the remaining close-pair presentations independently of predictions, jurisdiction and actual office boundaries. The four currently result-linked Q1 election cases are only an availability inventory; the independent call roster can add unresolved observations. Precision and independent second coding remain gates before causal launch.
