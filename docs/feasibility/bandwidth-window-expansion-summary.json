@@ -1,0 +1,152 @@
+{
+  "checked_on": "2026-10-11",
+  "protocol_sha256": "df212d0c7a74a1727ba1fc5dc3426f56a42bc06897eb8643c19740307fd65b02",
+  "calendar_addendum_sha256": "95941e0c0384f59b75f0b959dc1cde0841f1ba6a743fc042ffd623dd1b6216b6",
+  "matched_notice_records_outside_window": 2012,
+  "acquisition_ceiling_absolute_gap_pp": 10,
+  "causal_rdd_bandwidth_adopted": false,
+  "national_election_events_10pp": 654,
+  "national_distinct_municipalities_10pp": 629,
+  "national_both_names_available_10pp": 258,
+  "national_repeated_municipalities": 25,
+  "previous_active_elections": 58,
+  "expanded_active_elections": 114,
+  "expanded_active_distinct_municipalities": 114,
+  "added_active_elections": 56,
+  "official_source_checks_supported": 114,
+  "national_notice_rows_inspected": 372959,
+  "unique_national_notice_versions": 372958,
+  "identical_duplicate_export_rows_collapsed": 1,
+  "standard_call_notices": 497,
+  "active_events_with_standard_calls": 61,
+  "cohorts": [
+    {
+      "cohort": "Brandenburg 2024",
+      "elections": 5,
+      "events_with_standard_call_metadata": 4,
+      "within_5pp_events_with_standard_calls": 4,
+      "new_5_to_10pp_events_with_standard_calls": 0,
+      "events_with_calls_beyond_Q1": 4,
+      "events_without_Q1_calls_but_with_annual_calls": 1,
+      "standard_call_notices": 20,
+      "calls_missing_procedure_identifier": 17,
+      "monthly_metadata_coverage_complete": true,
+      "target_followup_immature_notices": 0
+    },
+    {
+      "cohort": "Brandenburg 2025",
+      "elections": 8,
+      "events_with_standard_call_metadata": 4,
+      "within_5pp_events_with_standard_calls": 1,
+      "new_5_to_10pp_events_with_standard_calls": 3,
+      "events_with_calls_beyond_Q1": 0,
+      "events_without_Q1_calls_but_with_annual_calls": 0,
+      "standard_call_notices": 9,
+      "calls_missing_procedure_identifier": 5,
+      "monthly_metadata_coverage_complete": true,
+      "target_followup_immature_notices": 9
+    },
+    {
+      "cohort": "NRW 2025",
+      "elections": 65,
+      "events_with_standard_call_metadata": 32,
+      "within_5pp_events_with_standard_calls": 18,
+      "new_5_to_10pp_events_with_standard_calls": 14,
+      "events_with_calls_beyond_Q1": 0,
+      "events_without_Q1_calls_but_with_annual_calls": 0,
+      "standard_call_notices": 192,
+      "calls_missing_procedure_identifier": 110,
+      "monthly_metadata_coverage_complete": true,
+      "target_followup_immature_notices": 192
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "elections": 36,
+      "events_with_standard_call_metadata": 21,
+      "within_5pp_events_with_standard_calls": 11,
+      "new_5_to_10pp_events_with_standard_calls": 10,
+      "events_with_calls_beyond_Q1": 19,
+      "events_without_Q1_calls_but_with_annual_calls": 6,
+      "standard_call_notices": 276,
+      "calls_missing_procedure_identifier": 171,
+      "monthly_metadata_coverage_complete": true,
+      "target_followup_immature_notices": 0
+    }
+  ],
+  "notice_type_counts": [
+    {
+      "cohort": "Brandenburg 2024",
+      "type": "can-standard",
+      "count": 3
+    },
+    {
+      "cohort": "Brandenburg 2024",
+      "type": "cn-standard",
+      "count": 20
+    },
+    {
+      "cohort": "Brandenburg 2025",
+      "type": "can-standard",
+      "count": 2
+    },
+    {
+      "cohort": "Brandenburg 2025",
+      "type": "cn-standard",
+      "count": 9
+    },
+    {
+      "cohort": "NRW 2025",
+      "type": "can-modif",
+      "count": 6
+    },
+    {
+      "cohort": "NRW 2025",
+      "type": "can-standard",
+      "count": 89
+    },
+    {
+      "cohort": "NRW 2025",
+      "type": "cn-standard",
+      "count": 192
+    },
+    {
+      "cohort": "NRW 2025",
+      "type": "veat",
+      "count": 2
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "type": "can-desg",
+      "count": 4
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "type": "can-social",
+      "count": 1
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "type": "can-standard",
+      "count": 99
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "type": "cn-desg",
+      "count": 4
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "type": "cn-standard",
+      "count": 276
+    }
+  ],
+  "new_procurement_bytes": 152394595,
+  "combined_procurement_bytes": 1027231657,
+  "new_supported_mixed_count_elections": 0,
+  "previous_supported_mixed_count_elections": 4,
+  "certified_main_study_elections": 0,
+  "effects_estimated": false,
+  "cohorts_pooled": false,
+  "pages_deployed": false,
+  "warning": "Acquisition events and notice metadata only. Missing coverage is not zero procurement; wider bands are not an RDD justification; nine-month follow-up is prospective and immature young-cohort calls remain censored."
+}

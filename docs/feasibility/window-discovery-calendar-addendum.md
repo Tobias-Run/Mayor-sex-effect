@@ -1,0 +1,7 @@
+# Export membership and source publication dates
+
+11 October 2026, implementation clarification before corrected discovery replay. The initial replay stopped rather than include two January-export records whose own Berlin publication dates are in December 2024: Hohenhameln domestic ID 23192974 version 2 and a Laatzen UUID notice. An export month is not a verified original-call month; amendments can retain earlier publication metadata.
+
+Apply the previously fixed cohort window to each matched notice's own timezone-normalized publication field. Inspect all fifteen available monthly sources for every active municipality, including the already reused Q1 2026 exports, so older-cohort amendments retaining 2025 publication dates are not silently lost. Keep records outside the fixed window in a separate disposition ledger rather than counting them or interpreting absence as zero. Required monthly-file coverage still means the twelve 2025 or three 2026 source files, not proven complete original-call coverage. Neither export membership nor a CSV publication field certifies original chronology.
+
+Reuse the earlier source-observed exact buyer alias `Stadt Velten - Die Bürgermeisterin` for AGS 12065332 as well as the normalized municipal prefixes. This alias was documented by the preceding Brandenburg audit; it is not fuzzy matching or a candidate-presentation classification. No change to election selection, windows, follow-up, result population or acquisition budget. All original roots and corrections remain to be verified.

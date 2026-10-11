@@ -1,0 +1,655 @@
+state,ags,municipality,decisive_date,round,valid_votes,absolute_margin_pp,both_names_available,margin_stratum,within_2pp,within_5pp,elections_for_municipality_in_10pp_screen,main_study_eligibility_certified
+01,01062018,Glinde,2025-11-23,runoff,4653,2.6864388566516224,True,over_2_to_5pp,False,True,1,False
+01,01002000,Kiel,2025-12-07,runoff,82065,8.216657527569609,True,over_5_to_10pp,False,False,1,False
+03,03153012,"Seesen, Stadt",2019-05-26,first,9459,2.294111428269373,True,over_2_to_5pp,False,True,1,False
+03,03241016,"Sehnde, Stadt",2019-05-26,first,11858,7.724742789677855,True,over_5_to_10pp,False,False,1,False
+03,03252001,"Aerzen, Flecken",2019-05-26,first,5624,9.317211948790897,True,over_5_to_10pp,False,False,1,False
+03,03353040,"Winsen (Luhe), Stadt",2019-05-26,first,17724,9.377115775220041,True,over_5_to_10pp,False,False,1,False
+03,03459015,"Dissen am Teutoburger Wald, Stadt",2019-05-26,first,4388,0.6381039197812215,True,within_2pp,True,True,1,False
+03,03155006,Kalefeld,2021-09-12,first,3583,9.852079263187273,True,over_5_to_10pp,False,False,1,False
+03,03157007,Vechelde,2021-09-12,first,9190,0.5223068552774756,True,within_2pp,True,True,1,False
+03,03159001,"Adelebsen, Flecken",2021-09-12,first,3271,5.411189238764904,True,over_5_to_10pp,False,False,1,False
+03,03159002,Bad Grund (Harz),2021-09-12,first,3913,3.245591617684641,True,over_2_to_5pp,False,True,1,False
+03,03251040,"Sulingen, Stadt",2021-09-12,first,6030,9.552238805970148,True,over_5_to_10pp,False,False,1,False
+03,03252007,"Hessisch Oldendorf, Stadt",2021-09-12,first,8307,7.475622968580715,True,over_5_to_10pp,False,False,1,False
+03,03254011,Diekholzen,2021-09-12,first,3652,2.3548740416210294,True,over_2_to_5pp,False,True,1,False
+03,03254022,Holle,2021-09-12,first,4077,2.869757174392936,True,over_2_to_5pp,False,True,1,False
+03,03353029,Rosengarten,2021-09-12,first,7238,9.864603481624759,True,over_5_to_10pp,False,False,1,False
+03,03358008,"Bad Fallingbostel, Stadt",2021-09-12,first,4927,0.4668155063933428,True,within_2pp,True,True,1,False
+03,03358021,"Soltau, Stadt",2021-09-12,first,9150,9.26775956284153,True,over_5_to_10pp,False,False,1,False
+03,03360004,Bienenbüttel,2021-09-12,first,3949,5.950873638895923,True,over_5_to_10pp,False,False,1,False
+03,03453003,Cappeln (Oldenburg),2021-09-12,first,3575,6.013986013986014,True,over_5_to_10pp,False,False,1,False
+03,03453011,"Löningen, Stadt",2021-09-12,first,6893,1.4942695488176412,True,within_2pp,True,True,1,False
+03,03151025,Sassenburg,2021-09-26,runoff,6292,8.264462809917354,True,over_5_to_10pp,False,False,1,False
+03,03157002,Hohenhameln,2021-09-26,runoff,5302,8.751414560543191,True,over_5_to_10pp,False,False,1,False
+03,03159016,"Göttingen, Stadt",2021-09-26,runoff,52183,5.91955234463331,True,over_5_to_10pp,False,False,1,False
+03,03159017,"Hann. Münden, Stadt",2021-09-26,runoff,11488,1.7235376044568245,True,within_2pp,True,True,1,False
+03,03159019,"Herzberg am Harz, Stadt",2021-09-26,runoff,6374,6.212739253216191,True,over_5_to_10pp,False,False,1,False
+03,03241004,"Burgwedel, Stadt",2021-09-26,runoff,12245,4.1731318905675785,True,over_2_to_5pp,False,True,1,False
+03,03241008,Isernhagen,2021-09-26,runoff,13082,3.837333741018193,True,over_2_to_5pp,False,True,1,False
+03,03241009,"Laatzen, Stadt",2021-09-26,runoff,18929,7.348512863859686,True,over_5_to_10pp,False,False,1,False
+03,03241019,Wedemark,2021-09-26,runoff,17128,6.807566557683326,True,over_5_to_10pp,False,False,1,False
+03,03241020,Wennigsen (Deister),2021-09-26,runoff,8472,3.4466477809254012,True,over_2_to_5pp,False,True,1,False
+03,03252005,Emmerthal,2021-09-26,runoff,5632,4.154829545454546,True,over_2_to_5pp,False,True,1,False
+03,03254002,"Alfeld (Leine), Stadt",2021-09-26,runoff,10114,4.073561400039549,True,over_2_to_5pp,False,True,1,False
+03,03254045,Sibbesse,2021-09-26,runoff,3595,2.308762169680111,True,over_2_to_5pp,False,True,1,False
+03,03256022,"Nienburg (Weser), Stadt",2021-09-26,runoff,13863,2.1423934213373728,True,over_2_to_5pp,False,True,1,False
+03,03257009,"Bückeburg, Stadt",2021-09-26,runoff,10261,6.890166650423935,True,over_5_to_10pp,False,False,1,False
+03,03358016,"Munster, Stadt",2021-09-26,runoff,7219,1.3713810777115945,True,within_2pp,True,True,1,False
+03,03403000,"Oldenburg (Oldenburg), Stadt",2021-09-26,runoff,80439,8.136600405276047,True,over_5_to_10pp,False,False,1,False
+03,03452023,Südbrookmerland,2021-09-26,runoff,10487,3.575855821493277,True,over_2_to_5pp,False,True,1,False
+03,03455020,Wangerland,2021-09-26,runoff,5107,1.5077344820834149,True,within_2pp,True,True,1,False
+03,03459004,"Bad Iburg, Stadt",2021-09-26,runoff,6515,0.41442824251726784,True,within_2pp,True,True,1,False
+03,03459024,"Melle, Stadt",2021-09-26,runoff,26945,9.949897940248654,True,over_5_to_10pp,False,False,1,False
+03,03461007,"Nordenham, Stadt",2021-09-26,runoff,12512,5.642583120204604,True,over_5_to_10pp,False,False,1,False
+05,05358012,"Heimbach, Stadt",2020-09-13,first,2392,1.7558528428093645,True,within_2pp,True,True,2,False
+05,05370012,"Geilenkirchen, Stadt",2020-09-13,first,12644,1.091426763682379,True,within_2pp,True,True,2,False
+05,05382056,"Sankt Augustin, Stadt",2020-09-13,first,23968,6.934245660881175,True,over_5_to_10pp,False,False,1,False
+05,05554028,Heiden,2020-09-13,first,4627,1.0157769613140264,True,within_2pp,True,True,1,False
+05,05554056,"Stadtlohn, Stadt",2020-09-13,first,10497,3.6296084595598743,True,over_2_to_5pp,False,True,1,False
+05,05554064,"Velen, Stadt",2020-09-13,first,6901,5.376032459063904,True,over_5_to_10pp,False,False,1,False
+05,05566032,Ladbergen,2020-09-13,first,3593,3.6459782911216254,True,over_2_to_5pp,False,True,1,False
+05,05566072,Recke,2020-09-13,first,6085,4.585045193097781,True,over_2_to_5pp,False,True,1,False
+05,05570008,"Beckum, Stadt",2020-09-13,first,14643,1.4273031482619682,True,within_2pp,True,True,1,False
+05,05570032,Ostbevern,2020-09-13,first,5875,0.902127659574468,True,within_2pp,True,True,1,False
+05,05570040,"Sendenhorst, Stadt",2020-09-13,first,6666,4.8904890489048904,True,over_2_to_5pp,False,True,1,False
+05,05774012,Borchen,2020-09-13,first,7058,9.237744403513743,True,over_5_to_10pp,False,False,1,False
+05,05962060,"Werdohl, Stadt",2020-09-13,first,5276,2.9946929492039422,True,over_2_to_5pp,False,True,1,False
+05,05970032,"Netphen, Stadt",2020-09-13,first,11816,5.991875423155044,True,over_5_to_10pp,False,False,1,False
+05,05970044,Wilnsdorf,2020-09-13,first,10678,5.169507398389212,True,over_5_to_10pp,False,False,1,False
+05,05124000,Krfr. Stadt Wuppertal,2020-09-27,runoff,98084,6.926715876187758,True,over_5_to_10pp,False,False,1,False
+05,05154004,Bedburg-Hau,2020-09-27,runoff,5440,9.264705882352942,True,over_5_to_10pp,False,False,1,False
+05,05154036,"Kleve, Stadt",2020-09-27,runoff,13889,5.522355821153431,True,over_5_to_10pp,False,False,2,False
+05,05158028,"Ratingen, Stadt",2020-09-27,runoff,24707,4.213380823248472,True,over_2_to_5pp,False,True,1,False
+05,05158032,"Velbert, Stadt",2020-09-27,runoff,24484,0.8985459892174481,True,within_2pp,True,True,1,False
+05,05166008,Grefrath,2020-09-27,runoff,6261,2.5714742053984985,True,over_2_to_5pp,False,True,1,False
+05,05166012,"Kempen, Stadt",2020-09-27,runoff,15231,2.6853128487952205,True,over_2_to_5pp,False,True,1,False
+05,05166032,"Viersen, Stadt",2020-09-27,runoff,23527,1.6279168614783015,True,within_2pp,True,True,1,False
+05,05170028,"Neukirchen-Vluyn, Stadt",2020-09-27,runoff,10023,3.003092886361369,True,over_2_to_5pp,False,True,1,False
+05,05334020,"Monschau, Stadt",2020-09-27,runoff,6069,3.344867358708189,True,over_2_to_5pp,False,True,2,False
+05,05362020,"Erftstadt, Stadt",2020-09-27,runoff,17405,5.2111462223499,True,over_5_to_10pp,False,False,1,False
+05,05362024,"Frechen, Stadt",2020-09-27,runoff,14350,3.3449477351916377,True,over_2_to_5pp,False,True,2,False
+05,05362032,"Kerpen, Stadt",2020-09-27,runoff,18375,3.619047619047619,True,over_2_to_5pp,False,True,2,False
+05,05366040,Weilerswist,2020-09-27,runoff,6912,4.918981481481482,True,over_2_to_5pp,False,True,1,False
+05,05370028,"Übach-Palenberg, Stadt",2020-09-27,runoff,7723,1.6962320341836075,True,within_2pp,True,True,1,False
+05,05378016,"Leichlingen (Rhld.), Stadt",2020-09-27,runoff,11950,0.6861924686192469,True,within_2pp,True,True,2,False
+05,05378028,"Rösrath, Stadt",2020-09-27,runoff,10353,5.032357770694484,True,over_5_to_10pp,False,False,2,False
+05,05382028,"Lohmar, Stadt",2020-09-27,runoff,13205,6.580840590685346,True,over_5_to_10pp,False,False,2,False
+05,05382068,"Troisdorf, Stadt",2020-09-27,runoff,23272,2.2516328635269853,True,over_2_to_5pp,False,True,1,False
+05,05515000,Krfr. Stadt Münster,2020-09-27,runoff,132529,5.192071169328977,True,over_5_to_10pp,False,False,1,False
+05,05558020,Havixbeck,2020-09-27,runoff,6263,1.4849113843206132,True,within_2pp,True,True,1,False
+05,05562020,"Herten, Stadt",2020-09-27,runoff,17472,1.7284798534798536,True,within_2pp,True,True,1,False
+05,05566004,Altenberge,2020-09-27,runoff,5282,4.695191215448694,True,over_2_to_5pp,False,True,1,False
+05,05754016,"Harsewinkel, Stadt",2020-09-27,runoff,9767,7.934882768506195,True,over_5_to_10pp,False,False,1,False
+05,05754020,Herzebrock-Clarholz,2020-09-27,runoff,6954,1.4092608570606846,True,within_2pp,True,True,1,False
+05,05754052,"Werther (Westf.), Stadt",2020-09-27,runoff,5180,9.961389961389962,True,over_5_to_10pp,False,False,1,False
+05,05758004,"Bünde, Stadt",2020-09-27,runoff,15717,9.817395177196666,True,over_5_to_10pp,False,False,2,False
+05,05758008,"Enger, Stadt",2020-09-27,runoff,7527,6.895177361498605,True,over_5_to_10pp,False,False,1,False
+05,05758028,Rödinghausen,2020-09-27,runoff,4465,9.742441209406495,True,over_5_to_10pp,False,False,1,False
+05,05762020,"Höxter, Stadt",2020-09-27,runoff,11943,5.1159675123503305,True,over_5_to_10pp,False,False,1,False
+05,05766004,Augustdorf,2020-09-27,runoff,4305,4.483159117305458,True,over_2_to_5pp,False,True,2,False
+05,05766024,Dörentrup,2020-09-27,runoff,3238,8.523780111179741,True,over_5_to_10pp,False,False,1,False
+05,05766032,"Horn-Bad Meinberg, Stadt",2020-09-27,runoff,6387,1.737905119774542,True,within_2pp,True,True,2,False
+05,05770012,Hille,2020-09-27,runoff,6878,7.095085780750218,True,over_5_to_10pp,False,False,1,False
+05,05913000,Krfr. Stadt Dortmund,2020-09-27,runoff,145760,4.121844127332602,True,over_2_to_5pp,False,True,2,False
+05,05954024,"Schwelm, Stadt",2020-09-27,runoff,8108,4.711396151948692,True,over_2_to_5pp,False,True,1,False
+05,05962024,"Iserlohn, Stadt",2020-09-27,runoff,23919,0.3971737948910908,True,within_2pp,True,True,2,False
+05,05962032,"Lüdenscheid, Stadt",2020-09-27,runoff,17626,9.724270963349598,True,over_5_to_10pp,False,False,2,False
+05,05978024,"Lünen, Stadt",2020-09-27,runoff,20106,2.277926986969064,True,over_2_to_5pp,False,True,2,False
+05,05978036,"Unna, Stadt",2020-09-27,runoff,17833,1.2392755004766445,True,within_2pp,True,True,2,False
+05,05154056,Uedem,2025-09-14,first,4238,8.636149126946673,True,over_5_to_10pp,False,False,1,False
+05,05166004,Brüggen,2025-09-14,first,8218,3.7478705281090288,True,over_2_to_5pp,False,True,1,False
+05,05170016,Hünxe,2025-09-14,first,7493,7.353529961297211,True,over_5_to_10pp,False,False,1,False
+05,05358012,"Heimbach, Stadt",2025-09-14,first,2442,3.0303030303030303,True,over_2_to_5pp,False,True,2,False
+05,05366020,Hellenthal,2025-09-14,first,4497,8.027573938181009,True,over_5_to_10pp,False,False,1,False
+05,05374008,Engelskirchen,2025-09-14,first,9486,0.9276829011174362,True,within_2pp,True,True,1,False
+05,05554032,"Isselburg, Stadt",2025-09-14,first,5362,3.5061544199925403,True,over_2_to_5pp,False,True,1,False
+05,05554052,Schöppingen,2025-09-14,first,3735,8.96921017402945,True,over_5_to_10pp,False,False,1,False
+05,05558012,"Coesfeld, Stadt",2025-09-14,first,19558,9.407914919725943,True,over_5_to_10pp,False,False,1,False
+05,05566016,"Hörstel, Stadt",2025-09-14,first,10804,9.237319511292114,True,over_5_to_10pp,False,False,1,False
+05,05566028,"Ibbenbüren, Stadt",2025-09-14,first,24089,7.102827016480552,True,over_5_to_10pp,False,False,1,False
+05,05566040,"Lengerich, Stadt",2025-09-14,first,8888,5.558055805580558,True,over_5_to_10pp,False,False,1,False
+05,05762028,"Nieheim, Stadt",2025-09-14,first,3631,6.306802533737263,True,over_5_to_10pp,False,False,1,False
+05,05774040,"Bad Wünnenberg, Stadt",2025-09-14,first,6507,8.068234209313047,True,over_5_to_10pp,False,False,1,False
+05,05974032,Möhnesee,2025-09-14,first,6092,4.563361785948786,True,over_2_to_5pp,False,True,1,False
+05,05114000,Krfr. Stadt Krefeld,2025-09-28,runoff,64699,9.961514088316667,True,over_5_to_10pp,False,False,1,False
+05,05117000,Krfr. Stadt Mülheim an der Ruhr,2025-09-28,runoff,49581,0.40539722877715256,True,within_2pp,True,True,1,False
+05,05119000,Krfr. Stadt Oberhausen,2025-09-28,runoff,49911,2.6587325439281924,True,over_2_to_5pp,False,True,1,False
+05,05154008,"Emmerich am Rhein, Stadt",2025-09-28,runoff,8192,1.2939453125,True,within_2pp,True,True,1,False
+05,05154016,"Goch, Stadt",2025-09-28,runoff,11225,4.071269487750556,True,over_2_to_5pp,False,True,1,False
+05,05154036,"Kleve, Stadt",2025-09-28,runoff,13619,4.80945737572509,True,over_2_to_5pp,False,True,2,False
+05,05170012,"Hamminkeln, Stadt",2025-09-28,runoff,12261,0.3343936057417829,True,within_2pp,True,True,1,False
+05,05314000,Krfr. Stadt Bonn,2025-09-28,runoff,137646,7.990061462011246,True,over_5_to_10pp,False,False,1,False
+05,05315000,Krfr. Stadt Köln,2025-09-28,runoff,359194,7.016264191495404,True,over_5_to_10pp,False,False,1,False
+05,05334004,"Alsdorf, Stadt",2025-09-28,runoff,13393,3.2628985290823564,True,over_2_to_5pp,False,True,1,False
+05,05334020,"Monschau, Stadt",2025-09-28,runoff,6654,9.257589419897807,True,over_5_to_10pp,False,False,2,False
+05,05362024,"Frechen, Stadt",2025-09-28,runoff,17261,7.954347952030589,True,over_5_to_10pp,False,False,2,False
+05,05362032,"Kerpen, Stadt",2025-09-28,runoff,17777,2.795747313944985,True,over_2_to_5pp,False,True,2,False
+05,05362036,"Pulheim, Stadt",2025-09-28,runoff,20869,6.71330681872634,True,over_5_to_10pp,False,False,1,False
+05,05370012,"Geilenkirchen, Stadt",2025-09-28,runoff,10298,8.409399883472519,True,over_5_to_10pp,False,False,2,False
+05,05374040,Reichshof,2025-09-28,runoff,7481,6.0286058013634545,True,over_5_to_10pp,False,False,1,False
+05,05378004,"Bergisch Gladbach, Stadt",2025-09-28,runoff,38836,0.829127613554434,True,within_2pp,True,True,1,False
+05,05378016,"Leichlingen (Rhld.), Stadt",2025-09-28,runoff,11715,8.032437046521554,True,over_5_to_10pp,False,False,2,False
+05,05378024,"Overath, Stadt",2025-09-28,runoff,9711,0.7723200494284832,True,within_2pp,True,True,1,False
+05,05378028,"Rösrath, Stadt",2025-09-28,runoff,11379,5.299235433693646,True,over_5_to_10pp,False,False,2,False
+05,05382024,"Königswinter, Stadt",2025-09-28,runoff,17747,4.164084070547135,True,over_2_to_5pp,False,True,1,False
+05,05382028,"Lohmar, Stadt",2025-09-28,runoff,13531,2.8009755376542755,True,over_2_to_5pp,False,True,2,False
+05,05382036,Much,2025-09-28,runoff,5740,9.790940766550523,True,over_5_to_10pp,False,False,1,False
+05,05382040,Neunkirchen-Seelscheid,2025-09-28,runoff,8837,1.2560823808984949,True,within_2pp,True,True,1,False
+05,05554008,"Bocholt, Stadt",2025-09-28,runoff,28403,7.037988944829771,True,over_5_to_10pp,False,False,1,False
+05,05554024,Heek,2025-09-28,runoff,4622,3.115534400692341,True,over_2_to_5pp,False,True,1,False
+05,05554060,Südlohn,2025-09-28,runoff,4079,6.0554057367001715,True,over_5_to_10pp,False,False,1,False
+05,05558028,Nordkirchen,2025-09-28,runoff,4482,8.478357875948237,True,over_5_to_10pp,False,False,1,False
+05,05562008,"Datteln, Stadt",2025-09-28,runoff,11705,0.042716787697565144,True,within_2pp,True,True,1,False
+05,05562028,"Oer-Erkenschwick, Stadt",2025-09-28,runoff,10453,8.67693485123888,True,over_5_to_10pp,False,False,1,False
+05,05711000,Krfr. Stadt Bielefeld,2025-09-28,runoff,110697,2.7525587865976493,True,over_2_to_5pp,False,True,1,False
+05,05758004,"Bünde, Stadt",2025-09-28,runoff,13727,7.787571938515335,True,over_5_to_10pp,False,False,2,False
+05,05758012,"Herford, Stadt",2025-09-28,runoff,21127,5.438538363231883,True,over_5_to_10pp,False,False,1,False
+05,05762040,"Willebadessen, Stadt",2025-09-28,runoff,3946,0.963000506842372,True,within_2pp,True,True,1,False
+05,05766004,Augustdorf,2025-09-28,runoff,3986,7.72704465629704,True,over_5_to_10pp,False,False,2,False
+05,05766032,"Horn-Bad Meinberg, Stadt",2025-09-28,runoff,7285,8.194921070693205,True,over_5_to_10pp,False,False,2,False
+05,05774004,Altenbeken,2025-09-28,runoff,3787,1.5051491946131503,True,within_2pp,True,True,1,False
+05,05774032,"Paderborn, Stadt",2025-09-28,runoff,46303,7.085933956763061,True,over_5_to_10pp,False,False,1,False
+05,05913000,Krfr. Stadt Dortmund,2025-09-28,runoff,157238,5.831923580813799,True,over_5_to_10pp,False,False,2,False
+05,05954016,"Hattingen, Stadt",2025-09-28,runoff,18632,2.501073422069558,True,over_2_to_5pp,False,True,1,False
+05,05954020,"Herdecke, Stadt",2025-09-28,runoff,9058,4.393905939500994,True,over_2_to_5pp,False,True,1,False
+05,05962012,"Halver, Stadt",2025-09-28,runoff,5391,9.59005750324615,True,over_5_to_10pp,False,False,1,False
+05,05962024,"Iserlohn, Stadt",2025-09-28,runoff,26503,6.629438176810172,True,over_5_to_10pp,False,False,2,False
+05,05962032,"Lüdenscheid, Stadt",2025-09-28,runoff,20215,0.85580014840465,True,within_2pp,True,True,2,False
+05,05970040,"Siegen, Stadt",2025-09-28,runoff,29367,0.023836278816358497,True,within_2pp,True,True,1,False
+05,05974028,"Lippstadt, Stadt",2025-09-28,runoff,21756,6.333884905313477,True,over_5_to_10pp,False,False,1,False
+05,05978004,"Bergkamen, Stadt",2025-09-28,runoff,13185,6.803185437997724,True,over_5_to_10pp,False,False,1,False
+05,05978024,"Lünen, Stadt",2025-09-28,runoff,23480,4.54855195911414,True,over_2_to_5pp,False,True,2,False
+05,05978032,"Selm, Stadt",2025-09-28,runoff,9644,1.306511820821236,True,within_2pp,True,True,1,False
+05,05978036,"Unna, Stadt",2025-09-28,runoff,20389,1.4959046544705479,True,within_2pp,True,True,2,False
+06,06433006,"Groß-Gerau, Stadt",2018-02-04,runoff,6326,8.883970913689534,True,over_5_to_10pp,False,False,1,False
+06,06432014,Mühltal,2018-02-18,runoff,5753,0.8864940031288023,True,within_2pp,True,True,1,False
+06,06434005,"Königstein im Taunus, Stadt, Kurort",2018-02-18,runoff,5786,4.804701002419634,True,over_2_to_5pp,False,True,2,False
+06,06438003,Egelsbach,2018-03-04,runoff,4203,6.638115631691649,False,over_5_to_10pp,False,False,2,False
+06,06533015,"Villmar, Marktflecken",2018-03-18,runoff,3269,9.146527990211073,False,over_5_to_10pp,False,False,1,False
+06,06633006,"Bad Emstal, Kurort",2018-03-18,first,2670,9.138576779026216,False,over_5_to_10pp,False,False,1,False
+06,06632012,Ludwigsau,2018-04-22,runoff,2803,6.386014983945772,False,over_5_to_10pp,False,False,1,False
+06,06437016,"Oberzent, Stadt",2018-05-27,runoff,4879,5.5954088952654235,False,over_5_to_10pp,False,False,1,False
+06,06633009,Fuldatal,2018-09-09,first,4851,2.494331065759637,True,over_2_to_5pp,False,True,1,False
+06,06440005,"Butzbach, Friedrich-Ludwig-Weidig-Stadt",2018-10-28,first,12236,8.728342595619484,False,over_5_to_10pp,False,False,1,False
+06,06534022,Wohratal,2018-10-28,first,1354,8.567208271787297,True,over_5_to_10pp,False,False,1,False
+06,06635009,"Edertal, Nationalparkgemeinde",2018-10-28,first,3768,0.7961783439490446,True,within_2pp,True,True,1,False
+06,06636014,Wehretal,2018-10-28,first,3047,6.399737446668855,True,over_5_to_10pp,False,False,2,False
+06,06435015,Hasselroth,2018-11-11,runoff,3483,2.3255813953488373,True,over_2_to_5pp,False,True,1,False
+06,06440023,"Rosbach v. d. Höhe, Stadt",2018-11-11,runoff,5190,8.593448940269749,True,over_5_to_10pp,False,False,1,False
+06,06531016,Reiskirchen,2018-11-11,runoff,4028,9.235352532274081,True,over_5_to_10pp,False,False,1,False
+06,06535015,"Schlitz, Stadt",2018-11-11,runoff,4500,9.955555555555556,False,over_5_to_10pp,False,False,1,False
+06,06531012,"Linden, Stadt",2018-12-09,first,4323,7.009021512838307,False,over_5_to_10pp,False,False,1,False
+06,06535010,"Kirtorf, Stadt",2018-12-09,first,1746,5.154639175257732,True,over_5_to_10pp,False,False,1,False
+06,06434010,"Steinbach (Taunus), Stadt",2019-04-07,runoff,3620,7.458563535911602,True,over_5_to_10pp,False,False,1,False
+06,06439010,"Lorch, Stadt",2019-06-16,runoff,1843,2.333152468800868,True,over_2_to_5pp,False,True,1,False
+06,06633004,Breuna,2019-06-16,runoff,1966,3.051881993896236,True,over_2_to_5pp,False,True,1,False
+06,06635016,"Lichtenfels, Stadt",2019-09-29,runoff,2297,4.13582934262081,False,over_2_to_5pp,False,True,1,False
+06,06533001,Beselich,2019-10-20,first,2343,7.127614169867691,False,over_5_to_10pp,False,False,1,False
+06,06435004,Birstein,2019-11-03,runoff,3091,5.532190229699126,False,over_5_to_10pp,False,False,1,False
+06,06631006,Eichenzell,2020-02-09,runoff,5314,1.6936394429808055,False,within_2pp,True,True,2,False
+06,06436011,"Schwalbach am Taunus, Stadt",2020-03-15,runoff,5119,8.65403399101387,False,over_5_to_10pp,False,False,1,False
+06,06431002,"Bensheim, Stadt",2020-11-15,runoff,13943,5.544000573764613,True,over_5_to_10pp,False,False,1,False
+06,06534010,"Gladenbach, Stadt",2020-11-22,runoff,3937,3.3782067564135128,False,over_2_to_5pp,False,True,1,False
+06,06633012,Helsa,2020-11-22,runoff,2529,4.1518386714116255,False,over_2_to_5pp,False,True,1,False
+06,06435021,"Nidderau, Stadt",2020-11-29,first,9434,6.465974136103456,False,over_5_to_10pp,False,False,1,False
+06,06632001,Alheim,2020-11-29,runoff,2527,6.371191135734072,False,over_5_to_10pp,False,False,1,False
+06,06436006,"Hochheim am Main, Stadt",2021-03-14,first,7735,8.442146089204913,True,over_5_to_10pp,False,False,1,False
+06,06434002,"Friedrichsdorf, Philipp-Reis-Stadt",2021-03-28,runoff,9883,5.3121521805119905,True,over_5_to_10pp,False,False,1,False
+06,06434003,Glashütten,2021-03-28,runoff,2604,1.7665130568356375,False,within_2pp,True,True,1,False
+06,06434008,"Oberursel (Taunus), Stadt",2021-03-28,runoff,17210,3.044741429401511,True,over_2_to_5pp,False,True,1,False
+06,06436008,"Kelkheim (Taunus), Stadt",2021-03-28,runoff,11967,7.7295897050221445,False,over_5_to_10pp,False,False,1,False
+06,06533009,"Limburg a. d. Lahn, Kreisstadt",2021-03-28,runoff,11655,7.850707850707851,True,over_5_to_10pp,False,False,1,False
+06,06534014,"Marburg, Universitätsstadt",2021-03-28,runoff,24295,0.391026960279893,False,within_2pp,True,True,1,False
+06,06437011,"Michelstadt, Stadt",2021-04-11,runoff,6130,8.71125611745514,False,over_5_to_10pp,False,False,1,False
+06,06438011,"Rodgau, Stadt",2021-09-26,first,23659,4.552178874846781,False,over_2_to_5pp,False,True,1,False
+06,06531006,"Grünberg, Stadt",2021-09-26,first,7987,2.5917115312382624,False,over_2_to_5pp,False,True,1,False
+06,06438009,"Neu-Isenburg, Hugenotten- und Waldenserstadt",2021-10-10,runoff,9279,0.48496605237633367,True,within_2pp,True,True,1,False
+06,06532002,Bischoffen,2022-02-06,first,1402,1.2838801711840229,False,within_2pp,True,True,1,False
+06,06440003,"Bad Vilbel, Stadt",2022-02-13,runoff,12057,5.996516546404578,False,over_5_to_10pp,False,False,1,False
+06,06533014,Selters (Taunus),2022-03-27,runoff,3670,9.863760217983652,False,over_5_to_10pp,False,False,1,False
+06,06636006,"Hessisch Lichtenau, Stadt",2022-04-03,runoff,4566,7.884362680683312,False,over_5_to_10pp,False,False,1,False
+06,06632011,Kirchheim,2022-05-15,first,1775,7.71830985915493,True,over_5_to_10pp,False,False,1,False
+06,06435013,Hammersbach,2022-06-12,first,2583,9.175377468060395,False,over_5_to_10pp,False,False,1,False
+06,06534008,Ebsdorfergrund,2022-09-11,first,4707,9.11408540471638,False,over_5_to_10pp,False,False,1,False
+06,06531013,"Lollar, Stadt",2022-10-16,runoff,2848,2.5280898876404496,True,over_2_to_5pp,False,True,1,False
+06,06531001,"Allendorf (Lumda), Stadt",2023-02-12,first,2055,8.710462287104622,False,over_5_to_10pp,False,False,1,False
+06,06437007,Fränkisch-Crumbach,2023-03-12,first,1732,2.771362586605081,False,over_2_to_5pp,False,True,1,False
+06,06412000,"Frankfurt am Main, Stadt",2023-03-26,runoff,178678,3.3938145714637504,True,over_2_to_5pp,False,True,1,False
+06,06433002,Bischofsheim,2023-03-26,runoff,4635,0.9277238403451996,False,within_2pp,True,True,1,False
+06,06411000,"Darmstadt, Wissenschaftsstadt",2023-04-02,runoff,43756,9.342718712862236,True,over_5_to_10pp,False,False,1,False
+06,06433001,Biebesheim am Rhein,2023-09-17,first,2325,4.172043010752688,True,over_2_to_5pp,False,True,1,False
+06,06531015,Rabenau,2023-10-08,first,3127,4.189318835944995,False,over_2_to_5pp,False,True,1,False
+06,06534003,Bad Endbach,2023-10-08,first,3879,0.5929363237947924,True,within_2pp,True,True,1,False
+06,06435008,Flörsbachtal,2023-10-22,runoff,1322,4.992435703479576,True,over_2_to_5pp,False,True,1,False
+06,06635011,"Frankenberg (Eder), Philipp-Soldan-Stadt",2023-10-22,runoff,6673,5.379889105349918,False,over_5_to_10pp,False,False,1,False
+06,06434005,"Königstein im Taunus, Stadt, Kurort",2024-02-18,runoff,5877,7.299642674834099,False,over_5_to_10pp,False,False,2,False
+06,06437006,"Erbach, Kreisstadt",2024-02-25,first,4339,5.047245909195667,True,over_5_to_10pp,False,False,1,False
+06,06533019,Weinbach,2024-02-25,first,1689,9.532267613972765,True,over_5_to_10pp,False,False,1,False
+06,06431018,"Neckarsteinach, Stadt",2024-03-17,runoff,1815,1.2672176308539944,True,within_2pp,True,True,1,False
+06,06440007,"Florstadt, Stadt",2024-03-17,runoff,4166,8.641382621219394,True,over_5_to_10pp,False,False,1,False
+06,06438003,Egelsbach,2024-04-03,runoff,4279,5.445197476045805,False,over_5_to_10pp,False,False,2,False
+06,06636005,Herleshausen,2024-06-09,first,1653,9.497882637628555,False,over_5_to_10pp,False,False,1,False
+06,06435024,Ronneburg,2024-07-21,runoff,1553,0.8370895041854475,False,within_2pp,True,True,1,False
+06,06634006,Gilserberg,2024-09-29,runoff,1522,3.2851511169513796,False,over_2_to_5pp,False,True,1,False
+06,06635018,Twistetal,2024-11-03,first,2257,6.601683650863979,False,over_5_to_10pp,False,False,1,False
+06,06636014,Wehretal,2024-11-10,first,2491,1.7262143717382576,False,within_2pp,True,True,2,False
+06,06636010,Ringgau,2025-02-23,first,2065,0.6295399515738499,False,within_2pp,True,True,1,False
+06,06433008,"Mörfelden-Walldorf, Stadt",2025-03-30,runoff,9639,5.488121174395684,False,over_5_to_10pp,False,False,1,False
+06,06440006,Echzell,2025-05-18,runoff,2484,4.830917874396135,False,over_2_to_5pp,False,True,1,False
+06,06437012,Mossautal,2025-06-29,runoff,1354,1.4771048744460857,False,within_2pp,True,True,1,False
+06,06634016,Neuental,2025-07-06,first,1829,5.084745762711864,False,over_5_to_10pp,False,False,1,False
+06,06435029,"Wächtersbach, Stadt",2025-11-02,first,5597,2.090405574414865,False,over_2_to_5pp,False,True,1,False
+06,06532005,"Dietzhölztal, Hochschulgemeinde",2025-11-09,runoff,1919,7.556018759770714,False,over_5_to_10pp,False,False,1,False
+06,06631006,Eichenzell,2025-12-07,first,5602,1.9992859692966798,False,within_2pp,True,True,2,False
+08,08216043,Rastatt,2023-10-15,runoff,13292,0.5266325609389106,True,within_2pp,True,True,1,False
+08,08116078,Leinfelden-Echterdingen,2023-12-17,runoff,11550,6.562770562770563,True,over_5_to_10pp,False,False,1,False
+08,08425072,Langenau,2024-02-25,runoff,6636,7.8661844484629295,True,over_5_to_10pp,False,False,1,False
+08,08336057,Maulburg,2024-03-17,runoff,1698,8.480565371024735,True,over_5_to_10pp,False,False,1,False
+08,08226048,Mauer,2024-07-28,runoff,2080,7.596153846153846,True,over_5_to_10pp,False,False,1,False
+08,08435059,Überlingen,2024-12-01,runoff,9095,1.2204507971412863,True,within_2pp,True,True,1,False
+08,08336107,Kleines Wiesental,2025-04-13,runoff,1564,8.05626598465473,True,over_5_to_10pp,False,False,1,False
+08,08115045,Sindelfingen,2025-05-25,runoff,16195,0.4878048780487805,True,within_2pp,True,True,1,False
+08,08117018,Ebersbach an der Fils,2025-06-01,runoff,5233,6.325243646092108,True,over_5_to_10pp,False,False,1,False
+08,08215009,Bruchsal,2025-07-27,runoff,14851,8.935425223890647,True,over_5_to_10pp,False,False,1,False
+08,08435010,Daisendorf,2025-10-19,runoff,775,6.064516129032258,True,over_5_to_10pp,False,False,1,False
+08,08117012,Bad Boll,2025-11-02,runoff,2464,8.035714285714286,True,over_5_to_10pp,False,False,1,False
+08,08315108,Staufen im Breisgau,2025-11-02,runoff,4022,0.44753853804077576,True,within_2pp,True,True,1,False
+08,08136050,Oberkochen,2025-12-21,runoff,3263,9.531106343855347,True,over_5_to_10pp,False,False,1,False
+09,09773139,"Höchstädt a.d.Donau, St",2018-02-25,first,2900,7.517241379310345,False,over_5_to_10pp,False,False,1,False
+09,09182116,Gmund a.Tegernsee,2018-03-11,runoff,3049,6.5267300754345685,False,over_5_to_10pp,False,False,1,False
+09,09271128,Künzing,2018-03-11,first,1786,0.11198208286674133,False,within_2pp,True,True,1,False
+09,09181128,"Kaufering, M",2018-03-18,runoff,4257,3.5940803382663846,False,over_2_to_5pp,False,True,1,False
+09,09772211,Ustersbach,2018-10-14,first,655,4.732824427480916,False,over_2_to_5pp,False,True,1,False
+09,09275151,Tiefenbach,2018-10-28,first,3982,7.031642390758413,False,over_5_to_10pp,False,False,1,False
+09,09773144,"Lauingen (Donau), St",2018-10-28,runoff,4412,9.202175883952856,False,over_5_to_10pp,False,False,1,False
+09,09575134,"Ippesheim, M",2019-01-13,first,560,2.857142857142857,False,over_2_to_5pp,False,True,1,False
+09,09272138,"Perlesreut, M",2019-01-27,first,1681,7.4360499702558,False,over_5_to_10pp,False,False,1,False
+09,09376116,Bodenwöhr,2019-02-10,runoff,2154,2.692664809656453,False,over_2_to_5pp,False,True,1,False
+09,09371144,Poppenricht,2019-04-07,runoff,1923,0.5720228809152366,False,within_2pp,True,True,1,False
+09,09173113,Benediktbeuern,2019-07-14,runoff,1957,2.0950434338272865,False,over_2_to_5pp,False,True,1,False
+09,09171124,Mehring,2020-03-15,first,1329,3.235515425131678,False,over_2_to_5pp,False,True,1,False
+09,09172111,Ainring,2020-03-15,first,4416,6.385869565217392,False,over_5_to_10pp,False,False,1,False
+09,09174111,"Altomünster, M",2020-03-15,first,4112,1.556420233463035,False,within_2pp,True,True,1,False
+09,09176122,Egweil,2020-03-15,first,683,1.0248901903367496,False,within_2pp,True,True,1,False
+09,09176155,Pollenfeld,2020-03-15,first,1783,1.6264722378014582,False,within_2pp,True,True,1,False
+09,09177116,Eitting,2020-03-15,first,1345,8.25278810408922,False,over_5_to_10pp,False,False,1,False
+09,09177127,Lengdorf,2020-03-15,first,1655,5.740181268882175,False,over_5_to_10pp,False,False,1,False
+09,09179117,Egenhofen,2020-03-15,first,1857,9.531502423263328,False,over_5_to_10pp,False,False,1,False
+09,09180125,Oberammergau,2020-03-15,first,2719,9.599117322545053,False,over_5_to_10pp,False,False,1,False
+09,09180128,Riegsee,2020-03-15,first,731,9.712722298221614,False,over_5_to_10pp,False,False,1,False
+09,09181115,Eching am Ammersee,2020-03-15,first,1067,6.091846298031865,False,over_5_to_10pp,False,False,1,False
+09,09181138,Scheuring,2020-03-15,first,1095,8.493150684931507,False,over_5_to_10pp,False,False,1,False
+09,09181139,Schondorf am Ammersee,2020-03-15,first,2164,3.0499075785582255,False,over_2_to_5pp,False,True,1,False
+09,09181144,Utting am Ammersee,2020-03-15,first,2597,7.2006160954948015,False,over_5_to_10pp,False,False,1,False
+09,09183120,Heldenstein,2020-03-15,first,1495,3.1438127090301005,False,over_2_to_5pp,False,True,1,False
+09,09183144,Schwindegg,2020-03-15,first,1836,4.901960784313726,False,over_2_to_5pp,False,True,1,False
+09,09185143,Langenmosen,2020-03-15,first,945,4.761904761904762,False,over_2_to_5pp,False,True,1,False
+09,09185153,"Rennertshofen, M",2020-03-15,first,2755,8.457350272232304,False,over_5_to_10pp,False,False,1,False
+09,09187113,Amerang,2020-03-15,first,2066,7.357212003872217,False,over_5_to_10pp,False,False,1,False
+09,09187164,Ramerberg,2020-03-15,first,877,7.639680729760547,False,over_5_to_10pp,False,False,1,False
+09,09187181,Vogtareuth,2020-03-15,first,1568,7.142857142857143,False,over_5_to_10pp,False,False,1,False
+09,09188117,Andechs,2020-03-15,first,1852,3.5637149028077753,False,over_2_to_5pp,False,True,1,False
+09,09189143,Seeon-Seebruck,2020-03-15,first,2742,7.2210065645514225,False,over_5_to_10pp,False,False,1,False
+09,09189150,Taching a.See,2020-03-15,first,1204,9.136212624584717,False,over_5_to_10pp,False,False,1,False
+09,09190121,Eglfing,2020-03-15,first,622,6.430868167202572,False,over_5_to_10pp,False,False,1,False
+09,09190133,Ingenried,2020-03-15,first,619,9.854604200323102,False,over_5_to_10pp,False,False,1,False
+09,09190152,Seeshaupt,2020-03-15,first,1837,3.538377789874796,False,over_2_to_5pp,False,True,1,False
+09,09190160,Wildsteig,2020-03-15,first,865,9.364161849710984,False,over_5_to_10pp,False,False,1,False
+09,09271125,"Hengersberg, M",2020-03-15,first,3798,0.47393364928909953,False,within_2pp,True,True,1,False
+09,09271135,Moos,2020-03-15,first,1407,5.756929637526652,False,over_5_to_10pp,False,False,1,False
+09,09272128,Innernzell,2020-03-15,first,971,7.929969104016478,False,over_5_to_10pp,False,False,1,False
+09,09273177,Train,2020-03-15,first,1131,1.6799292661361627,False,within_2pp,True,True,1,False
+09,09274119,Bayerbach b.Ergoldsbach,2020-03-15,first,1144,2.797202797202797,False,over_2_to_5pp,False,True,1,False
+09,09275128,"Hutthurm, M",2020-03-15,first,3153,0.3488740881699968,False,within_2pp,True,True,1,False
+09,09277112,Bayerbach,2020-03-15,first,982,2.8513238289205702,False,over_2_to_5pp,False,True,1,False
+09,09277133,"Massing, M",2020-03-15,first,1991,3.2646911099949776,False,over_2_to_5pp,False,True,1,False
+09,09277148,"Tann, M",2020-03-15,first,2010,5.870646766169155,False,over_5_to_10pp,False,False,1,False
+09,09278143,Konzell,2020-03-15,first,1144,1.5734265734265733,False,within_2pp,True,True,1,False
+09,09278171,Perasdorf,2020-03-15,first,344,6.976744186046512,False,over_5_to_10pp,False,False,1,False
+09,09278190,Steinach,2020-03-15,first,1642,4.6285018270401945,False,over_2_to_5pp,False,True,1,False
+09,09278197,Wiesenfelden,2020-03-15,first,2287,0.2186270222999563,False,within_2pp,True,True,1,False
+09,09371118,Ebermannsdorf,2020-03-15,first,1398,3.1473533619456364,False,over_2_to_5pp,False,True,1,False
+09,09371120,Ensdorf,2020-03-15,first,1300,8.76923076923077,False,over_5_to_10pp,False,False,1,False
+09,09371123,Gebenbach,2020-03-15,first,505,1.7821782178217822,False,within_2pp,True,True,1,False
+09,09371141,Neukirchen b.Sulzbach-Rosenberg,2020-03-15,first,1480,2.4324324324324325,False,over_2_to_5pp,False,True,1,False
+09,09372142,Michelsneukirchen,2020-03-15,first,1116,3.5842293906810037,False,over_2_to_5pp,False,True,1,False
+09,09372155,Runding,2020-03-15,first,1374,7.714701601164483,False,over_5_to_10pp,False,False,1,False
+09,09372169,Wald,2020-03-15,first,1687,1.6004742145820985,False,within_2pp,True,True,1,False
+09,09374129,"Kirchenthumbach, M",2020-03-15,first,2148,3.631284916201117,False,over_2_to_5pp,False,True,1,False
+09,09374140,"Neustadt am Kulm, St",2020-03-15,first,746,0.2680965147453083,False,within_2pp,True,True,1,False
+09,09374146,Pirk,2020-03-15,first,1118,6.618962432915922,False,over_5_to_10pp,False,False,1,False
+09,09374147,"Pleystein, St",2020-03-15,first,1516,5.408970976253298,False,over_5_to_10pp,False,False,1,False
+09,09374149,"Pressath, St",2020-03-15,first,2461,2.478667208451849,False,over_2_to_5pp,False,True,1,False
+09,09376122,Dieterskirchen,2020-03-15,first,592,1.0135135135135136,False,within_2pp,True,True,1,False
+09,09376131,Gleiritsch,2020-03-15,first,384,4.166666666666667,False,over_2_to_5pp,False,True,1,False
+09,09376159,Schmidgaden,2020-03-15,first,2012,0.5964214711729622,False,within_2pp,True,True,1,False
+09,09376160,"Schönsee, St",2020-03-15,first,1479,3.0425963488843815,False,over_2_to_5pp,False,True,1,False
+09,09471152,Lauter,2020-03-15,first,647,5.409582689335394,False,over_5_to_10pp,False,False,1,False
+09,09471175,Reckendorf,2020-03-15,first,1190,4.705882352941177,False,over_2_to_5pp,False,True,1,False
+09,09472180,Prebitz,2020-03-15,first,676,3.2544378698224854,False,over_2_to_5pp,False,True,2,False
+09,09475161,Regnitzlosau,2020-03-15,first,1438,5.563282336578581,False,over_5_to_10pp,False,False,1,False
+09,09475165,"Schauenstein, St",2020-03-15,first,1213,9.315746084089035,False,over_5_to_10pp,False,False,1,False
+09,09475189,"Zell im Fichtelgebirge, M",2020-03-15,first,1088,7.352941176470588,False,over_5_to_10pp,False,False,1,False
+09,09476182,Tschirn,2020-03-15,first,379,2.9023746701846966,False,over_2_to_5pp,False,True,1,False
+09,09477158,Trebgast,2020-03-15,first,1045,2.583732057416268,False,over_2_to_5pp,False,True,1,False
+09,09478145,Michelau i.OFr.,2020-03-15,first,3355,9.806259314456035,False,over_5_to_10pp,False,False,1,False
+09,09479111,Bad Alexandersbad,2020-03-15,first,536,7.835820895522388,False,over_5_to_10pp,False,False,1,False
+09,09479129,"Kirchenlamitz, St",2020-03-15,first,1845,0.9214092140921409,False,within_2pp,True,True,1,False
+09,09571200,"Schopfloch, M",2020-03-15,first,1444,7.202216066481994,False,over_5_to_10pp,False,False,1,False
+09,09572141,Marloffstein,2020-03-15,first,923,4.8754062838569885,False,over_2_to_5pp,False,True,1,False
+09,09572143,"Mühlhausen, M",2020-03-15,first,998,5.410821643286573,False,over_5_to_10pp,False,False,1,False
+09,09573123,Obermichelbach,2020-03-15,first,1878,9.904153354632587,False,over_5_to_10pp,False,False,1,False
+09,09574111,Alfeld,2020-03-15,first,691,7.380607814761215,False,over_5_to_10pp,False,False,1,False
+09,09574129,Hartenstein,2020-03-15,first,774,6.976744186046512,False,over_5_to_10pp,False,False,1,False
+09,09574150,Reichenschwand,2020-03-15,first,1363,5.062362435803375,False,over_5_to_10pp,False,False,1,False
+09,09575117,"Dachsbach, M",2020-03-15,first,1110,4.864864864864865,False,over_2_to_5pp,False,True,1,False
+09,09575156,"Obernzenn, M",2020-03-15,first,1377,2.251270878721859,False,over_2_to_5pp,False,True,1,False
+09,09576122,"Greding, St",2020-03-15,first,4038,3.070827142149579,False,over_2_to_5pp,False,True,1,False
+09,09671160,Dammbach,2020-03-15,first,1095,4.292237442922374,False,over_2_to_5pp,False,True,1,False
+09,09672136,Nüdlingen,2020-03-15,first,2182,8.799266727772686,False,over_5_to_10pp,False,False,1,False
+09,09673127,Großeibstadt,2020-03-15,first,753,8.897742363877821,False,over_5_to_10pp,False,False,1,False
+09,09673135,Hohenroth,2020-03-15,first,1923,0.26001040041601664,False,within_2pp,True,True,1,False
+09,09673184,Wülfershausen a.d.Saale,2020-03-15,first,973,7.091469681397739,False,over_5_to_10pp,False,False,1,False
+09,09674171,"Maroldsweisach, M",2020-03-15,first,2083,6.096975516082574,False,over_5_to_10pp,False,False,1,False
+09,09675149,"Marktsteft, St",2020-03-15,first,1133,8.56134157105031,False,over_5_to_10pp,False,False,1,False
+09,09675155,Nordheim a.Main,2020-03-15,first,682,3.225806451612903,False,over_2_to_5pp,False,True,1,False
+09,09675178,"Wiesentheid, M",2020-03-15,first,2478,0.48426150121065376,False,within_2pp,True,True,1,False
+09,09676118,Dorfprozelten,2020-03-15,first,1086,4.972375690607735,False,over_2_to_5pp,False,True,1,False
+09,09676121,"Elsenfeld, M",2020-03-15,first,3579,2.654372729812797,False,over_2_to_5pp,False,True,1,False
+09,09676126,Großwallstadt,2020-03-15,first,2422,3.7985136251032205,False,over_2_to_5pp,False,True,1,False
+09,09676158,"Stadtprozelten, St",2020-03-15,first,764,1.3089005235602094,False,within_2pp,True,True,1,False
+09,09677127,Eußenheim,2020-03-15,first,1945,3.6503856041131106,False,over_2_to_5pp,False,True,1,False
+09,09677203,"Zellingen, M",2020-03-15,first,3450,9.159420289855072,False,over_5_to_10pp,False,False,1,False
+09,09679122,"Bütthard, M",2020-03-15,first,809,3.584672435105068,False,over_2_to_5pp,False,True,1,False
+09,09679126,Eisingen,2020-03-15,first,1819,2.6937877954920286,False,over_2_to_5pp,False,True,1,False
+09,09679130,Estenfeld,2020-03-15,first,3041,4.505097007563301,False,over_2_to_5pp,False,True,1,False
+09,09679131,"Frickenhausen a.Main, M",2020-03-15,first,744,6.989247311827957,False,over_5_to_10pp,False,False,1,False
+09,09679165,Altertheim,2020-03-15,first,1043,6.423777564717162,False,over_5_to_10pp,False,False,1,False
+09,09679200,Leinach,2020-03-15,first,1836,1.7429193899782136,False,within_2pp,True,True,1,False
+09,09771156,"Pöttmes, M",2020-03-15,first,3576,1.7337807606263982,False,within_2pp,True,True,1,False
+09,09772130,"Diedorf, M",2020-03-15,first,5416,6.757754800590842,False,over_5_to_10pp,False,False,1,False
+09,09772167,Kutzenhausen,2020-03-15,first,1455,5.841924398625429,False,over_5_to_10pp,False,False,1,False
+09,09772178,Mickhausen,2020-03-15,first,762,3.1496062992125986,False,over_2_to_5pp,False,True,1,False
+09,09773183,"Wittislingen, M",2020-03-15,first,1375,0.9454545454545454,False,within_2pp,True,True,1,False
+09,09776121,Oberreute,2020-03-15,first,932,7.939914163090129,False,over_5_to_10pp,False,False,1,False
+09,09777145,Lamerdingen,2020-03-15,first,1186,5.902192242833053,False,over_5_to_10pp,False,False,1,False
+09,09777149,Lengenwang,2020-03-15,first,886,3.160270880361174,False,over_2_to_5pp,False,True,1,False
+09,09779112,Amerdingen,2020-03-15,first,553,9.584086799276673,False,over_5_to_10pp,False,False,1,False
+09,09779196,Oberndorf a.Lech,2020-03-15,first,1474,5.020352781546811,False,over_5_to_10pp,False,False,1,False
+09,09780131,Obermaiselstein,2020-03-15,first,565,9.734513274336283,False,over_5_to_10pp,False,False,1,False
+09,09780133,"Oberstdorf, M",2020-03-15,first,4934,4.418321848398865,False,over_2_to_5pp,False,True,1,False
+09,09172114,"Bad Reichenhall, GKSt",2020-03-29,runoff,8406,7.589816797525577,False,over_5_to_10pp,False,False,1,False
+09,09175122,"Grafing b.München, St",2020-03-29,runoff,7870,8.030495552731892,False,over_5_to_10pp,False,False,1,False
+09,09175132,Vaterstetten,2020-03-29,runoff,12794,1.31311552290136,False,within_2pp,True,True,1,False
+09,09176139,"Kösching, M",2020-03-29,runoff,5511,2.703683542006895,False,over_2_to_5pp,False,True,1,False
+09,09177118,Finsing,2020-03-29,runoff,2700,4.0,False,over_2_to_5pp,False,True,1,False
+09,09177123,"Isen, M",2020-03-29,runoff,3218,1.1808576755748912,False,within_2pp,True,True,1,False
+09,09178122,Rudelzhausen,2020-03-29,runoff,1980,8.181818181818182,False,over_5_to_10pp,False,False,1,False
+09,09178143,"Moosburg a.d.Isar, St",2020-03-29,runoff,8870,2.3449830890642613,False,over_2_to_5pp,False,True,1,False
+09,09179113,Alling,2020-03-29,runoff,2382,8.732157850545759,False,over_5_to_10pp,False,False,1,False
+09,09179126,Gröbenzell,2020-03-29,runoff,10717,7.642064010450686,False,over_5_to_10pp,False,False,1,False
+09,09180123,"Mittenwald, M",2020-03-29,runoff,4374,4.938271604938271,False,over_2_to_5pp,False,True,1,False
+09,09181123,Greifenberg,2020-03-29,runoff,1294,2.7820710973724885,False,over_2_to_5pp,False,True,1,False
+09,09181135,Reichling,2020-03-29,runoff,1070,2.9906542056074765,False,over_2_to_5pp,False,True,1,False
+09,09181141,Pürgen,2020-03-29,runoff,1963,6.265919510952624,False,over_5_to_10pp,False,False,1,False
+09,09182111,Bad Wiessee,2020-03-29,runoff,2683,0.7081625046589638,False,within_2pp,True,True,1,False
+09,09182125,"Miesbach, St",2020-03-29,runoff,5928,3.6774628879892037,False,over_2_to_5pp,False,True,1,False
+09,09182127,Otterfing,2020-03-29,runoff,2833,6.883162725026474,False,over_5_to_10pp,False,False,1,False
+09,09182133,Valley,2020-03-29,runoff,2001,5.747126436781609,False,over_5_to_10pp,False,False,1,False
+09,09182134,Waakirchen,2020-03-29,runoff,3392,8.608490566037736,False,over_5_to_10pp,False,False,1,False
+09,09183113,Aschau a.Inn,2020-03-29,runoff,1791,3.852596314907873,False,over_2_to_5pp,False,True,1,False
+09,09183119,"Haag i.OB, M",2020-03-29,runoff,3296,8.798543689320388,False,over_5_to_10pp,False,False,1,False
+09,09183127,Mettenheim,2020-03-29,runoff,1882,0.8501594048884166,False,within_2pp,True,True,1,False
+09,09183128,"Mühldorf a.Inn, St",2020-03-29,runoff,10030,1.4955134596211366,False,within_2pp,True,True,1,False
+09,09183136,Polling,2020-03-29,runoff,2066,2.5169409486931267,False,over_2_to_5pp,False,True,1,False
+09,09184112,Aschheim,2020-03-29,runoff,4615,5.52546045503792,False,over_5_to_10pp,False,False,1,False
+09,09184120,Gräfelfing,2020-03-29,runoff,7428,2.046311254711901,False,over_2_to_5pp,False,True,1,False
+09,09184123,Haar,2020-03-29,runoff,9953,3.0242138048829497,False,over_2_to_5pp,False,True,1,False
+09,09184129,Hohenbrunn,2020-03-29,runoff,4684,9.308283518360376,False,over_5_to_10pp,False,False,1,False
+09,09184135,Oberschleißheim,2020-03-29,runoff,4997,8.18491094656794,False,over_5_to_10pp,False,False,1,False
+09,09184137,Aying,2020-03-29,runoff,2965,2.7993254637436764,False,over_2_to_5pp,False,True,1,False
+09,09184139,Pullach i.Isartal,2020-03-29,runoff,4883,6.778619701003482,False,over_5_to_10pp,False,False,1,False
+09,09184142,Schäftlarn,2020-03-29,runoff,3328,3.3653846153846154,False,over_2_to_5pp,False,True,1,False
+09,09186126,Hettenshausen,2020-03-29,runoff,1095,5.936073059360731,False,over_5_to_10pp,False,False,1,False
+09,09186162,"Wolnzach, M",2020-03-29,runoff,6486,1.3259327782917052,False,within_2pp,True,True,1,False
+09,09187117,"Bad Aibling, St",2020-03-29,runoff,9688,2.4153592072667216,False,over_2_to_5pp,False,True,1,False
+09,09187118,Bernau a.Chiemsee,2020-03-29,runoff,3767,7.56570215025219,False,over_5_to_10pp,False,False,1,False
+09,09187125,Eggstätt,2020-03-29,runoff,1768,9.049773755656108,False,over_5_to_10pp,False,False,2,False
+09,09187131,Flintsbach a.Inn,2020-03-29,runoff,1795,1.7270194986072422,False,within_2pp,True,True,1,False
+09,09187162,"Prien a.Chiemsee, M",2020-03-29,runoff,5760,5.0,False,over_2_to_5pp,False,True,1,False
+09,09188120,Gauting,2020-03-29,runoff,10716,1.007838745800672,False,within_2pp,True,True,1,False
+09,09188132,Seefeld,2020-03-29,runoff,4051,3.974327326586028,False,over_2_to_5pp,False,True,1,False
+09,09189114,Chieming,2020-03-29,runoff,2910,8.8659793814433,False,over_5_to_10pp,False,False,1,False
+09,09189152,"Tittmoning, St",2020-03-29,runoff,3528,7.766439909297052,False,over_5_to_10pp,False,False,1,False
+09,09189159,Übersee,2020-03-29,runoff,3221,3.508227258615337,False,over_2_to_5pp,False,True,2,False
+09,09190148,"Schongau, St",2020-03-29,runoff,5424,2.5073746312684366,False,over_2_to_5pp,False,True,1,False
+09,09271130,Lalling,2020-03-29,runoff,975,3.7948717948717947,False,over_2_to_5pp,False,True,1,False
+09,09271141,"Osterhofen, St",2020-03-29,runoff,6698,6.778142729172887,False,over_5_to_10pp,False,False,1,False
+09,09272143,Sankt Oswald-Riedlhütte,2020-03-29,runoff,2060,5.048543689320389,False,over_5_to_10pp,False,False,1,False
+09,09273147,"Mainburg, St",2020-03-29,runoff,7051,4.2405332576939445,False,over_2_to_5pp,False,True,1,False
+09,09273164,"Riedenburg, St",2020-03-29,runoff,3740,0.42780748663101603,False,within_2pp,True,True,1,False
+09,09273181,Wildenberg,2020-03-29,runoff,863,1.0428736964078795,False,within_2pp,True,True,1,False
+09,09274113,"Altdorf, M",2020-03-29,runoff,5368,8.01043219076006,False,over_5_to_10pp,False,False,1,False
+09,09275116,Bad Füssing,2020-03-29,runoff,4303,9.597954915175459,False,over_5_to_10pp,False,False,1,False
+09,09275126,"Hauzenberg, St",2020-03-29,runoff,7672,6.569343065693431,False,over_5_to_10pp,False,False,1,False
+09,09275135,Neukirchen vorm Wald,2020-03-29,runoff,1801,5.385896724042198,False,over_5_to_10pp,False,False,1,False
+09,09276146,Zachenberg,2020-03-29,runoff,1336,6.88622754491018,False,over_5_to_10pp,False,False,1,False
+09,09277152,Wittibreut,2020-03-29,runoff,1375,7.490909090909091,False,over_5_to_10pp,False,False,1,False
+09,09278118,"Bogen, St",2020-03-29,runoff,5044,6.859635210150674,False,over_5_to_10pp,False,False,1,False
+09,09278148,"Mallersdorf-Pfaffenberg, M",2020-03-29,runoff,3869,7.573016283277332,False,over_5_to_10pp,False,False,1,False
+09,09279122,"Landau a.d.Isar, St",2020-03-29,runoff,6774,8.41452612931798,False,over_5_to_10pp,False,False,1,False
+09,09279125,Mamming,2020-03-29,runoff,2022,3.066271018793274,False,over_2_to_5pp,False,True,1,False
+09,09362000,Regensburg,2020-03-29,runoff,63996,1.4782173885867866,False,within_2pp,True,True,1,False
+09,09363000,Weiden i.d.OPf.,2020-03-29,runoff,20408,2.538220305762446,False,over_2_to_5pp,False,True,1,False
+09,09371121,"Freihung, M",2020-03-29,runoff,1634,7.588739290085679,False,over_5_to_10pp,False,False,1,False
+09,09371150,"Schnaittenbach, St",2020-03-29,runoff,2707,5.947543405984485,False,over_5_to_10pp,False,False,1,False
+09,09372154,"Rötz, St",2020-03-29,runoff,2248,8.98576512455516,False,over_5_to_10pp,False,False,1,False
+09,09372171,"Waldmünchen, St",2020-03-29,runoff,4387,2.803738317757009,False,over_2_to_5pp,False,True,1,False
+09,09373140,"Lauterhofen, M",2020-03-29,runoff,2436,5.911330049261084,False,over_5_to_10pp,False,False,1,False
+09,09374121,"Floß, M",2020-03-29,runoff,2273,5.147382314122305,False,over_5_to_10pp,False,False,1,False
+09,09374139,"Neustadt a.d.Waldnaab, St",2020-03-29,runoff,3074,1.6265452179570592,False,within_2pp,True,True,1,False
+09,09375115,Aufhausen,2020-03-29,runoff,1159,9.749784296807594,False,over_5_to_10pp,False,False,1,False
+09,09375204,Tegernheim,2020-03-29,runoff,3002,8.66089273817455,False,over_5_to_10pp,False,False,1,False
+09,09375205,Thalmassing,2020-03-29,runoff,2163,0.32362459546925565,False,within_2pp,True,True,1,False
+09,09375213,Zeitlarn,2020-03-29,runoff,3618,4.588170259812051,False,over_2_to_5pp,False,True,1,False
+09,09376119,"Burglengenfeld, St",2020-03-29,runoff,7615,7.839789888378201,False,over_5_to_10pp,False,False,1,False
+09,09376161,"Schwandorf, GKSt",2020-03-29,runoff,13445,9.721085905541093,False,over_5_to_10pp,False,False,1,False
+09,09377129,"Kemnath, St",2020-03-29,runoff,3273,9.074243813015583,False,over_5_to_10pp,False,False,1,False
+09,09462000,Bayreuth,2020-03-29,runoff,32350,7.12210200927357,False,over_5_to_10pp,False,False,1,False
+09,09464000,Hof,2020-03-29,runoff,21191,9.565381529894767,False,over_5_to_10pp,False,False,1,False
+09,09472139,"Gefrees, St",2020-03-29,runoff,2654,3.8432554634513942,False,over_2_to_5pp,False,True,1,False
+09,09472140,Gesees,2020-03-29,runoff,820,5.609756097560975,False,over_5_to_10pp,False,False,1,False
+09,09472141,Glashütten,2020-03-29,runoff,901,6.770255271920089,False,over_5_to_10pp,False,False,1,False
+09,09472154,"Hollfeld, St",2020-03-29,runoff,3428,0.11668611435239207,False,within_2pp,True,True,1,False
+09,09473138,Itzgrund,2020-03-29,runoff,1526,3.5386631716906947,False,over_2_to_5pp,False,True,1,False
+09,09474122,Effeltrich,2020-03-29,runoff,1782,2.8058361391694726,False,over_2_to_5pp,False,True,1,False
+09,09474132,"Gräfenberg, St",2020-03-29,runoff,2525,5.108910891089109,False,over_5_to_10pp,False,False,1,False
+09,09474133,Hallerndorf,2020-03-29,runoff,2865,4.851657940663176,False,over_2_to_5pp,False,True,1,False
+09,09474145,Kunreuth,2020-03-29,runoff,988,2.834008097165992,False,over_2_to_5pp,False,True,1,False
+09,09475146,"Lichtenberg, St",2020-03-29,runoff,750,5.066666666666666,False,over_5_to_10pp,False,False,1,False
+09,09476159,"Nordhalben, M",2020-03-29,runoff,1216,5.592105263157895,False,over_5_to_10pp,False,False,1,False
+09,09477128,"Kulmbach, GKSt",2020-03-29,runoff,15275,1.6432078559738135,False,within_2pp,True,True,1,False
+09,09478116,"Burgkunstadt, St",2020-03-29,runoff,3465,3.896103896103896,False,over_2_to_5pp,False,True,1,False
+09,09478176,"Weismain, St",2020-03-29,runoff,3192,0.8145363408521303,False,within_2pp,True,True,1,False
+09,09562000,Erlangen,2020-03-29,runoff,51694,8.94881417572639,False,over_5_to_10pp,False,False,1,False
+09,09564000,Nürnberg,2020-03-29,runoff,199102,4.33345722293096,False,over_2_to_5pp,False,True,1,False
+09,09565000,Schwabach,2020-03-29,runoff,19253,7.318339998961201,False,over_5_to_10pp,False,False,1,False
+09,09571190,Petersaurach,2020-03-29,runoff,3005,5.5574043261231285,False,over_5_to_10pp,False,False,1,False
+09,09572154,Spardorf,2020-03-29,runoff,1325,2.188679245283019,False,over_2_to_5pp,False,True,1,False
+09,09573124,Puschendorf,2020-03-29,runoff,1491,2.347417840375587,False,over_2_to_5pp,False,True,1,False
+09,09573125,"Roßtal, M",2020-03-29,runoff,5723,9.697710990739123,False,over_5_to_10pp,False,False,1,False
+09,09573127,"Stein, St",2020-03-29,runoff,7037,9.961631377007247,False,over_5_to_10pp,False,False,1,False
+09,09573134,"Zirndorf, St",2020-03-29,runoff,12467,2.2379080773241355,False,over_2_to_5pp,False,True,1,False
+09,09574123,"Feucht, M",2020-03-29,runoff,7420,6.549865229110512,False,over_5_to_10pp,False,False,1,False
+09,09574138,"Lauf a.d.Pegnitz, St",2020-03-29,runoff,14394,3.695984437960261,False,over_2_to_5pp,False,True,1,False
+09,09574157,Schwarzenbruck,2020-03-29,runoff,4457,9.311195871662553,False,over_5_to_10pp,False,False,1,False
+09,09575166,Trautskirchen,2020-03-29,runoff,871,7.6923076923076925,False,over_5_to_10pp,False,False,1,False
+09,09576128,Kammerstein,2020-03-29,runoff,1901,4.997369805365597,False,over_2_to_5pp,False,True,1,False
+09,09576141,Röttenbach,2020-03-29,runoff,1875,0.26666666666666666,False,within_2pp,True,True,1,False
+09,09577177,"Weißenburg i.Bay., GKSt",2020-03-29,runoff,9484,2.825811893715732,False,over_2_to_5pp,False,True,1,False
+09,09671120,Glattbach,2020-03-29,runoff,2077,0.33702455464612424,False,within_2pp,True,True,1,False
+09,09671121,"Goldbach, M",2020-03-29,runoff,5066,5.68495854717726,False,over_5_to_10pp,False,False,1,False
+09,09671126,Heigenbrücken,2020-03-29,runoff,1418,3.1029619181946404,False,over_2_to_5pp,False,True,1,False
+09,09672121,"Elfershausen, M",2020-03-29,runoff,1864,1.0729613733905579,False,within_2pp,True,True,1,False
+09,09672142,Ramsthal,2020-03-29,runoff,809,4.326328800988875,False,over_2_to_5pp,False,True,1,False
+09,09674184,Pfarrweisach,2020-03-29,runoff,1086,3.867403314917127,False,over_2_to_5pp,False,True,1,False
+09,09674201,Stettfeld,2020-03-29,runoff,843,5.100830367734282,False,over_5_to_10pp,False,False,1,False
+09,09675116,Castell,2020-03-29,runoff,557,9.156193895870736,False,over_5_to_10pp,False,False,1,False
+09,09675174,"Volkach, St",2020-03-29,runoff,5566,1.329500538986705,False,within_2pp,True,True,1,False
+09,09676125,"Großheubach, M",2020-03-29,runoff,3079,8.931471256901592,False,over_5_to_10pp,False,False,1,False
+09,09676132,"Kleinheubach, M",2020-03-29,runoff,1833,8.89252591380251,False,over_5_to_10pp,False,False,1,False
+09,09678186,Üchtelhausen,2020-03-29,runoff,2538,0.5516154452324665,False,within_2pp,True,True,1,False
+09,09771144,"Kühbach, M",2020-03-29,runoff,2520,3.5714285714285716,False,over_2_to_5pp,False,True,1,False
+09,09771145,Merching,2020-03-29,runoff,1858,1.6146393972012918,False,within_2pp,True,True,1,False
+09,09771146,"Mering, M",2020-03-29,runoff,7865,0.9027336300063573,False,within_2pp,True,True,1,False
+09,09772117,Aystetten,2020-03-29,runoff,1826,4.709748083242059,False,over_2_to_5pp,False,True,1,False
+09,09772131,"Dinkelscherben, M",2020-03-29,runoff,4047,9.612058314801088,False,over_5_to_10pp,False,False,1,False
+09,09772145,Gablingen,2020-03-29,runoff,2733,1.2806439809732895,False,within_2pp,True,True,1,False
+09,09772147,"Gersthofen, St",2020-03-29,runoff,10242,6.014450302675259,False,over_5_to_10pp,False,False,1,False
+09,09774140,Haldenwang,2020-03-29,runoff,1169,5.902480752780154,False,over_5_to_10pp,False,False,1,False
+09,09776116,"Lindau (Bodensee), GKSt",2020-03-29,runoff,11687,5.433387524599983,False,over_5_to_10pp,False,False,1,False
+09,09777152,Mauerstetten,2020-03-29,runoff,2024,6.225296442687747,False,over_5_to_10pp,False,False,1,False
+09,09778116,"Bad Wörishofen, St",2020-03-29,runoff,8058,7.867957309506081,False,over_5_to_10pp,False,False,1,False
+09,09779115,Asbach-Bäumenheim,2020-03-29,runoff,2425,0.5360824742268041,False,within_2pp,True,True,1,False
+09,09671111,"Alzenau, St",2020-07-05,first,8947,9.48921426176372,False,over_5_to_10pp,False,False,1,False
+09,09178133,Hohenkammer,2020-09-27,runoff,1262,5.54675118858954,False,over_5_to_10pp,False,False,1,False
+09,09189159,Übersee,2021-04-18,first,2832,3.1073446327683616,False,over_2_to_5pp,False,True,2,False
+09,09276139,Rinchnach,2021-05-23,runoff,2041,2.9887310142087213,False,over_2_to_5pp,False,True,1,False
+09,09273139,Kirchdorf,2021-09-26,first,581,6.712564543889845,False,over_5_to_10pp,False,False,1,False
+09,09276134,Patersdorf,2021-09-26,first,996,7.429718875502008,False,over_5_to_10pp,False,False,1,False
+09,09775115,Bellenberg,2021-09-26,first,2773,0.7573025604038947,False,within_2pp,True,True,1,False
+09,09572115,"Baiersdorf, St",2022-03-13,first,3711,3.799514955537591,False,over_2_to_5pp,False,True,1,False
+09,09190118,Burggen,2022-05-08,first,938,2.985074626865672,False,over_2_to_5pp,False,True,1,False
+09,09573126,Seukendorf,2022-07-24,runoff,1585,1.4511041009463723,False,within_2pp,True,True,1,False
+09,09575167,"Uehlfeld, M",2022-10-09,runoff,1512,1.4550264550264551,False,within_2pp,True,True,1,False
+09,09276148,"Zwiesel, St",2022-12-11,runoff,4302,7.949790794979079,False,over_5_to_10pp,False,False,1,False
+09,09678115,Bergrheinfeld,2023-03-12,first,2303,7.511940946591403,False,over_5_to_10pp,False,False,1,False
+09,09676122,"Erlenbach a.Main, St",2023-04-02,first,4064,4.330708661417323,False,over_2_to_5pp,False,True,1,False
+09,09674195,Sand a.Main,2023-05-21,runoff,1800,8.333333333333334,False,over_5_to_10pp,False,False,1,False
+09,09679142,Güntersleben,2023-07-09,first,2341,6.962836394703118,False,over_5_to_10pp,False,False,1,False
+09,09187125,Eggstätt,2023-10-08,first,1811,9.221424627277747,False,over_5_to_10pp,False,False,2,False
+09,09190138,Pähl,2023-10-08,first,1583,7.138344914718888,False,over_5_to_10pp,False,False,1,False
+09,09373147,"Neumarkt i.d.OPf., GKSt",2023-10-22,runoff,16894,4.084290280572985,False,over_2_to_5pp,False,True,1,False
+09,09371151,"Sulzbach-Rosenberg, St",2024-01-14,first,6853,2.3493360572012256,False,over_2_to_5pp,False,True,1,False
+09,09679153,Kirchheim,2024-01-14,first,1314,9.58904109589041,False,over_5_to_10pp,False,False,1,False
+09,09375199,Sinzing,2024-01-21,first,3463,0.14438348252959862,False,within_2pp,True,True,1,False
+09,09674121,"Burgpreppach, M",2024-01-28,first,894,0.22371364653243847,False,within_2pp,True,True,1,False
+09,09184140,Putzbrunn,2024-03-03,first,2703,5.512393636699963,False,over_5_to_10pp,False,False,1,False
+09,09473175,Weitramsdorf,2024-03-03,runoff,2133,0.23441162681669012,False,within_2pp,True,True,1,False
+09,09780143,Waltenhofen,2024-03-10,first,4286,6.346243583761082,False,over_5_to_10pp,False,False,1,False
+09,09672113,"Bad Brückenau, St",2024-05-12,runoff,2596,8.089368258859784,False,over_5_to_10pp,False,False,1,False
+09,09271127,Iggensbach,2024-06-09,first,1302,0.4608294930875576,False,within_2pp,True,True,1,False
+09,09178130,Hallbergmoos,2024-11-03,runoff,3706,6.745817593092283,False,over_5_to_10pp,False,False,1,False
+09,09472180,Prebitz,2024-11-24,first,604,3.9735099337748343,False,over_2_to_5pp,False,True,2,False
+09,09374123,Georgenberg,2025-02-23,first,871,4.70723306544202,False,over_2_to_5pp,False,True,1,False
+09,09671122,"Großostheim, M",2025-02-23,runoff,9350,1.5614973262032086,False,within_2pp,True,True,1,False
+10,10045111,Bexbach,2019-05-26,first,8951,6.8483968271701485,True,over_5_to_10pp,False,False,1,False
+10,10041515,Püttlingen,2019-06-09,runoff,8868,7.329724853405503,True,over_5_to_10pp,False,False,1,False
+10,10043113,Merchweiler,2024-06-09,first,5538,1.8418201516793067,True,within_2pp,True,True,1,False
+10,10046113,Namborn,2024-06-09,first,4169,6.836171743823459,True,over_5_to_10pp,False,False,1,False
+10,10046116,Oberthal,2024-06-09,first,3803,9.229555613988957,True,over_5_to_10pp,False,False,1,False
+12,12066176,Lauchhammer,2018-01-21,runoff,6189,3.6677977056067217,True,over_2_to_5pp,False,True,1,False
+12,12072120,Großbeeren,2018-01-28,runoff,3201,4.3423930021868165,True,over_2_to_5pp,False,True,1,False
+12,12067124,Erkner,2018-03-04,runoff,4129,2.736740130782272,True,over_2_to_5pp,False,True,1,False
+12,12063252,Rathenow,2018-03-11,runoff,8288,9.86969111969112,True,over_5_to_10pp,False,False,1,False
+12,12064472,Strausberg,2018-03-11,runoff,8577,7.5434301037658855,True,over_5_to_10pp,False,False,1,False
+12,12069454,Nuthetal,2018-05-06,first,4311,1.7397355601948503,True,within_2pp,True,True,1,False
+12,12071076,Forst (Lausitz),2018-05-06,runoff,6368,7.4120603015075375,True,over_5_to_10pp,False,False,1,False
+12,12072297,Niedergörsdorf,2018-10-21,runoff,2382,4.785894206549118,True,over_2_to_5pp,False,True,1,False
+12,12065225,Mühlenbecker Land,2019-09-01,first,8763,4.005477576172543,True,over_2_to_5pp,False,True,1,False
+12,12060198,Schorfheide,2019-09-15,runoff,4021,0.7212136284506342,True,within_2pp,True,True,1,False
+12,12062469,Sonnewalde,2019-09-15,runoff,1803,8.48585690515807,True,over_5_to_10pp,False,False,1,False
+12,12071337,Schenkendöbern,2019-09-15,runoff,1823,5.540318156884257,True,over_5_to_10pp,False,False,1,False
+12,12060269,Wandlitz,2019-09-22,runoff,9025,9.141274238227147,True,over_5_to_10pp,False,False,1,False
+12,12061217,Heidesee,2019-09-22,runoff,3320,7.891566265060241,True,over_5_to_10pp,False,False,1,False
+12,12063056,Dallgow-Döberitz,2020-11-15,runoff,4031,9.749441825849665,True,over_5_to_10pp,False,False,1,False
+12,12069656,Werder (Havel),2022-06-26,runoff,8408,9.633682207421502,True,over_5_to_10pp,False,False,1,False
+12,12061540,Wildau,2022-09-18,runoff,3976,9.356136820925553,True,over_5_to_10pp,False,False,1,False
+12,12061329,Märkische Heide,2022-09-25,first,2075,1.8795180722891567,True,within_2pp,True,True,1,False
+12,12065198,Löwenberger Land,2022-10-09,runoff,3941,0.9895965490992134,True,within_2pp,True,True,1,False
+12,12066304,Senftenberg,2022-10-09,runoff,7476,8.881754949170679,True,over_5_to_10pp,False,False,1,False
+12,12070296,Perleberg,2022-10-09,runoff,4213,9.802990742938524,True,over_5_to_10pp,False,False,1,False
+12,12068181,Heiligengrabe,2023-03-19,first,2222,7.290729072907291,True,over_5_to_10pp,False,False,1,False
+12,12067036,Beeskow,2023-10-08,runoff,3739,8.264241775875902,True,over_5_to_10pp,False,False,1,False
+12,12069604,Stahnsdorf,2024-03-17,first,6996,4.4311034877072615,True,over_2_to_5pp,False,True,1,False
+12,12073008,Angermünde,2024-06-30,runoff,5759,3.524917520402848,True,over_2_to_5pp,False,True,1,False
+12,12073384,Lychen,2024-06-30,runoff,1651,2.483343428225318,True,over_2_to_5pp,False,True,1,False
+12,12065165,Kremmen,2024-10-13,runoff,4003,4.921309018236323,True,over_2_to_5pp,False,True,1,False
+12,12067440,Schöneiche bei Berlin,2024-10-13,runoff,6197,1.9848313700177505,True,within_2pp,True,True,1,False
+12,12073572,Templin,2025-05-04,runoff,7954,7.593663565501634,True,over_5_to_10pp,False,False,1,False
+12,12072169,Jüterbog,2025-07-20,runoff,5177,7.24357736140622,True,over_5_to_10pp,False,False,1,False
+12,12063208,Nauen,2025-09-28,runoff,7820,5.217391304347826,True,over_5_to_10pp,False,False,1,False
+12,12069616,Teltow,2025-09-28,first,10918,4.231544238871588,True,over_2_to_5pp,False,True,1,False
+12,12065096,Glienicke/Nordbahn,2025-10-12,runoff,5078,0.8270972823946435,True,within_2pp,True,True,1,False
+12,12065332,Velten,2025-10-12,runoff,5254,2.7788351732013705,True,over_2_to_5pp,False,True,1,False
+12,12064044,Bad Freienwalde (Oder),2025-10-19,runoff,5096,3.1397174254317113,True,over_2_to_5pp,False,True,1,False
+12,12071244,Kolkwitz,2025-10-19,runoff,5050,1.2277227722772277,True,within_2pp,True,True,1,False
+13,13076060,"Hagenow, Stadt",2022-05-08,first,3556,9.111361079865016,True,over_5_to_10pp,False,False,1,False
+14,14524300,"Werdau, Stadt",2019-05-26,first,9844,3.0475416497358796,False,over_2_to_5pp,False,True,1,False
+14,14625580,Steina,2019-05-26,first,961,3.6420395421436003,False,over_2_to_5pp,False,True,1,False
+14,14626010,"Bad Muskau, Stadt",2019-09-01,first,1776,0.22522522522522523,True,within_2pp,True,True,1,False
+14,14627100,Klipphausen,2019-09-01,first,6180,1.4239482200647249,False,within_2pp,True,True,1,False
+14,14730150,Krostitz,2019-09-15,runoff,2165,2.448036951501155,False,over_2_to_5pp,False,True,1,False
+14,14729360,"Regis-Breitingen, Stadt",2020-02-02,runoff,1734,8.765859284890427,False,over_5_to_10pp,False,False,1,False
+14,14625420,Oßling,2020-08-02,first,1221,6.6339066339066335,False,over_5_to_10pp,False,False,1,False
+14,14625590,Steinigtwolmsdorf,2020-10-11,runoff,1658,0.9650180940892642,False,within_2pp,True,True,1,False
+14,14625100,Demitz-Thumitz,2020-10-25,runoff,1236,6.634304207119741,False,over_5_to_10pp,False,False,1,False
+14,14627180,"Nossen, Stadt",2020-11-08,runoff,4413,8.18037616134149,False,over_5_to_10pp,False,False,1,False
+14,14522400,Neuhausen/Erzgeb.,2021-06-06,first,1472,6.114130434782608,False,over_5_to_10pp,False,False,1,False
+14,14627230,"Riesa, Stadt",2021-07-04,first,10152,4.8660362490149724,True,over_2_to_5pp,False,True,1,False
+14,14730160,Laußig,2021-09-26,first,2410,4.398340248962656,False,over_2_to_5pp,False,True,1,False
+14,14625470,Räckelwitz,2022-06-12,first,586,8.532423208191126,False,over_5_to_10pp,False,False,1,False
+14,14626170,Hainewalde,2022-06-12,first,776,0.5154639175257731,True,within_2pp,True,True,2,False
+14,14628370,"Stadt Wehlen, Stadt",2022-06-12,first,754,6.36604774535809,True,over_5_to_10pp,False,False,1,False
+14,14521260,"Grünhain-Beierfeld, Stadt",2022-07-03,runoff,2516,6.120826709062003,True,over_5_to_10pp,False,False,1,False
+14,14626270,Lawalde,2022-09-11,first,954,6.49895178197065,True,over_5_to_10pp,False,False,1,False
+14,14521180,"Elterlein, Stadt",2023-06-11,first,1388,5.619596541786744,True,over_5_to_10pp,False,False,1,False
+14,14626170,Hainewalde,2024-11-10,first,765,6.928104575163399,True,over_5_to_10pp,False,False,2,False
+15,15085228,"Oberharz am Brocken, Stadt",2018-04-22,runoff,3692,5.850487540628386,False,over_5_to_10pp,False,False,1,False
+15,15086040,"Genthin, Stadt",2018-05-13,runoff,4396,4.868061874431302,False,over_2_to_5pp,False,True,1,False
+15,15090008,Altmärkische Wische,2018-08-26,runoff,357,9.243697478991596,False,over_5_to_10pp,False,False,1,False
+15,15081026,"Apenburg-Winterfeld, Flecken",2018-12-16,first,970,0.20618556701030927,False,within_2pp,True,True,1,False
+15,15087260,Klostermansfeld,2020-02-23,first,912,5.2631578947368425,False,over_5_to_10pp,False,False,1,False
+15,15083205,Erxleben,2020-10-11,first,934,2.1413276231263385,False,over_2_to_5pp,False,True,1,False
+15,15090180,Goldbeck,2021-03-14,runoff,506,0.7905138339920948,False,within_2pp,True,True,1,False
+15,15084355,"Naumburg (Saale), Stadt",2021-04-25,runoff,10292,7.151185386708123,False,over_5_to_10pp,False,False,1,False
+15,15083130,Colbitz,2021-06-27,runoff,1058,9.640831758034027,False,over_5_to_10pp,False,False,1,False
+15,15085185,Huy,2021-10-17,runoff,2673,2.356902356902357,False,over_2_to_5pp,False,True,1,False
+15,15090310,Klietz,2021-10-17,runoff,762,7.349081364829396,False,over_5_to_10pp,False,False,1,False
+15,15084133,Finneland,2022-03-13,first,533,4.315196998123827,False,over_2_to_5pp,False,True,1,False
+15,15089310,"Staßfurt, Stadt",2022-04-03,runoff,6036,5.500331345261762,False,over_5_to_10pp,False,False,1,False
+15,15083320,Hötensleben,2022-04-10,first,1189,1.0933557611438183,False,within_2pp,True,True,1,False
+15,15086140,"Möckern, Stadt",2022-04-10,runoff,5495,4.422202001819836,False,over_2_to_5pp,False,True,1,False
+15,15085370,"Wernigerode, Stadt",2022-04-24,runoff,10996,9.312477264459803,False,over_5_to_10pp,False,False,1,False
+15,15087412,Südharz,2022-05-22,runoff,3088,6.0880829015544045,False,over_5_to_10pp,False,False,1,False
+15,15081440,Rohrberg,2022-10-16,first,593,7.251264755480607,False,over_5_to_10pp,False,False,1,False
+15,15081455,"Salzwedel, Hansestadt",2022-11-20,runoff,7460,0.5898123324396782,False,within_2pp,True,True,1,False
+15,15084207,Gutenborn,2023-02-26,runoff,720,4.722222222222222,False,over_2_to_5pp,False,True,1,False
+15,15082301,"Raguhn-Jeßnitz, Stadt",2023-07-02,runoff,4741,2.299093018350559,False,over_2_to_5pp,False,True,1,False
+15,15082015,"Bitterfeld-Wolfen, Stadt",2023-10-08,runoff,15289,7.64602001438943,False,over_5_to_10pp,False,False,1,False
+15,15083298,Hohe Börde,2023-10-08,runoff,5149,2.660710817634492,False,over_2_to_5pp,False,True,1,False
+15,15091060,"Coswig (Anhalt), Stadt",2024-03-17,runoff,4232,8.31758034026465,False,over_5_to_10pp,False,False,1,False
+15,15090500,Schönhausen (Elbe),2024-04-14,first,1060,8.11320754716981,False,over_5_to_10pp,False,False,1,False
+15,15083035,Ausleben,2024-11-10,runoff,634,8.517350157728707,False,over_5_to_10pp,False,False,1,False
+15,15088216,"Wettin-Löbejün, Stadt",2024-11-10,runoff,3617,3.1794304672380425,False,over_2_to_5pp,False,True,1,False
+15,15002000,"Halle (Saale), Stadt",2025-02-23,runoff,117223,3.662250582223625,False,over_2_to_5pp,False,True,1,False
+16,16054000,Suhl,2018-04-29,runoff,13864,4.83266012694749,False,over_2_to_5pp,False,True,1,False
+16,16063066,"Ruhla, Stadt",2018-04-29,runoff,2448,8.986928104575163,False,over_5_to_10pp,False,False,1,False
+16,16070004,"Arnstadt, Stadt",2018-04-29,runoff,8699,3.782043913093459,False,over_2_to_5pp,False,True,1,False
+16,16071003,"Bad Berka, Stadt",2018-04-29,runoff,3134,9.380982769623484,False,over_5_to_10pp,False,False,1,False
+16,16073038,Kaulsdorf,2018-04-29,runoff,1357,1.9896831245394253,False,within_2pp,True,True,1,False
+16,16064053,Oppershausen,2018-11-04,first,200,1.0,False,within_2pp,True,True,1,False
+16,16064075,Vogtei,2019-03-17,first,1837,5.389221556886228,False,over_5_to_10pp,False,False,1,False
+16,16065088,"An der Schmücke, Stadt",2019-05-26,first,2869,8.609271523178808,False,over_5_to_10pp,False,False,1,False
+16,16064076,Unstrut-Hainich,2019-06-09,runoff,2708,0.5908419497784343,False,within_2pp,True,True,1,False
+16,16073055,Meura,2019-06-09,runoff,194,7.216494845360825,False,over_5_to_10pp,False,False,1,False
+16,16067092,Georgenthal,2020-09-20,runoff,2757,9.61189698948132,False,over_5_to_10pp,False,False,1,False
+16,16063097,Gerstungen,2022-04-24,runoff,3954,9.00354071825999,False,over_5_to_10pp,False,False,1,False
+16,16067068,Tröchtelborn,2022-06-12,first,200,1.0,False,within_2pp,True,True,1,False
+16,16069028,Marisfeld,2022-06-12,first,254,0.7874015748031497,False,within_2pp,True,True,1,False
+16,16071083,Schmiedehausen,2022-06-12,first,259,5.7915057915057915,False,over_5_to_10pp,False,False,1,False
+16,16067019,"Friedrichroda, Stadt",2024-05-26,first,3834,3.182055294731351,False,over_2_to_5pp,False,True,1,False
+16,16073005,"Bad Blankenburg, Stadt",2024-05-26,first,2877,5.804657629475147,False,over_5_to_10pp,False,False,1,False
+16,16062009,Großlohra,2025-05-11,first,479,4.801670146137787,False,over_2_to_5pp,False,True,1,False
+16,16068063,Buttstädt,2025-05-11,runoff,3446,0.4062681369704005,False,within_2pp,True,True,1,False
