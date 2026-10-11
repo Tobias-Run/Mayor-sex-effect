@@ -1,0 +1,9 @@
+ags,source_id,document_date,role_observation_date,date_precision,observation_type,continuous_officeholding_verified
+05978024,lun-december-role,2025-12-15,2025-12-15,day,named_office_role_at_publication,False
+05978024,lun-january-role,2026-01-26,2026-01-23,day,named_actual_office_activity,False
+05382024,kw-january-role,not_displayed,2025-11,month,official_retrospective_entry_month,False
+05382040,nks-march-role,2026-03-31,2026-03-31,day,named_office_signature_at_publication,False
+05382040,nks-100days,2026-02-17,2026-02-17,day,named_office_interview,False
+05962032,lud-march-role,2026-03-26,2026-03-23,day,named_actual_office_activity,False
+05117000,mul-march-role,2026-03-04,2026-03-04,day,named_actual_office_activity,False
+05954020,her-january-role,2026-01-30,2026-01-30,day,named_fire_service_office_activity,False

@@ -1,0 +1,31 @@
+ags,municipality,absolute_margin_pp,pair_status,female_presented_winner,original_q1_procedures,candidate_called_composition_procedures,procedures_without_indexed_standard_result,candidate_tender_count_lot_results,procedures_with_supported_count_result,known_mixed_with_called_composition_inventory,known_mixed_with_count_inventory,new_office_role_observations,original_winner_office_review_status,continuous_original_winner_exposure_verified,independent_second_coding,main_study_eligibility_certified
+05154008,Emmerich am Rhein,1.2939453125,unresolved,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05154016,Goch,4.071269487750556,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05154036,Kleve,4.80945737572509,unreviewed_in_this_cohort_batch,,6,6,0,6,5,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05166004,Brüggen,3.7478705281090288,unreviewed_in_this_cohort_batch,,3,3,1,2,2,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05170012,Hamminkeln,0.3343936057417829,same_public_presentation,,1,1,0,1,1,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05334004,Alsdorf,3.2628985290823564,unreviewed_in_this_cohort_batch,,2,2,1,1,1,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05358012,Heimbach,3.0303030303030303,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05362032,Kerpen,2.795747313944985,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05374008,Engelskirchen,0.9276829011174362,same_public_presentation,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05378004,Bergisch Gladbach,0.829127613554434,same_public_presentation,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05378024,Overath,0.7723200494284832,same_public_presentation,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05382024,Königswinter,4.164084070547135,mixed_public_presentation,True,1,1,1,0,0,True,False,1,source_bounded_role_observations_available,False,False,False
+05382028,Lohmar,2.8009755376542755,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05382040,Neunkirchen-Seelscheid,1.2560823808984949,mixed_public_presentation,False,4,4,0,4,4,True,True,2,source_bounded_role_observations_available,False,False,False
+05554024,Heek,3.115534400692341,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05554032,Isselburg,3.5061544199925403,unreviewed_in_this_cohort_batch,,1,1,1,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05562008,Datteln,0.042716787697565144,unresolved,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05762040,Willebadessen,0.963000506842372,unresolved,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05774004,Altenbeken,1.5051491946131503,same_public_presentation,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05954016,Hattingen,2.501073422069558,unreviewed_in_this_cohort_batch,,4,4,4,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05954020,Herdecke,4.393905939500994,mixed_public_presentation,True,2,2,0,2,2,True,True,1,source_bounded_role_observations_available,False,False,False
+05962032,Lüdenscheid,0.85580014840465,mixed_public_presentation,False,1,1,0,1,1,True,True,1,source_bounded_role_observations_available,False,False,False
+05970040,Siegen,0.023836278816358497,same_public_presentation,,2,2,0,2,2,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05974032,Möhnesee,4.563361785948786,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05978024,Lünen,4.54855195911414,mixed_public_presentation,True,2,2,0,4,2,True,True,2,source_bounded_role_observations_available,False,False,False
+05978032,Selm,1.306511820821236,same_public_presentation,,3,3,0,5,3,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05978036,Unna,1.4959046544705479,same_public_presentation,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05117000,Mülheim an der Ruhr,0.40539722877715256,mixed_public_presentation,False,5,5,5,0,0,True,False,1,source_bounded_role_observations_available,False,False,False
+05119000,Oberhausen,2.6587325439281924,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False
+05711000,Bielefeld,2.7525587865976493,unreviewed_in_this_cohort_batch,,0,0,0,0,0,False,False,0,not_reviewed_in_this_bounded_office_batch,False,False,False

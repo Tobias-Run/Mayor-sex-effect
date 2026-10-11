@@ -1,0 +1,142 @@
+{
+  "checked_on_utc": "2026-10-11",
+  "original_q1_procedures": 37,
+  "municipalities_with_q1_procedures": 14,
+  "scope_status_counts": {
+    "sole_named_municipal_contracting_party_supported": 37
+  },
+  "literal_called_category_counts": {
+    "open": 34,
+    "restricted": 2,
+    "neg-w-call": 1
+  },
+  "candidate_called_composition_procedures": 37,
+  "no_indexed_standard_result_procedures": 13,
+  "result_lot_units": 29,
+  "successful_result_lot_units": 28,
+  "closed_without_winner_lot_units": 1,
+  "candidate_count_lot_units": 28,
+  "dated_supported_count_lot_units": 28,
+  "cross_lot_contract_supported_units": 5,
+  "distinct_awarded_contracts_in_supported_lots": 25,
+  "original_result_xml_notices": 24,
+  "minimum_call_followup_days": 184,
+  "maximum_call_followup_days": 264,
+  "known_mixed_elections_with_called_inventory": 6,
+  "called_inventory_female_presented_wins": 3,
+  "called_inventory_female_presented_losses": 3,
+  "known_mixed_elections_with_count_inventory": 4,
+  "count_inventory_female_presented_wins": 2,
+  "count_inventory_female_presented_losses": 2,
+  "known_mixed_count_lot_units": 11,
+  "certified_main_study_elections": 0,
+  "causal_effects_estimated": false,
+  "primary_outcome_rates_estimated": false,
+  "all_category_negotiated_population_supported": false,
+  "office_role_observations": 8,
+  "independent_second_coding_completed": false,
+  "inputs": [
+    {
+      "artifact": "outputs/nrw-2025-validation/q1-original-records.json",
+      "sha256": "5460c990eaa186f64cb8aaa7c567ccbf7ca441d8429696fc5b41a364d21f6e1e"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-q1-call-procedures.csv",
+      "sha256": "76abc1559fa7e0d1854e6a43cb58af177b8c946cfe96dd4f5bfbee7d8b72d07f"
+    },
+    {
+      "artifact": "outputs/nrw-election-register-2025/events.json",
+      "sha256": "63c4b9fa9962fe3081a4974bd4bdcbcfd3f47a107d179f69a5c669ed401fe4d9"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-presentation-pairs.csv",
+      "sha256": "a9afc15c24f41f92a37bebd688208d8c2ba2ef5485af54535cc8494a97f15c99"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-closest-pair-evidence-review.csv",
+      "sha256": "8daf1bee4f43a251e1514fbbe69cb4c6d3649d2eb75378224e05e650459c7d62"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-q1-eligibility-office/office-observations.json",
+      "sha256": "08257f1645d2673a0b2aa4afdc2ad85104cec2be96cc6ad950a1abe21ce74403"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-q1-eligibility-office/retrieval.json",
+      "sha256": "83eaca7f2217c438907f18a96f278f255a6f1bc7bb39b4a388f193cf9439f277"
+    }
+  ],
+  "precision_planning": {
+    "model": "Independent equal-variance Gaussian pooled two-sample t; not RDD power or observed outcome variance",
+    "power": 0.8,
+    "two_sided": true,
+    "mde_outcome_sd": [
+      {
+        "inventory": "called_composition",
+        "elections": 6,
+        "wins": 3,
+        "losses": 3,
+        "per_test_alpha": 0.05,
+        "mde_sd": 3.070892266437878
+      },
+      {
+        "inventory": "called_composition",
+        "elections": 6,
+        "wins": 3,
+        "losses": 3,
+        "per_test_alpha": 0.025,
+        "mde_sd": 3.742784133076185
+      },
+      {
+        "inventory": "conditional_tender_count",
+        "elections": 4,
+        "wins": 2,
+        "losses": 2,
+        "per_test_alpha": 0.05,
+        "mde_sd": 5.653489266206795
+      },
+      {
+        "inventory": "conditional_tender_count",
+        "elections": 4,
+        "wins": 2,
+        "losses": 2,
+        "per_test_alpha": 0.025,
+        "mde_sd": 8.01042385314353
+      }
+    ],
+    "illustrative_balanced_required_elections": [
+      {
+        "effect_sd": 0.25,
+        "per_test_alpha": 0.025,
+        "total_elections": 612
+      },
+      {
+        "effect_sd": 0.5,
+        "per_test_alpha": 0.025,
+        "total_elections": 156
+      },
+      {
+        "effect_sd": 1.0,
+        "per_test_alpha": 0.025,
+        "total_elections": 42
+      }
+    ],
+    "two_sided_balanced_full_permutation_minimum_p": [
+      {
+        "inventory": "called_composition",
+        "elections": 6,
+        "wins": 3,
+        "losses": 3,
+        "minimum_p": 0.1
+      },
+      {
+        "inventory": "conditional_tender_count",
+        "elections": 4,
+        "wins": 2,
+        "losses": 2,
+        "minimum_p": 0.3333333333333333
+      }
+    ],
+    "permutation_assumptions": "Fixed treated counts; all allocations equally likely; absolute difference-in-means statistic; balanced complementary allocations. Not a general RDD impossibility result.",
+    "effect_threshold_prespecified": false
+  }
+}
