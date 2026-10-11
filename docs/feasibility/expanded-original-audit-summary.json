@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-11",
+  "active_elections_retained": 114,
+  "selected_standard_call_records": 497,
+  "domestic_records_without_guid": 303,
+  "observed_call_first_guids": 167,
+  "indexed_context_notices": 320,
+  "cached_export_snapshots_checked": 231,
+  "exact_original_xml_notices": 171,
+  "missing_indexed_originals": 149,
+  "original_window_buyer_supported_procedures": 78,
+  "elections_with_original_window_buyer_support": 31,
+  "observed_supported_statistics": 47,
+  "elections_with_observed_supported_statistics": 16,
+  "elections_with_supported_statistics_in_new_5_to_10pp_stratum": 4,
+  "mature_target_supported_statistics": 2,
+  "new_original_xml_download_bytes": 0,
+  "new_mixed_count_elections_certified": 0,
+  "previous_provisional_mixed_count_elections": 4,
+  "certified_main_study_elections": 0,
+  "warning": "Cache-first partial original audit, not complete outcome coverage. Domestic GUID gaps, missing originals, result revisions, calendar-immature follow-up and independent candidate coding remain explicit. No new mixed assignment is inferred."
+}
