@@ -1,0 +1,19 @@
+ags,municipality,decisive_date,absolute_margin_pp,official_result_numbers_verified,observation_window,national_call_notices,calls_with_procedure_identifier,distinct_nonmissing_procedure_identifiers,primary_presentation_review,supported_tender_count_outcomes,independent_second_coding,main_study_eligibility_certified
+03157007,Vechelde,2021-09-12,0.5223068552774756,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03159002,Bad Grund (Harz),2021-09-12,3.245591617684641,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03254011,Diekholzen,2021-09-12,2.3548740416210294,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03254022,Holle,2021-09-12,2.869757174392936,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03358008,"Bad Fallingbostel, Stadt",2021-09-12,0.4668155063933428,True,2025Q1_late_term_separate_cohort,1,1,1,not_started,0,False,False
+03453011,"Löningen, Stadt",2021-09-12,1.4942695488176412,True,2025Q1_late_term_separate_cohort,2,0,0,not_started,0,False,False
+03159017,"Hann. Münden, Stadt",2021-09-26,1.7235376044568245,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03241004,"Burgwedel, Stadt",2021-09-26,4.1731318905675785,True,2025Q1_late_term_separate_cohort,5,1,1,not_started,0,False,False
+03241008,Isernhagen,2021-09-26,3.837333741018193,True,2025Q1_late_term_separate_cohort,9,2,1,not_started,0,False,False
+03241020,Wennigsen (Deister),2021-09-26,3.4466477809254012,True,2025Q1_late_term_separate_cohort,1,0,0,not_started,0,False,False
+03252005,Emmerthal,2021-09-26,4.154829545454546,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03254002,"Alfeld (Leine), Stadt",2021-09-26,4.073561400039549,True,2025Q1_late_term_separate_cohort,4,0,0,not_started,0,False,False
+03254045,Sibbesse,2021-09-26,2.308762169680111,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03256022,"Nienburg (Weser), Stadt",2021-09-26,2.1423934213373728,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03358016,"Munster, Stadt",2021-09-26,1.3713810777115945,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03452023,Südbrookmerland,2021-09-26,3.575855821493277,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03455020,Wangerland,2021-09-26,1.5077344820834149,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False
+03459004,"Bad Iburg, Stadt",2021-09-26,0.41442824251726784,True,2025Q1_late_term_separate_cohort,0,0,0,not_started,0,False,False

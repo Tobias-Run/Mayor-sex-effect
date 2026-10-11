@@ -1,0 +1,52 @@
+{
+  "official_sources": [
+    {
+      "round": "first",
+      "artifact": "data/raw/national-scale-expansion-2026-10-11/first.pdf",
+      "url": "https://wahlen.statistik.niedersachsen.de/KW2021/reports/DW/20210912_DW_Einzel.pdf",
+      "bytes": 606037,
+      "sha256": "2dcf866b6f58562d8784f02d0ad6b3c2856f924d78309fc0efe138c931b76960"
+    },
+    {
+      "round": "runoff",
+      "artifact": "data/raw/national-scale-expansion-2026-10-11/runoff.pdf",
+      "url": "https://wahlen.statistik.niedersachsen.de/SW2021/reports/DW/DW_Einzel.pdf",
+      "bytes": 226385,
+      "sha256": "5bf0c0f9b72bcb52ef4a78d2750ba0a40073d2958c1ff0e5bebffb2611e4ba3e"
+    }
+  ],
+  "reused_national_exports": [
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2025-01&format=csv.zip",
+      "file": "2025-01-csv.zip",
+      "bytes": 15414788,
+      "sha256": "03fad632417885bd7d12f8e8950744ded6d9fdb8fbc89d14667b4e9180934e6a",
+      "period": "2025-01",
+      "format": "csv",
+      "retrieved_at_utc": "2026-10-11T17:32:14.237631+00:00",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2025-02&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2025-02&format=csv.zip",
+      "file": "2025-02-csv.zip",
+      "bytes": 16055130,
+      "sha256": "21fa2425511c0a169f8be25632c21c31203575a9ea91530a4b2c78ac16ac3520",
+      "period": "2025-02",
+      "format": "csv",
+      "retrieved_at_utc": "2026-10-11T17:32:59.692793+00:00",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2025-03&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2025-03&format=csv.zip",
+      "file": "2025-03-csv.zip",
+      "bytes": 17198278,
+      "sha256": "b5c30960f6c35c50288757bc823f0a3e967b5f712b64f31eb9f94d2030ce00d1",
+      "period": "2025-03",
+      "format": "csv",
+      "retrieved_at_utc": "2026-10-11T17:33:01.803949+00:00",
+      "http_status": 200
+    }
+  ]
+}

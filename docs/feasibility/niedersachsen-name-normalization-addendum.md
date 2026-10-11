@@ -1,0 +1,5 @@
+# Niedersachsen exact-name normalization addendum
+
+11 October 2026. The first replay using the inherited Bavarian alias routine left the literal Niedersachsen register suffix `, Stadt` attached to city names: that routine only removes abbreviated Bavarian suffixes. It therefore failed to query the normal exact municipal name for those cities. The initial discovery found ten standard call notices in two municipalities; this is not evidence of procurement absence elsewhere.
+
+Before the corrected replay, add a deterministic source-format rule for **every** selected municipality: strip only the terminal literal `, Stadt`, then retain the same Stadt/Gemeinde/Markt/Kreisstadt prefix aliases and country/municipal buyer-role checks. Do not infer candidate labels or add fuzzy matching. Keep the original pinned protocol and record this correction separately. No change to elections, margin, quarter, procurement sources, result selection or resource budget. Original identity/scope verification remains pending.

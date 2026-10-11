@@ -1,0 +1,59 @@
+cohort,ags,municipality,pair_status,female_presented_winner,original_q1_called_procedures,candidate_tender_statistics,known_mixed_with_supported_count_inventory,independent_second_coding,main_study_eligibility_certified,observation_window
+NRW 2025,05154008,Emmerich am Rhein,unresolved,,0,0,False,False,False,following_year_Q1
+NRW 2025,05154016,Goch,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05154036,Kleve,unreviewed_in_this_cohort_batch,,6,6,False,False,False,following_year_Q1
+NRW 2025,05166004,Brüggen,unreviewed_in_this_cohort_batch,,3,2,False,False,False,following_year_Q1
+NRW 2025,05170012,Hamminkeln,same_public_presentation,,1,1,False,False,False,following_year_Q1
+NRW 2025,05334004,Alsdorf,unreviewed_in_this_cohort_batch,,2,1,False,False,False,following_year_Q1
+NRW 2025,05358012,Heimbach,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05362032,Kerpen,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05374008,Engelskirchen,same_public_presentation,,0,0,False,False,False,following_year_Q1
+NRW 2025,05378004,Bergisch Gladbach,same_public_presentation,,0,0,False,False,False,following_year_Q1
+NRW 2025,05378024,Overath,same_public_presentation,,0,0,False,False,False,following_year_Q1
+NRW 2025,05382024,Königswinter,mixed_public_presentation,True,1,0,False,False,False,following_year_Q1
+NRW 2025,05382028,Lohmar,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05382040,Neunkirchen-Seelscheid,mixed_public_presentation,False,4,4,True,False,False,following_year_Q1
+NRW 2025,05554024,Heek,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05554032,Isselburg,unreviewed_in_this_cohort_batch,,1,0,False,False,False,following_year_Q1
+NRW 2025,05562008,Datteln,unresolved,,0,0,False,False,False,following_year_Q1
+NRW 2025,05762040,Willebadessen,unresolved,,0,0,False,False,False,following_year_Q1
+NRW 2025,05774004,Altenbeken,same_public_presentation,,0,0,False,False,False,following_year_Q1
+NRW 2025,05954016,Hattingen,unreviewed_in_this_cohort_batch,,4,0,False,False,False,following_year_Q1
+NRW 2025,05954020,Herdecke,mixed_public_presentation,True,2,2,True,False,False,following_year_Q1
+NRW 2025,05962032,Lüdenscheid,mixed_public_presentation,False,1,1,True,False,False,following_year_Q1
+NRW 2025,05970040,Siegen,same_public_presentation,,2,2,False,False,False,following_year_Q1
+NRW 2025,05974032,Möhnesee,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05978024,Lünen,mixed_public_presentation,True,2,4,True,False,False,following_year_Q1
+NRW 2025,05978032,Selm,same_public_presentation,,3,5,False,False,False,following_year_Q1
+NRW 2025,05978036,Unna,same_public_presentation,,0,0,False,False,False,following_year_Q1
+NRW 2025,05117000,Mülheim an der Ruhr,mixed_public_presentation,False,5,0,False,False,False,following_year_Q1
+NRW 2025,05119000,Oberhausen,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+NRW 2025,05711000,Bielefeld,unreviewed_in_this_cohort_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2024,12069604,Stahnsdorf,not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2024,12073008,Angermünde,not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2024,12073384,Lychen,not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2024,12065165,Kremmen,mixed_public_presentation,False,1,0,False,False,False,following_year_Q1
+Brandenburg 2024,12067440,Schöneiche bei Berlin,not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2025,12069616,Teltow,mixed_public_presentation,False,0,0,False,False,False,following_year_Q1
+Brandenburg 2025,12065096,Glienicke/Nordbahn,not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2025,12065332,Velten,one_finalist_unresolved,,1,3,False,False,False,following_year_Q1
+Brandenburg 2025,12064044,Bad Freienwalde (Oder),not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Brandenburg 2025,12071244,Kolkwitz,not_reviewed_in_this_bounded_batch,,0,0,False,False,False,following_year_Q1
+Niedersachsen 2021,03157007,Vechelde,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03159002,Bad Grund (Harz),unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03254011,Diekholzen,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03254022,Holle,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03358008,"Bad Fallingbostel, Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03453011,"Löningen, Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03159017,"Hann. Münden, Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03241004,"Burgwedel, Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03241008,Isernhagen,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03241020,Wennigsen (Deister),unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03252005,Emmerthal,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03254002,"Alfeld (Leine), Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03254045,Sibbesse,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03256022,"Nienburg (Weser), Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03358016,"Munster, Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03452023,Südbrookmerland,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03455020,Wangerland,unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
+Niedersachsen 2021,03459004,"Bad Iburg, Stadt",unreviewed_in_this_cohort_batch,,0,0,False,False,False,2025Q1_late_term_separate_cohort
