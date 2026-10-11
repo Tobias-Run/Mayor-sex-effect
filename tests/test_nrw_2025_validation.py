@@ -48,6 +48,33 @@ class ValidationTests(unittest.TestCase):
             a[0]['locator_quote']='Invented personal pronoun'
             with self.assertRaises(ValueError):presentation_pairs(events,a,s,root)
 
+    def test_complete_same_presentation_pair_has_no_signed_gender_margin(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);events,a,s=self.setup_evidence(root)
+            for value in ('female','male'):
+                same=copy.deepcopy(a)
+                for row in same:row['public_presentation']=value
+                pair=presentation_pairs(events,same,s,root)[0]
+                self.assertEqual(pair['pair_status'],'same_public_presentation')
+                self.assertIsNone(pair['signed_presentation_margin_pp'])
+                self.assertIsNone(pair['female_presented_winner'])
+
+    def test_missing_finalist_is_not_a_same_presentation_pair(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);events,a,s=self.setup_evidence(root)
+            pair=presentation_pairs(events,a[:1],s,root)[0]
+            self.assertEqual(pair['pair_status'],'unresolved')
+            self.assertIsNone(pair['signed_presentation_margin_pp'])
+
+    def test_other_or_conflicting_evidence_stays_outside_binary_pairs(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);events,a,s=self.setup_evidence(root)
+            for value in ('other_explicit','conflicting'):
+                bad=copy.deepcopy(a);bad[0]['public_presentation']=value
+                pair=presentation_pairs(events,bad,s,root)[0]
+                self.assertEqual(pair['pair_status'],'conflicting_or_other')
+                self.assertIsNone(pair['female_presented_winner'])
+
     def test_current_only_or_predicted_evidence_cannot_assign_presentation(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);events,a,s=self.setup_evidence(root)

@@ -109,6 +109,10 @@ def main():
     import csv
     with (DOC/'nrw-2025-presentation-pairs.csv').open(newline='') as f:
         reviewed={r['ags']:r for r in csv.DictReader(f)}
+    closest_review = DOC/'nrw-2025-closest-pair-evidence-review.csv'
+    if closest_review.exists():
+        with closest_review.open(newline='') as f:
+            reviewed.update({r['ags']:r for r in csv.DictReader(f)})
     by_ags={r['ags']:r for r in municipality}
     priority=[]
     for e in sorted((e for e in events if e['absolute_margin_pp']<=2),key=lambda e:e['absolute_margin_pp']):

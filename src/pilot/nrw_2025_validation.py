@@ -77,9 +77,10 @@ def presentation_pairs(events, annotations, sources, root):
         records = grouped[event['ags']]
         complete = set(records) == {'winner','loser'}
         mixed = complete and {r['public_presentation'] for r in records.values()} == {'female','male'}
+        same = complete and len({r['public_presentation'] for r in records.values()}) == 1 and records['winner']['public_presentation'] in ('female','male')
         result.append({'ags':event['ags'],'municipality':event['municipality_source'].removeprefix('Krfr. Stadt ').removesuffix(', Stadt'),
                        'absolute_margin_pp':event['absolute_margin_pp'],
-                       'pair_status':'mixed_public_presentation' if mixed else 'unresolved_or_other',
+                       'pair_status':'mixed_public_presentation' if mixed else 'same_public_presentation' if same else 'conflicting_or_other' if complete else 'unresolved',
                        'female_presented_winner':records['winner']['public_presentation']=='female' if mixed else None,
                        'signed_presentation_margin_pp':event['absolute_margin_pp']*(1 if records['winner']['public_presentation']=='female' else -1) if mixed else None,
                        'source_ids':';'.join(sorted(r['source_id'] for r in records.values())),

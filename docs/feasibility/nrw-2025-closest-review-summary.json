@@ -1,0 +1,58 @@
+{
+  "review_date_utc": "2026-10-11",
+  "scope": "All 14 official NRW 2025 decisive pairs within inclusive 2 pp",
+  "new_pairs_reviewed": 11,
+  "new_finalist_dispositions": 22,
+  "new_accepted_finalist_observations": 19,
+  "pair_status_counts": {
+    "same_public_presentation": 8,
+    "unresolved": 3,
+    "mixed_public_presentation": 3
+  },
+  "confirmed_mixed_female_presented_wins": 0,
+  "confirmed_mixed_female_presented_losses": 3,
+  "confirmed_mixed_with_original_q1_calls": 3,
+  "original_q1_calls_in_confirmed_mixed_cases": 10,
+  "unresolved_pair_count": 3,
+  "accepted_winner_observations": 14,
+  "accepted_loser_observations": 11,
+  "unresolved_cases_with_original_q1_calls": 0,
+  "maximum_additional_female_presented_wins_from_unresolved_pairs": 1,
+  "logical_maximum_mixed_pairs_if_every_unresolved_pair_is_mixed": 6,
+  "independently_second_coded_pairs": 0,
+  "administrative_gender_verified_pairs": 0,
+  "main_study_certified_elections": 0,
+  "causal_effects_estimated": false,
+  "planning_decision": "Do not launch a two-percentage-point causal study; retain unresolved searches and proceed only with bounded cohort-level feasibility checks.",
+  "failed_retrievals": [
+    {
+      "source_id": "emm-spd-site",
+      "url": "https://www.spd-emmerich.de/",
+      "retrieval_status": "HTTP 403 Forbidden",
+      "bypassed": false
+    }
+  ],
+  "source_snapshot_count": 42,
+  "inputs": [
+    {
+      "artifact": "outputs/nrw-election-register-2025/events.json",
+      "sha256": "63c4b9fa9962fe3081a4974bd4bdcbcfd3f47a107d179f69a5c669ed401fe4d9"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-validation/first-coder-presentation.json",
+      "sha256": "b6e9a9fbf014d23b4294630e17705ebab81070cd6a76379438c1d560cf33e7c5"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-closest-review-2026-10-11/first-coder-presentation.json",
+      "sha256": "3501588a1ef1d150e46b4c690fe28217a07eacb913b817fdc785cdfed792d9e4"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-closest-review-2026-10-11/retrieval.json",
+      "sha256": "23903081d739181f8b7bf2611fcb33df787d3b4fc9269112526bfec5dfcacff9"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-q1-call-municipalities.csv",
+      "sha256": "783f916b005f00e46baa9dc5dae9e1f83aac59b1cf491b9fce6dc3db9d3974c1"
+    }
+  ]
+}

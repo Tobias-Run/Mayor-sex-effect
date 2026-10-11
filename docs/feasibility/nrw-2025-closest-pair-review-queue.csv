@@ -1,15 +1,15 @@
 ags,municipality,absolute_margin_pp,presentation_status,independent_second_coding,original_q1_procedures,priority_basis
-05970040,Siegen,0.023836278816358497,unreviewed_in_this_cohort_batch,False,2,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05562008,Datteln,0.042716787697565144,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05170012,Hamminkeln,0.3343936057417829,unreviewed_in_this_cohort_batch,False,1,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05970040,Siegen,0.023836278816358497,same_public_presentation,False,2,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05562008,Datteln,0.042716787697565144,unresolved,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05170012,Hamminkeln,0.3343936057417829,same_public_presentation,False,1,Exact absolute election margin only; retain all prediction labels and procurement coverage states
 05117000,Mülheim an der Ruhr,0.40539722877715256,mixed_public_presentation,False,5,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05378024,Overath,0.7723200494284832,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05378004,Bergisch Gladbach,0.829127613554434,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05378024,Overath,0.7723200494284832,same_public_presentation,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05378004,Bergisch Gladbach,0.829127613554434,same_public_presentation,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
 05962032,Lüdenscheid,0.85580014840465,mixed_public_presentation,False,1,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05374008,Engelskirchen,0.9276829011174362,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05762040,Willebadessen,0.963000506842372,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05374008,Engelskirchen,0.9276829011174362,same_public_presentation,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05762040,Willebadessen,0.963000506842372,unresolved,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
 05382040,Neunkirchen-Seelscheid,1.2560823808984949,mixed_public_presentation,False,4,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05154008,Emmerich am Rhein,1.2939453125,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05978032,Selm,1.306511820821236,unreviewed_in_this_cohort_batch,False,3,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05978036,Unna,1.4959046544705479,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
-05774004,Altenbeken,1.5051491946131503,unreviewed_in_this_cohort_batch,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05154008,Emmerich am Rhein,1.2939453125,unresolved,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05978032,Selm,1.306511820821236,same_public_presentation,False,3,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05978036,Unna,1.4959046544705479,same_public_presentation,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
+05774004,Altenbeken,1.5051491946131503,same_public_presentation,False,0,Exact absolute election margin only; retain all prediction labels and procurement coverage states
