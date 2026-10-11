@@ -1,0 +1,238 @@
+{
+  "2024": {
+    "calls": {
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "buyer-country = DEU AND (buyer-city = \"Angermünde\" OR buyer-city = \"Kremmen\" OR buyer-city = \"Lychen\" OR buyer-city = \"Schöneiche bei Berlin\" OR buyer-city = \"Stahnsdorf\") AND buyer-legal-type = la AND notice-type = cn-standard AND publication-date >= 20250101 AND publication-date <= 20250331",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 2,
+      "retrieved_at_utc": "2026-10-11T17:28:50.357509+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "c55f0da22631efe6343f66929813d345cadf7ce9b37edd2ced0ca950ac547cea",
+          "bytes": 9575,
+          "request": {
+            "query": "buyer-country = DEU AND (buyer-city = \"Angermünde\" OR buyer-city = \"Kremmen\" OR buyer-city = \"Lychen\" OR buyer-city = \"Schöneiche bei Berlin\" OR buyer-city = \"Stahnsdorf\") AND buyer-legal-type = la AND notice-type = cn-standard AND publication-date >= 20250101 AND publication-date <= 20250331",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        "20231101",
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    },
+    "context": {
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"965e181a-0cfe-4b75-b962-89b47ac91c5b\") AND publication-date <= 20250930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 2,
+      "retrieved_at_utc": "2026-10-11T17:28:51.432557+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "c55f0da22631efe6343f66929813d345cadf7ce9b37edd2ced0ca950ac547cea",
+          "bytes": 9575,
+          "request": {
+            "query": "(procedure-identifier = \"965e181a-0cfe-4b75-b962-89b47ac91c5b\") AND publication-date <= 20250930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        "20231101",
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    }
+  },
+  "2025": {
+    "calls": {
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "buyer-country = DEU AND (buyer-city = \"Bad Freienwalde (Oder)\" OR buyer-city = \"Glienicke/Nordbahn\" OR buyer-city = \"Kolkwitz\" OR buyer-city = \"Teltow\" OR buyer-city = \"Velten\") AND buyer-legal-type = la AND notice-type = cn-standard AND publication-date >= 20260101 AND publication-date <= 20260331",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 2,
+      "retrieved_at_utc": "2026-10-11T17:28:53.596872+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "9b6c6c304f155d0643dd0769d3707191579a7c815dcf42020aeb241d6430d9bf",
+          "bytes": 9876,
+          "request": {
+            "query": "buyer-country = DEU AND (buyer-city = \"Bad Freienwalde (Oder)\" OR buyer-city = \"Glienicke/Nordbahn\" OR buyer-city = \"Kolkwitz\" OR buyer-city = \"Teltow\" OR buyer-city = \"Velten\") AND buyer-legal-type = la AND notice-type = cn-standard AND publication-date >= 20260101 AND publication-date <= 20260331",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        "20231101",
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    },
+    "context": {
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"00cba6bb-68fa-453a-b45d-6fa57be671e8\") AND publication-date <= 20260930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 3,
+      "retrieved_at_utc": "2026-10-11T17:31:14.975429+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "b73c5babd9cebb802c5a6c8af1cd25280396b10f24000931d645806c255c2b5c",
+          "bytes": 14805,
+          "request": {
+            "query": "(procedure-identifier = \"00cba6bb-68fa-453a-b45d-6fa57be671e8\") AND publication-date <= 20260930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        "20231101",
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    }
+  }
+}

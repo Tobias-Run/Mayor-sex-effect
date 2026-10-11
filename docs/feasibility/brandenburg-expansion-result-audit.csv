@@ -1,0 +1,4 @@
+ags,election_year,procedure_identifier,publication_number,result_id,lot_ids,result_status,explicit_total_tenders,total_count_supported,award_graph_supported,cross_lot_contract_supported,contract_ids,contract_conclusion_date,grouped_lot_statistic,audit_reasons,dated_supported_count_population,main_study_eligibility_certified
+12065332,2025,00cba6bb-68fa-453a-b45d-6fa57be671e8,605468-2026,RES-0001,LOT-0001,selec-w,18,True,True,True,CON-0002,2026-08-10,False,,True,False
+12065332,2025,00cba6bb-68fa-453a-b45d-6fa57be671e8,605468-2026,RES-0002,LOT-0002,selec-w,18,True,True,True,CON-0002,2026-08-10,False,,True,False
+12065332,2025,00cba6bb-68fa-453a-b45d-6fa57be671e8,605468-2026,RES-0003,LOT-0003,selec-w,11,True,True,False,CON-0001,2026-08-10,False,,True,False

@@ -1,0 +1,46 @@
+{
+  "checked_on": "2026-10-11",
+  "expansion_elections": 10,
+  "new_official_pairs_verified": 10,
+  "exact_original_notices": 5,
+  "unmatched_indexed_originals": [],
+  "original_q1_called_procedures": 2,
+  "dated_supported_tender_statistics": 3,
+  "new_confirmed_first_coder_mixed_pairs": 2,
+  "new_mixed_pairs_with_supported_count_inventory": 0,
+  "new_accepted_first_coder_finalists": 5,
+  "search_budget_deviations": [
+    {
+      "ags": "12065332",
+      "finalist_role": "loser",
+      "planned_targeted_query_rounds": 2,
+      "actual_query_batches_including_pair_query": 3,
+      "search_queries": 5,
+      "qualifying_primary_observation_accepted": false,
+      "disposition": "Stop this batch; any future search needs a separately recorded bounded follow-up"
+    }
+  ],
+  "new_candidate_role_observation_velten": {
+    "source_id": "velten-entry",
+    "first_workday_observed": "2026-01-12",
+    "legal_acceptance_or_continuous_tenure_certified": false
+  },
+  "nrw_plus_brandenburg_acquisition_frame_elections": 40,
+  "nrw_supported_first_coder_mixed_count_elections_preserved": 4,
+  "certified_main_study_elections": 0,
+  "pooled_effects_estimated": false,
+  "all_category_negotiated_denominator_supported": false,
+  "additional_compressed_export_bytes": 117362156,
+  "combined_compressed_export_bytes": 874837062,
+  "additional_daily_xml_exports": 7,
+  "input_sha256": {
+    "docs/feasibility/nrw-2025-q1-linked-election-inventory.csv": "4e0ee7443da6637a44900a1f660e907857a3cd9a6baa107bc2333956e2a74759",
+    "data/raw/cohort-expansion-2026-10-11/presentation/first-coder-annotations.json": "a2c47a5e15c8074cd67abf07ec922828a1a40ff0276d19b0541fbc92fb66d5c8",
+    "data/raw/cohort-expansion-2026-10-11/presentation/retrieval.json": "c381134c984a040a2ef97972f9c2f494bff224a3f0e6393eef0246033a2d0bbb",
+    "data/raw/cohort-expansion-2026-10-11/presentation/search-budget-deviations.json": "8fcb4b768ad77a4882d2a1ed11a68da1dd976882ba7ce9ae1cd215ae61256290",
+    "data/raw/cohort-expansion-2026-10-11/official-source-retrieval.json": "4c26fa8a471cff6f43d90b05482e0dd462428b372cccd2bd70216be5e2f62a6e",
+    "outputs/cohort-expansion-2026-10-11/procedure-context.json": "dd8693b480f12ef2246bc7ae945a7176fce07336a5bae9a9a33357686bc0311a",
+    "data/raw/cohort-expansion-2026-10-11/national-xml/retrieval.json": "4d7e4f095962fcdc144d5fc965a49a44376f149f4c6a068bf7566fd83d2e01c2",
+    "data/raw/cohort-expansion-2026-10-11/national-csv/retrieval.json": "61b3c863f844cc505d80dff0c40f0fd4aeff0775a15c0a2b2f5433571475603c"
+  }
+}

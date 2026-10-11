@@ -1,0 +1,11 @@
+ags,municipality,election_year,decisive_date,absolute_margin_pp,pair_status,female_presented_winner,accepted_first_coder_finalists,presentation_source_ids,provisional_national_call_notices,original_q1_called_procedures,dated_supported_tender_statistics,known_mixed_with_supported_count_inventory,independent_second_coding,main_study_eligibility_certified
+12069604,Stahnsdorf,2024,2024-03-17,4.4311034877072615,not_reviewed_in_this_bounded_batch,,0,,0,0,0,False,False,False
+12073008,Angermünde,2024,2024-06-30,3.524917520402848,not_reviewed_in_this_bounded_batch,,0,,2,0,0,False,False,False
+12073384,Lychen,2024,2024-06-30,2.483343428225318,not_reviewed_in_this_bounded_batch,,0,,0,0,0,False,False,False
+12065165,Kremmen,2024,2024-10-13,4.921309018236323,mixed_public_presentation,False,2,kremmen-election,2,1,0,False,False,False
+12067440,Schöneiche bei Berlin,2024,2024-10-13,1.9848313700177505,not_reviewed_in_this_bounded_batch,,0,,4,0,0,False,False,False
+12069616,Teltow,2025,2025-09-28,4.231544238871588,mixed_public_presentation,False,2,teltow-final,0,0,0,False,False,False
+12065096,Glienicke/Nordbahn,2025,2025-10-12,0.8270972823946435,not_reviewed_in_this_bounded_batch,,0,,0,0,0,False,False,False
+12065332,Velten,2025,2025-10-12,2.7788351732013705,one_finalist_unresolved,,1,velten-entry,2,1,3,False,False,False
+12064044,Bad Freienwalde (Oder),2025,2025-10-19,3.1397174254317113,not_reviewed_in_this_bounded_batch,,0,,0,0,0,False,False,False
+12071244,Kolkwitz,2025,2025-10-19,1.2277227722772277,not_reviewed_in_this_bounded_batch,,0,,0,0,0,False,False,False

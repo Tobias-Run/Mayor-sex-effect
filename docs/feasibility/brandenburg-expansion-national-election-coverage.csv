@@ -1,0 +1,11 @@
+ags,municipality,election_year,national_monthly_metadata_coverage_complete,provisional_national_call_notices,call_notices_with_procedure_identifier,distinct_nonmissing_procedure_identifiers,original_call_roots_verified,main_study_eligibility_certified
+12069604,Stahnsdorf,2024,True,0,0,0,False,False
+12073008,Angermünde,2024,True,2,0,0,False,False
+12073384,Lychen,2024,True,0,0,0,False,False
+12065165,Kremmen,2024,True,2,2,1,False,False
+12067440,Schöneiche bei Berlin,2024,True,4,0,0,False,False
+12069616,Teltow,2025,True,0,0,0,False,False
+12065096,Glienicke/Nordbahn,2025,True,0,0,0,False,False
+12065332,Velten,2025,True,2,2,1,False,False
+12064044,Bad Freienwalde (Oder),2025,True,0,0,0,False,False
+12071244,Kolkwitz,2025,True,0,0,0,False,False

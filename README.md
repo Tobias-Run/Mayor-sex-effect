@@ -18,6 +18,8 @@ This repository supports an empirical research project using close mixed-gender 
 
 **Outcome/linkage checkpoint, 11 October 2026 UTC:** the [37-procedure eligibility audit and decision](docs/feasibility/nrw-2025-q1-eligibility-decision.md) supports municipal contracting-party scope and literal called categories for all 37 procedures, retains thirteen missing-result cases, and reconciles five multi-lot-contract flags. There are 28 supported successful lot statistics across 25 distinct contracts. Known mixed elections fall from six with called procedures (3 wins/3 losses) to four with count outcomes (2/2). No primary outcome rate or effect is estimated. Precision remains inadequate for main-study launch; the next milestone is a bounded independent-election cohort-expansion protocol.
 
+**First sample-expansion batch, 11 October 2026 UTC:** the [Brandenburg checkpoint](docs/feasibility/brandenburg-expansion-checkpoint.md) adds ten officially verified 2024/2025 close pairs to the acquisition frame (**30 → 40 distinct municipalities**, separately retained cohorts). Six national monthly exports yield ten provisional call notices in four municipalities; two exact original Q1 procedures are supported, including three Velten lot statistics. Kremmen and Teltow are newly supported mixed-presentation pairs, but no additional mixed pair yet has supported count outcomes. The usable first-coder count inventory remains four NRW elections; zero main-study elections are certified. **193 offline tests pass.**
+
 ## Adapting the Italian study to Germany
 
 **This project adapts Florio and Spagnolo (2026), [*Female Mayors and Public Procurement*](https://doi.org/10.2139/ssrn.7046899), to the German institutional and data context.** Their Italian study provides the starting point for linking close mayoral elections to procurement outcomes. The report assesses that adaptation's feasibility. The proposed close-election RDD and broader environmental, social and innovation outcomes remain conditional on a justified future reopening.
@@ -36,7 +38,7 @@ The [Bavaria candidate, tenure and legacy-award register](docs/feasibility/bavar
 
 **Earlier execution, 5 October 2026:** the [literature/design comparison](docs/feasibility/literature-design-crosswalk.md) completes FP02's targeted review and identifies the 2018 Hesse study's public replication record, whose package/license/data still require inspection. The [outcome/population draft](docs/feasibility/outcome-population-codebook.md) starts FP04 with explicit units, weights, procedure/tender denominators, missingness and turnover rules. A bounded [candidate-source continuation](docs/feasibility/nrw-priority-continuation.md) examines two original school documents; the three Heiden/Viersen gaps and all checkpoint counts remain unchanged.
 
-**Next steps:** define the bounded [cohort-expansion protocol](docs/feasibility/nrw-2025-q1-eligibility-decision.md#reproduction-and-next-milestone), with meaningful precision scenarios, common reporting windows, independent-election counts and a stop rule. Retain missing outcomes and unresolved presentation/office evidence; independent second coding remains open. GitHub Pages remains deferred until research completion.
+**Next steps:** address the documented [domestic identifier and losing-finalist evidence gaps](docs/feasibility/brandenburg-expansion-checkpoint.md#precision-and-stopping-decision), then reassess a fixed broader election frame against register coverage and meaningful precision targets before further large acquisition. Retain all unmatched elections and missing outcomes; independent second coding and a justified cohort-pooling decision remain open. GitHub Pages remains deferred until research completion.
 
 **Project language:** English for documentation, code, variable names, and research outputs. Original source documents retain their original language.
 
@@ -58,6 +60,8 @@ The main study is conditional on the feasibility decision. A panel design would 
 
 | Resource | Purpose |
 | --- | --- |
+| [Brandenburg expansion checkpoint](docs/feasibility/brandenburg-expansion-checkpoint.md) · [40-election frame](docs/feasibility/expanded-election-acquisition-frame.csv) | Ten new official pairs, national-register discovery, exact originals and unchanged usable mixed-election count |
+| [Expansion protocol](docs/feasibility/cohort-expansion-protocol.md) · [National-discovery addendum](docs/feasibility/cohort-expansion-national-discovery-addendum.md) | Fixed frame, separate calendar windows, source/search budgets and precision stopping rules |
 | [English feasibility report](manuscript/feasibility-report.md) · [PDF](manuscript/feasibility-report.pdf) | Review draft with Italian/German attribution, source-specific sample flow, selection limits and assumption-based precision |
 | [Report reproduction guide](manuscript/README.md) | Template, 22 input pins, fact ledger, figures, software versions and verification record |
 | [Early feasibility decision and precision](docs/feasibility/early-feasibility-decision.md) | Actual provisional linkage, independent-election MDE benchmarks, side support, narrowed scope and bounded go/adapt/stop checkpoint |

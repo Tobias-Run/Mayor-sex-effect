@@ -1,0 +1,9 @@
+# National call-register discovery addendum
+
+Recorded 11 October 2026 after the first complete TED call queries, and before this national CSV acquisition. The [original expansion protocol](cohort-expansion-protocol.md) remains source-pinned and unchanged. Its ten-election Brandenburg frame, five-pp discovery band, year-specific Q1 windows and September cutoffs remain fixed.
+
+TED returned two Q1 call notices per year. One 2025 municipality uses the exact designation `Stadt Velten - Die Bürgermeisterin`; this source-observed designation is added explicitly to the municipal alias ledger, without fuzzy truncation. Sparse TED discovery motivates checking the broader German Bekanntmachungsservice register; it does not establish absence of purchasing. The national source also contains domestic notices outside TED, subject to its own incomplete reporting coverage.
+
+Acquire at most **six national monthly CSV exports** (January–March 2025 and January–March 2026), each at most **32 MiB compressed**, as a call-first discovery supplement. Filter all ten municipalities by original contracting-party role and reviewed exact name aliases, not candidate labels or realized results. Reuse pinned daily eForms archives where possible. CSV metadata discoveries remain provisional until original XML and original issue/publication chronology are verified. Keep national and TED publication calendars distinct.
+
+All new compressed CSV AND XML exports share the original **256 MiB additional and 1 GiB combined** cap; an individual response is read only up to the available budget. The original 64-day XML bound remains. Preserve every unmatched election and every missing source/result. Any subsequent result follow-up must retain the pre-fixed cutoff and original procedure identities. This is a documented expansion of source coverage, not a change to the causal estimand, outcome definition, analysis bandwidth or main-study readiness.

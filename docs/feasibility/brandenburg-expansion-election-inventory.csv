@@ -1,0 +1,11 @@
+ags,municipality,election_year,decisive_date,absolute_margin_pp,official_pair_verified,official_source_status,official_source_id,call_issue_and_publication_window,indexed_result_cutoff,call_query_complete,indexed_exact_buyer_call_notices,provisional_call_procedures,indexed_standard_result_notices,call_roots_verified,pair_presentation_status,independent_second_coding,main_study_eligibility_certified
+12069604,Stahnsdorf,2024,2024-03-17,4.4311034877072615,True,exact_identity_votes_day_winner_verified,12069604-2024-linked,2025-01-01/2025-03-31,2025-09-30,True,0,0,0,False,not_reviewed,False,False
+12073008,Angermünde,2024,2024-06-30,3.524917520402848,True,exact_identity_votes_day_winner_verified,12073008-2024,2025-01-01/2025-03-31,2025-09-30,True,0,0,0,False,not_reviewed,False,False
+12073384,Lychen,2024,2024-06-30,2.483343428225318,True,exact_identity_votes_day_winner_verified,12073384-2024,2025-01-01/2025-03-31,2025-09-30,True,0,0,0,False,not_reviewed,False,False
+12065165,Kremmen,2024,2024-10-13,4.921309018236323,True,exact_identity_votes_day_winner_verified,12065165-2024,2025-01-01/2025-03-31,2025-09-30,True,2,1,0,False,not_reviewed,False,False
+12067440,Schöneiche bei Berlin,2024,2024-10-13,1.9848313700177505,True,exact_identity_votes_day_winner_verified,12067440-2024,2025-01-01/2025-03-31,2025-09-30,True,0,0,0,False,not_reviewed,False,False
+12069616,Teltow,2025,2025-09-28,4.231544238871588,True,exact_identity_votes_day_winner_verified,12069616-2025,2026-01-01/2026-03-31,2026-09-30,True,0,0,0,False,not_reviewed,False,False
+12065096,Glienicke/Nordbahn,2025,2025-10-12,0.8270972823946435,True,exact_identity_votes_day_winner_verified,12065096-2025,2026-01-01/2026-03-31,2026-09-30,True,0,0,0,False,not_reviewed,False,False
+12065332,Velten,2025,2025-10-12,2.7788351732013705,True,exact_identity_votes_day_winner_verified,12065332-2025,2026-01-01/2026-03-31,2026-09-30,True,2,1,1,False,not_reviewed,False,False
+12064044,Bad Freienwalde (Oder),2025,2025-10-19,3.1397174254317113,True,exact_identity_votes_day_winner_verified,12064044-2025,2026-01-01/2026-03-31,2026-09-30,True,0,0,0,False,not_reviewed,False,False
+12071244,Kolkwitz,2025,2025-10-19,1.2277227722772277,True,exact_identity_votes_day_winner_verified,12071244-2025,2026-01-01/2026-03-31,2026-09-30,True,0,0,0,False,not_reviewed,False,False

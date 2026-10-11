@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-10-11",
+  "selected_elections": 10,
+  "national_monthly_exports": 6,
+  "additional_compressed_csv_bytes": 98011440,
+  "national_notice_rows_inspected": 144404,
+  "exact_municipal_notice_type_counts": {
+    "cn-standard": 10,
+    "can-standard": 1
+  },
+  "provisional_national_call_notices": 10,
+  "elections_with_provisional_national_calls": 4,
+  "calls_missing_procedure_identifier": 6,
+  "distinct_nonmissing_procedure_identifiers": 2,
+  "match_dispositions_all_national_notices": {
+    "unmatched_or_ambiguous_exact_name": 130642,
+    "missing_or_multiple_buyer_roles": 13751,
+    "provisional_exact_buyer_role_name": 11
+  },
+  "xml_call_roots_verified": 0,
+  "certified_main_study_elections": 0,
+  "primary_outcome_rates_estimated": false,
+  "pooled_with_nrw": false,
+  "discovery_addendum_sha256": "bdba77c77b539c44a1f1c9e0352603e9e68e66a8d448405bee6db9ed8613e268",
+  "warning": "Metadata discoveries. Numeric domestic IDs without procedure IDs remain visible; counts are notices, not independent procurements. Zero exact matches is unknown coverage."
+}

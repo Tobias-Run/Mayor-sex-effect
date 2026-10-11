@@ -1,0 +1,30 @@
+{
+  "checked_on": "2026-10-11",
+  "selected_elections": 10,
+  "selection": "All screened Brandenburg 2024/2025 decisive pairs within 5pp; no name, label, winner or procurement filter",
+  "original_official_pairs_verified": 10,
+  "indexed_exact_buyer_calls": 4,
+  "provisional_procedures": 2,
+  "elections_with_provisional_calls": 2,
+  "elections_without_exact_call_match": 8,
+  "context_notice_types": {
+    "cn-standard": 4,
+    "can-standard": 1
+  },
+  "independent_second_coding_completed": false,
+  "certified_main_study_elections": 0,
+  "pooled_with_nrw": false,
+  "causal_effect_estimated": false,
+  "gerda_candidate_source_sha256": "7ab9425dc9b4b1625eadcd5ff001689cec72e32d5f278a5740a29c7b1e9212b1",
+  "protocol_sha256": "f225f6c9269f2cf176b538990621b1d6330060e4a9d4049e2cf798c46806f4dd",
+  "structural_screen_exclusions_all_source_years": {
+    "not_complete_two_candidate_round": 798,
+    "outside_2023_2025": 46799,
+    "association_office": 943,
+    "source_quality_flag": 89,
+    "invalid_or_tied_votes": 7,
+    "valid_votes_do_not_reconcile": 87,
+    "share_disagrees": 148,
+    "county_office": 1
+  }
+}

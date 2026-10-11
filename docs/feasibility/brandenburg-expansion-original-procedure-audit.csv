@@ -1,0 +1,3 @@
+ags,election_year,procedure_identifier,original_graph_status,root_publication_number,root_issue_date,root_publication_date,original_issue_and_publication_in_q1,municipal_contracting_party_supported,called_category,original_xml_notices,missing_original_publication_numbers,indexed_result_notices_by_cutoff,dated_supported_tender_statistics,distinct_contracts_in_supported_lots,main_study_eligibility_certified
+12065165,2024,965e181a-0cfe-4b75-b962-89b47ac91c5b,documented_root_supported,9187-2025,2025-01-07,2025-01-08,True,True,open,2,,0,0,0,False
+12065332,2025,00cba6bb-68fa-453a-b45d-6fa57be671e8,documented_root_supported,187341-2026,2026-03-17,2026-03-18,True,True,open,3,,1,3,2,False
