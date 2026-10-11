@@ -1,0 +1,171 @@
+{
+  "exports": [
+    {
+      "period": "2025-02-26",
+      "file": "2025-02-26-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-02-26&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-02-26&format=eforms.zip",
+      "bytes": 4528085,
+      "sha256": "801e67e5b2b1c78533dd3bc2515fcc94dbc568ef081dce5885473913269408a3",
+      "retrieved_at_utc": "2026-10-11T21:20:24.525027+00:00"
+    },
+    {
+      "period": "2025-02-28",
+      "file": "2025-02-28-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-02-28&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-02-28&format=eforms.zip",
+      "bytes": 4237769,
+      "sha256": "594a7a96349ced70b6944389645c26df473f1e72b80fd0f6b587f4d7b5004187",
+      "retrieved_at_utc": "2026-10-11T21:20:28.070391+00:00"
+    },
+    {
+      "period": "2025-02-27",
+      "file": "2025-02-27-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-02-27&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-02-27&format=eforms.zip",
+      "bytes": 4654539,
+      "sha256": "4d0382aefe3148f817da90005f1aade0c464b46c6e8d4295acafab7ac0e55cb7",
+      "retrieved_at_utc": "2026-10-11T21:20:31.543891+00:00"
+    },
+    {
+      "period": "2025-03-04",
+      "file": "2025-03-04-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-04&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-04&format=eforms.zip",
+      "bytes": 2505341,
+      "sha256": "dfa5b758d2d223a135be4e931e7a92076cbac370dcff967348f1a80ef8b48b82",
+      "retrieved_at_utc": "2026-10-11T21:20:33.559650+00:00"
+    },
+    {
+      "period": "2025-03-07",
+      "file": "2025-03-07-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-07&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-07&format=eforms.zip",
+      "bytes": 4456354,
+      "sha256": "837a0da0a034dc5ecc04dbd378c5b6f6483b788eed526152314c6141ef47ff3b",
+      "retrieved_at_utc": "2026-10-11T21:20:36.018665+00:00"
+    },
+    {
+      "period": "2025-03-10",
+      "file": "2025-03-10-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-10&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-10&format=eforms.zip",
+      "bytes": 183388,
+      "sha256": "f9b74961e141654dab602073d502eaae039b159754c79da39c07b20f0ba44d67",
+      "retrieved_at_utc": "2026-10-11T21:20:36.924813+00:00"
+    },
+    {
+      "period": "2025-03-09",
+      "file": "2025-03-09-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-09&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-09&format=eforms.zip",
+      "bytes": 3752808,
+      "sha256": "4b05e5e8faeeb1734ccf04be4a8e96776cfce8757e5e8a13eeb4c971070e873f",
+      "retrieved_at_utc": "2026-10-11T21:20:39.305824+00:00"
+    },
+    {
+      "period": "2025-03-08",
+      "file": "2025-03-08-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-08&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-08&format=eforms.zip",
+      "bytes": 1819348,
+      "sha256": "6923f0bc116bb3737391918b545471894e412b7de8a06250f1fcd6f0c1125010",
+      "retrieved_at_utc": "2026-10-11T21:20:40.535498+00:00"
+    },
+    {
+      "period": "2025-03-20",
+      "file": "2025-03-20-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-20&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-20&format=eforms.zip",
+      "bytes": 4479160,
+      "sha256": "8b12322236f21dc66ee396fcbc2338bb05a687ad3620e31b27eab1aef08d79f6",
+      "retrieved_at_utc": "2026-10-11T21:20:42.861633+00:00"
+    },
+    {
+      "period": "2025-03-19",
+      "file": "2025-03-19-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-19&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-19&format=eforms.zip",
+      "bytes": 4829705,
+      "sha256": "a6941f52b8baf4e3f65ecf8c711cbf8928cad55792277cd432f2f25803dbf046",
+      "retrieved_at_utc": "2026-10-11T21:20:45.500962+00:00"
+    },
+    {
+      "period": "2025-03-21",
+      "file": "2025-03-21-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-21&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-21&format=eforms.zip",
+      "bytes": 4345350,
+      "sha256": "de486bd7b2dbdac856204aac5d8ecdd39fdb30ad83533ec1799504beb90303f2",
+      "retrieved_at_utc": "2026-10-11T21:20:47.901011+00:00"
+    },
+    {
+      "period": "2025-03-24",
+      "file": "2025-03-24-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-24&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-24&format=eforms.zip",
+      "bytes": 285624,
+      "sha256": "a6ea95132ea57cfef48ddaafb23b2224f5e8733db8018d0aa32dd608d3d6bde5",
+      "retrieved_at_utc": "2026-10-11T21:20:48.479552+00:00"
+    },
+    {
+      "period": "2025-03-23",
+      "file": "2025-03-23-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-23&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-23&format=eforms.zip",
+      "bytes": 3462825,
+      "sha256": "f9d1f0324b2c5b8f073a1f47217a9c1a572a2e92b4359531a340e532460eec71",
+      "retrieved_at_utc": "2026-10-11T21:20:50.821536+00:00"
+    },
+    {
+      "period": "2025-03-26",
+      "file": "2025-03-26-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-26&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-26&format=eforms.zip",
+      "bytes": 4845511,
+      "sha256": "ebc3da0b29fa70be535a65d27b22219164cd4f2a8fac684064fdc71b2ef5ef87",
+      "retrieved_at_utc": "2026-10-11T21:20:53.895211+00:00"
+    },
+    {
+      "period": "2025-03-27",
+      "file": "2025-03-27-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-27&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-03-27&format=eforms.zip",
+      "bytes": 4984077,
+      "sha256": "ddf9f184a09487e5085e746defbdee388210cbe8ee62c5b6a6fa38acf1707246",
+      "retrieved_at_utc": "2026-10-11T21:20:56.960079+00:00"
+    },
+    {
+      "period": "2025-07-02",
+      "file": "2025-07-02-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-07-02&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-07-02&format=eforms.zip",
+      "bytes": 4753291,
+      "sha256": "6748c7d4dafe834a3872427fc18e056a5a9eeeba3adc154d4146305f015480fb",
+      "retrieved_at_utc": "2026-10-11T21:20:59.569114+00:00"
+    },
+    {
+      "period": "2025-01-05",
+      "file": "2025-01-05-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-01-05&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-01-05&format=eforms.zip",
+      "bytes": 1664690,
+      "sha256": "60c2df4f9f229fee02092fcad8f61d97ecd0510d186ede5c13af1363e6fd8471",
+      "retrieved_at_utc": "2026-10-11T21:21:01.176344+00:00"
+    },
+    {
+      "period": "2025-01-10",
+      "file": "2025-01-10-eforms.zip",
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubDay=2025-01-10&format=eforms.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubDay=2025-01-10&format=eforms.zip",
+      "bytes": 4325568,
+      "sha256": "5e3f7993298fd47d479ba6d1c9f2f3f1e773f74404dadecdba08a78caaae7f99",
+      "retrieved_at_utc": "2026-10-11T21:21:03.959216+00:00"
+    }
+  ],
+  "new_successful_bytes": 64113433,
+  "combined_tracked_procurement_bytes": 1178796856,
+  "stop": {
+    "stop_reason": "source_count_or_byte_cap"
+  }
+}

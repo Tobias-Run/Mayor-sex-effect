@@ -1,0 +1,63 @@
+{
+  "queries": [
+    {
+      "cohort": "NRW 2020",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"084d842b-7d60-443a-9044-5ee6c341f159\" OR procedure-identifier = \"09ff41a3-3050-4bac-9e18-4c12d853428c\" OR procedure-identifier = \"0d4f7348-0331-458f-bde4-a09380139cfc\" OR procedure-identifier = \"147e1b16-f2e0-434b-b0d4-dc7f9cc7a807\" OR procedure-identifier = \"1b5b57e9-bf56-4830-bda2-e6c1fa0e8dba\" OR procedure-identifier = \"1bb40044-ae79-48c3-9716-c5b5c29a41b1\" OR procedure-identifier = \"1cd035e0-8b2c-4d14-9aa8-7f63fe74e9e6\" OR procedure-identifier = \"22435384-277b-4f18-a225-f81dc6156f60\" OR procedure-identifier = \"2699bcc0-4585-46f9-ad8a-70e8552285aa\" OR procedure-identifier = \"273107d4-c883-4196-a6a7-0ef618cf42e3\" OR procedure-identifier = \"2c517f9d-485c-483f-b689-5750603a30b8\" OR procedure-identifier = \"314a60ba-034a-4887-8917-d6726acf7bb8\" OR procedure-identifier = \"319a5c85-94de-4116-9471-1f4d3697c15e\" OR procedure-identifier = \"321f7a42-be49-46f6-9619-fc1afe989a11\" OR procedure-identifier = \"3548082d-4b06-4f1b-8079-559707f42758\" OR procedure-identifier = \"3a412ae3-61ff-44b5-bbb7-e768ae3af2dd\" OR procedure-identifier = \"3e7b1ca5-0051-4a6f-8ee2-332a39ebdaed\" OR procedure-identifier = \"42c443b3-cd3f-4599-a4d4-6dcc0cd87776\" OR procedure-identifier = \"44703e60-2078-4b39-bbd6-b5b2f2d2162f\" OR procedure-identifier = \"4d232bfd-be2c-4bca-bf02-39ab02948e39\" OR procedure-identifier = \"52b7c5cf-d285-4525-8621-10ed58fede97\" OR procedure-identifier = \"57424a98-057a-4646-b886-e33601a63b4b\" OR procedure-identifier = \"57c2b7e8-70c6-40d2-a7a2-d7d46f8192ad\" OR procedure-identifier = \"5858a596-f60e-4066-a1eb-809ee956bcac\" OR procedure-identifier = \"5e7748ae-9467-4ab7-ad3e-643b24d0e61a\" OR procedure-identifier = \"6bb35c9a-92ec-4b62-aa4b-38b52c79753d\" OR procedure-identifier = \"7369aa5c-d826-4ef5-9e63-f7b159d15110\" OR procedure-identifier = \"7bb51a30-feed-42f3-909c-26517e884d07\" OR procedure-identifier = \"7c397397-dc9c-4edb-ad34-fe6ae8e1db3f\" OR procedure-identifier = \"7e3849fe-a0c3-4aac-b208-39b003d763f7\" OR procedure-identifier = \"80d8b0be-0c52-4c90-8e70-ddb7637cdeb8\" OR procedure-identifier = \"92714956-218e-47e9-834f-5475894d734b\" OR procedure-identifier = \"9408c476-083b-447c-91ae-4a574117f5da\" OR procedure-identifier = \"94c65bcb-076e-412e-a34b-4a95a5976933\" OR procedure-identifier = \"98056c05-7093-44b5-8351-e456ad777b7f\" OR procedure-identifier = \"a7cf61ff-a010-4778-a1ef-83e9a1f24665\" OR procedure-identifier = \"a9d56e0e-dcd8-44c7-89b6-76eba8956142\" OR procedure-identifier = \"ce75a2ee-555d-43b2-ae6f-0641e000d03c\" OR procedure-identifier = \"d7efdb00-3585-4fde-a935-84cf58c25cd1\" OR procedure-identifier = \"dbfdcea1-c857-4ff3-b2a3-e98758dc3cc8\" OR procedure-identifier = \"dd27cc1e-dfce-4293-b0b0-1177221f8efb\" OR procedure-identifier = \"df27a598-067a-4c03-8c04-050f959c8a62\" OR procedure-identifier = \"e70494b6-9f43-49a0-9dd0-ec5d5e1da894\" OR procedure-identifier = \"e7632a79-8a47-4c1e-9d31-0bb5d72f1e6d\" OR procedure-identifier = \"ebd01a7d-f05b-40a2-b2a8-0859e46ba7a8\" OR procedure-identifier = \"f2f59ee9-7f14-4c60-b5c5-153cf6abb3ba\" OR procedure-identifier = \"f881c862-61f4-4857-b71c-74f02cc23c23\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 89,
+      "retrieved_at_utc": "2026-10-11T21:18:32.114408+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "56047ca5d2cea4d733e43a45afcb43a27666ad7f32531549ffcc3f50625e9d69",
+          "bytes": 432983,
+          "request": {
+            "query": "(procedure-identifier = \"084d842b-7d60-443a-9044-5ee6c341f159\" OR procedure-identifier = \"09ff41a3-3050-4bac-9e18-4c12d853428c\" OR procedure-identifier = \"0d4f7348-0331-458f-bde4-a09380139cfc\" OR procedure-identifier = \"147e1b16-f2e0-434b-b0d4-dc7f9cc7a807\" OR procedure-identifier = \"1b5b57e9-bf56-4830-bda2-e6c1fa0e8dba\" OR procedure-identifier = \"1bb40044-ae79-48c3-9716-c5b5c29a41b1\" OR procedure-identifier = \"1cd035e0-8b2c-4d14-9aa8-7f63fe74e9e6\" OR procedure-identifier = \"22435384-277b-4f18-a225-f81dc6156f60\" OR procedure-identifier = \"2699bcc0-4585-46f9-ad8a-70e8552285aa\" OR procedure-identifier = \"273107d4-c883-4196-a6a7-0ef618cf42e3\" OR procedure-identifier = \"2c517f9d-485c-483f-b689-5750603a30b8\" OR procedure-identifier = \"314a60ba-034a-4887-8917-d6726acf7bb8\" OR procedure-identifier = \"319a5c85-94de-4116-9471-1f4d3697c15e\" OR procedure-identifier = \"321f7a42-be49-46f6-9619-fc1afe989a11\" OR procedure-identifier = \"3548082d-4b06-4f1b-8079-559707f42758\" OR procedure-identifier = \"3a412ae3-61ff-44b5-bbb7-e768ae3af2dd\" OR procedure-identifier = \"3e7b1ca5-0051-4a6f-8ee2-332a39ebdaed\" OR procedure-identifier = \"42c443b3-cd3f-4599-a4d4-6dcc0cd87776\" OR procedure-identifier = \"44703e60-2078-4b39-bbd6-b5b2f2d2162f\" OR procedure-identifier = \"4d232bfd-be2c-4bca-bf02-39ab02948e39\" OR procedure-identifier = \"52b7c5cf-d285-4525-8621-10ed58fede97\" OR procedure-identifier = \"57424a98-057a-4646-b886-e33601a63b4b\" OR procedure-identifier = \"57c2b7e8-70c6-40d2-a7a2-d7d46f8192ad\" OR procedure-identifier = \"5858a596-f60e-4066-a1eb-809ee956bcac\" OR procedure-identifier = \"5e7748ae-9467-4ab7-ad3e-643b24d0e61a\" OR procedure-identifier = \"6bb35c9a-92ec-4b62-aa4b-38b52c79753d\" OR procedure-identifier = \"7369aa5c-d826-4ef5-9e63-f7b159d15110\" OR procedure-identifier = \"7bb51a30-feed-42f3-909c-26517e884d07\" OR procedure-identifier = \"7c397397-dc9c-4edb-ad34-fe6ae8e1db3f\" OR procedure-identifier = \"7e3849fe-a0c3-4aac-b208-39b003d763f7\" OR procedure-identifier = \"80d8b0be-0c52-4c90-8e70-ddb7637cdeb8\" OR procedure-identifier = \"92714956-218e-47e9-834f-5475894d734b\" OR procedure-identifier = \"9408c476-083b-447c-91ae-4a574117f5da\" OR procedure-identifier = \"94c65bcb-076e-412e-a34b-4a95a5976933\" OR procedure-identifier = \"98056c05-7093-44b5-8351-e456ad777b7f\" OR procedure-identifier = \"a7cf61ff-a010-4778-a1ef-83e9a1f24665\" OR procedure-identifier = \"a9d56e0e-dcd8-44c7-89b6-76eba8956142\" OR procedure-identifier = \"ce75a2ee-555d-43b2-ae6f-0641e000d03c\" OR procedure-identifier = \"d7efdb00-3585-4fde-a935-84cf58c25cd1\" OR procedure-identifier = \"dbfdcea1-c857-4ff3-b2a3-e98758dc3cc8\" OR procedure-identifier = \"dd27cc1e-dfce-4293-b0b0-1177221f8efb\" OR procedure-identifier = \"df27a598-067a-4c03-8c04-050f959c8a62\" OR procedure-identifier = \"e70494b6-9f43-49a0-9dd0-ec5d5e1da894\" OR procedure-identifier = \"e7632a79-8a47-4c1e-9d31-0bb5d72f1e6d\" OR procedure-identifier = \"ebd01a7d-f05b-40a2-b2a8-0859e46ba7a8\" OR procedure-identifier = \"f2f59ee9-7f14-4c60-b5c5-153cf6abb3ba\" OR procedure-identifier = \"f881c862-61f4-4857-b71c-74f02cc23c23\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        null,
+        "20260930"
+      ],
+      "acquisition_cap": 2000
+    }
+  ]
+}

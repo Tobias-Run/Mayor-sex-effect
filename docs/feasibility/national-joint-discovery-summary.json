@@ -1,0 +1,28 @@
+{
+  "checked_on": "2026-10-11",
+  "retained_national_events": 654,
+  "national_municipal_clusters": 629,
+  "missing_name_events_retained": 396,
+  "metadata_notice_versions_inspected": 372958,
+  "identical_duplicate_notice_versions_skipped": 1,
+  "call_event_links": 3458,
+  "distinct_call_notice_versions": 3434,
+  "events_with_call_metadata": 288,
+  "municipalities_with_call_metadata": 278,
+  "distinct_nonmissing_call_guids": 995,
+  "nrw_2020_official_pairs_reverified": 55,
+  "nrw_2020_Q1_2025_call_notice_versions": 269,
+  "verified_acquisition_election_events": 169,
+  "verified_acquisition_distinct_municipalities": 152,
+  "verified_acquisition_repeated_municipalities": 17,
+  "additional_procurement_archive_download_bytes": 0,
+  "certified_main_study_elections": 0,
+  "provisional_mixed_count_inventory_unchanged": 5,
+  "warning": "National source frame is not a census or a verified causal sample. Multiple event links are not independent purchases; office exposure and candidate identities outside the verified cohort remain unresolved.",
+  "source_dispositions": {
+    "unmatched_or_ambiguous_exact_name": 323711,
+    "missing_or_multiple_buyer_roles": 41619,
+    "provisional_exact_buyer_role_name": 6964,
+    "nonmunicipal_legal_type": 664
+  }
+}

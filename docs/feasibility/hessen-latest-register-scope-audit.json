@@ -1,0 +1,52 @@
+{
+  "national_hessen_events_retained": 80,
+  "latest_official_municipal_round_rows": 440,
+  "event_dates_found_in_current_last_election_export": 51,
+  "event_vote_vectors_reconciled": 51,
+  "matched_events_with_explicit_winner_gender_field": 41,
+  "opposing_finalist_names_and_gender_supported_in_export": 0,
+  "mixed_elections_certified": 0,
+  "source_warning": "Latest reported election only, as of 17 July 2026; agency disclaims currency/completeness. Party-vote blocks omit opponent names and sex/gender fields. Do not copy winner field to losing candidates or treat GERDA raw/predicted labels as original certification.",
+  "sources": [
+    {
+      "url": "https://statistik.hessen.de/unsere-zahlen/wahlen/direktwahlen-in-hessen",
+      "file": "official.html",
+      "sha256": "7d0c3d0058c3559f407931b1983f2c06e9613067aa04b0f99d78c3f2c00ea00a",
+      "bytes": 300406,
+      "cached_file_mtime_utc": "2026-10-11T21:30:43.527237+00:00",
+      "status": "acquired",
+      "note": "Initial fetch succeeded; subsequent paper request failed before receipt was written. Timestamp is cache mtime, not asserted retrieval time."
+    },
+    {
+      "url": "https://www.ifo.de/DocDL/cesifo1_wp11626.pdf",
+      "status": "unavailable",
+      "http_status": 406
+    },
+    {
+      "url": "https://statistik.hessen.de/unsere-zahlen/wahlen",
+      "file": "elections.html",
+      "sha256": "fda39cfdd05848eecb3db8a2143817429214e49bffdc40552e8e5e2f3301dbb8",
+      "bytes": 381913,
+      "retrieved_at_utc": "2026-10-11T21:31:36.277762+00:00",
+      "status": "acquired"
+    },
+    {
+      "url": "https://statistik.hessen.de/sites/statistik.hessen.de/files/2026-07/bvii_m07-2026_direktwahlen_tabelle_1.xlsx",
+      "file": "latest-official.xlsx",
+      "bytes": 420006,
+      "sha256": "382fab92d33eafa5e2c2cd841f4d9db2eddce281fee9202138a6a5151e3e596a",
+      "retrieved_at_utc": "2026-10-11T21:32:25.842848+00:00",
+      "status": "acquired"
+    }
+  ],
+  "inspected_sheet": "Direktwahlen",
+  "inspected_field_positions_one_based": {
+    "AGS": 1,
+    "election_date": 4,
+    "valid_votes": 10,
+    "winner_name": 11,
+    "winner_nomination": 12,
+    "winner_sex_gender": 13,
+    "party_vote_triplets_start": 14
+  }
+}

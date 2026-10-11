@@ -1,0 +1,20 @@
+{
+  "prepared_pairs": 13,
+  "prepared_candidate_forms": 26,
+  "cohorts": [
+    "NRW 2020",
+    "NRW 2025",
+    "Niedersachsen 2021"
+  ],
+  "current_provisional_mixed_count_cases_covered": 6,
+  "other_exclusion_or_unresolved_pairs_in_packet": 7,
+  "source_copies": 22,
+  "copied_original_bytes": 10554768,
+  "second_coding_completed": false,
+  "independent_reviewer_assigned": false,
+  "key_in_packet": false,
+  "votes_margins_winner_labels_outcomes_in_forms": false,
+  "blinding_limit": "Original sources and public study summaries can reveal election/office facts; require prior-exposure disclosure.",
+  "packet_sent": false,
+  "packet_uploaded": false
+}

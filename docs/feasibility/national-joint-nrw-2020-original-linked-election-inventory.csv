@@ -1,0 +1,56 @@
+cohort,ags,municipality,margin_stratum,selected_standard_call_notices,domestic_call_records_without_guid,observed_guid_procedures,original_window_and_buyer_supported_procedures,observed_supported_tender_statistics,presentation_review_added_in_this_phase,main_study_eligibility_certified
+NRW 2020,05154004,Bedburg-Hau,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,19,11,6,4,2,False,False
+NRW 2020,05158028,"Ratingen, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05158032,"Velbert, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2020,05166008,Grefrath,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05166012,"Kempen, Stadt",over_2_to_5pp,6,6,0,0,0,False,False
+NRW 2020,05166032,"Viersen, Stadt",within_2pp,20,20,0,0,0,False,False
+NRW 2020,05170028,"Neukirchen-Vluyn, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05334020,"Monschau, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05358012,"Heimbach, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2020,05362020,"Erftstadt, Stadt",over_5_to_10pp,8,6,2,0,0,False,False
+NRW 2020,05362024,"Frechen, Stadt",over_2_to_5pp,14,12,1,0,0,False,False
+NRW 2020,05362032,"Kerpen, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05366040,Weilerswist,over_2_to_5pp,6,6,0,0,0,False,False
+NRW 2020,05370012,"Geilenkirchen, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2020,05370028,"Übach-Palenberg, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2020,05378016,"Leichlingen (Rhld.), Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2020,05378028,"Rösrath, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05382028,"Lohmar, Stadt",over_5_to_10pp,2,0,1,1,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,25,16,8,2,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,16,7,9,3,2,False,False
+NRW 2020,05554028,Heiden,within_2pp,0,0,0,0,0,False,False
+NRW 2020,05554056,"Stadtlohn, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05554064,"Velen, Stadt",over_5_to_10pp,11,11,0,0,0,False,False
+NRW 2020,05558020,Havixbeck,within_2pp,0,0,0,0,0,False,False
+NRW 2020,05562020,"Herten, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2020,05566004,Altenberge,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05566032,Ladbergen,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05566072,Recke,over_2_to_5pp,2,2,0,0,0,False,False
+NRW 2020,05570008,"Beckum, Stadt",within_2pp,8,6,1,0,0,False,False
+NRW 2020,05570032,Ostbevern,within_2pp,2,0,2,0,0,False,False
+NRW 2020,05570040,"Sendenhorst, Stadt",over_2_to_5pp,1,1,0,0,0,False,False
+NRW 2020,05754016,"Harsewinkel, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05754020,Herzebrock-Clarholz,within_2pp,0,0,0,0,0,False,False
+NRW 2020,05754052,"Werther (Westf.), Stadt",over_5_to_10pp,4,4,0,0,0,False,False
+NRW 2020,05758004,"Bünde, Stadt",over_5_to_10pp,1,0,1,1,0,False,False
+NRW 2020,05758008,"Enger, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05758028,Rödinghausen,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05762020,"Höxter, Stadt",over_5_to_10pp,8,8,0,0,0,False,False
+NRW 2020,05766004,Augustdorf,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2020,05766024,Dörentrup,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05766032,"Horn-Bad Meinberg, Stadt",within_2pp,1,0,1,0,0,False,False
+NRW 2020,05770012,Hille,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05774012,Borchen,over_5_to_10pp,6,6,0,0,0,False,False
+NRW 2020,05954024,"Schwelm, Stadt",over_2_to_5pp,21,21,0,0,0,False,False
+NRW 2020,05962024,"Iserlohn, Stadt",within_2pp,25,23,2,0,0,False,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,27,22,5,3,2,False,False
+NRW 2020,05962060,"Werdohl, Stadt",over_2_to_5pp,8,6,2,1,1,False,False
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,17,12,5,3,0,False,False
+NRW 2020,05970044,Wilnsdorf,over_5_to_10pp,7,7,0,0,0,False,False
+NRW 2020,05978024,"Lünen, Stadt",over_2_to_5pp,3,2,1,0,0,False,False
+NRW 2020,05978036,"Unna, Stadt",within_2pp,1,1,0,0,0,False,False
+NRW 2020,05124000,Wuppertal,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05515000,Münster,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2020,05913000,Dortmund,over_2_to_5pp,0,0,0,0,0,False,False

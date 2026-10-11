@@ -1,0 +1,18 @@
+cohort,ags,procedure_identifier,result_publication_number,result_id,lot_ids,result_status,explicit_total_tenders,total_count_supported,award_graph_supported,cross_lot_contract_supported,contract_ids,contract_conclusion_date,grouped_lot_statistic,audit_reasons,observed_original_supported_statistic,nine_month_target_mature_at_cutoff,result_revision_review_pending,main_study_eligibility_certified
+NRW 2020,05382068,0d4f7348-0331-458f-bde4-a09380139cfc,262319-2025,RES-0001,LOT-0001,selec-w,5,True,True,False,CON-0001,2025-04-16,False,,True,True,False,False
+NRW 2020,05382028,1bb40044-ae79-48c3-9716-c5b5c29a41b1,411905-2025,RES-0001,LOT-0001,selec-w,,False,True,True,CON-0001,2025-06-17,False,missing_duplicate_or_invalid_total,False,True,False,False
+NRW 2020,05382028,1bb40044-ae79-48c3-9716-c5b5c29a41b1,411905-2025,RES-0002,LOT-0002,selec-w,,False,True,True,CON-0001,2025-06-17,False,missing_duplicate_or_invalid_total,False,True,False,False
+NRW 2020,05962032,2699bcc0-4585-46f9-ad8a-70e8552285aa,360602-2025,RES-0001,LOT-0001,selec-w,17,True,True,False,CON-0001,2025-06-02,False,,True,True,False,False
+NRW 2020,05382068,321f7a42-be49-46f6-9619-fc1afe989a11,263107-2025,RES-0001,LOT-0001,selec-w,1,True,True,False,CON-0001,2025-04-14,False,,True,True,False,False
+NRW 2020,05382056,52b7c5cf-d285-4525-8621-10ed58fede97,360629-2025,RES-0001,LOT-0000,selec-w,,False,True,False,CON-0001,2025-05-23,False,missing_duplicate_or_invalid_total,False,True,False,False
+NRW 2020,05154036,5858a596-f60e-4066-a1eb-809ee956bcac,428997-2025,RES-0001,LOT-0000,selec-w,22,True,True,False,CON-0001,2025-07-01,False,,True,True,False,False
+NRW 2020,05382056,7bb51a30-feed-42f3-909c-26517e884d07,351655-2025,RES-0001,LOT-0000,selec-w,,False,True,False,CON-0001,2025-05-30,False,missing_duplicate_or_invalid_total,False,False,False,False
+NRW 2020,05962032,94c65bcb-076e-412e-a34b-4a95a5976933,660865-2025,RES-0001,LOT-0001,selec-w,4,True,True,False,CON-0001,2025-09-22,False,,True,True,False,False
+NRW 2020,05970032,98056c05-7093-44b5-8351-e456ad777b7f,296924-2025,RES-0001,LOT-0000,selec-w,,False,True,False,CON-0001,2025-05-05,False,missing_duplicate_or_invalid_total,False,True,False,False
+NRW 2020,05154036,a7cf61ff-a010-4778-a1ef-83e9a1f24665,409809-2025,RES-0001,LOT-0000,selec-w,4,True,True,False,CON-0001,2025-06-20,False,,True,True,False,False
+NRW 2020,05970032,a9d56e0e-dcd8-44c7-89b6-76eba8956142,379985-2025,RES-0001,LOT-0000,selec-w,,False,True,False,CON-0001,2025-06-06,False,missing_duplicate_or_invalid_total,False,True,False,False
+NRW 2020,05382056,ce75a2ee-555d-43b2-ae6f-0641e000d03c,356098-2025,RES-0001,LOT-0001,selec-w,,False,True,False,CON-0001,2025-06-02,False,missing_duplicate_or_invalid_total,False,False,False,False
+NRW 2020,05382056,ce75a2ee-555d-43b2-ae6f-0641e000d03c,356098-2025,RES-0002,LOT-0002,selec-w,,False,True,False,CON-0002,2025-06-02,False,missing_duplicate_or_invalid_total,False,False,False,False
+NRW 2020,05382056,ce75a2ee-555d-43b2-ae6f-0641e000d03c,356098-2025,RES-0003,LOT-0003,selec-w,,False,True,False,CON-0003,2025-06-02,False,missing_duplicate_or_invalid_total,False,False,False,False
+NRW 2020,05382056,ce75a2ee-555d-43b2-ae6f-0641e000d03c,356098-2025,RES-0004,LOT-0004,selec-w,,False,True,False,CON-0004,2025-06-02,False,missing_duplicate_or_invalid_total,False,False,False,False
+NRW 2020,05962060,df27a598-067a-4c03-8c04-050f959c8a62,313503-2025,RES-0001,LOT-0001,selec-w,4,True,True,False,CON-0001,2025-05-13,False,,True,True,False,False

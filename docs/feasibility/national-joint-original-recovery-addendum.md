@@ -1,0 +1,7 @@
+# NRW 2020 original recovery addendum
+
+11 October 2026 UTC, pinned after the cache-only audit and before new daily export acquisition. The complete 47-GUID/89-notice Q1 2025 context matches fifteen original notices; 74 remain pending. Two supported tender statistics belong to one same-presentation election; none of the six previously first-coded mixed pairs has a supported count yet under this new call window. Preserve that cache-only checkpoint locally.
+
+Recover exact missing context originals for the complete new cohort, without candidate-label ranking. Prioritize missing original calls where a result original is already cached, then missing results where call originals are cached, then remaining originals in publication-date/notice-number order. Try publication day and the preceding two calendar days, reusing all prior archives and matching exact UUID/version/GUID. Inspect incidental matches throughout the complete fixed context. Retain every election and unsuccessful match.
+
+At most **18 additional daily archives**, at most 32 MiB each and **70 MiB successful retained bytes** for this tranche, within the existing **1.125 GiB combined tracked procurement-source ceiling**. Prior tracked procurement bytes are 1,114,683,423. Stop at source/byte limits; a still-missing original is not an absent award. No evidence, acquisition-band, call-window or candidate-coding relaxation. Retain all ongoing/no-award results and revision gaps. Legal entry, actual term turnover, outcome coverage and independent second coding remain launch gates.

@@ -1,0 +1,48 @@
+cohort,ags,municipality,margin_stratum,procedure_identifier,selected_call_notice_versions,context_notices,original_xml_matched,missing_original_notices,documented_call_graph_status,root_publication_number,root_issue_date,root_publication_date,original_issue_publication_inside_window,sole_original_municipal_root_buyer_supported,original_called_category,nine_month_followup_target_end,nine_month_target_mature_at_cutoff,indexed_standard_result_notices,observed_supported_tender_statistics,complete_indexed_original_context,main_study_eligibility_certified
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,084d842b-7d60-443a-9044-5ee6c341f159,1,2,1,1,documented_root_supported,130403-2025,2025-02-26,2025-02-27,True,True,open,2025-11-27,True,1,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,09ff41a3-3050-4bac-9e18-4c12d853428c,1,1,1,0,documented_root_supported,134442-2025,2025-02-25,2025-02-28,True,True,open,2025-11-28,True,0,0,True,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,0d4f7348-0331-458f-bde4-a09380139cfc,1,2,2,0,documented_root_supported,7247-2025,2025-01-06,2025-01-07,True,True,open,2025-10-07,True,1,1,True,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,147e1b16-f2e0-434b-b0d4-dc7f9cc7a807,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,1b5b57e9-bf56-4830-bda2-e6c1fa0e8dba,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382028,"Lohmar, Stadt",over_5_to_10pp,1bb40044-ae79-48c3-9716-c5b5c29a41b1,2,3,3,0,documented_root_supported,188636-2025,2025-03-21,2025-03-24,True,True,open,2025-12-24,True,1,0,True,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,1cd035e0-8b2c-4d14-9aa8-7f63fe74e9e6,1,2,1,1,documented_root_supported,150496-2025,2025-03-06,2025-03-07,True,True,open,2025-12-07,True,1,0,False,False
+NRW 2020,05570032,Ostbevern,within_2pp,22435384-277b-4f18-a225-f81dc6156f60,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,2699bcc0-4585-46f9-ad8a-70e8552285aa,1,2,2,0,documented_root_supported,127635-2025,2025-02-25,2025-02-26,True,True,open,2025-11-26,True,1,1,True,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,273107d4-c883-4196-a6a7-0ef618cf42e3,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05962060,"Werdohl, Stadt",over_2_to_5pp,2c517f9d-485c-483f-b689-5750603a30b8,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05758004,"Bünde, Stadt",over_5_to_10pp,314a60ba-034a-4887-8917-d6726acf7bb8,1,2,1,1,documented_root_supported,17443-2025,2025-01-08,2025-01-10,True,True,neg-w-call,2025-10-10,True,1,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,319a5c85-94de-4116-9471-1f4d3697c15e,1,2,1,1,documented_root_supported,14580-2025,2025-01-09,2025-01-10,True,True,open,2025-10-10,True,1,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,321f7a42-be49-46f6-9619-fc1afe989a11,1,2,2,0,documented_root_supported,24030-2025,2025-01-13,2025-01-14,True,True,open,2025-10-14,True,1,1,True,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,3548082d-4b06-4f1b-8079-559707f42758,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05570032,Ostbevern,within_2pp,3a412ae3-61ff-44b5-bbb7-e768ae3af2dd,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,3e7b1ca5-0051-4a6f-8ee2-332a39ebdaed,1,2,1,1,documented_root_supported,129530-2025,2025-02-25,2025-02-26,True,True,open,2025-11-26,True,1,0,False,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,42c443b3-cd3f-4599-a4d4-6dcc0cd87776,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,44703e60-2078-4b39-bbd6-b5b2f2d2162f,2,3,0,3,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,4d232bfd-be2c-4bca-bf02-39ab02948e39,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,52b7c5cf-d285-4525-8621-10ed58fede97,1,2,2,0,documented_root_supported,135464-2025,2025-02-25,2025-02-28,True,True,open,2025-11-28,True,1,0,True,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,57424a98-057a-4646-b886-e33601a63b4b,1,2,1,1,documented_root_supported,193470-2025,2025-03-24,2025-03-26,True,True,open,2025-12-26,True,1,0,False,False
+NRW 2020,05962024,"Iserlohn, Stadt",within_2pp,57c2b7e8-70c6-40d2-a7a2-d7d46f8192ad,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,5858a596-f60e-4066-a1eb-809ee956bcac,2,3,3,0,documented_root_supported,197103-2025,2025-03-26,2025-03-27,True,True,open,2025-12-27,True,1,1,True,False
+NRW 2020,05962024,"Iserlohn, Stadt",within_2pp,5e7748ae-9467-4ab7-ad3e-643b24d0e61a,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05362024,"Frechen, Stadt",over_2_to_5pp,6bb35c9a-92ec-4b62-aa4b-38b52c79753d,2,2,1,1,original_call_graph_pending,,,,False,False,neg-w-call,,False,0,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,7369aa5c-d826-4ef5-9e63-f7b159d15110,2,3,0,3,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,7bb51a30-feed-42f3-909c-26517e884d07,1,2,1,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,7c397397-dc9c-4edb-ad34-fe6ae8e1db3f,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,7e3849fe-a0c3-4aac-b208-39b003d763f7,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05766032,"Horn-Bad Meinberg, Stadt",within_2pp,80d8b0be-0c52-4c90-8e70-ddb7637cdeb8,1,1,0,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,92714956-218e-47e9-834f-5475894d734b,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05362020,"Erftstadt, Stadt",over_5_to_10pp,9408c476-083b-447c-91ae-4a574117f5da,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,94c65bcb-076e-412e-a34b-4a95a5976933,1,2,2,0,documented_root_supported,142621-2025,2025-03-03,2025-03-04,True,True,neg-w-call,2025-12-04,True,1,1,True,False
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,98056c05-7093-44b5-8351-e456ad777b7f,1,2,2,0,documented_root_supported,149183-2025,2025-03-06,2025-03-07,True,True,open,2025-12-07,True,1,0,True,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,a7cf61ff-a010-4778-a1ef-83e9a1f24665,1,2,2,0,documented_root_supported,149962-2025,2025-03-06,2025-03-07,True,True,open,2025-12-07,True,1,1,True,False
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,a9d56e0e-dcd8-44c7-89b6-76eba8956142,1,2,2,0,documented_root_supported,180471-2025,2025-03-17,2025-03-20,True,True,open,2025-12-20,True,1,0,True,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,ce75a2ee-555d-43b2-ae6f-0641e000d03c,1,2,1,1,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,d7efdb00-3585-4fde-a935-84cf58c25cd1,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05570008,"Beckum, Stadt",within_2pp,dbfdcea1-c857-4ff3-b2a3-e98758dc3cc8,2,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,0,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,dd27cc1e-dfce-4293-b0b0-1177221f8efb,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05962060,"Werdohl, Stadt",over_2_to_5pp,df27a598-067a-4c03-8c04-050f959c8a62,1,2,2,0,documented_root_supported,196534-2025,2025-03-26,2025-03-27,True,True,open,2025-12-27,True,1,1,True,False
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,e70494b6-9f43-49a0-9dd0-ec5d5e1da894,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,e7632a79-8a47-4c1e-9d31-0bb5d72f1e6d,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05362020,"Erftstadt, Stadt",over_5_to_10pp,ebd01a7d-f05b-40a2-b2a8-0859e46ba7a8,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,f2f59ee9-7f14-4c60-b5c5-153cf6abb3ba,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False
+NRW 2020,05978024,"Lünen, Stadt",over_2_to_5pp,f881c862-61f4-4857-b71c-74f02cc23c23,1,2,0,2,original_call_graph_pending,,,,False,False,category_unresolved,,False,1,0,False,False

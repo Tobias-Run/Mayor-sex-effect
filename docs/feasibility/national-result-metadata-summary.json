@@ -1,0 +1,16 @@
+{
+  "retained_national_events": 654,
+  "buyer_matched_standard_result_notice_versions": 1762,
+  "domestic_numeric_standard_result_notices": 683,
+  "positive_unique_total_tender_metadata_rows": 451,
+  "municipalities_with_positive_count_metadata": 66,
+  "domestic_numeric_positive_count_metadata_rows": 0,
+  "metadata_rows_with_call_first_guid_match": 251,
+  "original_outcomes_added": 0,
+  "certified_main_study_elections": 0,
+  "limitations": "Partial CSV result-field discovery only. No original issue/contract/award graph, revision resolution, treatment assignment, office exposure or complete follow-up established. No silent replacement of original outcome standards.",
+  "excluded_lot_result_groups": {
+    "missing_or_multiple_total_records": 903,
+    "not_positive_unique_successful_lot_result": 50
+  }
+}

@@ -1,0 +1,9 @@
+ags,municipality,batch_stratum,supported_candidates_before,supported_candidates_after,pair_status_before,pair_status_after,female_presented_winner,new_primary_source_ids,independent_second_coding_completed,main_study_eligibility_certified
+05154036,"Kleve, Stadt",linked_original_count,1,1,unresolved,unresolved,,,False,False
+05382068,"Troisdorf, Stadt",linked_original_count,0,0,unresolved,unresolved,,,False,False
+05962032,"Lüdenscheid, Stadt",linked_original_count,0,1,unresolved,unresolved,,luedenscheid-wagemeyer-retrospective,False,False
+05962060,"Werdohl, Stadt",linked_original_count,1,2,unresolved,mixed_public_presentation,false,werdohl-spaeinghaus-2020,False,False
+05566004,Altenberge,unlinked_hash_selected,0,1,unresolved,unresolved,,altenberge-reinke-2020,False,False
+05166008,Grefrath,unlinked_hash_selected,0,1,unresolved,unresolved,,grefrath-schumeckers-2020,False,False
+05166012,"Kempen, Stadt",unlinked_hash_selected,0,0,unresolved,unresolved,,,False,False
+05378028,"Rösrath, Stadt",unlinked_hash_selected,0,2,unresolved,mixed_public_presentation,true,roesrath-mombauer-2020;roesrath-schulze-2020,False,False
