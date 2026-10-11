@@ -68,3 +68,8 @@ The user has requested empirical progress toward the original main question. The
 ## Updated empirical queue — 10 October 2026
 
 The [primary-source and call-first audit](nrw-2025-validation-progress.md) completes the first six-case presentation review and 95 original XML matches. Next recover the 28 missing originals for the independently selected Q1 roster and resolve its 16 pending graphs; preserve all 14 missing-result cases. Review the remaining close-pair presentations independently of predictions, jurisdiction and actual office boundaries. The four currently result-linked Q1 election cases are only an availability inventory; the independent call roster can add unresolved observations. Precision and independent second coding remain gates before causal launch.
+
+
+## Original cohort completion — 11 October 2026 UTC
+
+The [Q1 completion checkpoint](nrw-2025-q1-completion.md) closes all 28 missing original targets and 16 pending call graphs. Next review the eleven remaining cases in the fourteen-pair ≤2 pp queue, ordered by exact election margin independently of predictions and procurement availability. Apply outcome eligibility, jurisdiction and office checks to the 37 supported Q1 procedures while retaining thirteen missing-result cases. These are procurement procedures, not additional independent elections; independent second coding and precision remain main-study gates.

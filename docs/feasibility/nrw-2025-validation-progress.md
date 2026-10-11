@@ -1,5 +1,7 @@
 # NRW 2025: primary evidence, original procedures and a call-first cohort
 
+**Subsequent completion:** the [11 October UTC checkpoint](nrw-2025-q1-completion.md) resolves the 28 missing originals and 16 pending graphs described below. These numbers document the earlier checkpoint; the linked cohort tables now contain the completed source audit.
+
 Completed bounded checks on 10 October 2026. This advances the [new NRW 2025 route](nrw-2025-research-reopening.md) toward the original research question. The project still adapts Florio and Spagnolo (2026), with [German design precedents](literature-design-crosswalk.md); this is not a causal result. The historical report frozen on 5 October remains unchanged.
 
 ## Six presentation pairs now supported by primary evidence

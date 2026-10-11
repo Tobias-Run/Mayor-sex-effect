@@ -1,16 +1,16 @@
 ags,municipality,all_q1_call_notice_matches,provisional_q1_roster_procedures,verified_original_q1_procedures,procedures_with_no_indexed_standard_result_by_cutoff,certified_outcome_denominator
 05154008,Emmerich am Rhein,0,0,0,0,False
 05154016,Goch,0,0,0,0,False
-05154036,Kleve,8,7,5,0,False
-05166004,Brüggen,6,3,2,1,False
-05170012,Hamminkeln,1,1,0,0,False
-05334004,Alsdorf,4,3,1,1,False
+05154036,Kleve,8,7,6,0,False
+05166004,Brüggen,6,3,3,1,False
+05170012,Hamminkeln,1,1,1,0,False
+05334004,Alsdorf,4,3,2,1,False
 05358012,Heimbach,0,0,0,0,False
 05362032,Kerpen,0,0,0,0,False
 05374008,Engelskirchen,0,0,0,0,False
 05378004,Bergisch Gladbach,0,0,0,0,False
 05378024,Overath,0,0,0,0,False
-05382024,Königswinter,1,1,0,1,False
+05382024,Königswinter,1,1,1,1,False
 05382028,Lohmar,0,0,0,0,False
 05382040,Neunkirchen-Seelscheid,4,4,4,0,False
 05554024,Heek,0,0,0,0,False
@@ -18,14 +18,14 @@ ags,municipality,all_q1_call_notice_matches,provisional_q1_roster_procedures,ver
 05562008,Datteln,1,1,0,0,False
 05762040,Willebadessen,0,0,0,0,False
 05774004,Altenbeken,0,0,0,0,False
-05954016,Hattingen,4,4,0,4,False
+05954016,Hattingen,4,4,4,4,False
 05954020,Herdecke,2,2,2,0,False
 05962032,Lüdenscheid,1,1,1,0,False
-05970040,Siegen,2,2,0,0,False
+05970040,Siegen,2,2,2,0,False
 05974032,Möhnesee,0,0,0,0,False
 05978024,Lünen,2,2,2,0,False
 05978032,Selm,3,3,3,0,False
 05978036,Unna,0,0,0,0,False
-05117000,Mülheim an der Ruhr,6,6,2,6,False
+05117000,Mülheim an der Ruhr,6,6,5,6,False
 05119000,Oberhausen,0,0,0,0,False
 05711000,Bielefeld,0,0,0,0,False
