@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-10-11",
+  "cohort": "Niedersachsen 2021",
+  "ags": "03257009",
+  "municipality": "B\u00fcckeburg, Stadt",
+  "decisive_date": "2021-09-26",
+  "margin_stratum": "over_5_to_10pp",
+  "absolute_margin_pp": 6.890166650423935,
+  "first_coder_mixed_pair_supported": true,
+  "female_presented_winner": false,
+  "observed_supported_tender_statistics": 5,
+  "additional_provisional_mixed_count_elections": 1,
+  "previous_provisional_NRW_mixed_count_elections": 4,
+  "total_provisional_mixed_count_elections_across_separate_cohorts": 5,
+  "independent_second_coding_completed": false,
+  "certified_main_study_elections": 0,
+  "cohorts_pooled": false,
+  "limitations": [
+    "First-coder public presentation is not administrative sex.",
+    "Official Niedersachsen returns are headed provisional.",
+    "Late-term full-year 2025 outcomes are not pooled with NRW Q1 2026.",
+    "Calendar-mature follow-up does not establish complete result coverage.",
+    "Legal entry, uninterrupted exposure and result coverage remain open.",
+    "Candidate review targets one outcome-linked lead and cannot estimate frame-wide missingness or eliminate selection bias."
+  ]
+}

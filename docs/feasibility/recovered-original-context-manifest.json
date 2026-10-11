@@ -1,0 +1,240 @@
+{
+  "queries": [
+    {
+      "cohort": "Brandenburg 2024",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"565c84c3-2146-4633-8692-3ffeb0c61d0b\" OR procedure-identifier = \"965e181a-0cfe-4b75-b962-89b47ac91c5b\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 4,
+      "retrieved_at_utc": "2026-10-11T20:35:34.338433+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "9185bdbb6a25dadce339613f1cab91e0ef0c9f6b42a642a8b82412e1b173d007",
+          "bytes": 19514,
+          "request": {
+            "query": "(procedure-identifier = \"565c84c3-2146-4633-8692-3ffeb0c61d0b\" OR procedure-identifier = \"965e181a-0cfe-4b75-b962-89b47ac91c5b\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        null,
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    },
+    {
+      "cohort": "Brandenburg 2025",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"00cba6bb-68fa-453a-b45d-6fa57be671e8\" OR procedure-identifier = \"c36f14a0-f18c-4936-8703-7e2c8dd2234c\" OR procedure-identifier = \"dcaffd97-6e89-4f90-9b44-a0ea7fb17905\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 6,
+      "retrieved_at_utc": "2026-10-11T20:35:35.473608+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "fd102567f34184ccd450f4da1982619821fb041c979b9d947536448657997cdd",
+          "bytes": 29404,
+          "request": {
+            "query": "(procedure-identifier = \"00cba6bb-68fa-453a-b45d-6fa57be671e8\" OR procedure-identifier = \"c36f14a0-f18c-4936-8703-7e2c8dd2234c\" OR procedure-identifier = \"dcaffd97-6e89-4f90-9b44-a0ea7fb17905\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        null,
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    },
+    {
+      "cohort": "NRW 2025",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"00cacf65-8b9b-422f-8261-338e026bfcc8\" OR procedure-identifier = \"019c465c-1dcd-4887-abd9-c5e8444bba49\" OR procedure-identifier = \"019c476a-ac65-4b13-8355-fb7cdfe3ff51\" OR procedure-identifier = \"0269c5d3-1dcb-4376-b2f8-fd0c29b933b7\" OR procedure-identifier = \"02f0da6a-9924-4d73-ba1b-522abbe15893\" OR procedure-identifier = \"044cec04-343a-4860-a601-22857a8645e1\" OR procedure-identifier = \"051c4997-eb71-4b07-8bad-efc917d6fc57\" OR procedure-identifier = \"07d6fb0b-ae8a-4fe1-a034-11233bb5358a\" OR procedure-identifier = \"0a9f1f75-142f-4a6f-b3f0-7614453ed190\" OR procedure-identifier = \"0ca4f257-fb50-4e55-9869-76b7d43bd185\" OR procedure-identifier = \"169dc39a-18e9-40c4-a28f-f4efbad0f123\" OR procedure-identifier = \"1fb9a0d4-5d27-4a0e-860a-9e0ac035f31b\" OR procedure-identifier = \"20586c9f-4bb2-41b8-b626-9670303b22b7\" OR procedure-identifier = \"2991aa79-bea3-4fe1-9e11-0eae3cd7b6d0\" OR procedure-identifier = \"29b1a559-b122-416b-bde9-ca78bb71e46c\" OR procedure-identifier = \"37044227-331f-41ec-888f-bcc730f248e4\" OR procedure-identifier = \"429f49fb-dd34-4bbe-af25-5ab586fadbd6\" OR procedure-identifier = \"449b3c0e-3d99-477d-ac70-af4c1cc1c2a0\" OR procedure-identifier = \"453c9b21-5c09-4953-af2a-f69c2615684f\" OR procedure-identifier = \"4d9cacaf-cee7-4123-9335-d163e0d71329\" OR procedure-identifier = \"4e960435-2d6c-4b58-979d-c81f173159e5\" OR procedure-identifier = \"5696f9f1-7228-4ca8-9db7-cee4df2b5b6e\" OR procedure-identifier = \"58b5bbcb-688d-460d-bcb4-0e08e05860d7\" OR procedure-identifier = \"607b689c-b409-4326-9982-30be08457073\" OR procedure-identifier = \"6452b2e3-17dc-4d78-a439-8c0b60d5d142\" OR procedure-identifier = \"64d9978e-d79c-4213-9711-0239d93383f1\" OR procedure-identifier = \"65bede72-13ec-4518-80cf-22fc033b46c3\" OR procedure-identifier = \"674913a6-e849-4e18-a3cd-21afd863027c\" OR procedure-identifier = \"6794317d-0c73-4fea-9e3c-8e761a237b0d\" OR procedure-identifier = \"735a89a6-48e2-4dfc-9029-53e7d51f5466\" OR procedure-identifier = \"75716a5d-fc6a-470a-a0b8-9ba21b545aec\" OR procedure-identifier = \"76a5548e-6446-4170-b690-d81f885f18c9\" OR procedure-identifier = \"7f113f81-ed85-45a9-a59f-c7358072c40a\" OR procedure-identifier = \"7f32a2ca-5e57-40da-a881-6300362ba102\" OR procedure-identifier = \"8126e5b1-4b10-44fa-882a-9bb9298630f3\" OR procedure-identifier = \"87c76991-a051-4939-a9a4-6deeb3641602\" OR procedure-identifier = \"88fb0a80-b14f-41be-9e83-c859278ae888\" OR procedure-identifier = \"891f6855-60e9-4ab2-ab0d-ea5988da503d\" OR procedure-identifier = \"8ec7c9dd-e286-43ed-b59f-43ce203c3f10\" OR procedure-identifier = \"93ba4dab-bd49-45e6-86de-227b52f06f5f\" OR procedure-identifier = \"93d88dd1-2468-4d50-aad8-f5bd885e63b1\" OR procedure-identifier = \"a3f0d4b0-e5bb-4899-a82d-ca819256a8c3\" OR procedure-identifier = \"a875eec7-e1cd-4c77-9102-2876afda22ef\" OR procedure-identifier = \"a9af3eac-7e51-43c0-b337-32e4c7d1d5b4\" OR procedure-identifier = \"ac8097fd-4144-4358-8206-ebde1d1ea3b6\" OR procedure-identifier = \"aca0d03f-bfff-47dd-87b5-843e3be4c2fb\" OR procedure-identifier = \"ade25002-9ace-4e58-b94c-75fc52e9ebc1\" OR procedure-identifier = \"b25bc30c-0472-4bd4-b073-f1c89cb599bd\" OR procedure-identifier = \"b552cf03-2ac8-4709-b515-df624285fecd\" OR procedure-identifier = \"b58325f0-a7c4-4ec0-8aff-5bd1c57d21bd\" OR procedure-identifier = \"b7ea6925-70e4-44ad-bb25-f3a1fc555214\" OR procedure-identifier = \"bc7b29fd-15d8-4feb-bf43-ee374ccdbff1\" OR procedure-identifier = \"c043f61a-8987-490b-91bb-beb475c63840\" OR procedure-identifier = \"c48762c2-11f5-4379-ba78-7555693b468e\" OR procedure-identifier = \"c4e85a2a-72ba-46aa-a599-7b0c2a24e74e\" OR procedure-identifier = \"c5a90e78-cbc3-4de4-ab99-acc3e13db5b4\" OR procedure-identifier = \"d1a0c506-e165-44b4-a167-92510222ddf8\" OR procedure-identifier = \"d34056b7-172b-41f8-a6cb-d1c2f4fd97b2\" OR procedure-identifier = \"d577e024-180b-410b-99e0-ce0da1918358\" OR procedure-identifier = \"dd490c38-5d71-48db-b40e-277c93b28007\" OR procedure-identifier = \"e0aae4e8-86a5-4244-91e8-2088b4067c37\" OR procedure-identifier = \"e1489874-34a5-438b-acd8-fdc2b9d4bae4\" OR procedure-identifier = \"e28813e0-4d1b-43e2-bee0-2d1877e1ceef\" OR procedure-identifier = \"e320ee77-0a87-49b0-afa3-1d70da733cd9\" OR procedure-identifier = \"e40dd3bc-874e-41ee-894c-d870bc0467d4\" OR procedure-identifier = \"e8739cb3-96be-4885-bc8f-46871a1da10c\" OR procedure-identifier = \"e9aaa2cd-b730-44fc-b135-3d34d7b8f65a\" OR procedure-identifier = \"ed230e0b-df86-413e-a88e-4c129fe42c76\" OR procedure-identifier = \"f70645dc-f8d6-4a3c-9863-f255c2bc1531\" OR procedure-identifier = \"fd52e600-4add-4e03-aa3a-c9fd222de370\" OR procedure-identifier = \"ff592d69-e2a9-40ba-991b-10cf0f32bbf4\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 134,
+      "retrieved_at_utc": "2026-10-11T20:35:37.370484+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "600f6881c6c2a52254111d7e6e9797b2ea1b9547861003e61e2d22f9ee796f47",
+          "bytes": 650849,
+          "request": {
+            "query": "(procedure-identifier = \"00cacf65-8b9b-422f-8261-338e026bfcc8\" OR procedure-identifier = \"019c465c-1dcd-4887-abd9-c5e8444bba49\" OR procedure-identifier = \"019c476a-ac65-4b13-8355-fb7cdfe3ff51\" OR procedure-identifier = \"0269c5d3-1dcb-4376-b2f8-fd0c29b933b7\" OR procedure-identifier = \"02f0da6a-9924-4d73-ba1b-522abbe15893\" OR procedure-identifier = \"044cec04-343a-4860-a601-22857a8645e1\" OR procedure-identifier = \"051c4997-eb71-4b07-8bad-efc917d6fc57\" OR procedure-identifier = \"07d6fb0b-ae8a-4fe1-a034-11233bb5358a\" OR procedure-identifier = \"0a9f1f75-142f-4a6f-b3f0-7614453ed190\" OR procedure-identifier = \"0ca4f257-fb50-4e55-9869-76b7d43bd185\" OR procedure-identifier = \"169dc39a-18e9-40c4-a28f-f4efbad0f123\" OR procedure-identifier = \"1fb9a0d4-5d27-4a0e-860a-9e0ac035f31b\" OR procedure-identifier = \"20586c9f-4bb2-41b8-b626-9670303b22b7\" OR procedure-identifier = \"2991aa79-bea3-4fe1-9e11-0eae3cd7b6d0\" OR procedure-identifier = \"29b1a559-b122-416b-bde9-ca78bb71e46c\" OR procedure-identifier = \"37044227-331f-41ec-888f-bcc730f248e4\" OR procedure-identifier = \"429f49fb-dd34-4bbe-af25-5ab586fadbd6\" OR procedure-identifier = \"449b3c0e-3d99-477d-ac70-af4c1cc1c2a0\" OR procedure-identifier = \"453c9b21-5c09-4953-af2a-f69c2615684f\" OR procedure-identifier = \"4d9cacaf-cee7-4123-9335-d163e0d71329\" OR procedure-identifier = \"4e960435-2d6c-4b58-979d-c81f173159e5\" OR procedure-identifier = \"5696f9f1-7228-4ca8-9db7-cee4df2b5b6e\" OR procedure-identifier = \"58b5bbcb-688d-460d-bcb4-0e08e05860d7\" OR procedure-identifier = \"607b689c-b409-4326-9982-30be08457073\" OR procedure-identifier = \"6452b2e3-17dc-4d78-a439-8c0b60d5d142\" OR procedure-identifier = \"64d9978e-d79c-4213-9711-0239d93383f1\" OR procedure-identifier = \"65bede72-13ec-4518-80cf-22fc033b46c3\" OR procedure-identifier = \"674913a6-e849-4e18-a3cd-21afd863027c\" OR procedure-identifier = \"6794317d-0c73-4fea-9e3c-8e761a237b0d\" OR procedure-identifier = \"735a89a6-48e2-4dfc-9029-53e7d51f5466\" OR procedure-identifier = \"75716a5d-fc6a-470a-a0b8-9ba21b545aec\" OR procedure-identifier = \"76a5548e-6446-4170-b690-d81f885f18c9\" OR procedure-identifier = \"7f113f81-ed85-45a9-a59f-c7358072c40a\" OR procedure-identifier = \"7f32a2ca-5e57-40da-a881-6300362ba102\" OR procedure-identifier = \"8126e5b1-4b10-44fa-882a-9bb9298630f3\" OR procedure-identifier = \"87c76991-a051-4939-a9a4-6deeb3641602\" OR procedure-identifier = \"88fb0a80-b14f-41be-9e83-c859278ae888\" OR procedure-identifier = \"891f6855-60e9-4ab2-ab0d-ea5988da503d\" OR procedure-identifier = \"8ec7c9dd-e286-43ed-b59f-43ce203c3f10\" OR procedure-identifier = \"93ba4dab-bd49-45e6-86de-227b52f06f5f\" OR procedure-identifier = \"93d88dd1-2468-4d50-aad8-f5bd885e63b1\" OR procedure-identifier = \"a3f0d4b0-e5bb-4899-a82d-ca819256a8c3\" OR procedure-identifier = \"a875eec7-e1cd-4c77-9102-2876afda22ef\" OR procedure-identifier = \"a9af3eac-7e51-43c0-b337-32e4c7d1d5b4\" OR procedure-identifier = \"ac8097fd-4144-4358-8206-ebde1d1ea3b6\" OR procedure-identifier = \"aca0d03f-bfff-47dd-87b5-843e3be4c2fb\" OR procedure-identifier = \"ade25002-9ace-4e58-b94c-75fc52e9ebc1\" OR procedure-identifier = \"b25bc30c-0472-4bd4-b073-f1c89cb599bd\" OR procedure-identifier = \"b552cf03-2ac8-4709-b515-df624285fecd\" OR procedure-identifier = \"b58325f0-a7c4-4ec0-8aff-5bd1c57d21bd\" OR procedure-identifier = \"b7ea6925-70e4-44ad-bb25-f3a1fc555214\" OR procedure-identifier = \"bc7b29fd-15d8-4feb-bf43-ee374ccdbff1\" OR procedure-identifier = \"c043f61a-8987-490b-91bb-beb475c63840\" OR procedure-identifier = \"c48762c2-11f5-4379-ba78-7555693b468e\" OR procedure-identifier = \"c4e85a2a-72ba-46aa-a599-7b0c2a24e74e\" OR procedure-identifier = \"c5a90e78-cbc3-4de4-ab99-acc3e13db5b4\" OR procedure-identifier = \"d1a0c506-e165-44b4-a167-92510222ddf8\" OR procedure-identifier = \"d34056b7-172b-41f8-a6cb-d1c2f4fd97b2\" OR procedure-identifier = \"d577e024-180b-410b-99e0-ce0da1918358\" OR procedure-identifier = \"dd490c38-5d71-48db-b40e-277c93b28007\" OR procedure-identifier = \"e0aae4e8-86a5-4244-91e8-2088b4067c37\" OR procedure-identifier = \"e1489874-34a5-438b-acd8-fdc2b9d4bae4\" OR procedure-identifier = \"e28813e0-4d1b-43e2-bee0-2d1877e1ceef\" OR procedure-identifier = \"e320ee77-0a87-49b0-afa3-1d70da733cd9\" OR procedure-identifier = \"e40dd3bc-874e-41ee-894c-d870bc0467d4\" OR procedure-identifier = \"e8739cb3-96be-4885-bc8f-46871a1da10c\" OR procedure-identifier = \"e9aaa2cd-b730-44fc-b135-3d34d7b8f65a\" OR procedure-identifier = \"ed230e0b-df86-413e-a88e-4c129fe42c76\" OR procedure-identifier = \"f70645dc-f8d6-4a3c-9863-f255c2bc1531\" OR procedure-identifier = \"fd52e600-4add-4e03-aa3a-c9fd222de370\" OR procedure-identifier = \"ff592d69-e2a9-40ba-991b-10cf0f32bbf4\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        null,
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    },
+    {
+      "cohort": "Niedersachsen 2021",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "query": "(procedure-identifier = \"01185b75-f3b2-4652-aaac-46ef8be338f2\" OR procedure-identifier = \"0be46469-980c-4ecb-8de2-dbf10c556094\" OR procedure-identifier = \"101f8590-f50a-459f-8027-c1e2b384ffb2\" OR procedure-identifier = \"102c4e9c-67af-4245-a311-bc515123f168\" OR procedure-identifier = \"12ae1335-8dfc-46ba-84f0-b5f1b7f81881\" OR procedure-identifier = \"154b3d8f-175d-4974-aaa1-7937558f8cfe\" OR procedure-identifier = \"15a27223-6cd4-4c22-985d-641576eda119\" OR procedure-identifier = \"1679dcef-d39f-4a34-90bd-91f8291b57a8\" OR procedure-identifier = \"18950479-14f2-4b59-b809-f9baacf33e34\" OR procedure-identifier = \"20801020-dd0a-4c2d-ac48-4d8c14580491\" OR procedure-identifier = \"24ad6650-f209-45fd-945a-7041f15a5690\" OR procedure-identifier = \"26751d5c-62e9-4c75-9420-838fc208f466\" OR procedure-identifier = \"2a3575fa-8755-4a44-9750-3059eda29074\" OR procedure-identifier = \"34c62d20-e85f-40b2-8768-53f36969cca0\" OR procedure-identifier = \"3872c909-e824-4db2-a9e4-a5add29a1b96\" OR procedure-identifier = \"3fa4961a-d457-4bc4-8394-12bfbabb2695\" OR procedure-identifier = \"42e03ef3-0aa6-4841-b8ed-2590d49decdf\" OR procedure-identifier = \"42fab80f-0157-4d92-8fcf-c83ab7928471\" OR procedure-identifier = \"4700cc28-620b-466d-a743-2e908b13835c\" OR procedure-identifier = \"479e64af-753f-4da1-80be-f3b31d1d5d53\" OR procedure-identifier = \"4c79842c-8b8e-41a3-b24d-ddf941959a6d\" OR procedure-identifier = \"4dc71319-f5c9-4560-9819-0164cd3ee04a\" OR procedure-identifier = \"4f7b8002-ed63-47b6-98c8-b9d9b137f88e\" OR procedure-identifier = \"50f292b1-616e-43b5-bb16-ee1e58835f08\" OR procedure-identifier = \"51467bf9-1c55-4f60-9679-58f0d44b3902\" OR procedure-identifier = \"54b18dac-04f0-4879-bc3a-ee0a9aca491b\" OR procedure-identifier = \"5bf3d5e7-c66f-4c7b-9fb1-26424832ca06\" OR procedure-identifier = \"5d80dd1c-be1a-4244-8690-256c8ba6de57\" OR procedure-identifier = \"6025b8bb-e69e-4549-8552-9b01cdf5ad0b\" OR procedure-identifier = \"604b2420-8cbf-4845-a1fb-ba3971b380fe\" OR procedure-identifier = \"60b3e76a-7b54-4e72-a0b7-acfa386e4c32\" OR procedure-identifier = \"6117e322-a5b5-4173-8519-dcb1e9f375cc\" OR procedure-identifier = \"64ccca30-b1f0-48ce-a9e4-3fad25655cb2\" OR procedure-identifier = \"6586d66f-166b-4ee6-aaf3-d77205f6d679\" OR procedure-identifier = \"669490c1-6b74-4118-baac-88d1d19b867e\" OR procedure-identifier = \"6af7d85e-b401-4bc1-9f34-e8a30dcd2ed1\" OR procedure-identifier = \"6c0633e7-e28b-4536-b0a0-57492c6624d1\" OR procedure-identifier = \"6d0ec2ac-c907-41d9-9bca-4b5373c7e9c8\" OR procedure-identifier = \"6d6dc649-22a7-415d-a4c9-46d1541379b4\" OR procedure-identifier = \"71c10ea6-599e-4250-b974-a2bef5bb1ec7\" OR procedure-identifier = \"7663832a-634a-41cc-97ab-1afbbc3d17db\" OR procedure-identifier = \"7b3626b7-a67b-4310-96f4-76c3ed1125ac\" OR procedure-identifier = \"7b87c6e7-91b5-4391-a09b-9a75f70522b6\" OR procedure-identifier = \"7b8bce14-6409-4ab7-8963-c5143c03937d\" OR procedure-identifier = \"7cf04acb-dee5-4b44-b2a2-6c2ccc58990e\" OR procedure-identifier = \"7f150956-af62-44c6-b823-8dec309e1f89\" OR procedure-identifier = \"8072a411-3499-45ce-9214-6b97d7596158\" OR procedure-identifier = \"85e54710-b8e5-4b95-aad8-9c39b2c5a22e\" OR procedure-identifier = \"86820d50-8552-44d0-82c2-c4bd5bb87834\" OR procedure-identifier = \"8968c61f-2298-44d1-a32e-0f4007c29a96\" OR procedure-identifier = \"8b80e50d-7d1a-4a0b-b4fd-34f1d07acac0\" OR procedure-identifier = \"8e64fdbb-55a5-49a9-983d-e312c852ad7b\" OR procedure-identifier = \"929098c9-1a81-43b8-9e24-9604b81649e6\" OR procedure-identifier = \"97127d21-440d-463e-a0ec-ed5ef08c4afb\" OR procedure-identifier = \"9bbda6a1-7fa2-4062-96af-dfdfe656d0ad\" OR procedure-identifier = \"9df1e6fd-4ae6-4745-8c92-d97295914f47\" OR procedure-identifier = \"9f859b6b-83df-4ce7-8e44-e50da02cccc4\" OR procedure-identifier = \"a0fe58ef-5804-419e-99c8-06ad6220dc53\" OR procedure-identifier = \"a513881f-ff29-4d1a-9fd7-7ff8c0937fea\" OR procedure-identifier = \"a75b2634-28c5-4e8e-832e-f8b15aeb1753\" OR procedure-identifier = \"a7878ca5-84ad-4d08-b1a7-d4bd593fa870\" OR procedure-identifier = \"b1000000-c0de-4000-a000-00d456945769\" OR procedure-identifier = \"b1000000-c0de-4000-a000-00d457577080\" OR procedure-identifier = \"b1000000-c0de-4000-a000-00d458418475\" OR procedure-identifier = \"b2371cc4-327a-4142-aa72-db4e66e75310\" OR procedure-identifier = \"b307d357-8df0-4aa0-9555-9de0c17056b7\" OR procedure-identifier = \"b348b110-496e-4018-b80a-c70685c1fa8e\" OR procedure-identifier = \"b7c64ce5-632d-44c4-9858-6f36df7432ea\" OR procedure-identifier = \"b8fefcc4-12e9-435b-88ce-abe027125cc3\" OR procedure-identifier = \"ba0ff59f-c48d-499c-9465-ce0de44d9eee\" OR procedure-identifier = \"baa6cef9-4349-4900-90a2-15fadf2033c7\" OR procedure-identifier = \"bc9306bc-a9e9-46f5-bfe5-53a3a9c12750\" OR procedure-identifier = \"bde88b55-83ca-48bd-8ba8-348b9f0e974a\" OR procedure-identifier = \"d1bbc479-ae94-4858-ba22-af0dd3692ea0\" OR procedure-identifier = \"d254e50e-577a-4525-842d-e18645a3a7b0\" OR procedure-identifier = \"d2b0b5cc-3a64-4233-8d88-2636cb10bc3a\" OR procedure-identifier = \"d3d9d7b4-06d3-43b7-a48c-ee25303d8bb0\" OR procedure-identifier = \"daf6fbc6-f134-40af-87cc-973cd731f26d\" OR procedure-identifier = \"e06118c0-dcfd-4e4c-95f2-cc1c2295c78e\" OR procedure-identifier = \"e066dad4-8798-46e2-8b43-4ff197e98672\" OR procedure-identifier = \"e1329311-e70e-4983-a0be-71781c89ebfc\" OR procedure-identifier = \"e1888cf6-615d-4526-9d7f-c95d6527ed93\" OR procedure-identifier = \"e53adc8f-d319-4549-bad6-760ed7af55c3\" OR procedure-identifier = \"e9446a3e-5d46-4898-a700-75410f823587\" OR procedure-identifier = \"ec037337-25bd-4e40-8f5b-8a38a7a8db43\" OR procedure-identifier = \"f1f1911a-4d46-4b23-8336-05fa3cdd436c\" OR procedure-identifier = \"f26b0576-70cc-4eac-8af8-d8912d69f931\" OR procedure-identifier = \"f3b721ae-b30f-46f0-82b4-37b5e26f3c8a\" OR procedure-identifier = \"f60e8149-b274-497f-9d8e-ca1ac7703fc1\" OR procedure-identifier = \"f790d29b-82f2-44ac-89e7-a7d0e2f4346c\" OR procedure-identifier = \"fd1d5d00-1f63-4235-9e6b-2e16924ce1dd\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+      "fields": [
+        "publication-number",
+        "publication-date",
+        "notice-identifier",
+        "notice-version",
+        "procedure-identifier",
+        "notice-type",
+        "buyer-name",
+        "buyer-city",
+        "buyer-legal-type",
+        "procedure-type",
+        "previous-notice-id-proc",
+        "change-notice-version-identifier",
+        "internal-identifier-proc",
+        "title-proc",
+        "contract-conclusion-date"
+      ],
+      "total_notice_count": 176,
+      "retrieved_at_utc": "2026-10-11T20:35:39.586848+00:00",
+      "pages": [
+        {
+          "file": "page-1.json",
+          "sha256": "ce991170efc4dffaeec01feb1163610ed4e6a1f547097ee233d12a49a8afd1cf",
+          "bytes": 855161,
+          "request": {
+            "query": "(procedure-identifier = \"01185b75-f3b2-4652-aaac-46ef8be338f2\" OR procedure-identifier = \"0be46469-980c-4ecb-8de2-dbf10c556094\" OR procedure-identifier = \"101f8590-f50a-459f-8027-c1e2b384ffb2\" OR procedure-identifier = \"102c4e9c-67af-4245-a311-bc515123f168\" OR procedure-identifier = \"12ae1335-8dfc-46ba-84f0-b5f1b7f81881\" OR procedure-identifier = \"154b3d8f-175d-4974-aaa1-7937558f8cfe\" OR procedure-identifier = \"15a27223-6cd4-4c22-985d-641576eda119\" OR procedure-identifier = \"1679dcef-d39f-4a34-90bd-91f8291b57a8\" OR procedure-identifier = \"18950479-14f2-4b59-b809-f9baacf33e34\" OR procedure-identifier = \"20801020-dd0a-4c2d-ac48-4d8c14580491\" OR procedure-identifier = \"24ad6650-f209-45fd-945a-7041f15a5690\" OR procedure-identifier = \"26751d5c-62e9-4c75-9420-838fc208f466\" OR procedure-identifier = \"2a3575fa-8755-4a44-9750-3059eda29074\" OR procedure-identifier = \"34c62d20-e85f-40b2-8768-53f36969cca0\" OR procedure-identifier = \"3872c909-e824-4db2-a9e4-a5add29a1b96\" OR procedure-identifier = \"3fa4961a-d457-4bc4-8394-12bfbabb2695\" OR procedure-identifier = \"42e03ef3-0aa6-4841-b8ed-2590d49decdf\" OR procedure-identifier = \"42fab80f-0157-4d92-8fcf-c83ab7928471\" OR procedure-identifier = \"4700cc28-620b-466d-a743-2e908b13835c\" OR procedure-identifier = \"479e64af-753f-4da1-80be-f3b31d1d5d53\" OR procedure-identifier = \"4c79842c-8b8e-41a3-b24d-ddf941959a6d\" OR procedure-identifier = \"4dc71319-f5c9-4560-9819-0164cd3ee04a\" OR procedure-identifier = \"4f7b8002-ed63-47b6-98c8-b9d9b137f88e\" OR procedure-identifier = \"50f292b1-616e-43b5-bb16-ee1e58835f08\" OR procedure-identifier = \"51467bf9-1c55-4f60-9679-58f0d44b3902\" OR procedure-identifier = \"54b18dac-04f0-4879-bc3a-ee0a9aca491b\" OR procedure-identifier = \"5bf3d5e7-c66f-4c7b-9fb1-26424832ca06\" OR procedure-identifier = \"5d80dd1c-be1a-4244-8690-256c8ba6de57\" OR procedure-identifier = \"6025b8bb-e69e-4549-8552-9b01cdf5ad0b\" OR procedure-identifier = \"604b2420-8cbf-4845-a1fb-ba3971b380fe\" OR procedure-identifier = \"60b3e76a-7b54-4e72-a0b7-acfa386e4c32\" OR procedure-identifier = \"6117e322-a5b5-4173-8519-dcb1e9f375cc\" OR procedure-identifier = \"64ccca30-b1f0-48ce-a9e4-3fad25655cb2\" OR procedure-identifier = \"6586d66f-166b-4ee6-aaf3-d77205f6d679\" OR procedure-identifier = \"669490c1-6b74-4118-baac-88d1d19b867e\" OR procedure-identifier = \"6af7d85e-b401-4bc1-9f34-e8a30dcd2ed1\" OR procedure-identifier = \"6c0633e7-e28b-4536-b0a0-57492c6624d1\" OR procedure-identifier = \"6d0ec2ac-c907-41d9-9bca-4b5373c7e9c8\" OR procedure-identifier = \"6d6dc649-22a7-415d-a4c9-46d1541379b4\" OR procedure-identifier = \"71c10ea6-599e-4250-b974-a2bef5bb1ec7\" OR procedure-identifier = \"7663832a-634a-41cc-97ab-1afbbc3d17db\" OR procedure-identifier = \"7b3626b7-a67b-4310-96f4-76c3ed1125ac\" OR procedure-identifier = \"7b87c6e7-91b5-4391-a09b-9a75f70522b6\" OR procedure-identifier = \"7b8bce14-6409-4ab7-8963-c5143c03937d\" OR procedure-identifier = \"7cf04acb-dee5-4b44-b2a2-6c2ccc58990e\" OR procedure-identifier = \"7f150956-af62-44c6-b823-8dec309e1f89\" OR procedure-identifier = \"8072a411-3499-45ce-9214-6b97d7596158\" OR procedure-identifier = \"85e54710-b8e5-4b95-aad8-9c39b2c5a22e\" OR procedure-identifier = \"86820d50-8552-44d0-82c2-c4bd5bb87834\" OR procedure-identifier = \"8968c61f-2298-44d1-a32e-0f4007c29a96\" OR procedure-identifier = \"8b80e50d-7d1a-4a0b-b4fd-34f1d07acac0\" OR procedure-identifier = \"8e64fdbb-55a5-49a9-983d-e312c852ad7b\" OR procedure-identifier = \"929098c9-1a81-43b8-9e24-9604b81649e6\" OR procedure-identifier = \"97127d21-440d-463e-a0ec-ed5ef08c4afb\" OR procedure-identifier = \"9bbda6a1-7fa2-4062-96af-dfdfe656d0ad\" OR procedure-identifier = \"9df1e6fd-4ae6-4745-8c92-d97295914f47\" OR procedure-identifier = \"9f859b6b-83df-4ce7-8e44-e50da02cccc4\" OR procedure-identifier = \"a0fe58ef-5804-419e-99c8-06ad6220dc53\" OR procedure-identifier = \"a513881f-ff29-4d1a-9fd7-7ff8c0937fea\" OR procedure-identifier = \"a75b2634-28c5-4e8e-832e-f8b15aeb1753\" OR procedure-identifier = \"a7878ca5-84ad-4d08-b1a7-d4bd593fa870\" OR procedure-identifier = \"b1000000-c0de-4000-a000-00d456945769\" OR procedure-identifier = \"b1000000-c0de-4000-a000-00d457577080\" OR procedure-identifier = \"b1000000-c0de-4000-a000-00d458418475\" OR procedure-identifier = \"b2371cc4-327a-4142-aa72-db4e66e75310\" OR procedure-identifier = \"b307d357-8df0-4aa0-9555-9de0c17056b7\" OR procedure-identifier = \"b348b110-496e-4018-b80a-c70685c1fa8e\" OR procedure-identifier = \"b7c64ce5-632d-44c4-9858-6f36df7432ea\" OR procedure-identifier = \"b8fefcc4-12e9-435b-88ce-abe027125cc3\" OR procedure-identifier = \"ba0ff59f-c48d-499c-9465-ce0de44d9eee\" OR procedure-identifier = \"baa6cef9-4349-4900-90a2-15fadf2033c7\" OR procedure-identifier = \"bc9306bc-a9e9-46f5-bfe5-53a3a9c12750\" OR procedure-identifier = \"bde88b55-83ca-48bd-8ba8-348b9f0e974a\" OR procedure-identifier = \"d1bbc479-ae94-4858-ba22-af0dd3692ea0\" OR procedure-identifier = \"d254e50e-577a-4525-842d-e18645a3a7b0\" OR procedure-identifier = \"d2b0b5cc-3a64-4233-8d88-2636cb10bc3a\" OR procedure-identifier = \"d3d9d7b4-06d3-43b7-a48c-ee25303d8bb0\" OR procedure-identifier = \"daf6fbc6-f134-40af-87cc-973cd731f26d\" OR procedure-identifier = \"e06118c0-dcfd-4e4c-95f2-cc1c2295c78e\" OR procedure-identifier = \"e066dad4-8798-46e2-8b43-4ff197e98672\" OR procedure-identifier = \"e1329311-e70e-4983-a0be-71781c89ebfc\" OR procedure-identifier = \"e1888cf6-615d-4526-9d7f-c95d6527ed93\" OR procedure-identifier = \"e53adc8f-d319-4549-bad6-760ed7af55c3\" OR procedure-identifier = \"e9446a3e-5d46-4898-a700-75410f823587\" OR procedure-identifier = \"ec037337-25bd-4e40-8f5b-8a38a7a8db43\" OR procedure-identifier = \"f1f1911a-4d46-4b23-8336-05fa3cdd436c\" OR procedure-identifier = \"f26b0576-70cc-4eac-8af8-d8912d69f931\" OR procedure-identifier = \"f3b721ae-b30f-46f0-82b4-37b5e26f3c8a\" OR procedure-identifier = \"f60e8149-b274-497f-9d8e-ca1ac7703fc1\" OR procedure-identifier = \"f790d29b-82f2-44ac-89e7-a7d0e2f4346c\" OR procedure-identifier = \"fd1d5d00-1f63-4235-9e6b-2e16924ce1dd\") AND (notice-type = cn-standard OR notice-type = can-standard) AND publication-date <= 20260930",
+            "fields": [
+              "publication-number",
+              "publication-date",
+              "notice-identifier",
+              "notice-version",
+              "procedure-identifier",
+              "notice-type",
+              "buyer-name",
+              "buyer-city",
+              "buyer-legal-type",
+              "procedure-type",
+              "previous-notice-id-proc",
+              "change-notice-version-identifier",
+              "internal-identifier-proc",
+              "title-proc",
+              "contract-conclusion-date"
+            ],
+            "page": 1,
+            "limit": 250,
+            "scope": "ALL"
+          }
+        }
+      ],
+      "publication_window": [
+        null,
+        "20260930"
+      ],
+      "acquisition_cap": 1500
+    }
+  ]
+}

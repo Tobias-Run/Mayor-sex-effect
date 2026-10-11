@@ -1,0 +1,7 @@
+# Bückeburg exact-original completion addendum
+
+11 October 2026. The first recovery tranche stops at the previous 1 GiB combined tracked-source ceiling after twelve successful archives (43,128,137 bytes), 17 additional originals, and 51 supported statistics in seventeen elections. Its pinned protocol and local audit remain intact. The two Bückeburg results recovered first are explicitly open without winner, not zero-bidder awards. Their failure to supply counts is retained.
+
+Complete the outstanding exact call/result originals for Bückeburg 2021, an original priority municipality selected because verified roots had no supported statistics yet. Use the unchanged complete TED context and original checks; keep all 114 elections. This is an operational municipal completion pilot, not a new outcome- or gender-selected analysis sample.
+
+For this separate tranche, explicitly revise the combined tracked-source ceiling to **1.125 GiB**, with at most **64 MiB** additional successful daily archives, sixteen archives maximum, and publication-day/one-/two-day alignment attempts. This modest extension addresses the exhausted acquisition budget, without relaxing evidence or chronology. Reuse every prior archive and match exact IDs before downloading. Preserve phase-one stop evidence, censored/ongoing results and every unresolved procedure. No wider bandwidth/window change, no estimator, no contacts or Pages deployment.

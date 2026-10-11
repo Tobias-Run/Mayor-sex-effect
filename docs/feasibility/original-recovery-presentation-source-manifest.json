@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "source_id": "spd-2021",
+      "url": "https://www.spd-bueckeburg.de/willkommen/aktuelles/",
+      "file": "spd.html",
+      "bytes": 19771,
+      "sha256": "54a0789c5835a8aa10ae4911490c2d77096ec7d0e06facf8ebe7796c2dc46f5f",
+      "historical_event_date": "18.03.2021",
+      "role": "candidate primary party source"
+    },
+    {
+      "source_id": "cdu-2021",
+      "url": "https://www.cdu-schaumburg.de/haushaltspolitiker-haase-mdb-ueberzeugt-sich-vor-ort-von-gut-angelegten-bundesfoerdergeldern/",
+      "file": "cdu.html",
+      "bytes": 48464,
+      "sha256": "147fe485f1abcc4be303762ae718709180844dda30cf96c28635ea505819042e",
+      "retrieved_at_utc": "2026-10-11T20:48:29.434413+00:00",
+      "historical_event_date": "24. August 2021",
+      "role": "candidate primary party source"
+    }
+  ],
+  "failed_requests": [
+    {
+      "url": "https://cdu-bueckeburg.de/wp-content/uploads/2021/08/CDU-Kommunalwahl-Bueckeburg-Broschuere.pdf",
+      "status": 404
+    }
+  ],
+  "search_batches_per_finalist": 2,
+  "independent_second_coding_completed": false
+}

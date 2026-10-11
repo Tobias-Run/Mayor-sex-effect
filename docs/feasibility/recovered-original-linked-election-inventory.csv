@@ -1,0 +1,115 @@
+cohort,ags,municipality,margin_stratum,selected_standard_call_notices,domestic_call_records_without_guid,observed_guid_procedures,original_window_and_buyer_supported_procedures,observed_supported_tender_statistics,presentation_review_added_in_this_phase,main_study_eligibility_certified
+Brandenburg 2024,12069604,Stahnsdorf,over_2_to_5pp,2,1,1,1,1,False,False
+Brandenburg 2024,12073008,Angermünde,over_2_to_5pp,5,5,0,0,0,False,False
+Brandenburg 2024,12073384,Lychen,over_2_to_5pp,0,0,0,0,0,False,False
+Brandenburg 2024,12065165,Kremmen,over_2_to_5pp,7,5,1,1,0,False,False
+Brandenburg 2024,12067440,Schöneiche bei Berlin,within_2pp,6,6,0,0,0,False,False
+Brandenburg 2025,12073572,Templin,over_5_to_10pp,1,1,0,0,0,False,False
+Brandenburg 2025,12072169,Jüterbog,over_5_to_10pp,3,3,0,0,0,False,False
+Brandenburg 2025,12063208,Nauen,over_5_to_10pp,3,1,2,0,0,False,False
+Brandenburg 2025,12069616,Teltow,over_2_to_5pp,0,0,0,0,0,False,False
+Brandenburg 2025,12065096,Glienicke/Nordbahn,within_2pp,0,0,0,0,0,False,False
+Brandenburg 2025,12065332,Velten,over_2_to_5pp,2,0,1,1,3,False,False
+Brandenburg 2025,12064044,Bad Freienwalde (Oder),over_2_to_5pp,0,0,0,0,0,False,False
+Brandenburg 2025,12071244,Kolkwitz,within_2pp,0,0,0,0,0,False,False
+NRW 2025,05154056,Uedem,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05166004,Brüggen,over_2_to_5pp,6,0,3,3,2,False,False
+NRW 2025,05170016,Hünxe,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05358012,"Heimbach, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05366020,Hellenthal,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05374008,Engelskirchen,within_2pp,1,1,0,0,0,False,False
+NRW 2025,05554032,"Isselburg, Stadt",over_2_to_5pp,2,1,1,1,0,False,False
+NRW 2025,05554052,Schöppingen,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05558012,"Coesfeld, Stadt",over_5_to_10pp,5,4,1,1,0,False,False
+NRW 2025,05566016,"Hörstel, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05566028,"Ibbenbüren, Stadt",over_5_to_10pp,14,11,3,2,1,False,False
+NRW 2025,05566040,"Lengerich, Stadt",over_5_to_10pp,1,0,1,1,0,False,False
+NRW 2025,05762028,"Nieheim, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05774040,"Bad Wünnenberg, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05974032,Möhnesee,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05114000,Krefeld,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05117000,Mülheim an der Ruhr,within_2pp,5,0,5,5,0,False,False
+NRW 2025,05119000,Oberhausen,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05154008,"Emmerich am Rhein, Stadt",within_2pp,26,26,0,0,0,False,False
+NRW 2025,05154016,"Goch, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05154036,"Kleve, Stadt",over_2_to_5pp,6,0,6,6,6,False,False
+NRW 2025,05170012,"Hamminkeln, Stadt",within_2pp,1,0,1,1,1,False,False
+NRW 2025,05314000,Bonn,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05315000,Köln,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05334004,"Alsdorf, Stadt",over_2_to_5pp,4,2,2,2,1,False,False
+NRW 2025,05334020,"Monschau, Stadt",over_5_to_10pp,3,1,2,2,0,False,False
+NRW 2025,05362024,"Frechen, Stadt",over_5_to_10pp,8,3,3,2,3,False,False
+NRW 2025,05362032,"Kerpen, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05362036,"Pulheim, Stadt",over_5_to_10pp,12,6,3,3,0,False,False
+NRW 2025,05370012,"Geilenkirchen, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05374040,Reichshof,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05378004,"Bergisch Gladbach, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2025,05378016,"Leichlingen (Rhld.), Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05378024,"Overath, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2025,05378028,"Rösrath, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05382024,"Königswinter, Stadt",over_2_to_5pp,1,0,1,1,0,False,False
+NRW 2025,05382028,"Lohmar, Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05382036,Much,over_5_to_10pp,2,2,0,0,0,False,False
+NRW 2025,05382040,Neunkirchen-Seelscheid,within_2pp,7,3,4,4,4,False,False
+NRW 2025,05554008,"Bocholt, Stadt",over_5_to_10pp,33,11,19,13,10,False,False
+NRW 2025,05554024,Heek,over_2_to_5pp,1,1,0,0,0,False,False
+NRW 2025,05554060,Südlohn,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05558028,Nordkirchen,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05562008,"Datteln, Stadt",within_2pp,7,7,0,0,0,False,False
+NRW 2025,05562028,"Oer-Erkenschwick, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05711000,Bielefeld,over_2_to_5pp,0,0,0,0,0,False,False
+NRW 2025,05758004,"Bünde, Stadt",over_5_to_10pp,2,2,0,0,0,False,False
+NRW 2025,05758012,"Herford, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05762040,"Willebadessen, Stadt",within_2pp,0,0,0,0,0,False,False
+NRW 2025,05766004,Augustdorf,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05766032,"Horn-Bad Meinberg, Stadt",over_5_to_10pp,1,1,0,0,0,False,False
+NRW 2025,05774004,Altenbeken,within_2pp,0,0,0,0,0,False,False
+NRW 2025,05774032,"Paderborn, Stadt",over_5_to_10pp,1,0,1,1,0,False,False
+NRW 2025,05913000,Dortmund,over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05954016,"Hattingen, Stadt",over_2_to_5pp,5,1,4,4,0,False,False
+NRW 2025,05954020,"Herdecke, Stadt",over_2_to_5pp,8,6,2,2,2,False,False
+NRW 2025,05962012,"Halver, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+NRW 2025,05962024,"Iserlohn, Stadt",over_5_to_10pp,5,5,0,0,0,False,False
+NRW 2025,05962032,"Lüdenscheid, Stadt",within_2pp,8,7,1,1,1,False,False
+NRW 2025,05970040,"Siegen, Stadt",within_2pp,2,0,2,2,2,False,False
+NRW 2025,05974028,"Lippstadt, Stadt",over_5_to_10pp,2,2,0,0,0,False,False
+NRW 2025,05978004,"Bergkamen, Stadt",over_5_to_10pp,5,4,1,1,0,False,False
+NRW 2025,05978024,"Lünen, Stadt",over_2_to_5pp,4,2,2,2,4,False,False
+NRW 2025,05978032,"Selm, Stadt",within_2pp,4,1,3,3,5,False,False
+NRW 2025,05978036,"Unna, Stadt",within_2pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03155006,Kalefeld,over_5_to_10pp,5,5,0,0,0,False,False
+Niedersachsen 2021,03157007,Vechelde,within_2pp,1,0,1,0,0,False,False
+Niedersachsen 2021,03159001,"Adelebsen, Flecken",over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03159002,Bad Grund (Harz),over_2_to_5pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03251040,"Sulingen, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03252007,"Hessisch Oldendorf, Stadt",over_5_to_10pp,4,2,1,0,0,False,False
+Niedersachsen 2021,03254011,Diekholzen,over_2_to_5pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03254022,Holle,over_2_to_5pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03353029,Rosengarten,over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03358008,"Bad Fallingbostel, Stadt",within_2pp,2,0,2,0,0,False,False
+Niedersachsen 2021,03358021,"Soltau, Stadt",over_5_to_10pp,1,1,0,0,0,False,False
+Niedersachsen 2021,03360004,Bienenbüttel,over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03453003,Cappeln (Oldenburg),over_5_to_10pp,16,1,11,0,0,False,False
+Niedersachsen 2021,03453011,"Löningen, Stadt",within_2pp,10,8,1,0,0,False,False
+Niedersachsen 2021,03151025,Sassenburg,over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03157002,Hohenhameln,over_5_to_10pp,3,3,0,0,0,False,False
+Niedersachsen 2021,03159016,"Göttingen, Stadt",over_5_to_10pp,44,3,37,13,1,False,False
+Niedersachsen 2021,03159017,"Hann. Münden, Stadt",within_2pp,1,1,0,0,0,False,False
+Niedersachsen 2021,03159019,"Herzberg am Harz, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03241004,"Burgwedel, Stadt",over_2_to_5pp,14,13,1,0,0,False,False
+Niedersachsen 2021,03241008,Isernhagen,over_2_to_5pp,38,28,8,3,0,False,False
+Niedersachsen 2021,03241009,"Laatzen, Stadt",over_5_to_10pp,34,25,8,0,0,False,False
+Niedersachsen 2021,03241019,Wedemark,over_5_to_10pp,12,11,1,0,0,False,False
+Niedersachsen 2021,03241020,Wennigsen (Deister),over_2_to_5pp,9,8,1,0,0,False,False
+Niedersachsen 2021,03252005,Emmerthal,over_2_to_5pp,1,0,1,0,0,False,False
+Niedersachsen 2021,03254002,"Alfeld (Leine), Stadt",over_2_to_5pp,13,13,0,0,0,False,False
+Niedersachsen 2021,03254045,Sibbesse,over_2_to_5pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03256022,"Nienburg (Weser), Stadt",over_2_to_5pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03257009,"Bückeburg, Stadt",over_5_to_10pp,33,23,10,10,5,False,False
+Niedersachsen 2021,03358016,"Munster, Stadt",within_2pp,5,4,1,1,0,False,False
+Niedersachsen 2021,03403000,"Oldenburg (Oldenburg), Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03452023,Südbrookmerland,over_2_to_5pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03455020,Wangerland,within_2pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03459004,"Bad Iburg, Stadt",within_2pp,1,1,0,0,0,False,False
+Niedersachsen 2021,03459024,"Melle, Stadt",over_5_to_10pp,0,0,0,0,0,False,False
+Niedersachsen 2021,03461007,"Nordenham, Stadt",over_5_to_10pp,29,21,7,5,4,False,False
