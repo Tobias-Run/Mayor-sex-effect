@@ -1,0 +1,21 @@
+{
+  "source_opportunity_events": 20,
+  "both_top_two_names_available": 8,
+  "by_state": {
+    "14": 20
+  },
+  "within_2pp": 3,
+  "within_5pp": 9,
+  "original_two_candidate_screen_events": 654,
+  "combined_source_opportunity_events": 674,
+  "combined_source_municipal_clusters": 649,
+  "certified_main_study_elections_added": 0,
+  "source_reconciliation_errors": {},
+  "warning": "Separate complete multi-candidate second-round source leads. Event-specific plurality-law applicability, official identities/votes, both candidate presentations, third-candidate boundary stability and precision remain pending. No first-round majority extension or automatic pooling.",
+  "plurality_rule_principle_original_source_verified": true,
+  "legal_source": "https://www.revosax.sachsen.de/vorschrift/3818.14",
+  "legal_source_sha256": "3444f5d0e556c2a195fb65bc0398d94235475a0992f98080e9f5b4471793794f",
+  "legal_locator": "S\u00e4chsKomWG \u00a744a, no. 4",
+  "legal_quote": "Im zweiten Wahlgang ist gew\u00e4hlt, wer die h\u00f6chste Stimmenzahl auf sich vereint; bei Stimmengleichheit entscheidet das Los.",
+  "event_specific_historical_legal_applicability_verified": false
+}

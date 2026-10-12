@@ -1,0 +1,56 @@
+ags,municipality,source_observed_processes_pre2019,source_observed_processes_post2021,method_field_present_pre2019,method_field_present_post2021,method_detail_field_present_pre2019,method_detail_field_present_post2021,has_method_metadata_pre_and_post,all_procedure_reporting_and_no_call_timing_verified,main_study_eligibility_certified
+05154004,Bedburg-Hau,0,0,0,0,0,0,False,False,False
+05154036,"Kleve, Stadt",8,13,7,13,7,13,True,False,False
+05158028,"Ratingen, Stadt",1,1,1,1,1,1,True,False,False
+05158032,"Velbert, Stadt",1,2,1,2,1,2,True,False,False
+05166008,Grefrath,0,0,0,0,0,0,False,False,False
+05166012,"Kempen, Stadt",0,5,0,5,0,5,False,False,False
+05166032,"Viersen, Stadt",16,9,16,9,16,9,True,False,False
+05170028,"Neukirchen-Vluyn, Stadt",0,0,0,0,0,0,False,False,False
+05334020,"Monschau, Stadt",0,0,0,0,0,0,False,False,False
+05358012,"Heimbach, Stadt",0,0,0,0,0,0,False,False,False
+05362020,"Erftstadt, Stadt",5,9,5,9,5,9,True,False,False
+05362024,"Frechen, Stadt",23,10,23,10,23,10,True,False,False
+05362032,"Kerpen, Stadt",0,0,0,0,0,0,False,False,False
+05366040,Weilerswist,0,1,0,1,0,1,False,False,False
+05370012,"Geilenkirchen, Stadt",0,0,0,0,0,0,False,False,False
+05370028,"Übach-Palenberg, Stadt",0,1,0,1,0,1,False,False,False
+05378016,"Leichlingen (Rhld.), Stadt",0,0,0,0,0,0,False,False,False
+05378028,"Rösrath, Stadt",12,13,12,13,12,13,True,False,False
+05382028,"Lohmar, Stadt",0,1,0,1,0,1,False,False,False
+05382056,"Sankt Augustin, Stadt",13,16,13,16,13,16,True,False,False
+05382068,"Troisdorf, Stadt",5,7,5,7,5,7,True,False,False
+05554028,Heiden,0,0,0,0,0,0,False,False,False
+05554056,"Stadtlohn, Stadt",0,0,0,0,0,0,False,False,False
+05554064,"Velen, Stadt",0,0,0,0,0,0,False,False,False
+05558020,Havixbeck,0,0,0,0,0,0,False,False,False
+05562020,"Herten, Stadt",0,0,0,0,0,0,False,False,False
+05566004,Altenberge,0,0,0,0,0,0,False,False,False
+05566032,Ladbergen,0,0,0,0,0,0,False,False,False
+05566072,Recke,0,0,0,0,0,0,False,False,False
+05570008,"Beckum, Stadt",1,1,1,1,1,1,True,False,False
+05570032,Ostbevern,0,0,0,0,0,0,False,False,False
+05570040,"Sendenhorst, Stadt",0,0,0,0,0,0,False,False,False
+05754016,"Harsewinkel, Stadt",0,0,0,0,0,0,False,False,False
+05754020,Herzebrock-Clarholz,3,1,3,1,3,1,True,False,False
+05754052,"Werther (Westf.), Stadt",1,0,1,0,1,0,False,False,False
+05758004,"Bünde, Stadt",0,0,0,0,0,0,False,False,False
+05758008,"Enger, Stadt",0,0,0,0,0,0,False,False,False
+05758028,Rödinghausen,18,0,18,0,18,0,False,False,False
+05762020,"Höxter, Stadt",22,6,22,6,22,6,True,False,False
+05766004,Augustdorf,0,0,0,0,0,0,False,False,False
+05766024,Dörentrup,0,1,0,1,0,1,False,False,False
+05766032,"Horn-Bad Meinberg, Stadt",0,0,0,0,0,0,False,False,False
+05770012,Hille,0,0,0,0,0,0,False,False,False
+05774012,Borchen,0,1,0,1,0,1,False,False,False
+05954024,"Schwelm, Stadt",1,20,1,20,1,20,True,False,False
+05962024,"Iserlohn, Stadt",6,12,6,12,6,12,True,False,False
+05962032,"Lüdenscheid, Stadt",6,19,6,19,6,19,True,False,False
+05962060,"Werdohl, Stadt",0,2,0,2,0,2,False,False,False
+05970032,"Netphen, Stadt",0,1,0,1,0,1,False,False,False
+05970044,Wilnsdorf,1,4,1,4,1,4,True,False,False
+05978024,"Lünen, Stadt",3,5,3,5,3,5,True,False,False
+05978036,"Unna, Stadt",10,9,10,9,10,9,True,False,False
+05124000,Wuppertal,3,7,3,7,3,7,True,False,False
+05515000,Münster,1,0,1,0,1,0,False,False,False
+05913000,Dortmund,0,1,0,1,0,1,False,False,False

@@ -1,0 +1,56 @@
+ags,municipality,margin_stratum,pre2019_call_metadata_processes,post2021_call_metadata_processes,pre2019_positive_count_metadata_processes,post2021_positive_count_metadata_processes,has_pre_and_post_call_metadata,has_pre_and_post_count_metadata,baseline_scope_reporting_compatible_verified,main_study_eligibility_certified
+05154004,Bedburg-Hau,over_5_to_10pp,0,0,0,0,False,False,False,False
+05154036,"Kleve, Stadt",over_5_to_10pp,7,13,0,0,True,False,False,False
+05158028,"Ratingen, Stadt",over_2_to_5pp,1,0,0,0,False,False,False,False
+05158032,"Velbert, Stadt",within_2pp,1,2,0,0,True,False,False,False
+05166008,Grefrath,over_2_to_5pp,0,0,0,0,False,False,False,False
+05166012,"Kempen, Stadt",over_2_to_5pp,0,3,0,0,False,False,False,False
+05166032,"Viersen, Stadt",within_2pp,12,9,0,0,True,False,False,False
+05170028,"Neukirchen-Vluyn, Stadt",over_2_to_5pp,0,0,0,0,False,False,False,False
+05334020,"Monschau, Stadt",over_2_to_5pp,0,0,0,0,False,False,False,False
+05358012,"Heimbach, Stadt",within_2pp,0,0,0,0,False,False,False,False
+05362020,"Erftstadt, Stadt",over_5_to_10pp,5,7,0,0,True,False,False,False
+05362024,"Frechen, Stadt",over_2_to_5pp,17,10,0,0,True,False,False,False
+05362032,"Kerpen, Stadt",over_2_to_5pp,0,0,0,0,False,False,False,False
+05366040,Weilerswist,over_2_to_5pp,0,1,0,0,False,False,False,False
+05370012,"Geilenkirchen, Stadt",within_2pp,0,0,0,0,False,False,False,False
+05370028,"Übach-Palenberg, Stadt",within_2pp,0,1,0,0,False,False,False,False
+05378016,"Leichlingen (Rhld.), Stadt",within_2pp,0,0,0,0,False,False,False,False
+05378028,"Rösrath, Stadt",over_5_to_10pp,12,13,0,0,True,False,False,False
+05382028,"Lohmar, Stadt",over_5_to_10pp,0,1,0,0,False,False,False,False
+05382056,"Sankt Augustin, Stadt",over_5_to_10pp,13,15,0,0,True,False,False,False
+05382068,"Troisdorf, Stadt",over_2_to_5pp,4,7,0,0,True,False,False,False
+05554028,Heiden,within_2pp,0,0,0,0,False,False,False,False
+05554056,"Stadtlohn, Stadt",over_2_to_5pp,0,0,0,0,False,False,False,False
+05554064,"Velen, Stadt",over_5_to_10pp,0,0,0,0,False,False,False,False
+05558020,Havixbeck,within_2pp,0,0,0,0,False,False,False,False
+05562020,"Herten, Stadt",within_2pp,0,0,0,0,False,False,False,False
+05566004,Altenberge,over_2_to_5pp,0,0,0,0,False,False,False,False
+05566032,Ladbergen,over_2_to_5pp,0,0,0,0,False,False,False,False
+05566072,Recke,over_2_to_5pp,0,0,0,0,False,False,False,False
+05570008,"Beckum, Stadt",within_2pp,1,1,0,0,True,False,False,False
+05570032,Ostbevern,within_2pp,0,0,0,0,False,False,False,False
+05570040,"Sendenhorst, Stadt",over_2_to_5pp,0,0,0,0,False,False,False,False
+05754016,"Harsewinkel, Stadt",over_5_to_10pp,0,0,0,0,False,False,False,False
+05754020,Herzebrock-Clarholz,within_2pp,3,1,0,0,True,False,False,False
+05754052,"Werther (Westf.), Stadt",over_5_to_10pp,1,0,0,0,False,False,False,False
+05758004,"Bünde, Stadt",over_5_to_10pp,0,0,0,0,False,False,False,False
+05758008,"Enger, Stadt",over_5_to_10pp,0,0,0,0,False,False,False,False
+05758028,Rödinghausen,over_5_to_10pp,18,0,0,0,False,False,False,False
+05762020,"Höxter, Stadt",over_5_to_10pp,15,6,0,0,True,False,False,False
+05766004,Augustdorf,over_2_to_5pp,0,0,0,0,False,False,False,False
+05766024,Dörentrup,over_5_to_10pp,0,1,0,0,False,False,False,False
+05766032,"Horn-Bad Meinberg, Stadt",within_2pp,0,0,0,0,False,False,False,False
+05770012,Hille,over_5_to_10pp,0,0,0,0,False,False,False,False
+05774012,Borchen,over_5_to_10pp,0,1,0,0,False,False,False,False
+05954024,"Schwelm, Stadt",over_2_to_5pp,0,20,0,0,False,False,False,False
+05962024,"Iserlohn, Stadt",within_2pp,6,12,0,0,True,False,False,False
+05962032,"Lüdenscheid, Stadt",over_5_to_10pp,5,19,0,0,True,False,False,False
+05962060,"Werdohl, Stadt",over_2_to_5pp,0,2,0,0,False,False,False,False
+05970032,"Netphen, Stadt",over_5_to_10pp,0,1,0,0,False,False,False,False
+05970044,Wilnsdorf,over_5_to_10pp,1,4,0,0,True,False,False,False
+05978024,"Lünen, Stadt",over_2_to_5pp,3,5,0,0,True,False,False,False
+05978036,"Unna, Stadt",within_2pp,10,8,0,0,True,False,False,False
+05124000,Wuppertal,over_5_to_10pp,3,7,0,0,True,False,False,False
+05515000,Münster,over_5_to_10pp,0,0,0,0,False,False,False,False
+05913000,Dortmund,over_2_to_5pp,0,0,0,0,False,False,False,False

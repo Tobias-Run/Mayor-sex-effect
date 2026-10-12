@@ -1,0 +1,11 @@
+{
+  "earlier_monthly_archive_bytes": 1428989694,
+  "newer_tranche_manifest_bytes": 1178796856,
+  "listed_snapshot_entries": 320,
+  "unique_archive_sha256_count": 318,
+  "duplicate_archive_entries_by_sha256": 2,
+  "all_listed_archive_bytes": 2607786550,
+  "unique_retained_archive_bytes_by_sha256": 2599690693,
+  "correction": "Earlier combined-source ceilings covered newer acquisition tranches only; the older monthly archive cache was omitted from those accounting statements. Earlier receipts/limits preserved. This ledger covers the listed source manifests, not every file in the repository.",
+  "additional_downloaded_archive_bytes_in_this_route": 0
+}

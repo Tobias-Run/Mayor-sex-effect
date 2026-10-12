@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "period": "2019",
+      "url": "https://data.open-contracting.org/en/publication/53/download?name=2019.jsonl.gz",
+      "final_url": "https://fastly.data.open-contracting.org/downloads/germany_digiwhist/3899/2019.jsonl.gz",
+      "file": "2019.jsonl.gz",
+      "bytes": 38838733,
+      "sha256": "deca8bb6d2a96434d436b626abcf37349648d145bf668045cf2c2a96754ed07d",
+      "retrieved_at_utc": "2026-10-12T20:56:46.327161+00:00",
+      "status": "acquired"
+    },
+    {
+      "period": "2021",
+      "url": "https://data.open-contracting.org/en/publication/53/download?name=2021.jsonl.gz",
+      "final_url": "https://fastly.data.open-contracting.org/downloads/germany_digiwhist/3899/2021.jsonl.gz",
+      "file": "2021.jsonl.gz",
+      "bytes": 47396469,
+      "sha256": "de0be3fda7ac85a24c4f26560c9ec4782879d39715025cd309448378443411a4",
+      "retrieved_at_utc": "2026-10-12T20:56:47.908476+00:00",
+      "status": "acquired"
+    }
+  ],
+  "source_registry": "https://data.open-contracting.org/en/publication/53",
+  "source_license": "CC BY-NC-SA 4.0, as described by OCP registry; source snapshots/person/process records remain local"
+}

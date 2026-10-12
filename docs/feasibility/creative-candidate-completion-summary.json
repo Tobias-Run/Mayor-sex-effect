@@ -1,0 +1,16 @@
+{
+  "selected_pairs": 6,
+  "unresolved_candidate_search_queries": 7,
+  "new_original_requests": 6,
+  "new_original_sources_acquired": 4,
+  "new_original_sources_unavailable": 2,
+  "accepted_reused_originals_after_visual_text_reinspection": 1,
+  "additional_supported_candidate_observations": 1,
+  "new_same_presentation_pairs": 1,
+  "new_mixed_pairs": 0,
+  "additional_provisional_mixed_count_elections": 0,
+  "current_provisional_mixed_count_inventory": 6,
+  "independent_second_coding_completed": false,
+  "certified_main_study_elections": 0,
+  "warning": "Source/gap/margin-based operational follow-up, not a representative selection audit. Current-only named addresses and generic titles remain insufficient; existing worksheets are unchanged."
+}

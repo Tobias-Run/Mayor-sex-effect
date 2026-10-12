@@ -1,0 +1,9 @@
+# Multi-candidate decisive-round opportunity screen
+
+12 October 2026. A preliminary source diagnostic found 22 potentially close second rounds with at least three candidates, omitted by the two-finalist structural screen. This document precedes full reconciliation; it is not an external preregistration.
+
+Retain only complete source-reconciled municipal second-round vote vectors in 2018–2025, excluding county/association offices, superseded/shared-AGS/missing-round flags, invalid totals, tied winners and inconsistent winner/rank/share fields. Require at least three candidates with explicit final-round votes and consistent declared candidate count. The two highest-vote candidates are acquisition leads. Calculate their absolute vote difference using **all valid decisive-round votes**, not their two-person sum. Retain 2/5/10 pp strata, missing names and the runner-up–third-place separation.
+
+This is a different electoral-rule/design extension. A highest-vote second round can provide a female-versus-male local boundary even with other contenders; it is not automatically the same estimand/sample as a two-person runoff. Verify the applicable state law and period, official election identities/votes and both finalists' presentation, and assess third-candidate boundary stability. Do not add multi-candidate **first-round majority** elections using a top-two zero-margin rule: their legal majority threshold differs. Do not choose a third-candidate separation threshold to increase sample size.
+
+Original Saxon legal documentation can support the plurality-rule principle; full event-date legal/municipal applicability and the Baden-Württemberg 2023 reform boundary remain explicit review tasks. Publish a separate opportunity ledger and accounting union with the frozen 654-event source screen, not a certified or automatically pooled main-study expansion. Candidate names/source rows stay local; no effects, contacts or Pages deployment.

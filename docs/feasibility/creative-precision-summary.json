@@ -1,0 +1,190 @@
+{
+  "planning_scenarios": [
+    {
+      "target_effect_in_original_outcome_sd": 0.25,
+      "assumed_pre_treatment_prognostic_r_squared": 0,
+      "residual_sd_fraction": 1.0,
+      "balanced_total_elections_gaussian_benchmark": 612,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.25,
+      "assumed_pre_treatment_prognostic_r_squared": 0.25,
+      "residual_sd_fraction": 0.8660254037844386,
+      "balanced_total_elections_gaussian_benchmark": 460,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.25,
+      "assumed_pre_treatment_prognostic_r_squared": 0.5,
+      "residual_sd_fraction": 0.7071067811865476,
+      "balanced_total_elections_gaussian_benchmark": 308,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.25,
+      "assumed_pre_treatment_prognostic_r_squared": 0.75,
+      "residual_sd_fraction": 0.5,
+      "balanced_total_elections_gaussian_benchmark": 156,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.5,
+      "assumed_pre_treatment_prognostic_r_squared": 0,
+      "residual_sd_fraction": 1.0,
+      "balanced_total_elections_gaussian_benchmark": 156,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.5,
+      "assumed_pre_treatment_prognostic_r_squared": 0.25,
+      "residual_sd_fraction": 0.8660254037844386,
+      "balanced_total_elections_gaussian_benchmark": 118,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.5,
+      "assumed_pre_treatment_prognostic_r_squared": 0.5,
+      "residual_sd_fraction": 0.7071067811865476,
+      "balanced_total_elections_gaussian_benchmark": 80,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 0.5,
+      "assumed_pre_treatment_prognostic_r_squared": 0.75,
+      "residual_sd_fraction": 0.5,
+      "balanced_total_elections_gaussian_benchmark": 42,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 1.0,
+      "assumed_pre_treatment_prognostic_r_squared": 0,
+      "residual_sd_fraction": 1.0,
+      "balanced_total_elections_gaussian_benchmark": 42,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 1.0,
+      "assumed_pre_treatment_prognostic_r_squared": 0.25,
+      "residual_sd_fraction": 0.8660254037844386,
+      "balanced_total_elections_gaussian_benchmark": 32,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 1.0,
+      "assumed_pre_treatment_prognostic_r_squared": 0.5,
+      "residual_sd_fraction": 0.7071067811865476,
+      "balanced_total_elections_gaussian_benchmark": 22,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    },
+    {
+      "target_effect_in_original_outcome_sd": 1.0,
+      "assumed_pre_treatment_prognostic_r_squared": 0.75,
+      "residual_sd_fraction": 0.5,
+      "balanced_total_elections_gaussian_benchmark": 14,
+      "per_test_alpha": 0.025,
+      "target_power": 0.8,
+      "r_squared_empirically_validated": false,
+      "interpretation": "Optimistic equal-variance Gaussian two-group residual-variance scenario; not RDD power. No penalty for estimating prognostic controls, clustering or missingness."
+    }
+  ],
+  "small_sample_mde_scenarios": [
+    {
+      "independent_balanced_elections": 4,
+      "assumed_r_squared": 0,
+      "mde_in_original_outcome_sd": 8.01042385314353
+    },
+    {
+      "independent_balanced_elections": 4,
+      "assumed_r_squared": 0.5,
+      "mde_in_original_outcome_sd": 5.664225026736264
+    },
+    {
+      "independent_balanced_elections": 4,
+      "assumed_r_squared": 0.75,
+      "mde_in_original_outcome_sd": 4.005211926571765
+    },
+    {
+      "independent_balanced_elections": 6,
+      "assumed_r_squared": 0,
+      "mde_in_original_outcome_sd": 3.742784133076185
+    },
+    {
+      "independent_balanced_elections": 6,
+      "assumed_r_squared": 0.5,
+      "mde_in_original_outcome_sd": 2.646548041015584
+    },
+    {
+      "independent_balanced_elections": 6,
+      "assumed_r_squared": 0.75,
+      "mde_in_original_outcome_sd": 1.8713920665380925
+    },
+    {
+      "independent_balanced_elections": 12,
+      "assumed_r_squared": 0,
+      "mde_in_original_outcome_sd": 2.0441844546299834
+    },
+    {
+      "independent_balanced_elections": 12,
+      "assumed_r_squared": 0.5,
+      "mde_in_original_outcome_sd": 1.4454566898649859
+    },
+    {
+      "independent_balanced_elections": 12,
+      "assumed_r_squared": 0.75,
+      "mde_in_original_outcome_sd": 1.0220922273149917
+    },
+    {
+      "independent_balanced_elections": 24,
+      "assumed_r_squared": 0,
+      "mde_in_original_outcome_sd": 1.3360490203804285
+    },
+    {
+      "independent_balanced_elections": 24,
+      "assumed_r_squared": 0.5,
+      "mde_in_original_outcome_sd": 0.9447293223086449
+    },
+    {
+      "independent_balanced_elections": 24,
+      "assumed_r_squared": 0.75,
+      "mde_in_original_outcome_sd": 0.6680245101902142
+    }
+  ],
+  "validated_baseline_outcome_correlations": 0,
+  "causal_effects_estimated": false,
+  "certified_main_study_elections": 0,
+  "warning": "Neither current six-case cohort pooling nor the assumed R-squared is justified. Pre-election prognostic data could improve precision after valid linkage; post-treatment covariates, additional lots or arbitrary bandwidth choices do not add independent assignments."
+}

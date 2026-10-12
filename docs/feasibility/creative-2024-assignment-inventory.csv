@@ -1,0 +1,92 @@
+cohort,ags,municipality,margin_stratum,selected_standard_call_notices,domestic_call_records_without_guid,observed_guid_procedures,original_window_and_buyer_supported_procedures,observed_supported_tender_statistics,presentation_review_added_in_this_phase,main_study_eligibility_certified,first_coder_pair_status,female_presented_winner,provisional_mixed_count_election,already_in_current_six_inventory,independent_second_coding_completed
+NRW 2020,05154004,Bedburg-Hau,over_5_to_10pp,2,1,1,1,0,False,False,unresolved,,False,False,False
+NRW 2020,05154036,"Kleve, Stadt",over_5_to_10pp,137,90,35,35,23,False,False,unresolved,,False,False,False
+NRW 2020,05158028,"Ratingen, Stadt",over_2_to_5pp,0,0,0,0,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05158032,"Velbert, Stadt",within_2pp,1,0,1,1,0,False,False,mixed_public_presentation,false,False,False,False
+NRW 2020,05166008,Grefrath,over_2_to_5pp,2,0,1,1,1,False,False,unresolved,,False,False,False
+NRW 2020,05166012,"Kempen, Stadt",over_2_to_5pp,51,44,7,7,2,False,False,unresolved,,False,False,False
+NRW 2020,05166032,"Viersen, Stadt",within_2pp,99,85,10,10,7,False,False,unresolved,,False,False,False
+NRW 2020,05170028,"Neukirchen-Vluyn, Stadt",over_2_to_5pp,1,0,1,1,0,False,False,unresolved,,False,False,False
+NRW 2020,05334020,"Monschau, Stadt",over_2_to_5pp,4,2,2,2,0,False,False,unresolved,,False,False,False
+NRW 2020,05358012,"Heimbach, Stadt",within_2pp,0,0,0,0,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05362020,"Erftstadt, Stadt",over_5_to_10pp,35,16,11,10,11,False,False,unresolved,,False,False,False
+NRW 2020,05362024,"Frechen, Stadt",over_2_to_5pp,24,10,7,7,0,False,False,unresolved,,False,False,False
+NRW 2020,05362032,"Kerpen, Stadt",over_2_to_5pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05366040,Weilerswist,over_2_to_5pp,14,14,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05370012,"Geilenkirchen, Stadt",within_2pp,0,0,0,0,0,False,False,mixed_public_presentation,true,False,False,False
+NRW 2020,05370028,"Übach-Palenberg, Stadt",within_2pp,2,0,2,2,2,False,False,same_public_presentation,,False,False,False
+NRW 2020,05378016,"Leichlingen (Rhld.), Stadt",within_2pp,0,0,0,0,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05378028,"Rösrath, Stadt",over_5_to_10pp,2,2,0,0,0,False,False,mixed_public_presentation,true,False,False,False
+NRW 2020,05382028,"Lohmar, Stadt",over_5_to_10pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05382056,"Sankt Augustin, Stadt",over_5_to_10pp,79,59,15,15,0,False,False,unresolved,,False,False,False
+NRW 2020,05382068,"Troisdorf, Stadt",over_2_to_5pp,73,36,30,30,14,False,False,unresolved,,False,False,False
+NRW 2020,05554028,Heiden,within_2pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05554056,"Stadtlohn, Stadt",over_2_to_5pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05554064,"Velen, Stadt",over_5_to_10pp,7,6,1,1,0,False,False,unresolved,,False,False,False
+NRW 2020,05558020,Havixbeck,within_2pp,0,0,0,0,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05562020,"Herten, Stadt",within_2pp,0,0,0,0,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05566004,Altenberge,over_2_to_5pp,4,3,1,1,1,False,False,unresolved,,False,False,False
+NRW 2020,05566032,Ladbergen,over_2_to_5pp,3,0,3,3,1,False,False,unresolved,,False,False,False
+NRW 2020,05566072,Recke,over_2_to_5pp,5,5,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05570008,"Beckum, Stadt",within_2pp,11,6,2,2,2,False,False,same_public_presentation,,False,False,False
+NRW 2020,05570032,Ostbevern,within_2pp,0,0,0,0,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05570040,"Sendenhorst, Stadt",over_2_to_5pp,0,0,0,0,0,False,False,mixed_public_presentation,true,False,False,False
+NRW 2020,05754016,"Harsewinkel, Stadt",over_5_to_10pp,6,0,2,1,0,False,False,unresolved,,False,False,False
+NRW 2020,05754020,Herzebrock-Clarholz,within_2pp,2,0,1,1,1,False,False,same_public_presentation,,False,False,False
+NRW 2020,05754052,"Werther (Westf.), Stadt",over_5_to_10pp,7,7,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05758004,"Bünde, Stadt",over_5_to_10pp,1,1,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05758008,"Enger, Stadt",over_5_to_10pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05758028,Rödinghausen,over_5_to_10pp,2,0,2,2,1,False,False,unresolved,,False,False,False
+NRW 2020,05762020,"Höxter, Stadt",over_5_to_10pp,13,13,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05766004,Augustdorf,over_2_to_5pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05766024,Dörentrup,over_5_to_10pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05766032,"Horn-Bad Meinberg, Stadt",within_2pp,1,0,1,1,0,False,False,same_public_presentation,,False,False,False
+NRW 2020,05770012,Hille,over_5_to_10pp,0,0,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05774012,Borchen,over_5_to_10pp,26,25,1,1,0,False,False,unresolved,,False,False,False
+NRW 2020,05954024,"Schwelm, Stadt",over_2_to_5pp,60,54,2,2,0,False,False,unresolved,,False,False,False
+NRW 2020,05962024,"Iserlohn, Stadt",within_2pp,28,26,2,2,0,False,False,mixed_public_presentation,false,False,False,False
+NRW 2020,05962032,"Lüdenscheid, Stadt",over_5_to_10pp,52,37,15,15,9,False,False,same_public_presentation,,False,False,False
+NRW 2020,05962060,"Werdohl, Stadt",over_2_to_5pp,9,8,1,1,0,False,False,mixed_public_presentation,false,False,True,False
+NRW 2020,05970032,"Netphen, Stadt",over_5_to_10pp,23,20,3,3,0,False,False,unresolved,,False,False,False
+NRW 2020,05970044,Wilnsdorf,over_5_to_10pp,26,4,18,18,0,False,False,mixed_public_presentation,false,False,False,False
+NRW 2020,05978024,"Lünen, Stadt",over_2_to_5pp,10,10,0,0,0,False,False,unresolved,,False,False,False
+NRW 2020,05978036,"Unna, Stadt",within_2pp,7,1,3,2,0,False,False,mixed_public_presentation,false,False,False,False
+NRW 2020,05124000,Wuppertal,over_5_to_10pp,322,143,128,118,0,False,False,unresolved,,False,False,False
+NRW 2020,05515000,Münster,over_5_to_10pp,148,147,1,1,0,False,False,unresolved,,False,False,False
+NRW 2020,05913000,Dortmund,over_2_to_5pp,1,1,0,0,0,False,False,unresolved,,False,False,False
+Niedersachsen 2021,03155006,Kalefeld,over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03157007,Vechelde,within_2pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03159001,"Adelebsen, Flecken",over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03159002,Bad Grund (Harz),over_2_to_5pp,4,4,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03251040,"Sulingen, Stadt",over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03252007,"Hessisch Oldendorf, Stadt",over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03254011,Diekholzen,over_2_to_5pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03254022,Holle,over_2_to_5pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03353029,Rosengarten,over_5_to_10pp,7,0,7,7,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03358008,"Bad Fallingbostel, Stadt",within_2pp,2,1,1,1,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03358021,"Soltau, Stadt",over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03360004,Bienenbüttel,over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03453003,Cappeln (Oldenburg),over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03453011,"Löningen, Stadt",within_2pp,1,1,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03151025,Sassenburg,over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03157002,Hohenhameln,over_5_to_10pp,8,8,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03159016,"Göttingen, Stadt",over_5_to_10pp,44,3,37,37,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03159017,"Hann. Münden, Stadt",within_2pp,1,1,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03159019,"Herzberg am Harz, Stadt",over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03241004,"Burgwedel, Stadt",over_2_to_5pp,15,11,4,4,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03241008,Isernhagen,over_2_to_5pp,35,32,3,3,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03241009,"Laatzen, Stadt",over_5_to_10pp,43,38,3,2,1,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03241019,Wedemark,over_5_to_10pp,8,8,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03241020,Wennigsen (Deister),over_2_to_5pp,8,8,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03252005,Emmerthal,over_2_to_5pp,1,0,1,1,3,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03254002,"Alfeld (Leine), Stadt",over_2_to_5pp,7,7,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03254045,Sibbesse,over_2_to_5pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03256022,"Nienburg (Weser), Stadt",over_2_to_5pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03257009,"Bückeburg, Stadt",over_5_to_10pp,20,8,12,12,5,False,False,mixed_public_presentation,false,True,True,False
+Niedersachsen 2021,03358016,"Munster, Stadt",within_2pp,12,11,1,1,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03403000,"Oldenburg (Oldenburg), Stadt",over_5_to_10pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03452023,Südbrookmerland,over_2_to_5pp,0,0,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03455020,Wangerland,within_2pp,7,7,0,0,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03459004,"Bad Iburg, Stadt",within_2pp,4,3,1,1,2,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03459024,"Melle, Stadt",over_5_to_10pp,1,0,1,1,0,False,False,not_reviewed_in_this_batch,,False,False,False
+Niedersachsen 2021,03461007,"Nordenham, Stadt",over_5_to_10pp,30,22,1,0,0,False,False,not_reviewed_in_this_batch,,False,False,False

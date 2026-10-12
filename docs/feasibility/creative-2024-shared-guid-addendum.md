@@ -1,0 +1,5 @@
+# Shared procedure identifier handling in the 2024 audit
+
+12 October 2026, after full metadata discovery and complete context retrieval but before resumed original eligibility audit. One GUID, `6d09f1e0-14de-4c25-9b41-ed5f8ad0b129`, appears in call records for both Velbert and Weilerswist. The existing strict auditor correctly stops rather than assigning it to one election.
+
+Retain both call rows in the complete discovery ledger and all 91 elections. Record the cross-municipality collision separately. Withhold this GUID from the original-outcome audit until identity/scope is resolved. Reuse the already acquired complete TED context snapshots; record their full queries and the number of withheld shared-GUID context notices. Filter only the ambiguous GUID from the original-audit inputs, not the electoral roster, other procedures or source snapshots. Apply this generic rule to any additional GUID spanning multiple cohort/AGS assignments. No inference of zero procurement, no first-match assignment, no source deletion or relaxed main-study gate. Preserve the initial stopped audit provenance.

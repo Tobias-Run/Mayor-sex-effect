@@ -1,0 +1,21 @@
+state,ags,municipality,decisive_date,valid_decisive_votes,final_candidate_count,absolute_top_two_gap_pp,runner_up_third_gap_pp,both_top_two_names_available,margin_stratum,event_specific_legal_rule_verified,official_election_reverified,presentation_assignment_verified,main_study_eligibility_certified
+14,14523365,Rosenbach/Vogtl.,2018-04-15,1914,3,0.522466039707419,43.469174503657264,True,within_2pp,False,False,False,False
+14,14627140,"Meißen, Stadt",2018-09-23,10971,3,0.8841491204083493,28.72117400419287,True,within_2pp,False,False,False,False
+14,14521035,"Aue-Bad Schlema, Stadt",2019-06-16,8209,4,9.111950298452918,14.764283103910342,False,over_5_to_10pp,False,False,False,False
+14,14521060,Bärenstein,2019-06-16,1252,3,3.6741214057507987,32.82747603833866,True,over_2_to_5pp,False,False,False,False
+14,14523280,Neumark,2019-06-23,1542,5,2.6588845654993514,21.78988326848249,True,over_2_to_5pp,False,False,False,False
+14,14713000,"Leipzig, Stadt",2020-03-01,226118,3,1.483296332003644,44.25521188052256,False,within_2pp,False,False,False,False
+14,14627260,Stauchitz,2020-10-04,1686,5,3.4400948991696323,42.704626334519574,True,over_2_to_5pp,False,False,False,False
+14,14625010,Arnsdorf,2020-10-11,2379,3,6.17906683480454,31.651954602774275,False,over_5_to_10pp,False,False,False,False
+14,14522050,"Brand-Erbisdorf, Stadt",2021-02-28,3913,3,9.30232558139535,19.243547150523895,False,over_5_to_10pp,False,False,False,False
+14,14626290,"Löbau, Stadt",2021-10-17,5668,4,4.0225829216654905,14.414255469301342,False,over_2_to_5pp,False,False,False,False
+14,14521450,"Oelsnitz/Erzgeb., Stadt",2022-07-03,4606,3,8.076422058184976,22.70950933564915,False,over_5_to_10pp,False,False,False,False
+14,14522510,"Roßwein, Stadt",2022-07-03,3015,4,5.041459369817579,28.855721393034827,True,over_5_to_10pp,False,False,False,False
+14,14523100,"Elsterberg, Stadt",2022-07-03,2222,3,5.8505850585058505,43.96939693969397,False,over_5_to_10pp,False,False,False,False
+14,14625270,"Königsbrück, Stadt",2022-07-03,2056,3,9.14396887159533,25.0,False,over_5_to_10pp,False,False,False,False
+14,14626450,"Reichenbach/O.L., Stadt",2022-07-03,2252,3,5.506216696269982,28.863232682060392,False,over_5_to_10pp,False,False,False,False
+14,14628260,"Neustadt in Sachsen, Stadt",2022-07-03,4962,3,3.829101168883515,28.617492946392584,True,over_2_to_5pp,False,False,False,False
+14,14612000,"Dresden, Stadt",2022-07-10,177544,5,7.0607849321858245,26.025098003875097,False,over_5_to_10pp,False,False,False,False
+14,14628270,"Pirna, Stadt",2023-12-17,16973,3,7.152536381311495,1.3079597007011134,False,over_5_to_10pp,False,False,False,False
+14,14524150,Langenweißbach,2024-09-22,1318,4,3.566009104704097,2.579666160849772,True,over_2_to_5pp,False,False,False,False
+14,14626600,"Weißwasser/O.L., Stadt",2024-09-29,6055,3,5.41701073492981,17.440132122213047,False,over_5_to_10pp,False,False,False,False

@@ -1,0 +1,3 @@
+cohort,ags,municipality,margin_stratum,national_notice_identifier,version,publication_day_berlin,procedure_identifier_source,buyer_name_source,source_export_file,source_export_sha256,original_call_verified,main_study_eligibility_certified
+NRW 2020,05158032,"Velbert, Stadt",within_2pp,ee27fa4c-8217-450f-bf8d-b6e03f824d86,1,2024-07-04,6d09f1e0-14de-4c25-9b41-ed5f8ad0b129,Stadt Velbert,2024-07-csv.zip,fbdc23729a38b417939ab6bdc6e5cd5a5a6c6894ce3c6891be1946afc1b1aa31,False,False
+NRW 2020,05366040,Weilerswist,over_2_to_5pp,184a7cec-27c6-40be-ba0c-daf9c251cc82,1,2024-08-09,6d09f1e0-14de-4c25-9b41-ed5f8ad0b129,Gemeinde Weilerswist,2024-08-csv.zip,5fe5756e5b13c848a6a334a1170adde1cb53c842a38296c8945d221f7718d55b,False,False

@@ -1,0 +1,65 @@
+{
+  "sources": [
+    {
+      "file": "ocp-germany.html",
+      "url": "https://data.open-contracting.org/en/publication/53",
+      "final_url": "https://data.open-contracting.org/en/publication/53",
+      "sha256": "6dcf60743f3cdf995152a804d9afd9b5ecc1ac861c2dca5bcd7f9cc511edf7cc",
+      "bytes": 55436,
+      "retrieved_at_utc": "2026-10-12T20:51:19.909043+00:00",
+      "status": "acquired"
+    },
+    {
+      "file": "ted-api.html",
+      "url": "https://docs.ted.europa.eu/api/latest/search.html",
+      "final_url": "https://docs.ted.europa.eu/api/latest/search.html",
+      "sha256": "d1a0ab9198aba521a0d4e80003e0476a3bf125fb843244c22209912ec2867809",
+      "bytes": 23001,
+      "retrieved_at_utc": "2026-10-12T20:51:19.911166+00:00",
+      "status": "acquired"
+    },
+    {
+      "file": "ted-bulk.html",
+      "url": "https://docs.ted.europa.eu/ODS/latest/reuse/download-xml.html",
+      "final_url": "https://docs.ted.europa.eu/ODS/latest/reuse/download-xml.html",
+      "sha256": "4232041e74303953ed21d8de27fdd3a664f61d86b3ed2f8135c73fc7dbc1ab6a",
+      "bytes": 27373,
+      "retrieved_at_utc": "2026-10-12T20:51:19.843734+00:00",
+      "status": "acquired"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/digiwhist/wp2_documents/a5288121f9d685df000e55f9be7d50dafa681c3c/digiwhist_ocds.xlsx",
+      "file": "digiwhist-ocds-mapping.xlsx",
+      "upstream_commit": "a5288121f9d685df000e55f9be7d50dafa681c3c",
+      "sha256": "8ebd60dfa420e37c893de5fdabca71cb54a0cb345e85d729ef614b439183d38a",
+      "bytes": 216988,
+      "retrieved_at_utc": "2026-10-12T21:06:12.750798+00:00"
+    },
+    {
+      "url": "https://opentender.eu/de/download",
+      "status": "unavailable",
+      "http_status": 403,
+      "note": "No protected-page bypass attempted; native data/actual conversion loss unverified."
+    },
+    {
+      "url": "https://www.revosax.sachsen.de/vorschrift/2754.39",
+      "file": "saxony-historical-law.html",
+      "sha256": "09c84c2197743bc72be4c18d431d8b319014b82a20313e7e12b73d43f77d45ce",
+      "bytes": 332717,
+      "retrieved_at_utc": "2026-10-12T21:20:27.098017+00:00"
+    },
+    {
+      "url": "https://www.revosax.sachsen.de/vorschrift/3818.14",
+      "file": "saxony-election-law.html",
+      "sha256": "3444f5d0e556c2a195fb65bc0398d94235475a0992f98080e9f5b4471793794f",
+      "bytes": 114248,
+      "retrieved_at_utc": "2026-10-12T21:22:48.341810+00:00"
+    }
+  ],
+  "conversion_mapping_locators": {
+    "document": "digiwhist_ocds.xlsx",
+    "source_field": "(Source) 2. Fields, row 128: lot (bidsCount), number of bids received including electronic bids",
+    "planned_mapping": "(OCDS) Bids Extension, row 4: lot (bidsCount) -> bids/statistics measure bids",
+    "scope": "Historical mapping document, not a verified description of the current OCP converter or evidence that native German rows contain totals."
+  }
+}
