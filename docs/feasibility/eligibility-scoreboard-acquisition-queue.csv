@@ -1,0 +1,177 @@
+rank,event_key,cohort,ags,municipality,absolute_margin_pp,next_unresolved_gate,outcome_independent_order,next_source_action,automatic_new_retrieval_authorized
+1,12067440:2024-10-13,Brandenburg 2024,12067440,Schöneiche bei Berlin,1.9848313700177505,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+2,12073384:2024-06-30,Brandenburg 2024,12073384,Lychen,2.483343428225318,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+3,12073008:2024-06-30,Brandenburg 2024,12073008,Angermünde,3.524917520402848,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+4,12069604:2024-03-17,Brandenburg 2024,12069604,Stahnsdorf,4.4311034877072615,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+5,12065165:2024-10-13,Brandenburg 2024,12065165,Kremmen,4.921309018236323,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+6,12065096:2025-10-12,Brandenburg 2025,12065096,Glienicke/Nordbahn,0.8270972823946435,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+7,12071244:2025-10-19,Brandenburg 2025,12071244,Kolkwitz,1.2277227722772277,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+8,12065332:2025-10-12,Brandenburg 2025,12065332,Velten,2.7788351732013705,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+9,12064044:2025-10-19,Brandenburg 2025,12064044,Bad Freienwalde (Oder),3.1397174254317113,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+10,12069616:2025-09-28,Brandenburg 2025,12069616,Teltow,4.231544238871588,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+11,12063208:2025-09-28,Brandenburg 2025,12063208,Nauen,5.217391304347826,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+12,12072169:2025-07-20,Brandenburg 2025,12072169,Jüterbog,7.24357736140622,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+13,12073572:2025-05-04,Brandenburg 2025,12073572,Templin,7.593663565501634,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+14,05962024:2020-09-27,NRW 2020,05962024,"Iserlohn, Stadt",0.3971737948910908,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+15,05378016:2020-09-27,NRW 2020,05378016,"Leichlingen (Rhld.), Stadt",0.6861924686192469,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+16,05158032:2020-09-27,NRW 2020,05158032,"Velbert, Stadt",0.8985459892174481,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+17,05570032:2020-09-13,NRW 2020,05570032,Ostbevern,0.902127659574468,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+18,05554028:2020-09-13,NRW 2020,05554028,Heiden,1.0157769613140264,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+19,05370012:2020-09-13,NRW 2020,05370012,"Geilenkirchen, Stadt",1.091426763682379,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+20,05978036:2020-09-27,NRW 2020,05978036,"Unna, Stadt",1.2392755004766445,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+21,05754020:2020-09-27,NRW 2020,05754020,Herzebrock-Clarholz,1.4092608570606846,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+22,05570008:2020-09-13,NRW 2020,05570008,"Beckum, Stadt",1.4273031482619682,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+23,05558020:2020-09-27,NRW 2020,05558020,Havixbeck,1.4849113843206132,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+24,05166032:2020-09-27,NRW 2020,05166032,"Viersen, Stadt",1.6279168614783015,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+25,05370028:2020-09-27,NRW 2020,05370028,"Übach-Palenberg, Stadt",1.6962320341836075,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+26,05562020:2020-09-27,NRW 2020,05562020,"Herten, Stadt",1.7284798534798536,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+27,05766032:2020-09-27,NRW 2020,05766032,"Horn-Bad Meinberg, Stadt",1.737905119774542,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+28,05358012:2020-09-13,NRW 2020,05358012,"Heimbach, Stadt",1.7558528428093645,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+29,05382068:2020-09-27,NRW 2020,05382068,"Troisdorf, Stadt",2.2516328635269853,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+30,05978024:2020-09-27,NRW 2020,05978024,"Lünen, Stadt",2.277926986969064,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+31,05166008:2020-09-27,NRW 2020,05166008,Grefrath,2.5714742053984985,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+32,05166012:2020-09-27,NRW 2020,05166012,"Kempen, Stadt",2.6853128487952205,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+33,05962060:2020-09-13,NRW 2020,05962060,"Werdohl, Stadt",2.9946929492039422,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+34,05170028:2020-09-27,NRW 2020,05170028,"Neukirchen-Vluyn, Stadt",3.003092886361369,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+35,05334020:2020-09-27,NRW 2020,05334020,"Monschau, Stadt",3.344867358708189,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+36,05362024:2020-09-27,NRW 2020,05362024,"Frechen, Stadt",3.3449477351916377,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+37,05362032:2020-09-27,NRW 2020,05362032,"Kerpen, Stadt",3.619047619047619,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+38,05554056:2020-09-13,NRW 2020,05554056,"Stadtlohn, Stadt",3.6296084595598743,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+39,05566032:2020-09-13,NRW 2020,05566032,Ladbergen,3.6459782911216254,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+40,05913000:2020-09-27,NRW 2020,05913000,Dortmund,4.121844127332602,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+41,05158028:2020-09-27,NRW 2020,05158028,"Ratingen, Stadt",4.213380823248472,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+42,05766004:2020-09-27,NRW 2020,05766004,Augustdorf,4.483159117305458,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+43,05566072:2020-09-13,NRW 2020,05566072,Recke,4.585045193097781,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+44,05566004:2020-09-27,NRW 2020,05566004,Altenberge,4.695191215448694,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+45,05954024:2020-09-27,NRW 2020,05954024,"Schwelm, Stadt",4.711396151948692,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+46,05570040:2020-09-13,NRW 2020,05570040,"Sendenhorst, Stadt",4.8904890489048904,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+47,05366040:2020-09-27,NRW 2020,05366040,Weilerswist,4.918981481481482,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+48,05378028:2020-09-27,NRW 2020,05378028,"Rösrath, Stadt",5.032357770694484,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+49,05762020:2020-09-27,NRW 2020,05762020,"Höxter, Stadt",5.1159675123503305,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+50,05970044:2020-09-13,NRW 2020,05970044,Wilnsdorf,5.169507398389212,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+51,05515000:2020-09-27,NRW 2020,05515000,Münster,5.192071169328977,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+52,05362020:2020-09-27,NRW 2020,05362020,"Erftstadt, Stadt",5.2111462223499,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+53,05554064:2020-09-13,NRW 2020,05554064,"Velen, Stadt",5.376032459063904,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+54,05154036:2020-09-27,NRW 2020,05154036,"Kleve, Stadt",5.522355821153431,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+55,05970032:2020-09-13,NRW 2020,05970032,"Netphen, Stadt",5.991875423155044,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+56,05382028:2020-09-27,NRW 2020,05382028,"Lohmar, Stadt",6.580840590685346,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+57,05758008:2020-09-27,NRW 2020,05758008,"Enger, Stadt",6.895177361498605,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+58,05124000:2020-09-27,NRW 2020,05124000,Wuppertal,6.926715876187758,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+59,05382056:2020-09-13,NRW 2020,05382056,"Sankt Augustin, Stadt",6.934245660881175,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+60,05770012:2020-09-27,NRW 2020,05770012,Hille,7.095085780750218,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+61,05754016:2020-09-27,NRW 2020,05754016,"Harsewinkel, Stadt",7.934882768506195,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+62,05766024:2020-09-27,NRW 2020,05766024,Dörentrup,8.523780111179741,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+63,05774012:2020-09-13,NRW 2020,05774012,Borchen,9.237744403513743,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+64,05154004:2020-09-27,NRW 2020,05154004,Bedburg-Hau,9.264705882352942,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+65,05962032:2020-09-27,NRW 2020,05962032,"Lüdenscheid, Stadt",9.724270963349598,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+66,05758028:2020-09-27,NRW 2020,05758028,Rödinghausen,9.742441209406495,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+67,05758004:2020-09-27,NRW 2020,05758004,"Bünde, Stadt",9.817395177196666,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+68,05754052:2020-09-27,NRW 2020,05754052,"Werther (Westf.), Stadt",9.961389961389962,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+69,05970040:2025-09-28,NRW 2025,05970040,"Siegen, Stadt",0.023836278816358497,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+70,05562008:2025-09-28,NRW 2025,05562008,"Datteln, Stadt",0.042716787697565144,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+71,05170012:2025-09-28,NRW 2025,05170012,"Hamminkeln, Stadt",0.3343936057417829,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+72,05117000:2025-09-28,NRW 2025,05117000,Mülheim an der Ruhr,0.40539722877715256,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+73,05378024:2025-09-28,NRW 2025,05378024,"Overath, Stadt",0.7723200494284832,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+74,05378004:2025-09-28,NRW 2025,05378004,"Bergisch Gladbach, Stadt",0.829127613554434,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+75,05962032:2025-09-28,NRW 2025,05962032,"Lüdenscheid, Stadt",0.85580014840465,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+76,05374008:2025-09-14,NRW 2025,05374008,Engelskirchen,0.9276829011174362,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+77,05762040:2025-09-28,NRW 2025,05762040,"Willebadessen, Stadt",0.963000506842372,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+78,05382040:2025-09-28,NRW 2025,05382040,Neunkirchen-Seelscheid,1.2560823808984949,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+79,05154008:2025-09-28,NRW 2025,05154008,"Emmerich am Rhein, Stadt",1.2939453125,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+80,05978032:2025-09-28,NRW 2025,05978032,"Selm, Stadt",1.306511820821236,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+81,05978036:2025-09-28,NRW 2025,05978036,"Unna, Stadt",1.4959046544705479,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+82,05774004:2025-09-28,NRW 2025,05774004,Altenbeken,1.5051491946131503,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+83,05954016:2025-09-28,NRW 2025,05954016,"Hattingen, Stadt",2.501073422069558,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+84,05119000:2025-09-28,NRW 2025,05119000,Oberhausen,2.6587325439281924,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+85,05711000:2025-09-28,NRW 2025,05711000,Bielefeld,2.7525587865976493,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+86,05362032:2025-09-28,NRW 2025,05362032,"Kerpen, Stadt",2.795747313944985,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+87,05382028:2025-09-28,NRW 2025,05382028,"Lohmar, Stadt",2.8009755376542755,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+88,05358012:2025-09-14,NRW 2025,05358012,"Heimbach, Stadt",3.0303030303030303,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+89,05554024:2025-09-28,NRW 2025,05554024,Heek,3.115534400692341,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+90,05334004:2025-09-28,NRW 2025,05334004,"Alsdorf, Stadt",3.2628985290823564,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+91,05554032:2025-09-14,NRW 2025,05554032,"Isselburg, Stadt",3.5061544199925403,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+92,05166004:2025-09-14,NRW 2025,05166004,Brüggen,3.7478705281090288,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+93,05154016:2025-09-28,NRW 2025,05154016,"Goch, Stadt",4.071269487750556,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+94,05382024:2025-09-28,NRW 2025,05382024,"Königswinter, Stadt",4.164084070547135,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+95,05954020:2025-09-28,NRW 2025,05954020,"Herdecke, Stadt",4.393905939500994,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+96,05978024:2025-09-28,NRW 2025,05978024,"Lünen, Stadt",4.54855195911414,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+97,05974032:2025-09-14,NRW 2025,05974032,Möhnesee,4.563361785948786,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+98,05154036:2025-09-28,NRW 2025,05154036,"Kleve, Stadt",4.80945737572509,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+99,05378028:2025-09-28,NRW 2025,05378028,"Rösrath, Stadt",5.299235433693646,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+100,05758012:2025-09-28,NRW 2025,05758012,"Herford, Stadt",5.438538363231883,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+101,05566040:2025-09-14,NRW 2025,05566040,"Lengerich, Stadt",5.558055805580558,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+102,05913000:2025-09-28,NRW 2025,05913000,Dortmund,5.831923580813799,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+103,05374040:2025-09-28,NRW 2025,05374040,Reichshof,6.0286058013634545,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+104,05554060:2025-09-28,NRW 2025,05554060,Südlohn,6.0554057367001715,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+105,05762028:2025-09-14,NRW 2025,05762028,"Nieheim, Stadt",6.306802533737263,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+106,05974028:2025-09-28,NRW 2025,05974028,"Lippstadt, Stadt",6.333884905313477,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+107,05962024:2025-09-28,NRW 2025,05962024,"Iserlohn, Stadt",6.629438176810172,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+108,05362036:2025-09-28,NRW 2025,05362036,"Pulheim, Stadt",6.71330681872634,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+109,05978004:2025-09-28,NRW 2025,05978004,"Bergkamen, Stadt",6.803185437997724,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+110,05315000:2025-09-28,NRW 2025,05315000,Köln,7.016264191495404,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+111,05554008:2025-09-28,NRW 2025,05554008,"Bocholt, Stadt",7.037988944829771,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+112,05774032:2025-09-28,NRW 2025,05774032,"Paderborn, Stadt",7.085933956763061,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+113,05566028:2025-09-14,NRW 2025,05566028,"Ibbenbüren, Stadt",7.102827016480552,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+114,05170016:2025-09-14,NRW 2025,05170016,Hünxe,7.353529961297211,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+115,05766004:2025-09-28,NRW 2025,05766004,Augustdorf,7.72704465629704,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+116,05758004:2025-09-28,NRW 2025,05758004,"Bünde, Stadt",7.787571938515335,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+117,05362024:2025-09-28,NRW 2025,05362024,"Frechen, Stadt",7.954347952030589,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+118,05314000:2025-09-28,NRW 2025,05314000,Bonn,7.990061462011246,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+119,05366020:2025-09-14,NRW 2025,05366020,Hellenthal,8.027573938181009,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+120,05378016:2025-09-28,NRW 2025,05378016,"Leichlingen (Rhld.), Stadt",8.032437046521554,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+121,05774040:2025-09-14,NRW 2025,05774040,"Bad Wünnenberg, Stadt",8.068234209313047,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+122,05766032:2025-09-28,NRW 2025,05766032,"Horn-Bad Meinberg, Stadt",8.194921070693205,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+123,05370012:2025-09-28,NRW 2025,05370012,"Geilenkirchen, Stadt",8.409399883472519,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+124,05558028:2025-09-28,NRW 2025,05558028,Nordkirchen,8.478357875948237,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+125,05154056:2025-09-14,NRW 2025,05154056,Uedem,8.636149126946673,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+126,05562028:2025-09-28,NRW 2025,05562028,"Oer-Erkenschwick, Stadt",8.67693485123888,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+127,05554052:2025-09-14,NRW 2025,05554052,Schöppingen,8.96921017402945,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+128,05566016:2025-09-14,NRW 2025,05566016,"Hörstel, Stadt",9.237319511292114,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+129,05334020:2025-09-28,NRW 2025,05334020,"Monschau, Stadt",9.257589419897807,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+130,05558012:2025-09-14,NRW 2025,05558012,"Coesfeld, Stadt",9.407914919725943,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+131,05962012:2025-09-28,NRW 2025,05962012,"Halver, Stadt",9.59005750324615,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+132,05382036:2025-09-28,NRW 2025,05382036,Much,9.790940766550523,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+133,05114000:2025-09-28,NRW 2025,05114000,Krefeld,9.961514088316667,event_legal_gate,True,Review dated primary evidence for event_legal_gate,False
+134,03459004:2021-09-26,Niedersachsen 2021,03459004,"Bad Iburg, Stadt",0.41442824251726784,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+135,03358008:2021-09-12,Niedersachsen 2021,03358008,"Bad Fallingbostel, Stadt",0.4668155063933428,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+136,03157007:2021-09-12,Niedersachsen 2021,03157007,Vechelde,0.5223068552774756,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+137,03358016:2021-09-26,Niedersachsen 2021,03358016,"Munster, Stadt",1.3713810777115945,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+138,03453011:2021-09-12,Niedersachsen 2021,03453011,"Löningen, Stadt",1.4942695488176412,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+139,03455020:2021-09-26,Niedersachsen 2021,03455020,Wangerland,1.5077344820834149,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+140,03159017:2021-09-26,Niedersachsen 2021,03159017,"Hann. Münden, Stadt",1.7235376044568245,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+141,03256022:2021-09-26,Niedersachsen 2021,03256022,"Nienburg (Weser), Stadt",2.1423934213373728,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+142,03254045:2021-09-26,Niedersachsen 2021,03254045,Sibbesse,2.308762169680111,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+143,03254011:2021-09-12,Niedersachsen 2021,03254011,Diekholzen,2.3548740416210294,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+144,03254022:2021-09-12,Niedersachsen 2021,03254022,Holle,2.869757174392936,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+145,03159002:2021-09-12,Niedersachsen 2021,03159002,Bad Grund (Harz),3.245591617684641,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+146,03241020:2021-09-26,Niedersachsen 2021,03241020,Wennigsen (Deister),3.4466477809254012,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+147,03452023:2021-09-26,Niedersachsen 2021,03452023,Südbrookmerland,3.575855821493277,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+148,03241008:2021-09-26,Niedersachsen 2021,03241008,Isernhagen,3.837333741018193,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+149,03254002:2021-09-26,Niedersachsen 2021,03254002,"Alfeld (Leine), Stadt",4.073561400039549,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+150,03252005:2021-09-26,Niedersachsen 2021,03252005,Emmerthal,4.154829545454546,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+151,03241004:2021-09-26,Niedersachsen 2021,03241004,"Burgwedel, Stadt",4.1731318905675785,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+152,03159001:2021-09-12,Niedersachsen 2021,03159001,"Adelebsen, Flecken",5.411189238764904,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+153,03461007:2021-09-26,Niedersachsen 2021,03461007,"Nordenham, Stadt",5.642583120204604,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+154,03159016:2021-09-26,Niedersachsen 2021,03159016,"Göttingen, Stadt",5.91955234463331,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+155,03360004:2021-09-12,Niedersachsen 2021,03360004,Bienenbüttel,5.950873638895923,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+156,03453003:2021-09-12,Niedersachsen 2021,03453003,Cappeln (Oldenburg),6.013986013986014,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+157,03159019:2021-09-26,Niedersachsen 2021,03159019,"Herzberg am Harz, Stadt",6.212739253216191,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+158,03241019:2021-09-26,Niedersachsen 2021,03241019,Wedemark,6.807566557683326,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+159,03257009:2021-09-26,Niedersachsen 2021,03257009,"Bückeburg, Stadt",6.890166650423935,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+160,03241009:2021-09-26,Niedersachsen 2021,03241009,"Laatzen, Stadt",7.348512863859686,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+161,03252007:2021-09-12,Niedersachsen 2021,03252007,"Hessisch Oldendorf, Stadt",7.475622968580715,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+162,03403000:2021-09-26,Niedersachsen 2021,03403000,"Oldenburg (Oldenburg), Stadt",8.136600405276047,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+163,03151025:2021-09-26,Niedersachsen 2021,03151025,Sassenburg,8.264462809917354,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+164,03157002:2021-09-26,Niedersachsen 2021,03157002,Hohenhameln,8.751414560543191,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+165,03358021:2021-09-12,Niedersachsen 2021,03358021,"Soltau, Stadt",9.26775956284153,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+166,03251040:2021-09-12,Niedersachsen 2021,03251040,"Sulingen, Stadt",9.552238805970148,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+167,03155006:2021-09-12,Niedersachsen 2021,03155006,Kalefeld,9.852079263187273,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+168,03353029:2021-09-12,Niedersachsen 2021,03353029,Rosengarten,9.864603481624759,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+169,03459024:2021-09-26,Niedersachsen 2021,03459024,"Melle, Stadt",9.949897940248654,official_finality_gate,True,Review dated primary evidence for official_finality_gate,False
+170,14628260:2022-07-03,Saxony 2022 plurality,14628260,"Neustadt in Sachsen, Stadt",3.829101168883515,loser_presentation_gate,True,Review dated primary evidence for loser_presentation_gate,False
+171,14522510:2022-07-03,Saxony 2022 plurality,14522510,"Roßwein, Stadt",5.041459369817579,winner_presentation_gate,True,Review dated primary evidence for winner_presentation_gate,False
+172,14626450:2022-07-03,Saxony 2022 plurality,14626450,"Reichenbach/O.L., Stadt",5.506216696269982,loser_presentation_gate,True,Review dated primary evidence for loser_presentation_gate,False
+173,14523100:2022-07-03,Saxony 2022 plurality,14523100,"Elsterberg, Stadt",5.8505850585058505,winner_presentation_gate,True,Review dated primary evidence for winner_presentation_gate,False
+174,14612000:2022-07-10,Saxony 2022 plurality,14612000,"Dresden, Stadt",7.0607849321858245,original_buyer_procedure_evidence_gate,True,Review dated primary evidence for original_buyer_procedure_evidence_gate,False
+175,14521450:2022-07-03,Saxony 2022 plurality,14521450,"Oelsnitz/Erzgeb., Stadt",8.076422058184976,loser_presentation_gate,True,Review dated primary evidence for loser_presentation_gate,False
+176,14625270:2022-07-03,Saxony 2022 plurality,14625270,"Königsbrück, Stadt",9.14396887159533,original_buyer_procedure_evidence_gate,True,Review dated primary evidence for original_buyer_procedure_evidence_gate,False

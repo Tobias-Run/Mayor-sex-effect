@@ -1,0 +1,200 @@
+{
+  "window": {
+    "window_start": "2024-01-01",
+    "window_end": "2024-12-31",
+    "cutoff": "2026-09-30",
+    "definition": "Common complete cached calendar 2024 availability diagnostic only; publication dates, not decision dates; not a main-study outcome window",
+    "required_months": 12,
+    "additional_procurement_downloads": 0,
+    "sources": [
+      {
+        "artifact": "docs/feasibility/federal-procurement-export-manifest.json",
+        "sha256": "10e70fced51ae55d61cabbdb84d5ded13c7ba3ace7f63889c29d47106cfc72bb"
+      }
+    ]
+  },
+  "cached_csv_archives": [
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-01&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-01&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-01",
+      "file": "2024-01-csv.zip",
+      "sha256": "831af730140650b553ff662e9fd571be498a838b1070246e6b109944eb4f4944",
+      "bytes": 13552930,
+      "retrieved_at_utc": "2026-10-04T07:44:39.219845+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-02&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-02&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-02",
+      "file": "2024-02-csv.zip",
+      "sha256": "9b68ce3d3a2d9e6d6c0cbd75d6d7bf7d4ab4c3e4d34655c05eb19cdc8e911af4",
+      "bytes": 15377237,
+      "retrieved_at_utc": "2026-10-04T07:44:48.695743+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-03&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-03&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-03",
+      "file": "2024-03-csv.zip",
+      "sha256": "bc0f3e576175d9cc115d0e04e90dbb3b71fa7d7c6e3427dbd668d2b889ea3585",
+      "bytes": 17367851,
+      "retrieved_at_utc": "2026-10-04T07:44:57.367065+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-04&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-04&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-04",
+      "file": "2024-04-csv.zip",
+      "sha256": "8a7f8845c87b82b5cfd702cdaa182e28d76d53a03eea32e13379b3798e2ffdb6",
+      "bytes": 15502769,
+      "retrieved_at_utc": "2026-10-04T07:43:43.985707+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-05&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-05&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-05",
+      "file": "2024-05-csv.zip",
+      "sha256": "31140e790caf9150910f2fefcf1cbbd42d2812a37d6a92fa991d1bb98ccad5b8",
+      "bytes": 16298577,
+      "retrieved_at_utc": "2026-10-04T07:45:06.374700+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-06&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-06&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-06",
+      "file": "2024-06-csv.zip",
+      "sha256": "3450f88781de304e9751d4e378c64294023af564ef012b7da1cee84e07623185",
+      "bytes": 16883700,
+      "retrieved_at_utc": "2026-10-04T07:45:15.179558+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-07&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-07&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-07",
+      "file": "2024-07-csv.zip",
+      "sha256": "fbdc23729a38b417939ab6bdc6e5cd5a5a6c6894ce3c6891be1946afc1b1aa31",
+      "bytes": 18146324,
+      "retrieved_at_utc": "2026-10-04T07:45:24.430233+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-08&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-08&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-08",
+      "file": "2024-08-csv.zip",
+      "sha256": "5fe5756e5b13c848a6a334a1170adde1cb53c842a38296c8945d221f7718d55b",
+      "bytes": 17700596,
+      "retrieved_at_utc": "2026-10-04T07:45:34.215352+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-09&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-09&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-09",
+      "file": "2024-09-csv.zip",
+      "sha256": "ec681db29638ff33ed2de79694599f681705ceb1b85edeff6c8e676de81d508b",
+      "bytes": 16082584,
+      "retrieved_at_utc": "2026-10-04T07:45:42.313251+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-10&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-10&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-10",
+      "file": "2024-10-csv.zip",
+      "sha256": "8e98467dda31165870ac8a88d0cca65043142aee2eca50b58bb62aeb95281ad0",
+      "bytes": 17604014,
+      "retrieved_at_utc": "2026-10-04T07:45:50.679016+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-11&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-11&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-11",
+      "file": "2024-11-csv.zip",
+      "sha256": "39288f966d1e0401b993b0ed04703eef547733c56c1e214e65ffe350a62283b7",
+      "bytes": 15410893,
+      "retrieved_at_utc": "2026-10-04T07:45:59.829814+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    },
+    {
+      "url": "https://www.oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-12&format=csv.zip",
+      "final_url": "https://oeffentlichevergabe.de/api/notice-exports?pubMonth=2024-12&format=csv.zip",
+      "http_status": 200,
+      "content_type": null,
+      "period": "2024-12",
+      "file": "2024-12-csv.zip",
+      "sha256": "50c932c5c0374c409a0a5543a5d666c740294e7b87aac75ab39166a3aad2f402",
+      "bytes": 15685756,
+      "retrieved_at_utc": "2026-10-04T07:46:08.038444+00:00",
+      "format": "csv",
+      "archive_member_count": 19,
+      "license_catalogue_resource": "http://dcat-ap.de/def/licenses/dl-by-de/2.0"
+    }
+  ],
+  "additional_procurement_download_bytes": 0,
+  "exact_alias_addendum": {
+    "reason": "Default generic Stadt/Gemeinde aliases omit Landeshauptstadt Dresden. The exact authority name is documented by the already pinned original municipal bulletin; no outcome or presentation filtering of events.",
+    "added_exact_alias": {
+      "name": "Landeshauptstadt Dresden",
+      "ags": "14612000",
+      "source_key": "dresden-amtsblatt-july"
+    },
+    "previous_all_seven_call_notice_versions": 24,
+    "all_seven_events_retained": true,
+    "substring_or_utility_matching": false,
+    "source_sha256": "3603b9784138b87073118bdcbde2f71d3f88185974f8a8ba937457e43250951a"
+  },
+  "original_outcomes_verified": false
+}

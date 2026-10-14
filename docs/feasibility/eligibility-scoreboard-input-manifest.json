@@ -1,0 +1,70 @@
+{
+  "public_input_pins": [
+    {
+      "artifact": "docs/feasibility/relaxed-acquisition-election-inventory.csv",
+      "sha256": "dbc4fbbf283f139803c6c465bdb2eae24d30e3f9c73fde27b39e4fdfc8f2fdce"
+    },
+    {
+      "artifact": "docs/feasibility/national-joint-nrw-2020-election-inventory.csv",
+      "sha256": "9fd9fe5254f2fa201f628dc85c6d70779d37e3bfc0aa79e469ff3b643f958c9d"
+    },
+    {
+      "artifact": "docs/feasibility/recovered-original-linked-election-inventory.csv",
+      "sha256": "20c6c5bc69cdee9db0e054b035baba21ef34febf00bcba7e99155605550ea4dc"
+    },
+    {
+      "artifact": "docs/feasibility/national-joint-nrw-2020-assignment-inventory.csv",
+      "sha256": "4ccf22eb9e0ea922708aa6022aa1b7b3aa541e76fb3cb07490453d6f08ad750e"
+    },
+    {
+      "artifact": "docs/feasibility/broader-election-acquisition-frame.csv",
+      "sha256": "3be978938c3e34c4fa9d25dd0c1c39fb1b9f9e8a0c45fab70b4db2f2bfca94b6"
+    },
+    {
+      "artifact": "docs/feasibility/creative-2024-assignment-inventory.csv",
+      "sha256": "6a98a114cac9d7faf811821e91f49d0dc1262b0607124bee4f6e2af8ad3519b8"
+    },
+    {
+      "artifact": "docs/feasibility/creative-procedure-choice-assignment-opportunities.csv",
+      "sha256": "ade420954ad4fdc00e19d5e69213ed936d1e9e6cb5f163861d7aa1d44d6dfbc5"
+    },
+    {
+      "artifact": "docs/feasibility/multi-candidate-plurality-opportunities.csv",
+      "sha256": "b4c7d1adbdf8dade82f12def79ebf35cc6c1b3b937b20ed7c051b039305f2c9e"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-presentation-pairs.csv",
+      "sha256": "a9afc15c24f41f92a37bebd688208d8c2ba2ef5485af54535cc8494a97f15c99"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-closest-pair-evidence-review.csv",
+      "sha256": "8daf1bee4f43a251e1514fbbe69cb4c6d3649d2eb75378224e05e650459c7d62"
+    },
+    {
+      "artifact": "docs/feasibility/brandenburg-expansion-linked-election-inventory.csv",
+      "sha256": "86f64ae7f77911f803bd81683fc0f6acdb3dbe1ae878e6afc21b411f4c383021"
+    },
+    {
+      "artifact": "docs/feasibility/creative-candidate-completion-dispositions.csv",
+      "sha256": "7ce5de6703cb6cb8f2f26c10254073c8a21ecbaadf15c28fc015812097a23f24"
+    },
+    {
+      "artifact": "docs/feasibility/national-joint-nrw-2020-original-linked-election-inventory.csv",
+      "sha256": "f6a312d65ccf47cde742e5a0f6b8ad6868357f1b78b6a0001911eb2e5b80624b"
+    },
+    {
+      "artifact": "docs/feasibility/original-recovery-assignment-checkpoint.json",
+      "sha256": "2f423f01f4f449aeae9b59c28f074d18083899863a18643fd479055ad64faa67"
+    },
+    {
+      "artifact": "docs/feasibility/candidate-exposure-codebook.md",
+      "sha256": "5458dd58e700142e475aee4d2628f42fc63710d9f18a365d6e92dfa7a84e965d"
+    },
+    {
+      "artifact": "docs/feasibility/measurable-progress-plan-2026-10-14.md",
+      "sha256": "126098f68887e13845f8016fe8cb9ef4376f2dcfacbddbe7ede5282d0d825ab1"
+    }
+  ],
+  "private_inputs_required_for_full_candidate_replay": true,
+  "raw_sources_uploaded": false
+}
