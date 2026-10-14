@@ -1,0 +1,7 @@
+effect_sd,alpha,power,balanced_required_elections,balanced_required_assuming_unvalidated_R2_075,benchmark_kind
+0.25,0.025,0.8,612,156,independent_equal_variance_Gaussian_NOT_RDD
+0.5,0.025,0.8,156,42,independent_equal_variance_Gaussian_NOT_RDD
+1,0.025,0.8,42,14,independent_equal_variance_Gaussian_NOT_RDD
+0.25,0.05,0.8,506,128,independent_equal_variance_Gaussian_NOT_RDD
+0.5,0.05,0.8,128,34,independent_equal_variance_Gaussian_NOT_RDD
+1,0.05,0.8,34,12,independent_equal_variance_Gaussian_NOT_RDD

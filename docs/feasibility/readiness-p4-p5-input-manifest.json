@@ -1,0 +1,176 @@
+{
+  "audit_date": "2026-10-15",
+  "inputs": [
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/before-audit.json",
+      "sha256": "8053e0ee3992bc97d950b5c0148b12a702002aead18b32cdaaa1dec16beaa255"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/source-retrieval.json",
+      "sha256": "4e39a76024071e4b643f21c1c5c976e2d762d47ea41c1d5cb5678fcb133befaa"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/office-review-annotations.json",
+      "sha256": "7c15b2f5b411c0a7d8ff354850b2c870b7e775608dd3ab27e9c453fdaaed3812"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-validation/first-coder-presentation.json",
+      "sha256": "b6e9a9fbf014d23b4294630e17705ebab81070cd6a76379438c1d560cf33e7c5"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-closest-review-2026-10-11/first-coder-presentation.json",
+      "sha256": "3501588a1ef1d150e46b4c690fe28217a07eacb913b817fdc785cdfed792d9e4"
+    },
+    {
+      "artifact": "data/raw/creative-causal-routes-2026-10-12/candidates/new-reviews.json",
+      "sha256": "2d3d851cd67fa836bd28eaf50cd8f13e4e1a0297489f165c3e4ee7006948e379"
+    },
+    {
+      "artifact": "outputs/national-joint-expansion-2026-10-11/nrw-2020-selected-elections.json",
+      "sha256": "7d50964eb8b2dfa92eb33e398770a206eb4f1d247cdde5b8ad4ff23d129c9de0"
+    },
+    {
+      "artifact": "data/raw/cohort-expansion-2026-10-11/presentation/first-coder-annotations.json",
+      "sha256": "a2c47a5e15c8074cd67abf07ec922828a1a40ff0276d19b0541fbc92fb66d5c8"
+    },
+    {
+      "artifact": "data/raw/original-recovery-2026-10-11/presentation/first-coder-assignment.json",
+      "sha256": "e119a31891b03faedc3f519ab588061808797b6c9de895241ef5a8f04c23a927"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-q1-eligibility-office/retrieval.json",
+      "sha256": "83eaca7f2217c438907f18a96f278f255a6f1bc7bb39b4a388f193cf9439f277"
+    },
+    {
+      "artifact": "data/raw/nrw-2025-q1-eligibility-office/office-observations.json",
+      "sha256": "08257f1645d2673a0b2aa4afdc2ad85104cec2be96cc6ad950a1abe21ce74403"
+    },
+    {
+      "artifact": "docs/feasibility/creative-2024-original-procedure-audit.csv",
+      "sha256": "3342b4093303f188d9661e213895a57a477a21ea95992ebd20e31064ad8baa8b"
+    },
+    {
+      "artifact": "docs/feasibility/creative-precision-scenarios.csv",
+      "sha256": "5281e3de60ab4eb66dad9a2b8b5cd2ffbfd72597f7ab29226a2b25d1d5e5805c"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding.zip",
+      "sha256": "b4b03d40c0e8ae149dad998258e2af9c0941394a7ac98d43e0d30f6abc688767"
+    },
+    {
+      "artifact": "docs/feasibility/creative-2024-election-inventory.csv",
+      "sha256": "129f6fab5bf6916e42c6733c2e3a63aff6f1ac4af7613c8d545f17da2a39e7ac"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding/blank-review-forms.csv",
+      "sha256": "8c02487b23585dcc4a23acd1dded1f9b6b87f753b2becd8bd42b8d0c2c6d5947"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding/neutral-source-manifest.csv",
+      "sha256": "fb537ff0b2d559fe48e3ce908ab5792487706aee41717615e3c547869fb88a0b"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding-key/case-map.json",
+      "sha256": "191373d83f6a5f0116b856079ba43974d98a3980b8653caa53dc5e72d856abbc"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/bue-office.html.txt",
+      "sha256": "9f54fe562f77a82b73c2eed4530664b3616333680406f0a1cc595cf62d145912"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/lud-renewal-full.html.txt",
+      "sha256": "acfaa568876dab9a614860e35b58823acbe8e241c329430ae3d20713870fc4ee"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/lud-renewal.html.txt",
+      "sha256": "c8eb57e0e8eaac2d20e219cb2c1bce1f72ac23925ac995364f515ebd429035d8"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/lun-entry.html.txt",
+      "sha256": "6c8a9ecbac278f2bb1d430e9de8063528f02a82f34f94bd40f1ad4a63fd78fcc"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/nks-entry.html.txt",
+      "sha256": "b71120d521c8f3762cff4bc19e094a527ed8985f859596b464c61c79757eca00"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/wer-2025-role.pdf.txt",
+      "sha256": "7bf2b58b7eb869be365d8148e1aa1df2c19f89c624d09ca4b3c5a6765612d6f6"
+    },
+    {
+      "artifact": "data/raw/readiness-p4-p5-2026-10-15/wer-entry.pdf.txt",
+      "sha256": "06aa4f1cee119cf8b312e1a2da36a183ec449b039e21327ca0043fa9f73a674e"
+    }
+  ],
+  "prospective_protocol_inputs": [
+    {
+      "artifact": "docs/feasibility/eligibility-scoreboard-events.csv",
+      "sha256": "b0399d50f0f88961d1c9d5766e65044d185601b762e46729a09bb1e1b6c3930a"
+    },
+    {
+      "artifact": "docs/feasibility/eligibility-scoreboard-cohort-bands.csv",
+      "sha256": "d3c5ebb64ef1f9c723e5b2a9fa47a84259a44bdbfbe81f4f9ad603c0920e5d0d"
+    },
+    {
+      "artifact": "docs/feasibility/current-cohort-independent-coding-readiness.json",
+      "sha256": "f522ff8c8580f220b295c0c7ad5d9743799855326b5726ba8910f45459c23a7d"
+    },
+    {
+      "artifact": "docs/feasibility/current-cohort-independent-coding-protocol.md",
+      "sha256": "747203139754b0595356d612a7611a69c5c7996a5a91abf31be98065151ab083"
+    },
+    {
+      "artifact": "docs/feasibility/creative-2024-assignment-inventory.csv",
+      "sha256": "6a98a114cac9d7faf811821e91f49d0dc1262b0607124bee4f6e2af8ad3519b8"
+    },
+    {
+      "artifact": "docs/feasibility/creative-procedure-choice-assignment-opportunities.csv",
+      "sha256": "ade420954ad4fdc00e19d5e69213ed936d1e9e6cb5f163861d7aa1d44d6dfbc5"
+    },
+    {
+      "artifact": "docs/feasibility/procedure-choice-calibration-summary.json",
+      "sha256": "f2f707279aa6ac60b33efca0d3cbc573da8bd31ad42283579b147a33d4c57798"
+    },
+    {
+      "artifact": "docs/feasibility/recovered-original-procedure-audit.csv",
+      "sha256": "ef213f7c1e99e09c61f6031804f4951566592fbd4e04bff6e3374194149dc153"
+    },
+    {
+      "artifact": "docs/feasibility/recovered-original-result-audit.csv",
+      "sha256": "9fc786ceb8776e4983a76b4b60ccd028031cc25101c35fc47028313578cae5fa"
+    },
+    {
+      "artifact": "docs/feasibility/national-joint-nrw-2020-original-procedure-audit.csv",
+      "sha256": "fd06b96152a4b6a707c7cfe194c48a1b8fe2ecb519b5b8fa4deeb25e222f3f2a"
+    },
+    {
+      "artifact": "docs/feasibility/national-joint-nrw-2020-original-result-audit.csv",
+      "sha256": "36a22d9b630565295e58058ea7ecd382b624e27abf15192428165e2b5973fd02"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-q1-office-observations.csv",
+      "sha256": "c59b6654e340d2e335affce70d5d1ffac50535f909790e643f722a851f12729e"
+    },
+    {
+      "artifact": "docs/feasibility/nrw-2025-q1-office-source-manifest.csv",
+      "sha256": "15b880d823cd7baaf1725bc8cbf1aa08e7c857f0e17a62f545080527a5a46d44"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding/blank-review-forms.csv",
+      "sha256": "8c02487b23585dcc4a23acd1dded1f9b6b87f753b2becd8bd42b8d0c2c6d5947"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding/neutral-source-manifest.csv",
+      "sha256": "fb537ff0b2d559fe48e3ce908ab5792487706aee41717615e3c547869fb88a0b"
+    },
+    {
+      "artifact": "data/interim/current-cohort-independent-coding-key/case-map.json",
+      "sha256": "191373d83f6a5f0116b856079ba43974d98a3980b8653caa53dc5e72d856abbc"
+    },
+    {
+      "artifact": "docs/feasibility/measurable-progress-plan-2026-10-14.md",
+      "sha256": "126098f68887e13845f8016fe8cb9ef4376f2dcfacbddbe7ede5282d0d825ab1"
+    }
+  ],
+  "private_originals_not_uploaded": true
+}

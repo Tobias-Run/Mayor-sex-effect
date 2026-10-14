@@ -1,0 +1,10 @@
+cohort,nested_abs_gap_pp,provisional_elections,female_wins,female_losses,linear_rank,linear_columns,quadratic_rank,quadratic_columns,linear_residual_df,quadratic_residual_df,mde_sd,power_025sd,power_05sd,power_1sd,RDD_power_estimable,reason
+NRW 2020,2,0,0,0,0,4,0,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+NRW 2020,5,1,0,1,1,4,1,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+NRW 2020,10,1,0,1,1,4,1,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+NRW 2025,2,2,0,2,2,4,2,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+NRW 2025,5,4,2,2,4,4,4,6,0,0,8.01042385314353,0.026503234510076887,0.030999046398769242,0.04877562459572686,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+NRW 2025,10,4,2,2,4,4,4,6,0,0,8.01042385314353,0.026503234510076887,0.030999046398769242,0.04877562459572686,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+Niedersachsen 2021,2,0,0,0,0,4,0,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+Niedersachsen 2021,5,0,0,0,0,4,0,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated
+Niedersachsen 2021,10,1,0,1,1,4,1,6,0,0,,,,,False,No certified common-window outcome sample; sparse assignment support; empirical outcome SD and predictive R2 unvalidated

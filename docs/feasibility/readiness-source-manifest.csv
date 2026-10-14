@@ -1,0 +1,9 @@
+ags,source_id,url,retrieved_utc,sha256,bytes,status
+05382040,nks-entry,https://www.nk-se.de/rathaus-service/aktuelles/detail/guido-vierkoetter-ist-neuer-buergermeister-in-neunkirchen-seelscheid,2026-10-14T22:17:20Z,f5983f26924b6d7c1813ef0b6c744af5e497c561bd41d6b418a4d1722bc1b14d,212937,original_retrieved
+05954020,her-office,https://www.herdecke.de/portal/seiten/buergermeisterin-iris-stalzer-900000012-37460.html,2026-10-14T22:17:23Z,,0,HTTPError: HTTP Error 403: Forbidden
+05962032,lud-renewal,https://www.luedenscheid.de/rathaus-und-buerger/presseinfos-uebersicht/09/2025,2026-10-14T22:17:26Z,ed389f61ca45c4d8b206dd4bdaba9500ea345fd2dec4e69b5b55f4fa6473a773,123084,original_retrieved
+05978024,lun-entry,https://www.luenen.de/de/aktuelles/meldungen/2023-2025/2025-11-06_amtsantritt_martina-foerster-teutenberg.php,2026-10-14T22:17:28Z,50eed774fa170c7710e305fcde90ec93a0dd630d890b31e83b2507afeb89d993,77027,original_retrieved
+03257009,bue-office,https://www.bueckeburg.de/de/Rathaus-Service/Buergermeister,2026-10-14T22:17:31Z,85eeca739ad72182cf288b620395129343655e62a609001077a0bb5e639a54bc,58395,original_retrieved
+05962060,wer-2025-role,https://www.werdohl.de/fileadmin/user_upload/Dokumente/Amtliche_Bekanntmachungen/Bekanntmachung_Wahlvorschlaege_20250709.pdf,2026-10-14T22:17:33Z,1a412b4af41aa3afe2c1908ebf875fcdb39def35f698bee22452561641471ec4,94295,original_retrieved
+05962060,wer-entry,https://www.werdohl.de/fileadmin/user_upload/Dokumente/Jahresabschluesse/Jahresabschluss_mit_Anhang_und_Lagebericht_2020.pdf,2026-10-14T22:19:03Z,c7b74019965253b9640949f521889f31be1ff7e240e8d9209ea49facd6f68966,3087049,original_retrieved
+05962032,lud-renewal-full,https://www.luedenscheid.de/rathaus-und-buerger/presseinfos-uebersicht/news-details/wagemeyer-gewinnt-buergermeister-stichwahl,2026-10-14T22:19:07Z,89b84ab1e916261974159ba326e95df8f77445495bddbdd88dcb1d30ff370f5e,89247,original_retrieved
