@@ -1,0 +1,56 @@
+ags,municipality,first_coder_pair_status,female_presented_winner,2019_first_document_year_processes,2019_call_metadata_processes,2019_award_only_metadata_processes,2019_method_detail_present,2019_explicit_no_call_processes,2019_no_call_missing_award_date,2019_no_call_award_date_outside_snapshot_year,2019_broad_open_but_negotiated_detail,2019_repeated_document_references_collapsed,2021_first_document_year_processes,2021_call_metadata_processes,2021_award_only_metadata_processes,2021_method_detail_present,2021_explicit_no_call_processes,2021_no_call_missing_award_date,2021_no_call_award_date_outside_snapshot_year,2021_broad_open_but_negotiated_detail,2021_repeated_document_references_collapsed,has_method_metadata_pre_and_post,has_call_metadata_pre_and_post,both_periods_reporting_coverage_verified,all_procedure_denominator_verified,common_decision_date_rule_verified,independent_second_coding_completed,main_study_eligibility_certified
+05154004,Bedburg-Hau,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05154036,"Kleve, Stadt",unresolved,,8,7,1,7,0,0,0,0,7,13,13,0,13,0,0,0,0,6,True,True,False,False,False,False,False
+05158028,"Ratingen, Stadt",same_public_presentation,,1,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,2,True,False,False,False,False,False,False
+05158032,"Velbert, Stadt",mixed_public_presentation,false,1,1,0,1,0,0,0,0,0,2,2,0,2,0,0,0,0,0,True,True,False,False,False,False,False
+05166008,Grefrath,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05166012,"Kempen, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,5,3,2,5,2,0,0,0,3,False,False,False,False,False,False,False
+05166032,"Viersen, Stadt",unresolved,,16,12,4,16,3,0,1,0,0,9,9,0,9,0,0,0,0,14,True,True,False,False,False,False,False
+05170028,"Neukirchen-Vluyn, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05334020,"Monschau, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05358012,"Heimbach, Stadt",same_public_presentation,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05362020,"Erftstadt, Stadt",unresolved,,5,5,0,5,0,0,0,0,6,9,7,2,9,2,0,1,0,6,True,True,False,False,False,False,False
+05362024,"Frechen, Stadt",unresolved,,23,17,6,23,0,0,0,0,1,10,10,0,10,0,0,0,0,2,True,True,False,False,False,False,False
+05362032,"Kerpen, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05366040,Weilerswist,unresolved,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,False,False,False,False,False,False,False
+05370012,"Geilenkirchen, Stadt",mixed_public_presentation,true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05370028,"Übach-Palenberg, Stadt",same_public_presentation,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,False,False,False,False,False,False,False
+05378016,"Leichlingen (Rhld.), Stadt",same_public_presentation,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05378028,"Rösrath, Stadt",mixed_public_presentation,true,12,12,0,12,0,0,0,0,0,13,13,0,13,0,0,0,0,0,True,True,False,False,False,False,False
+05382028,"Lohmar, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,False,False,False,False,False,False,False
+05382056,"Sankt Augustin, Stadt",unresolved,,13,13,0,13,0,0,0,4,8,16,15,1,16,1,0,0,0,5,True,True,False,False,False,False,False
+05382068,"Troisdorf, Stadt",unresolved,,5,4,1,5,1,0,0,0,1,7,7,0,7,0,0,0,0,1,True,True,False,False,False,False,False
+05554028,Heiden,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05554056,"Stadtlohn, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05554064,"Velen, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05558020,Havixbeck,same_public_presentation,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05562020,"Herten, Stadt",same_public_presentation,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05566004,Altenberge,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05566032,Ladbergen,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05566072,Recke,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05570008,"Beckum, Stadt",same_public_presentation,,1,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,True,True,False,False,False,False,False
+05570032,Ostbevern,same_public_presentation,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05570040,"Sendenhorst, Stadt",mixed_public_presentation,true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05754016,"Harsewinkel, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05754020,Herzebrock-Clarholz,same_public_presentation,,3,3,0,3,0,0,0,0,0,1,1,0,1,0,0,0,0,0,True,True,False,False,False,False,False
+05754052,"Werther (Westf.), Stadt",unresolved,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05758004,"Bünde, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05758008,"Enger, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05758028,Rödinghausen,unresolved,,18,18,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05762020,"Höxter, Stadt",unresolved,,22,15,7,22,0,0,0,0,0,6,6,0,6,0,0,0,0,0,True,True,False,False,False,False,False
+05766004,Augustdorf,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05766024,Dörentrup,unresolved,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,False,False,False,False,False,False,False
+05766032,"Horn-Bad Meinberg, Stadt",same_public_presentation,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05770012,Hille,unresolved,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05774012,Borchen,unresolved,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,2,False,False,False,False,False,False,False
+05954024,"Schwelm, Stadt",unresolved,,1,0,1,1,0,0,0,0,0,20,20,0,20,0,0,0,0,0,True,False,False,False,False,False,False
+05962024,"Iserlohn, Stadt",mixed_public_presentation,false,6,6,0,6,0,0,0,0,12,12,12,0,12,0,0,0,0,2,True,True,False,False,False,False,False
+05962032,"Lüdenscheid, Stadt",same_public_presentation,,6,5,1,6,0,0,0,0,5,19,19,0,19,0,0,0,1,1,True,True,False,False,False,False,False
+05962060,"Werdohl, Stadt",mixed_public_presentation,false,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,False,False,False,False,False,False,False
+05970032,"Netphen, Stadt",unresolved,,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,3,False,False,False,False,False,False,False
+05970044,Wilnsdorf,mixed_public_presentation,false,1,1,0,1,0,0,0,0,1,4,4,0,4,0,0,0,0,1,True,True,False,False,False,False,False
+05978024,"Lünen, Stadt",unresolved,,3,3,0,3,0,0,0,0,1,5,5,0,5,0,0,0,0,3,True,True,False,False,False,False,False
+05978036,"Unna, Stadt",mixed_public_presentation,false,10,10,0,10,0,0,0,0,0,9,8,1,9,1,1,0,0,0,True,True,False,False,False,False,False
+05124000,Wuppertal,unresolved,,3,3,0,3,0,0,0,0,2,7,7,0,7,0,0,0,0,0,True,True,False,False,False,False,False
+05515000,Münster,unresolved,,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+05913000,Dortmund,unresolved,,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,False,False,False,False,False,False,False

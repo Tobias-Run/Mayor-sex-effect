@@ -1,0 +1,28 @@
+{
+  "public_input_pins": [
+    {
+      "artifact": "docs/feasibility/measurable-progress-plan-2026-10-14.md",
+      "sha256": "126098f68887e13845f8016fe8cb9ef4376f2dcfacbddbe7ede5282d0d825ab1"
+    },
+    {
+      "artifact": "docs/feasibility/creative-procedure-choice-assignment-opportunities.csv",
+      "sha256": "ade420954ad4fdc00e19d5e69213ed936d1e9e6cb5f163861d7aa1d44d6dfbc5"
+    },
+    {
+      "artifact": "docs/feasibility/creative-historical-source-manifest.json",
+      "sha256": "c7c57aea2e2809b6cf5fb04275a9904237ae37a604a8a11cc4af91b02f63583d"
+    },
+    {
+      "artifact": "docs/feasibility/outcome-population-codebook.md",
+      "sha256": "f260754b321f159574a18315af76e0be410cefb7249d33949a9ab739ec18855e"
+    },
+    {
+      "artifact": "docs/feasibility/eligibility-scoreboard-events.csv",
+      "sha256": "b0399d50f0f88961d1c9d5766e65044d185601b762e46729a09bb1e1b6c3930a"
+    }
+  ],
+  "private_complete_before_inspection_pin_sha256": "7a997999f854f62643515e997bb07fa32805faafbb721ead7a43a0d8f927f8c9",
+  "private_original_queue_sha256": "b2e8871120592ae70b6f6624f1e1bdae083d8702c28570484c93cf5c449ab5b7",
+  "originals_and_process_records_uploaded": false,
+  "complete_offline_replay_requires_private_pinned_sources": true
+}
