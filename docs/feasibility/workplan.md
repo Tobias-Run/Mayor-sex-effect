@@ -152,3 +152,7 @@ The [P4 audit](exposure-and-independent-review-p4.md) verifies the unchanged thi
 ## 16 October 2026 — Feasibility synthesis prepared
 
 The [v0.2 manuscript and PDF](../../manuscript/feasibility-2026-10-16/README.md) consolidate P1–P5 with public-only reproducible tables. P5 is complete: no main-study launch under current protocols. Next deliverables are substantive review, independent coding when a reviewer is available, disagreement accounting and an explicit completed-report decision. The draft and an internally consistent build do not substitute for those reviews. No further unbounded individual-case retrieval; causal reopening follows P5's complete-cohort, outcome, review and precision gates. Pages remains deferred.
+
+## 16 October 2026 — Prioritized autonomous follow-up completed
+
+Read the [claim review](manuscript-v02-claim-review-2026-10-16.md), [Hesse access audit](hesse-replication-audit-2026-10-16.md), [selection/attrition audit](selection-and-attrition-2026-10-16.md) and [review/completion handoff](research-review-handoff-2026-10-16.md). The follow-up adds source-specific access knowledge and descriptive diagnostics, not certified elections. Public-only manuscript and selection reproduction is checked from a fresh clone. The read-only GitHub workflow adds automated checks without deploying Pages. Next external dependencies remain independent coding and substantive review; archive payload inspection is conditional on authorized access and a readable license. No new unbounded source retrieval is queued.

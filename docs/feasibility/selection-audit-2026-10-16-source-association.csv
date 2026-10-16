@@ -1,0 +1,43 @@
+cohort,source_evidence_field,has_source_evidence,events,both_presentations_supported,both_support_fraction,zero_records_imply_zero_procurement
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,metadata_call_notice_versions,False,84,15,0.17857142857142858,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,metadata_call_notice_versions,True,92,23,0.25,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,original_supported_procedures,False,137,25,0.18248175182481752,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,original_supported_procedures,True,39,13,0.3333333333333333,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,original_supported_tender_statistics,False,154,28,0.18181818181818182,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,original_supported_tender_statistics,True,22,10,0.45454545454545453,False
+Brandenburg 2024,metadata_call_notice_versions,False,1,0,0.0,False
+Brandenburg 2024,metadata_call_notice_versions,True,4,1,0.25,False
+Brandenburg 2024,original_supported_procedures,False,3,0,0.0,False
+Brandenburg 2024,original_supported_procedures,True,2,1,0.5,False
+Brandenburg 2024,original_supported_tender_statistics,False,4,1,0.25,False
+Brandenburg 2024,original_supported_tender_statistics,True,1,0,0.0,False
+Brandenburg 2025,metadata_call_notice_versions,False,4,1,0.25,False
+Brandenburg 2025,metadata_call_notice_versions,True,4,0,0.0,False
+Brandenburg 2025,original_supported_procedures,False,7,1,0.14285714285714285,False
+Brandenburg 2025,original_supported_procedures,True,1,0,0.0,False
+Brandenburg 2025,original_supported_tender_statistics,False,7,1,0.14285714285714285,False
+Brandenburg 2025,original_supported_tender_statistics,True,1,0,0.0,False
+NRW 2020,metadata_call_notice_versions,False,28,10,0.35714285714285715,False
+NRW 2020,metadata_call_notice_versions,True,27,9,0.3333333333333333,False
+NRW 2020,original_supported_procedures,False,47,17,0.3617021276595745,False
+NRW 2020,original_supported_procedures,True,8,2,0.25,False
+NRW 2020,original_supported_tender_statistics,False,51,17,0.3333333333333333,False
+NRW 2020,original_supported_tender_statistics,True,4,2,0.5,False
+NRW 2025,metadata_call_notice_versions,False,33,4,0.12121212121212122,False
+NRW 2025,metadata_call_notice_versions,True,32,10,0.3125,False
+NRW 2025,original_supported_procedures,False,42,5,0.11904761904761904,False
+NRW 2025,original_supported_procedures,True,23,9,0.391304347826087,False
+NRW 2025,original_supported_tender_statistics,False,52,7,0.1346153846153846,False
+NRW 2025,original_supported_tender_statistics,True,13,7,0.5384615384615384,False
+Niedersachsen 2021,metadata_call_notice_versions,False,15,0,0.0,False
+Niedersachsen 2021,metadata_call_notice_versions,True,21,1,0.047619047619047616,False
+Niedersachsen 2021,original_supported_procedures,False,31,0,0.0,False
+Niedersachsen 2021,original_supported_procedures,True,5,1,0.2,False
+Niedersachsen 2021,original_supported_tender_statistics,False,33,0,0.0,False
+Niedersachsen 2021,original_supported_tender_statistics,True,3,1,0.3333333333333333,False
+Saxony 2022 plurality,metadata_call_notice_versions,False,3,0,0.0,False
+Saxony 2022 plurality,metadata_call_notice_versions,True,4,2,0.5,False
+Saxony 2022 plurality,original_supported_procedures,False,7,2,0.2857142857142857,False
+Saxony 2022 plurality,original_supported_procedures,True,0,0,,False
+Saxony 2022 plurality,original_supported_tender_statistics,False,7,2,0.2857142857142857,False
+Saxony 2022 plurality,original_supported_tender_statistics,True,0,0,,False

@@ -1,5 +1,7 @@
 # Manuscript and report reproduction
 
+**Companion checks, 16 October 2026:** [internal claim review](../docs/feasibility/manuscript-v02-claim-review-2026-10-16.md), [Hesse replication access audit](../docs/feasibility/hesse-replication-audit-2026-10-16.md), [selection diagnostics](../docs/feasibility/selection-and-attrition-2026-10-16.md), and [review/completion handoff](../docs/feasibility/research-review-handoff-2026-10-16.md). Published manuscript artifacts remain unchanged.
+
 **Current synthesis, 16 October 2026:** [v0.2 manuscript](feasibility-2026-10-16/manuscript.md) · [PDF](feasibility-2026-10-16/manuscript.pdf) · [public-input reproduction and review status](feasibility-2026-10-16/README.md). This separately dated review draft incorporates P1–P5 through 15 October. The v0.1 artifacts and build below remain frozen. Independent coding and substantive review are incomplete.
 
 **Version 0.1, 9 October 2026 — draft for review. Evidence frozen on 5 October 2026.** Read the [English report](feasibility-report.md) or [PDF](feasibility-report.pdf): *Can German Municipal Data Support a Female-Mayor Procurement Study? A Bounded Feasibility Audit in NRW and Bavaria.* It prominently attributes the Italian adaptation to Florio and Spagnolo (2026), cites the German precedents and preserves their edition/access limits.

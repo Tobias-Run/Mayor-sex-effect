@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-16",
+  "evidence_commit": "aa66b1520891ee4e0ce81735a5328e7adfd0d996",
+  "procurement_cutoff": "2026-09-30",
+  "inputs": [
+    {
+      "artifact": "docs/feasibility/eligibility-scoreboard-events.csv",
+      "bytes": 135748,
+      "sha256": "b0399d50f0f88961d1c9d5766e65044d185601b762e46729a09bb1e1b6c3930a"
+    },
+    {
+      "artifact": "docs/feasibility/readiness-exposure-audit.csv",
+      "bytes": 2431,
+      "sha256": "56d16104e0e159786ffa53ff08f881ca8a9f86739d3add15183bff15581049f2"
+    },
+    {
+      "artifact": "docs/feasibility/readiness-p4-p5-summary.json",
+      "bytes": 1671,
+      "sha256": "1043f1db87fa52f162c6f0660736466690859fc3f64011ce4811a65b06d9f680"
+    },
+    {
+      "artifact": "docs/feasibility/readiness-conditional-ceilings.csv",
+      "bytes": 9700,
+      "sha256": "3f670504a3336735c517f4986751d58097a2107b170986d747aef9c737d09334"
+    },
+    {
+      "artifact": "docs/feasibility/readiness-design-support.csv",
+      "bytes": 1874,
+      "sha256": "e3e34e8f07b6827a42e4347111f1c3812938bc00ad49152a1f46fd44f33bf287"
+    },
+    {
+      "artifact": "docs/feasibility/readiness-gaussian-benchmarks.csv",
+      "bytes": 503,
+      "sha256": "fc70773fc103928646cfa03f73f5de24cebd5d7304874ef0c78e654f3caf5514"
+    },
+    {
+      "artifact": "docs/feasibility/procedure-choice-calibration-summary.json",
+      "bytes": 2321,
+      "sha256": "f2f707279aa6ac60b33efca0d3cbc573da8bd31ad42283579b147a33d4c57798"
+    },
+    {
+      "artifact": "docs/feasibility/measurable-progress-p1-p2-summary.json",
+      "bytes": 1357,
+      "sha256": "845016f345ccbf058dbd1c313346871730114e0a78c8ceca6ff237e3e4da6d83"
+    },
+    {
+      "artifact": "docs/feasibility/literature-design-crosswalk.md",
+      "bytes": 17296,
+      "sha256": "104dd1c72f176f262add8d91092edb3b88b7de93ab44d4e23b43fa2bc224b18d"
+    },
+    {
+      "artifact": "docs/feasibility/national-procurement-open-data.md",
+      "bytes": 13645,
+      "sha256": "58bdab568050115ab0f5bc7f26bf9a4d52d120d20aa350090c32cad3e258f455"
+    },
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/manuscript.md",
+      "bytes": 19137,
+      "sha256": "1b9bfa7d41181bff1edbd462eb9ae56884d6ed5c27c9416285f736a2963dd186"
+    },
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/inputs.json",
+      "bytes": 2600,
+      "sha256": "a6692111b77b3d9d1cadeb555da8b9ee4fc0f9e5a0743b5be9551f6bcca9bcc0"
+    },
+    {
+      "artifact": "docs/feasibility/measurable-progress-p1-p2-checkpoint.md",
+      "bytes": 10628,
+      "sha256": "60da69b97030a40944dfdd406274a53d9f22c822b15246e91c6decc1552da3ed"
+    },
+    {
+      "artifact": "docs/feasibility/procedure-choice-calibration-decision.md",
+      "bytes": 9654,
+      "sha256": "67c63d8d6d97dd4b570827b08d76032e03eef74615847dfb5893b303f94e1879"
+    },
+    {
+      "artifact": "docs/feasibility/exposure-and-independent-review-p4.md",
+      "bytes": 6954,
+      "sha256": "bf55d1b4869419472ff91327fd972469938bf606be92eaa5733d30454b620c03"
+    },
+    {
+      "artifact": "docs/feasibility/precision-and-route-decision-p5.md",
+      "bytes": 8466,
+      "sha256": "3aa4f9000ca584e5cdcd7c560a812f80a56b5daf366f28620a493401e67faddb"
+    }
+  ]
+}

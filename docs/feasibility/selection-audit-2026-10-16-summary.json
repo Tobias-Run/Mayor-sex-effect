@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-16",
+  "events": 176,
+  "municipalities": 159,
+  "repeated_municipalities": 17,
+  "aggregate_roles": {
+    "cohort": "ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS",
+    "nested_abs_gap_pp": 10,
+    "events": 176,
+    "winner_supported": 52,
+    "loser_supported": 39,
+    "both_supported": 38,
+    "winner_only": 14,
+    "loser_only": 1,
+    "neither_supported": 123,
+    "winner_support_fraction": 0.29545454545454547,
+    "loser_support_fraction": 0.2215909090909091,
+    "winner_minus_loser_pp": 7.386363636363637
+  },
+  "all_frame_stage_counts": {
+    "frame": 176,
+    "both_presentations": 38,
+    "mixed_first_coder": 19,
+    "mixed_with_original_call": 9,
+    "mixed_with_count_statistic": 6,
+    "mixed_with_reference_window": 4,
+    "certified_main_study": 0
+  },
+  "cohort_pooling_adopted": false,
+  "selection_correction_estimated": false,
+  "incumbency_or_population_selection_tested": false,
+  "outcomes_or_treatment_effects_estimated": false,
+  "independent_review_completed": false,
+  "scope": "Fixed acquired bookkeeping events; not a probability sample or population attrition estimate"
+}

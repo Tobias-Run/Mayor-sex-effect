@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-16",
+  "local_test_suite": {
+    "run": 248,
+    "passed": 248,
+    "skipped": 0
+  },
+  "fresh_public_clone_suite": {
+    "run": 248,
+    "passed": 247,
+    "skipped": 1,
+    "skip_reason": "Private source packet not distributed"
+  },
+  "isolated_public_outputs_byte_identical": [
+    "docs/feasibility/selection-audit-2026-10-16-summary.json",
+    "docs/feasibility/selection-audit-2026-10-16-source-association.csv",
+    "docs/feasibility/selection-audit-2026-10-16-flow.csv",
+    "docs/feasibility/selection-audit-2026-10-16-roles.csv",
+    "manuscript/feasibility-2026-10-16/manuscript.md",
+    "manuscript/feasibility-2026-10-16/facts.json"
+  ],
+  "published_checkpoint_pin_entries_verified": 64,
+  "unique_published_artifacts_verified": 50,
+  "central_claims_reviewed": 28,
+  "primary_hesse_paper_hash_verified": true,
+  "independent_review_completed": false,
+  "substantive_external_review_completed": false,
+  "private_data_uploaded": false,
+  "pages_deployed": false,
+  "generated_output_pins": [
+    {
+      "artifact": "docs/feasibility/selection-audit-2026-10-16-summary.json",
+      "sha256": "7695d43c875938148c246948b6d026a115946871448e831a4a7f3ab57bc32694"
+    },
+    {
+      "artifact": "docs/feasibility/selection-audit-2026-10-16-source-association.csv",
+      "sha256": "66afb34bfdfa9c79f82e0e71b160044759ce9cc7282a21d4d8c7f5deed481505"
+    },
+    {
+      "artifact": "docs/feasibility/selection-audit-2026-10-16-flow.csv",
+      "sha256": "959d76266962dfd2ec693fb93ffcf698a054c8cf2b048d67f39b4ee682ba6b92"
+    },
+    {
+      "artifact": "docs/feasibility/selection-audit-2026-10-16-roles.csv",
+      "sha256": "74a1601f50780149642eb82d6be74d8d46bdf535f52c65caad0780fe5de74ec2"
+    },
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/manuscript.md",
+      "sha256": "1b9bfa7d41181bff1edbd462eb9ae56884d6ed5c27c9416285f736a2963dd186"
+    },
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/facts.json",
+      "sha256": "30a5447a8db136f9b9ccb9219882ff8bf0d6e6133b5130f0acbbbe32a9e82fce"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+cohort,nested_abs_gap_pp,stage,events_retained,previous_stage_events,events_not_progressing,fraction_of_band_frame,independent_probability_sample
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,frame,39,39,0,1.0,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,both_presentations,24,39,15,0.6153846153846154,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,mixed_first_coder,7,24,17,0.1794871794871795,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,mixed_with_original_call,3,7,4,0.07692307692307693,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,mixed_with_count_statistic,2,3,1,0.05128205128205128,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,mixed_with_reference_window,2,2,0,0.05128205128205128,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,2,certified_main_study,0,2,2,0.0,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,frame,93,93,0,1.0,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,both_presentations,32,93,61,0.34408602150537637,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,mixed_first_coder,14,32,18,0.15053763440860216,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,mixed_with_original_call,8,14,6,0.08602150537634409,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,mixed_with_count_statistic,5,8,3,0.053763440860215055,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,mixed_with_reference_window,4,5,1,0.043010752688172046,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,5,certified_main_study,0,4,4,0.0,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,frame,176,176,0,1.0,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,both_presentations,38,176,138,0.2159090909090909,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,mixed_first_coder,19,38,19,0.10795454545454546,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,mixed_with_original_call,9,19,10,0.05113636363636364,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,mixed_with_count_statistic,6,9,3,0.03409090909090909,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,mixed_with_reference_window,4,6,2,0.022727272727272728,False
+ALL_BOOKKEEPING_NOT_POOLED_ANALYSIS,10,certified_main_study,0,4,4,0.0,False
+Brandenburg 2024,2,frame,1,1,0,1.0,False
+Brandenburg 2024,2,both_presentations,0,1,1,0.0,False
+Brandenburg 2024,2,mixed_first_coder,0,0,0,0.0,False
+Brandenburg 2024,2,mixed_with_original_call,0,0,0,0.0,False
+Brandenburg 2024,2,mixed_with_count_statistic,0,0,0,0.0,False
+Brandenburg 2024,2,mixed_with_reference_window,0,0,0,0.0,False
+Brandenburg 2024,2,certified_main_study,0,0,0,0.0,False
+Brandenburg 2024,5,frame,5,5,0,1.0,False
+Brandenburg 2024,5,both_presentations,1,5,4,0.2,False
+Brandenburg 2024,5,mixed_first_coder,1,1,0,0.2,False
+Brandenburg 2024,5,mixed_with_original_call,1,1,0,0.2,False
+Brandenburg 2024,5,mixed_with_count_statistic,0,1,1,0.0,False
+Brandenburg 2024,5,mixed_with_reference_window,0,0,0,0.0,False
+Brandenburg 2024,5,certified_main_study,0,0,0,0.0,False
+Brandenburg 2024,10,frame,5,5,0,1.0,False
+Brandenburg 2024,10,both_presentations,1,5,4,0.2,False
+Brandenburg 2024,10,mixed_first_coder,1,1,0,0.2,False
+Brandenburg 2024,10,mixed_with_original_call,1,1,0,0.2,False
+Brandenburg 2024,10,mixed_with_count_statistic,0,1,1,0.0,False
+Brandenburg 2024,10,mixed_with_reference_window,0,0,0,0.0,False
+Brandenburg 2024,10,certified_main_study,0,0,0,0.0,False
+Brandenburg 2025,2,frame,2,2,0,1.0,False
+Brandenburg 2025,2,both_presentations,0,2,2,0.0,False
+Brandenburg 2025,2,mixed_first_coder,0,0,0,0.0,False
+Brandenburg 2025,2,mixed_with_original_call,0,0,0,0.0,False
+Brandenburg 2025,2,mixed_with_count_statistic,0,0,0,0.0,False
+Brandenburg 2025,2,mixed_with_reference_window,0,0,0,0.0,False
+Brandenburg 2025,2,certified_main_study,0,0,0,0.0,False
+Brandenburg 2025,5,frame,5,5,0,1.0,False
+Brandenburg 2025,5,both_presentations,1,5,4,0.2,False
+Brandenburg 2025,5,mixed_first_coder,1,1,0,0.2,False
+Brandenburg 2025,5,mixed_with_original_call,0,1,1,0.0,False
+Brandenburg 2025,5,mixed_with_count_statistic,0,0,0,0.0,False
+Brandenburg 2025,5,mixed_with_reference_window,0,0,0,0.0,False
+Brandenburg 2025,5,certified_main_study,0,0,0,0.0,False
+Brandenburg 2025,10,frame,8,8,0,1.0,False
+Brandenburg 2025,10,both_presentations,1,8,7,0.125,False
+Brandenburg 2025,10,mixed_first_coder,1,1,0,0.125,False
+Brandenburg 2025,10,mixed_with_original_call,0,1,1,0.0,False
+Brandenburg 2025,10,mixed_with_count_statistic,0,0,0,0.0,False
+Brandenburg 2025,10,mixed_with_reference_window,0,0,0,0.0,False
+Brandenburg 2025,10,certified_main_study,0,0,0,0.0,False
+NRW 2020,2,frame,15,15,0,1.0,False
+NRW 2020,2,both_presentations,13,15,2,0.8666666666666667,False
+NRW 2020,2,mixed_first_coder,4,13,9,0.26666666666666666,False
+NRW 2020,2,mixed_with_original_call,0,4,4,0.0,False
+NRW 2020,2,mixed_with_count_statistic,0,0,0,0.0,False
+NRW 2020,2,mixed_with_reference_window,0,0,0,0.0,False
+NRW 2020,2,certified_main_study,0,0,0,0.0,False
+NRW 2020,5,frame,34,34,0,1.0,False
+NRW 2020,5,both_presentations,16,34,18,0.47058823529411764,False
+NRW 2020,5,mixed_first_coder,6,16,10,0.17647058823529413,False
+NRW 2020,5,mixed_with_original_call,1,6,5,0.029411764705882353,False
+NRW 2020,5,mixed_with_count_statistic,1,1,0,0.029411764705882353,False
+NRW 2020,5,mixed_with_reference_window,0,1,1,0.0,False
+NRW 2020,5,certified_main_study,0,0,0,0.0,False
+NRW 2020,10,frame,55,55,0,1.0,False
+NRW 2020,10,both_presentations,19,55,36,0.34545454545454546,False
+NRW 2020,10,mixed_first_coder,8,19,11,0.14545454545454545,False
+NRW 2020,10,mixed_with_original_call,1,8,7,0.01818181818181818,False
+NRW 2020,10,mixed_with_count_statistic,1,1,0,0.01818181818181818,False
+NRW 2020,10,mixed_with_reference_window,0,1,1,0.0,False
+NRW 2020,10,certified_main_study,0,0,0,0.0,False
+NRW 2025,2,frame,14,14,0,1.0,False
+NRW 2025,2,both_presentations,11,14,3,0.7857142857142857,False
+NRW 2025,2,mixed_first_coder,3,11,8,0.21428571428571427,False
+NRW 2025,2,mixed_with_original_call,3,3,0,0.21428571428571427,False
+NRW 2025,2,mixed_with_count_statistic,2,3,1,0.14285714285714285,False
+NRW 2025,2,mixed_with_reference_window,2,2,0,0.14285714285714285,False
+NRW 2025,2,certified_main_study,0,2,2,0.0,False
+NRW 2025,5,frame,30,30,0,1.0,False
+NRW 2025,5,both_presentations,14,30,16,0.4666666666666667,False
+NRW 2025,5,mixed_first_coder,6,14,8,0.2,False
+NRW 2025,5,mixed_with_original_call,6,6,0,0.2,False
+NRW 2025,5,mixed_with_count_statistic,4,6,2,0.13333333333333333,False
+NRW 2025,5,mixed_with_reference_window,4,4,0,0.13333333333333333,False
+NRW 2025,5,certified_main_study,0,4,4,0.0,False
+NRW 2025,10,frame,65,65,0,1.0,False
+NRW 2025,10,both_presentations,14,65,51,0.2153846153846154,False
+NRW 2025,10,mixed_first_coder,6,14,8,0.09230769230769231,False
+NRW 2025,10,mixed_with_original_call,6,6,0,0.09230769230769231,False
+NRW 2025,10,mixed_with_count_statistic,4,6,2,0.06153846153846154,False
+NRW 2025,10,mixed_with_reference_window,4,4,0,0.06153846153846154,False
+NRW 2025,10,certified_main_study,0,4,4,0.0,False
+Niedersachsen 2021,2,frame,7,7,0,1.0,False
+Niedersachsen 2021,2,both_presentations,0,7,7,0.0,False
+Niedersachsen 2021,2,mixed_first_coder,0,0,0,0.0,False
+Niedersachsen 2021,2,mixed_with_original_call,0,0,0,0.0,False
+Niedersachsen 2021,2,mixed_with_count_statistic,0,0,0,0.0,False
+Niedersachsen 2021,2,mixed_with_reference_window,0,0,0,0.0,False
+Niedersachsen 2021,2,certified_main_study,0,0,0,0.0,False
+Niedersachsen 2021,5,frame,18,18,0,1.0,False
+Niedersachsen 2021,5,both_presentations,0,18,18,0.0,False
+Niedersachsen 2021,5,mixed_first_coder,0,0,0,0.0,False
+Niedersachsen 2021,5,mixed_with_original_call,0,0,0,0.0,False
+Niedersachsen 2021,5,mixed_with_count_statistic,0,0,0,0.0,False
+Niedersachsen 2021,5,mixed_with_reference_window,0,0,0,0.0,False
+Niedersachsen 2021,5,certified_main_study,0,0,0,0.0,False
+Niedersachsen 2021,10,frame,36,36,0,1.0,False
+Niedersachsen 2021,10,both_presentations,1,36,35,0.027777777777777776,False
+Niedersachsen 2021,10,mixed_first_coder,1,1,0,0.027777777777777776,False
+Niedersachsen 2021,10,mixed_with_original_call,1,1,0,0.027777777777777776,False
+Niedersachsen 2021,10,mixed_with_count_statistic,1,1,0,0.027777777777777776,False
+Niedersachsen 2021,10,mixed_with_reference_window,0,1,1,0.0,False
+Niedersachsen 2021,10,certified_main_study,0,0,0,0.0,False
+Saxony 2022 plurality,2,frame,0,0,0,,False
+Saxony 2022 plurality,2,both_presentations,0,0,0,,False
+Saxony 2022 plurality,2,mixed_first_coder,0,0,0,,False
+Saxony 2022 plurality,2,mixed_with_original_call,0,0,0,,False
+Saxony 2022 plurality,2,mixed_with_count_statistic,0,0,0,,False
+Saxony 2022 plurality,2,mixed_with_reference_window,0,0,0,,False
+Saxony 2022 plurality,2,certified_main_study,0,0,0,,False
+Saxony 2022 plurality,5,frame,1,1,0,1.0,False
+Saxony 2022 plurality,5,both_presentations,0,1,1,0.0,False
+Saxony 2022 plurality,5,mixed_first_coder,0,0,0,0.0,False
+Saxony 2022 plurality,5,mixed_with_original_call,0,0,0,0.0,False
+Saxony 2022 plurality,5,mixed_with_count_statistic,0,0,0,0.0,False
+Saxony 2022 plurality,5,mixed_with_reference_window,0,0,0,0.0,False
+Saxony 2022 plurality,5,certified_main_study,0,0,0,0.0,False
+Saxony 2022 plurality,10,frame,7,7,0,1.0,False
+Saxony 2022 plurality,10,both_presentations,2,7,5,0.2857142857142857,False
+Saxony 2022 plurality,10,mixed_first_coder,2,2,0,0.2857142857142857,False
+Saxony 2022 plurality,10,mixed_with_original_call,0,2,2,0.0,False
+Saxony 2022 plurality,10,mixed_with_count_statistic,0,0,0,0.0,False
+Saxony 2022 plurality,10,mixed_with_reference_window,0,0,0,0.0,False
+Saxony 2022 plurality,10,certified_main_study,0,0,0,0.0,False

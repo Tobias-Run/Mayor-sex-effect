@@ -1,0 +1,35 @@
+name: Public research checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  public-reproduction:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: analysis/requirements-feasibility.txt
+      - name: Install numerical benchmark dependencies
+        run: python -m pip install -r analysis/requirements-feasibility.txt
+      - name: Verify frozen public evidence and report hashes
+        run: python src/report/verify_public_checkpoints.py
+      - name: Rebuild public manuscript accounting and selection diagnostics
+        run: |
+          python src/report/build_feasibility_update.py
+          python src/report/audit_feasibility_selection.py
+          git diff --exit-code -- manuscript/feasibility-2026-10-16/manuscript.md manuscript/feasibility-2026-10-16/facts.json docs/feasibility/selection-audit-2026-10-16-*.csv docs/feasibility/selection-audit-2026-10-16-summary.json
+      - name: Run offline tests
+        run: python -m unittest discover -s tests -v
