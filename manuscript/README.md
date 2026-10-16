@@ -1,5 +1,7 @@
 # Manuscript and report reproduction
 
+**Current synthesis, 16 October 2026:** [v0.2 manuscript](feasibility-2026-10-16/manuscript.md) · [PDF](feasibility-2026-10-16/manuscript.pdf) · [public-input reproduction and review status](feasibility-2026-10-16/README.md). This separately dated review draft incorporates P1–P5 through 15 October. The v0.1 artifacts and build below remain frozen. Independent coding and substantive review are incomplete.
+
 **Version 0.1, 9 October 2026 — draft for review. Evidence frozen on 5 October 2026.** Read the [English report](feasibility-report.md) or [PDF](feasibility-report.pdf): *Can German Municipal Data Support a Female-Mayor Procurement Study? A Bounded Feasibility Audit in NRW and Bavaria.* It prominently attributes the Italian adaptation to Florio and Spagnolo (2026), cites the German precedents and preserves their edition/access limits.
 
 **10 October checkpoint:** the [internal claim/interpretation review](report-quality-review-2026-10-10.md) finds no blocking inconsistency in the inspected frozen artifacts. A portable local reviewer handoff contains 28 cases, 56 blank forms and 96 hash-verified originals, without the first-coder key. The report's ten output hashes remain unchanged. This is preparation and first-coder quality control, not independent review; the current combined suite has 160 passing tests without skips.

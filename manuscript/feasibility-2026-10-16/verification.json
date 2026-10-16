@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-16",
+  "status": "review_draft_not_independently_validated",
+  "tests": {
+    "command": "python -m unittest discover -s tests",
+    "passed": 242,
+    "failed": 0,
+    "skipped": 0
+  },
+  "public_only_rebuild": "Byte-identical Markdown and facts verified in isolated temporary directory by test_public_only_rebuild_is_identical",
+  "public_inputs_verified": 13,
+  "frozen_v01_pins_verified": 32,
+  "pdf": {
+    "pages": 6,
+    "text_extraction_checked": true,
+    "tables_visually_inspected_pages": [
+      3,
+      4
+    ],
+    "other_pages_visually_inspected": false,
+    "cross_platform_byte_identity_claimed": false
+  },
+  "software": {
+    "python": "3.12.14",
+    "pandoc": "pandoc 3.1.11.1",
+    "xelatex": "XeTeX 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian)"
+  },
+  "outputs": [
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/manuscript.md",
+      "bytes": 19137,
+      "sha256": "1b9bfa7d41181bff1edbd462eb9ae56884d6ed5c27c9416285f736a2963dd186"
+    },
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/facts.json",
+      "bytes": 143,
+      "sha256": "30a5447a8db136f9b9ccb9219882ff8bf0d6e6133b5130f0acbbbe32a9e82fce"
+    },
+    {
+      "artifact": "manuscript/feasibility-2026-10-16/manuscript.pdf",
+      "bytes": 77093,
+      "sha256": "b187e914606d72f1b993125795982c39c3e63153592052969c86cd18b491dc88"
+    }
+  ],
+  "independent_coding_completed": false,
+  "substantive_review_completed": false,
+  "pages_deployed": false,
+  "private_sources_uploaded": false
+}
